@@ -53,7 +53,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-VNHZB48D",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -96,7 +96,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-S91YWLSX",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -140,7 +140,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-7M1X64BM",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -180,7 +180,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-JINHFHYN",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -221,7 +221,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-4R4PLCHM",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -263,7 +263,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-CALDO3XH",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -305,7 +305,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-MWGRGZKG",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -345,7 +345,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-2KVTXUFV",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -388,7 +388,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-020LFBMH",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -410,7 +410,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-BSFK2T1X",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -447,7 +447,7 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-9B7NNCI0",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   },
   {
@@ -505,7 +505,1625 @@
       "id": "prompt-bible",
       "label": "Prompt Bible",
       "originalId": "ENT-UFA9K2FD",
-      "importedAt": "2026-10-27T13:21:55.111Z"
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-3OP7EE5P",
+    "title": "Hacker glitch photo",
+    "prompt": "Precision-captured DSLR ultra detailed photo of a mysterious black hooded hacker… glitchy cascading binary code, neon blue background",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Mystérieux",
+      "cyberpunk",
+      "Contemporain"
+    ],
+    "orientation": "portrait",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-M45VTYNL",
+        "prompt": "Ultra detailed cyberpunk hacker with falling code",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Photographie numérique",
+      "Technique": "DSLR ultra détaillée, FX glitch",
+      "Époque": "Contemporain",
+      "Ambiance": "Mystérieux, cyberpunk",
+      "Composition": "Portrait cadré serré",
+      "Sujet": "Hacker capuche, visage remplacé par code",
+      "Décor": "Bruit de fond numérique, néons bleus",
+      "Lumière et couleurs": "Lumière néon bleue",
+      "Format": "Format vertical"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-3OP7EE5P",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-W72BO96R",
+    "title": "Koala New Caledonia",
+    "prompt": "a koala in the Pine Island in New Caledonia, a realistic landscape with a fishing boat. Create a realistic illustration of a koala in Pine Island, New Caledonia, with a fishing boat in the background.",
+    "status": "to-test",
+    "categories": [
+      "Illustration / dessin",
+      "Scène / paysage"
+    ],
+    "tags": [
+      "Tranquille",
+      "naturaliste",
+      "Contemporain"
+    ],
+    "orientation": "landscape",
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-5H62KXYK",
+        "prompt": "Realistic koala in New Caledonia with fishing boat",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Illustration réaliste",
+      "Technique": "Nature réaliste",
+      "Époque": "Contemporain",
+      "Ambiance": "Tranquille, naturaliste",
+      "Composition": "Paysage réaliste, scène côtière",
+      "Sujet": "Koala, posé ou observant",
+      "Décor": "Pine Island, bateau, végétation",
+      "Lumière et couleurs": "Lumière naturelle, océan",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-W72BO96R",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-IMA6AZ0V",
+    "title": "Light rays dark room",
+    "prompt": "Rays of light are individually visible coming in from a small window into a beautiful dark room, cinematic, 3d render",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature"
+    ],
+    "tags": [
+      "Contemplatif",
+      "dramatique",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-2NFFGAFI",
+        "prompt": "Cinematic 3D dark room with visible light rays",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "3D cinematic render",
+      "Technique": "Rendu 3D réaliste",
+      "Époque": "Contemporain",
+      "Ambiance": "Contemplatif, dramatique",
+      "Composition": "Plan intérieur, lumière incidente",
+      "Sujet": "Absence de personnage ou silhouette",
+      "Décor": "Chambre sombre, petite fenêtre",
+      "Lumière et couleurs": "Rayons de lumière volumétriques",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-IMA6AZ0V",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-58WXRAUE",
+    "title": "Logo Proplottianiaa",
+    "prompt": "the logo for proplottianiaa, in the style of erol otus, pop culture mashup, edoardo tresoldi, emerald and aquamarine, ferrania p30, simplistic cartoon, architectural perspectives",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Logo / identité"
+    ],
+    "tags": [
+      "Abstrait",
+      "architectural",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-82DLNFMJ",
+        "prompt": "Logo Proplottianiaa, mashup, architectural, emerald",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Illustration logo artistique",
+      "Technique": "Mashup pop culture + Edoardo Tresoldi",
+      "Époque": "Contemporain",
+      "Ambiance": "Abstrait, architectural",
+      "Composition": "Composition logo stylisé",
+      "Sujet": "Formes architecturales stylisées",
+      "Décor": "Fond neutre, géométrique",
+      "Lumière et couleurs": "Émeraude, aquamarine, monochrome Ferrania P30",
+      "Format": "Format vectoriel"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-58WXRAUE",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-67LX9DUT",
+    "title": "Meditation universe",
+    "prompt": "Back view of a guy with short curly hair with jeans and a white t-shirt sitting cross legged and meditating in his living room in front of a mirror that contains the entire universe and is shining emanating rays of gold light., cinematic, photo, vibrant, poster",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Affiche / éditorial"
+    ],
+    "tags": [
+      "Spirituel",
+      "introspectif",
+      "Contemporain"
+    ],
+    "orientation": "portrait",
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-Y7D9WBWO",
+        "prompt": "Meditation cosmic mirror cinematic poster",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Photorealistic cinematic",
+      "Technique": "Cinematic photography",
+      "Époque": "Contemporain",
+      "Ambiance": "Spirituel, introspectif",
+      "Composition": "Plan dos, assis méditation",
+      "Sujet": "Homme méditant devant miroir",
+      "Décor": "Intérieur maison, univers dans miroir",
+      "Lumière et couleurs": "Lumière dorée divine",
+      "Format": "Poster vertical"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-67LX9DUT",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-S5RIU2VW",
+    "title": "Note photo portraits",
+    "prompt": "Pour des portraits, les notions de photographies sont intéressants. (medium shot, close-up)",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait"
+    ],
+    "tags": [
+      "Neutre"
+    ],
+    "language": "fr",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-4H1TXRXX",
+        "prompt": "Format libre",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Ambiance": "Neutre",
+      "Composition": "Note conceptuelle",
+      "Lumière et couleurs": "Neutre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-S5RIU2VW",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-W93374YA",
+    "title": "Origami animals reserve",
+    "prompt": "A nature reserve showing an elephant, zebra, and lion made of origami paper that have come to life",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature"
+    ],
+    "tags": [
+      "Magique",
+      "poétique",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-CG2FIY9L",
+        "prompt": "[INTENTION] create a magical, cinematic illustration of a nature reserve where the animals are made of folded origami paper and have come to life\n[VISUAL DESCRIPTION] wide view of an African-style nature reserve at golden hour, warm sunlight and long shadows, with three main animals in the foreground: a large origami elephant with visible folded paper layers, a striped origami zebra with crisp black-and-white paper, and a majestic origami lion with layered mane made of folded golden paper. Each animal looks alive, with expressive eyes and subtle facial expressions, but their bodies clearly show paper creases, edges and patterns. In the midground, hints of the reserve: a dirt path, a simple wooden fence, a small viewing platform and distant trees, soft hills and acacia silhouettes on the horizon, a few real birds flying in the sky.\n[MOVEMENT] the origami elephant slowly swings its trunk and lifts one paper foot as if walking, the zebra flicks its paper tail and turns its head, the lion’s paper mane ruffles in a gentle breeze, a few loose paper leaves tumble across the ground to emphasize motion.\n[TONE/STORY] whimsical and enchanting, as if a quiet nature reserve has suddenly filled with living paper guardians; the animals feel friendly, curious and protective of the land, suggesting a story where nature and creativity are magically connected.\n[TEXT/LAYOUT] no text on the scene, no signs with letters, clean composition with the three animals forming a loose triangle in the foreground, plenty of breathing space for the landscape around them.\n[REFINEMENT] highly detailed paper textures with visible fiber and subtle color gradients, soft realistic lighting with warm highlights and cooler shadows, balanced contrast, smooth depth-of-field to gently blur the far background, overall coherent color palette and polished, production-quality rendering.\n[OUTPUT] high-resolution illustration, 16:9 cinematic aspect ratio",
+        "language": "en",
+        "label": "Variante (libellé Gemini, non vérifié)",
+        "role": "variant"
+      },
+      {
+        "id": "TXT-13HGN82X",
+        "prompt": "Origami elephant, zebra, lion in nature reserve",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Papier origami, nature",
+      "Technique": "3D papier plié",
+      "Époque": "Contemporain",
+      "Ambiance": "Magique, poétique",
+      "Composition": "Scène animalière, perspective",
+      "Sujet": "Animaux origami vivants",
+      "Décor": "Réserve naturelle, herbes",
+      "Lumière et couleurs": "Palette pastel, papier plié",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-W93374YA",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-DKRYCU7F",
+    "title": "Red hair girl cinematic",
+    "prompt": "A beautiful girl with knee-length red hair, making the big split, full body, ultra-realistic, photo, fashion, cinematic",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Élégant",
+      "gracieux",
+      "Contemporain"
+    ],
+    "orientation": "portrait",
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-8ZF9JO6R",
+        "prompt": "Cinematic fashion photo, full body split",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Photo réaliste, mode",
+      "Technique": "Cinematic photography",
+      "Époque": "Contemporain",
+      "Ambiance": "Élégant, gracieux",
+      "Composition": "Full body pose, split",
+      "Sujet": "Fille réaliste, cheveux rouges",
+      "Décor": "Studio ou décor mode",
+      "Lumière et couleurs": "Lumière cinéma, contraste doux",
+      "Format": "Format vertical"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-DKRYCU7F",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-XZ4LHOFQ",
+    "title": "Sand grain macro",
+    "prompt": "sand grain in the desert macro picture Create a macro photograph of a sand grain in the desert.",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Contemplatif",
+      "texturé",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-FA8HABX1",
+        "prompt": "Macro photo of a single sand grain in desert",
+        "language": "en",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Macro photographie",
+      "Technique": "Macro DSLR",
+      "Époque": "Contemporain",
+      "Ambiance": "Contemplatif, texturé",
+      "Composition": "Gros plan extrême",
+      "Sujet": "Grain de sable isolé",
+      "Décor": "Sable, désert flou en arrière-plan",
+      "Lumière et couleurs": "Tons ocres, dorés",
+      "Format": "Format macro"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-XZ4LHOFQ",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-7QWSUV9U",
+    "title": "Simeone Peaky Blinder",
+    "prompt": "Diego Pablo Simeone as Peaky Blinder, atletico de madrid fans… dark, epic stadium, cinematic",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Affiche / éditorial"
+    ],
+    "tags": [
+      "Dramatique",
+      "badass",
+      "Contemporain"
+    ],
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-II062GZJ",
+        "prompt": "Simeone as Peaky Blinder stadium cinematic",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Illustration dramatique",
+      "Technique": "Poster cinématographique",
+      "Époque": "Contemporain",
+      "Ambiance": "Dramatique, badass",
+      "Composition": "Poster, plan cinématique",
+      "Sujet": "Simeone style Peaky Blinder",
+      "Décor": "Stade, foule, drapeau rouge",
+      "Lumière et couleurs": "Contraste sombre, rouge, noir",
+      "Format": "Poster format"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-7QWSUV9U",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-UOYO9H2B",
+    "title": "Skull flowers 3D",
+    "prompt": "A skull with flowers and trees, stain splashes, dark background, detailed trees and leaves, typography, conceptual art, poster, architecture, 3d render",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Affiche / éditorial"
+    ],
+    "tags": [
+      "Poétique",
+      "sombre",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-OYIOCBV7",
+        "prompt": "Skull floral conceptual 3D art",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Concept art, skull floral",
+      "Technique": "3D render, poster art",
+      "Époque": "Contemporain",
+      "Ambiance": "Poétique, sombre",
+      "Composition": "Poster conceptuel crâne végétal",
+      "Sujet": "Crâne, arbres, nature",
+      "Décor": "splash dark background",
+      "Lumière et couleurs": "Lumière dramatique",
+      "Format": "Format poster"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-UOYO9H2B",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-ZOO7PP0J",
+    "title": "Sunday beach poster",
+    "prompt": "Landscape poster… Sunday beach scene, sandcastles, Happy Sunday in sand sculpture",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Scène / paysage",
+      "Affiche / éditorial"
+    ],
+    "tags": [
+      "Chaleureux",
+      "relaxant",
+      "Contemporain"
+    ],
+    "orientation": "landscape",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-4RPX8C97",
+        "prompt": "Sunday beach scene Happy Sunday poster",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Illustration réaliste douce",
+      "Technique": "Poster paysage détente",
+      "Époque": "Contemporain",
+      "Ambiance": "Chaleureux, relaxant",
+      "Composition": "Scène bord de mer famille",
+      "Sujet": "Familles, amis, plage",
+      "Décor": "Plage, mer, sculptures sable",
+      "Lumière et couleurs": "Lumière douce été matin",
+      "Format": "Format paysage"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-ZOO7PP0J",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-04Y3MZTM",
+    "title": "Surreal lungs poster",
+    "prompt": "Create a surreal image of a tree with two trunks shaped like lungs… dreamlike mystery, poster",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Affiche / éditorial"
+    ],
+    "tags": [
+      "Onirique",
+      "mystérieux",
+      "Symbolique, poétique"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-R4EI0IVM",
+        "prompt": "Surreal lungs tree with figure digging, mystery",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Surrealism, conceptual",
+      "Technique": "Illustration poster",
+      "Époque": "Symbolique, poétique",
+      "Ambiance": "Onirique, mystérieux",
+      "Composition": "Composition centrale, silhouette",
+      "Sujet": "Personne creusant, arbre-poumon",
+      "Décor": "Ciel sombre, sol, décor étrange",
+      "Lumière et couleurs": "Sépia, tons sombres",
+      "Format": "Format poster"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-04Y3MZTM",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-TYJOXKTY",
+    "title": "Surreal lungs tree",
+    "prompt": "Create a surreal poster illustration of a tree with two trunks shaped like lungs, a person digging at the base, and a dark sky in the background. Sepia tone, dreamlike.",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Affiche / éditorial"
+    ],
+    "tags": [
+      "Onirique",
+      "mystérieux",
+      "Dystopique, symbolique"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-MXKSLVNO",
+        "prompt": "Tree-shaped lungs, surreal sepia illustration",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Surrealism, conceptual art",
+      "Technique": "Illustration poster, sepia",
+      "Époque": "Dystopique, symbolique",
+      "Ambiance": "Onirique, mystérieux",
+      "Composition": "Composition centrale, silhouette humaine",
+      "Sujet": "Personne creusant sous arbre",
+      "Décor": "Paysage sombre, ciel nocturne",
+      "Lumière et couleurs": "Tons sépia, lumière faible",
+      "Format": "Format poster"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-TYJOXKTY",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-VJK069AB",
+    "title": "Video club booth",
+    "prompt": "a maquette of a video club that is a corner stand in a big exhibition, selling cinema applications",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Storyboard / vidéo"
+    ],
+    "tags": [
+      "Commercial",
+      "démonstratif",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-N4NXCVOE",
+        "prompt": "Video club exhibition booth model",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Maquette, exposition",
+      "Technique": "3D stand, model design",
+      "Époque": "Contemporain",
+      "Ambiance": "Commercial, démonstratif",
+      "Composition": "Stand d’exposition, vue 3D",
+      "Sujet": "Stand vidéo, application cinéma",
+      "Décor": "Hall expo, décor neutre",
+      "Lumière et couleurs": "Lumière artificielle salon",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-VJK069AB",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-YA5W2N6D",
+    "title": "Wordplays list",
+    "prompt": "The Great Mall of China / Eiffel Towel / The White Mouse / Pyramids of Cheeser / Macho Pikachu / The Colorseum / The Loch Ness Monster Energy / Grand Crayon",
+    "status": "to-test",
+    "categories": [
+      "Illustration / dessin"
+    ],
+    "tags": [
+      "Humoristique",
+      "parodique",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-TAFJU6IW",
+        "prompt": "Parodies: Great Mall of China, Eiffel Towel, Colorseum, etc.",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Jeu de mots visuel",
+      "Technique": "Illustration satirique",
+      "Époque": "Contemporain",
+      "Ambiance": "Humoristique, parodique",
+      "Composition": "Variantes objets/scènes",
+      "Sujet": "Mall Chine, Tour serviette, Souris blanche, pyramides fromage…",
+      "Décor": "Contexte par mot (mall, pyramids, stadium, cheese…)",
+      "Lumière et couleurs": "Couleurs variées par thème",
+      "Format": "Format variable"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-YA5W2N6D",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-DQZ8DVTI",
+    "title": "Selfie UGC — voyageuse dans un avion",
+    "prompt": "27 year old Greek woman is taking a video selfie in an airplane cabin, caught mid-sentence as she speaks, her lips parted and eyes focused on the camera. She has bright brown hair pulled back, a light natural makeup showing visible skin texture, and wears over-ear black headphones resting over a light gray hoodie with a New Balance logo. The RAW iPhone aesthetic is preserved with soft, natural window light, warm cabin tones, and shallow depth of field that keeps the background clear, red airline seat headrests framing her face.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait",
+      "Produit / publicité"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "UGC Content"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-DQZ8DVTI",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-E6239C4F",
+    "title": "Selfie UGC — lecteur à la bibliothèque",
+    "prompt": "Selfie-style RAW iPhone aesthetic portrait of a 28 year old Canadian man seated at a library table, captured from low angle with natural, even lighting that reveals skin texture. The subject is mid-sentence, lips slightly parted, eyes toward the camera. He wears a white polo shirt. The background shows tall wooden bookcases with glass doors and a decorative archway with intricate tile pattern, warm wood tones. On the table lies a pink pouch and a tablet with a dark screen, suggesting casual study or reading.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait",
+      "Produit / publicité"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "UGC Content"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-E6239C4F",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-JWUYMOST",
+    "title": "Selfie UGC — portrait en pull gris",
+    "prompt": "A candid selfie of a 38 year old, Canadian man with short dark brown hair, wearing a grey quarter-zip sweater and black-rimmed glasses visible skin texture, natural pores, and subtle blush, lit by warm sunlight from the left for soft highlights and gentle shadows. The background reveals a modern kitchen with white glossy cabinets, a stainless sink, and a dish soap bottle, softly blurred. The image uses a RAW iPhone look with minimal processing, realistic skin tones, slight grain, and crisp, true-to-life detail.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait",
+      "Produit / publicité"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "UGC Content"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-JWUYMOST",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-K8I1UH5M",
+    "title": "Selfie UGC — promenade sur un chemin arboré",
+    "prompt": "A selfie of a 50-year-old Italian woman with long brown hair and visible skin texture, shot in a RAW iPhone look. She stands on a tree-lined path with dappled sunlight filtering through green leaves, a hedge to one side, and a paved track ahead. She wears a navy-blue crewneck sweatshirt for a casual, unpolished vibe, and the camera is held at eye level for a straightforward portrait that preserves natural skin texture and subtle facial details in natural light.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait",
+      "Produit / publicité"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "UGC Content"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-K8I1UH5M",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-VSGCJD80",
+    "title": "Storyboard cinématographique — grille 3 × 3 depuis une image",
+    "prompt": "Create a cohesive 3x3 cinematic storyboard grid based on the input image. Maintain strict consistency in subject, attire, lighting, and environment across all panels.\n\nRow 1 (Context): Extreme Long Shot (Environment), Full Shot, Medium Long Shot (Knees up).\nRow 2 (Coverage): Medium Shot (Waist up), Medium Close-Up, Close-Up (Face).\nRow 3 (Details): Extreme Close-Up (Macro detail), Low Angle, High Angle.\n\nStyle: Photorealistic textures, cinematic color grading, and realistic depth of field (bokeh in close-ups).",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait",
+      "Scène / paysage",
+      "Storyboard / vidéo"
+    ],
+    "tags": [],
+    "language": "en",
+    "requiresReference": true,
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "takes a single photo and turns it into a full cinematic shot sequence multiple camera angles"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-VSGCJD80",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-6ERWT2E6",
+    "title": "Geralt contre Ciri — capture League of Legends",
+    "prompt": "Authentic in-game gameplay screenshot from League of Legends. Geralt of Rivia is the playable midlane champion, viewed from the standard isometric MOBA camera. He is executing a wide sweeping cleave ability (Q) with a single silver sword held in both hands, striking forward into the minion wave.\n\nHis opponent is Ciri, a highly mobile midlane skirmisher champion, positioned slightly to the side of the wave. She wields a light sword and is mid-dash ability, leaving a faint motion trail as she blinks forward to trade damage with Geralt.\n\nThe midlane environment is clearly defined: stone-paved central lane, grassy edges, river entrances visible on both the top and bottom sides of the lane, with a river bush partially visible near the edge of the screen. Water reflections and terrain elevation subtly indicate the river slope.\n\nA standard midlane minion wave is present: three melee minions in front and three caster minions behind, evenly spaced and actively attacking. Both champions are positioned within the wave for a realistic trade.\n\nClear League of Legends UI elements are visible: health bars and mana bars above Geralt and Ciri, champion level indicators, minion health bars. Visual effects are clean and readable, designed for competitive clarity. Champion proportions are slightly exaggerated and stylized, consistent with League of Legends gameplay. This is a real in-game combat moment, not cinematic, not splash art.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Interface"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "GERALT vs CIRI — LEAGUE OF LEGENDS (MIDLANE GAMEPLAY)\n\nPrompt (EN)"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-6ERWT2E6",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-J73PJYX4",
+    "title": "Supersoldat français — armure futuriste et mégalopole en ruine",
+    "prompt": "Photorealistic sci-fi power-armored supersoldier, French-inspired, standing in a silent ruined megacity. The armor is monolithic and seamless like a single-piece precision shell: anodized ceramic-aluminum composite, pearl white base with oil-slick iridescence that shifts cyan→magenta→gold at grazing angles. Surfaces are impossibly clean yet subtly micro-scratched, with soft radii and perfect chamfers; every seam is a hairline shadow. French identity is encoded as micro-engraved fleur-de-lis patterns only visible in specular highlights, and a tiny tricolor enamel inlay—no cloth, no clutter, pure industrial elegance.\nThen the “acid” hits: volumetric light fractures into prismatic caustics across the armor, as if the air is made of glass; faint holographic glyphs ripple like heat mirages, bending perspective. The soldier holds a brutal sci-fi rifle that looks impossibly simplified—a clean block with hidden mechanics—yet still menacing. Background: collapsed Eiffel Tower silhouette in fog, distant embers, low thunderclouds.\nCinematic photography: full-frame DSLR, 85mm, f/1.8, ISO 200, shallow depth of field, high micro-contrast, ultra-detailed materials, soft rim light + neon spectral bounce, subtle film grain, HDR but natural, no cartoon look, no anime.",
+    "status": "to-test",
+    "categories": [
+      "Anime / manga",
+      "Scène / paysage"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-J73PJYX4",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-YZZJLX82",
+    "title": "Succube écarlate — portrait fantasy réaliste",
+    "prompt": "A captivating and alluring succubus, rendered in a realistic and highly detailed art style. Her skin is a vibrant crimson, contrasting with her long, flowing black hair that cascades around her shoulders. She possesses elegant, pointed ears and a pair of prominent, curved horns that emanate from her forehead. Her eyes are a striking golden hue, and her full lips are painted a rich, dark red. She wears a form-fitting, deep red gown with thin straps and a plunging neckline that accentuates her décolletage. The dress features high slits on the thighs, hinting at her long legs. A simple gold armlet adorns her upper left arm. Her slender, muscular tail curves gracefully, disappearing out of frame. The background is dark and moody, suggesting a shadowy, possibly ancient, interior with subtle architectural details visible in the soft, warm light that illuminates her. The overall impression is one of seductive power and dark beauty. Elements: Character: Succubus, demoness Skin Color: Crimson, dark red Hair: Long, flowing, wavy, black Features: Pointed ears, curved horns, golden eyes, full red lips, slender tail Attire: Deep red gown, thin straps, plunging neckline, high thigh slits, gold armlet Expression: Confident, alluring, direct gaze Lighting: Soft, warm, dramatic, chiaroscuro Mood: Seductive, powerful, mysterious, dark fantasy Art Style: Realistic, highly detailed, digital painting Pose: Standing, slightly angled, hands out of frame (or relaxed at her sides)",
+    "status": "to-test",
+    "categories": [
+      "Peinture / gravure"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-YZZJLX82",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-OVNFUJ42",
+    "title": "Space Marine français — armure gothique",
+    "prompt": "A photorealistic depiction of a French-inspired Space Marine in a dark, gritty sci-fi universe, heavily influenced by Warhammer 40K aesthetics. The marine wears ornate, gothic-style power armor etched with Fleur-de-Lis and engraved Napoleonic motifs, navy blue and gold color palette. His helmet is off, revealing a stoic face with a strong jawline, scars, and short dark hair, evoking the look of a French legionnaire. The setting is a ruined futuristic battlefield in a fog-drenched Paris, with the Eiffel Tower collapsed in the background. Smoke, sparks, and ash fill the air, dramatic backlighting casts long shadows. The armor is battle-worn with chipped paint and scorched metal, with purity seals fluttering. DSLR photo style, 85mm lens, f/1.4 aperture, ISO 100, cinematic lighting, ultra high detail, moody contrast, volumetric lighting.",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-OVNFUJ42",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-0ZCIONDQ",
+    "title": "Paysage alpin miniature dans une bouteille",
+    "prompt": "A photorealistic image of a clear glass bottle standing on a dark wood office desk, captured like a high-end product photo in a modern workspace. Inside the bottle is an entire miniature alpine mountain landscape with towering snow-dusted peaks, jagged rocky cliffs, dense evergreen forests, and a crystal-clear lake reflecting the mountains, all rendered with extreme surface detail and texture. The dark wooden desk surface shows fine grain, subtle wear, and soft reflections of the bottle, with a blurred suggestion of office items and a monitor in the background to imply a real desk environment. The glass walls of the bottle show realistic refraction and distortion of the landscape inside, with tiny imperfections, fingerprints, micro-scratches, and condensation droplets catching the light. Use dramatic side-softbox style lighting coming from the left, creating strong but controlled highlights on the glass, soft shadows on the desk, and warm golden-hour light rays illuminating the landscape inside with gentle atmospheric haze between the mountains. Depth of field is shallow, with the front edge of the bottle and the central mountain range in perfect sharp focus, while the back of the desk and office background fall into a soft blur, emphasizing ultra-high resolution, crisp textures in rock, snow, bark, glass, and wood, with true-to-life colors, realistic shadows, and no stylization or painterly effects, in the style of professional commercial product photography",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Scène / paysage",
+      "Produit / publicité"
+    ],
+    "tags": [],
+    "orientation": "landscape",
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "Beautiful Landscape in a Bottle"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-0ZCIONDQ",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-SYRY1WDO",
+    "title": "Personnage sortant de son image",
+    "prompt": "Using the provided reference image, generate a dramatic image where the main character appears to break out of the original picture and come to life. Preserve the character’s identity, facial features, outfit, and overall style exactly as shown in the reference image. The original image should appear as physically cracking, tearing, or shattering from the inside as the character pushes through it.The character’s upper body and hands should emerge beyond the flat surface, transitioning from a two-dimensional image into a fully three-dimensional, living form. Fragments of the original image—such as paper tears—should fly outward, frozen mid-air for a cinematic effect. The character’s expression should convey determination, intensity, or awakening, as if gaining consciousness and stepping into the real world. Match the lighting, color palette, and textures of the character to the reference image, while enhancing realism and depth on the parts that break out of the frame. Use dramatic lighting with strong highlights and shadows to emphasize the transformation from image to reality. The background outside the original image should feel darker and more realistic, creating a strong contrast between the flat image world and the living, three-dimensional space. The final result should feel cinematic, dynamic, and powerful, clearly showing the moment the character escapes the image and becomes alive.",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [],
+    "language": "en",
+    "requiresReference": true,
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "Let me out (need image source)"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-SYRY1WDO",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-J0UZPFZ0",
+    "title": "Hérisson — planche de référence à neuf angles",
+    "prompt": "A 3x3 grid cinematographic reference sheet showing a cute, anthropomorphic hedgehog character in a cozy, miniature mossy forest study room with tiny furniture and books. The grid displays 9 distinct camera angles and shot sizes of the same hedgehog subject, keeping the character and setting consistent throughout: Extreme Long Shot, Long Shot, Medium Long Shot, Medium Shot, Medium Close Up, Close Up, Extreme Close Up on the eye, Low Angle looking up at the hedgehog, and High Angle looking down. Each panel is labeled with white text on a black background in the corner: 'ELS', 'LS', 'MLS', 'MS', 'MCU', 'CU', 'ECU', 'Low Angle', 'High Angle'. Photorealistic 3D render, cinematic lighting, 8k resolution.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Portrait"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "generate a consistent camera angle reference sheet"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-J0UZPFZ0",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-OJNU1RJO",
+    "title": "Terre du Milieu — carte de métro et critique en deux étapes",
+    "prompt": "Provide the rail/subway map for Middle Earth in the third age, with accurate stops and taking into account natural barriers, alliances, and so on.\n\nPrompt 2 : Gemini 3, here is a map someone made, nitpick it",
+    "status": "to-test",
+    "categories": [
+      "Infographie / schéma"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-OJNU1RJO",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-J8CF62QS",
+    "title": "Sculpture en marbre depuis une image",
+    "prompt": "A photorealistic image of an ultra-detailed sculpture of the subject in image made of shining marble. The sculpture should display smooth and reflective marble surface, emphasizing its luster and artistic craftsmanship. The design is elegant, highlighting the beauty and depth of marble. The lighting in the image should enhance the sculpture's contours and textures, creating a visually stunning and mesmerizing effect",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [],
+    "language": "en",
+    "requiresReference": true,
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-J8CF62QS",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-Z8TMLHOL",
+    "title": "Portrait d’une femme de 75 ans dans un café parisien",
+    "prompt": "Portrait photo ultra réaliste d’une femme de 75 ans, cadrage serré, regard caméra. Elle est assise près d’une grande fenêtre dans un café parisien, lumière douce de fin d’après-midi qui dessine des ombres délicates sur son visage. Rides détaillées, taches de rousseur, texture de la peau très nette. Reflets de la ville dans la vitre derrière elle, arrière-plan flou avec un léger bokeh. Style photo documentaire haut de gamme, rendu naturel, aucune retouche beauté excessive, image nette et détaillée, haute fidélité, sans watermark, utilisable en contexte de branding.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait",
+      "Scène / paysage",
+      "Produit / publicité",
+      "Logo / identité"
+    ],
+    "tags": [],
+    "language": "fr",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-Z8TMLHOL",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-6PO6Q8DC",
+    "title": "Tokyo futuriste — rue nocturne sous la pluie",
+    "prompt": "Scène de rue nocturne dans une grande ville futuriste inspirée de Tokyo, sous la pluie. Trottoirs bondés de passants avec parapluies transparents, enseignes néon multicolores en kanji et alphabet latin, reflets de toutes les lumières sur le sol détrempé. Voitures autonomes brillantes glissant dans la rue, écran géant montrant une publicité abstraite. Vue à hauteur d’homme, légère contre-plongée, grande profondeur de champ. Ambiance vibrante, dense, dynamique, mais composition claire. Style ultra détaillé, mélange entre photo et concept art réaliste, haute fidélité, sans watermark.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Scène / paysage",
+      "Produit / publicité",
+      "Interface"
+    ],
+    "tags": [],
+    "language": "fr",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-6PO6Q8DC",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-UDFJ9L0Z",
+    "title": "Application bien-être — écran d’accueil",
+    "prompt": "Écran d’accueil d’une application mobile de suivi de bien-être. Smartphone vu de face, interface en français, design clair et moderne. En haut : titre lisible « Bonjour Camille 👋 », sous-titre : « Voici ton bilan du jour ». Au centre, une grande carte avec un graphique circulaire montrant « Énergie », « Sommeil », « Humeur », avec légendes lisibles. En dessous, trois cartes horizontales avec des titres lisibles comme « Sommeil : 7 h 32 », « Pas : 10 245 », « Hydratation : 1,8 L ». Style UI épuré, inspiré des applications de santé premium, couleurs douces, beaucoup d’espace blanc, typographie parfaitement lisible, alignements propres, sans watermark.",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Interface",
+      "Infographie / schéma"
+    ],
+    "tags": [],
+    "language": "fr",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-UDFJ9L0Z",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-4B8BG35C",
+    "title": "Nano Banana Festival — affiche typographique",
+    "prompt": "Affiche moderne pour un festival de créativité numérique. Grand titre centré en haut : « NANO BANANA FESTIVAL ». Sous-titre lisible : « Créativité, IA & Images de demain ». Au centre, une illustration abstraite de formes géométriques colorées, rappelant un cerveau en pixels. En bas de l’affiche, en plus petit mais toujours lisible : « Paris – 12 / 13 / 14 juin 2026 » et une ligne encore plus petite : « www.nanobanana-fest.com ». Style graphique flat design, couleurs vives mais harmonieuses, fond clair, mise en page propre, marges cohérentes. Le texte doit être net, parfaitement lisible, sans faute, sans watermark, prêt pour impression.",
+    "status": "to-test",
+    "categories": [
+      "Pixel art",
+      "Affiche / éditorial"
+    ],
+    "tags": [],
+    "language": "fr",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-4B8BG35C",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-Q3DM9HGS",
+    "title": "Portrait cinématographique — mur de cuir rouge",
+    "prompt": "Cinematic effect with added grain. An ultra-realistic portrait of a woman standing against a red leather textured wall with vertical lines. She is wearing a beige strapless corset with red embroidery. Her skin is highlighted. She has bright makeup, false eyelashes, and her lips are covered in clear gloss. Her hair is straight, shiny, and long, in the Old Money style, bright dark red hair. Intense highlighter on her cheeks. One hand is gently adjusting her hair. She is looking directly at the camera. Confident, playful gaze, mouth slightly open. A mirror is partially visible behind her on the edge of the frame. Photo taken with a flash. The surroundings are dark.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait"
+    ],
+    "tags": [],
+    "orientation": "portrait",
+    "language": "en",
+    "requiresReference": true,
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "Image ref necessaire"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-Q3DM9HGS",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-VPV64YWT",
+    "title": "Helldivers — carte tactique métallique",
+    "prompt": "Photorealistic 3D close-up of a tactical metal voucher card resting on a dark Super Destroyer console. The front of the card features a high-contrast flat vector illustration of a Helldiver soldier in black and yellow armor, wearing a red Santa hat, exactly in the propaganda art style of the reference image. Bold gold-engraved text on the metal reads: \"MERRY CHRISTMAS\" at the top and \"OFFICIAL DEPLOYMENT TICKET: L_ROJO\" at the bottom. Background shows a blurred futuristic cockpit with festive red and green fairy lights. Cinematic lighting with sharp metallic reflections, 16:9 aspect ratio, 85mm macro lens, high fidelity textures.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Portrait"
+    ],
+    "tags": [],
+    "language": "en",
+    "requiresReference": true,
+    "ratio": "16:9",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-VPV64YWT",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-POJ0D0RK",
+    "title": "Tunnel marketing — infographie 3D en cinq étapes",
+    "prompt": "A high-quality 3D infographic illustration of the five-stage vertical marketing funnel from image_4.png. The funnel is made of stacked, glossy, semi-transparent 3D sections with a gradient from orange at the top to purple and blue at the bottom. The title at the top is a white text box with black text \"EMPLACEMENT DU TITRE PRINCIPAL\". Five white text boxes on the right side, aligned with each funnel section, contain black text \"EMPLACEMENT ÉTAPE 1\", \"EMPLACEMENT ÉTAPE 2\", \"EMPLACEMENT ÉTAPE 3\", \"EMPLACEMENT ÉTAPE 4\", and \"EMPLACEMENT ÉTAPE 5\". Arrows show downward flow. The background is a clean, light blue-white gradient with a subtle technological glow and soft studio lighting. High resolution, 4k render.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Infographie / schéma"
+    ],
+    "tags": [],
+    "orientation": "portrait",
+    "language": "en",
+    "requiresReference": true,
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Fichier": "PNG"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-POJ0D0RK",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-03M4Y7LA",
+    "title": "Geralt dans Hades — capture de dialogue",
+    "prompt": "In-game dialogue screenshot from Hades. Geralt of Rivia replaces Zagreus as the playable protagonist. Isometric camera view inside a mythological underworld chamber. Geralt stands calmly in the center of the room, witcher armor stylized to match Hades’ painterly art style, sword lowered and resting at his side. Opposite him stands Aphrodite, radiant and graceful, surrounded by a soft pink and gold aura. She is posed serenely, partially draped in flowing fabric, her posture relaxed and confident, embodying love and beauty in the Hades aesthetic. A dialogue box is visible at the bottom of the screen with Aphrodite speaking to Geralt. Warm infernal lighting, rich painterly textures, bold outlines, expressive character design. Isometric perspective, narrative moment, authentic Hades in-game dialogue scene, not cinematic, not illustration.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Interface"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-1HKHVYBC",
+        "prompt": "In-game dialogue screenshot from Hades. Geralt of Rivia replaces Zagreus as the playable protagonist. Isometric camera view inside a mythological underworld chamber. Geralt stands calmly in the center of the room, witcher armor stylized to match Hades’ painterly art style, sword lowered and resting at his side. Opposite him stands Aphrodite, radiant and graceful, surrounded by a soft pink and gold aura. She is posed serenely, partially draped in flowing fabric, her posture relaxed and confident, embodying love and beauty in the Hades aesthetic. A dialogue box is visible at the bottom of the screen with Aphrodite speaking to Geralt. Warm infernal lighting, rich painterly textures, bold outlines, expressive character design. Isometric perspective, narrative moment, authentic Hades in-game dialogue scene, not cinematic, not illustration.",
+        "language": "en",
+        "label": "Variante (libellé SORA, non vérifié)",
+        "role": "variant"
+      }
+    ],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-03M4Y7LA",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-ISO173ZX",
+    "title": "Monde composé de tétraèdres",
+    "prompt": "Transform the subject into a world made entirely of tetrahedrons.\n\nEvery object, surface, texture, reflection, shadow, light source and detail is constructed from thousands of interconnected tetrahedrons and triangular facets. No smooth surfaces, no curved geometry, no organic meshes.\n\nHighly detailed tetrahedral structure, crystalline geometry, faceted metallic surfaces, polygonal sculpture aesthetic, premium low-poly design, precise triangular tessellation, geometric realism.\n\nCinematic lighting, realistic reflections, ray tracing, shallow depth of field, ultra-detailed materials, photorealistic rendering quality, high contrast, volumetric light, premium CGI, octane render style.\n\nThe subject remains fully recognizable while appearing sculpted from thousands of tetrahedrons.\n\n100% tetrahedral geometry, tetrahedron-only construction, no smooth surfaces, no rounded edges.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-DY3S61GK",
+        "prompt": "In-game gameplay screenshot from Tekken. Geralt of Rivia is a playable fighter, facing Nina Williams in a one-on-one match. Side-view fighting game camera. Geralt stands in a grounded combat stance, fists raised, witcher swords sheathed on his back, leather armor adapted to Tekken’s realistic fighting aesthetic. Nina Williams stands opposite him in a neutral fighting stance, blonde hair, tactical combat outfit, arms raised and ready. Both fighters are positioned at mid-range distance, centered in the arena. Tekken user interface is clearly visible: health bars for both fighters at the top of the screen, round indicator, timer counting down. The arena is a closed fighting stage with dramatic lighting and environmental detail. Character proportions are realistic and muscular, with high-fidelity textures. Subtle motion blur and impact-ready tension. This is a real in-game match frame, not a cinematic intro, not character art.",
+        "language": "en",
+        "label": "Variante (libellé SORA, non vérifié)",
+        "role": "variant"
+      }
+    ],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-ISO173ZX",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-CFI30KBG",
+    "title": "Traduction graphique d’une photo en formes",
+    "prompt": "Use the uploaded photo as the only visual source and create an artistic, graphic-design-oriented “shape translation” image.\n\nDo not simply apply a filter to the photo, and do not fully redraw the original image.\n\nFirst, extract the 2–4 most representative visual features from the original photo, such as texture, tonal variation, color gradient, light spots, ripples, edge flow, grain, natural rhythm, spatial direction, or repeating structure.\n\nDo not preserve everything evenly. Actively remove secondary information and simplify the image to avoid visual clutter.\n\nThen reorganize those visual elements and fill them into a clear silhouette of a biological or natural object.\n\nThe target silhouette should match the mood of the original photo as naturally as possible. For example:\nocean or water scenes → fish / whale / jellyfish\nsky scenes → bird / cloud / butterfly\ntree shadows or forest scenes → deer / tree / leaf\n\nThe final result should make the original photo still feel perceptible, while the overall image has clearly transformed into a new silhouette-based visual identity.\n\nStyle requirements:\nartistic, restrained, quiet, with a modern graphic design feel.\nPlace the main subject on a large negative-space background in white, warm white, or very light grey.\n\nDo not make it a plain silhouette or a realistic illustration.\n\nDo not simply force the photo inside a shape. Preserve the internal flow of natural textures and layered visual structure.\n\nModerate slicing, repetition, misalignment, stepped edges, or frame-stacking effects are allowed to introduce a stronger graphic-design language.\n\nKeep the composition clean and minimal, with the subject centered or near-center.\n\nA slight grain, film texture, or subtle print texture is allowed.\n\nThe final result should feel like an art poster combining photography, graphic design, and visual translation.\n\nThe priority is not to copy the original photo, but to extract its most compelling structures and textures, then complete a visual transformation through a new silhouette.",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Scène / paysage",
+      "Affiche / éditorial"
+    ],
+    "tags": [],
+    "language": "en",
+    "requiresReference": true,
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-DPD02ZIB",
+        "prompt": "In-game gameplay screenshot from World of Warcraft. Geralt of Rivia is the player character, viewed from a third-person camera behind him. He is engaged in PvE combat against a hostile creature in an outdoor fantasy zone. Geralt wears exaggerated high-fantasy armor adapted to World of Warcraft’s art style, with broad shoulders and a large enchanted sword held in both hands. He is mid-attack, performing a melee strike against the enemy. The enemy creature stands directly in front of him, clearly targeted, with a red health bar above it. The World of Warcraft user interface is visible: player health and resource bars, target frame, action bars at the bottom of the screen, and floating combat text showing damage numbers. The environment features saturated colors, stylized terrain, trees and rocks typical of WoW zones. Character proportions are slightly cartoonish and heroic. This is an authentic MMORPG gameplay screenshot, not cinematic, not illustration.",
+        "language": "en",
+        "label": "Variante (libellé SORA, non vérifié)",
+        "role": "variant"
+      }
+    ],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-CFI30KBG",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-AL3V4BRK",
+    "title": "Geralt dans Doom Eternal — capture de jeu",
+    "prompt": "First-person gameplay screenshot from Doom Eternal. Geralt of Rivia replaces the Doom Slayer as the playable protagonist. The camera shows Geralt’s armored hands holding a heavy sci-fi shotgun adapted from witcher technology, firing at a charging demon at close range. The environment is a brutal hellish sci-fi arena with metallic platforms, glowing lava, demonic architecture, and industrial ruins. Multiple demons are visible rushing toward the player, one demon mid-impact with blood and gore effects. The Doom Eternal HUD is clearly visible: health and armor indicators, ammo counter, weapon icon, and a central crosshair. Motion blur, aggressive lighting, sparks, and explosions emphasize speed and violence. This is a real in-game combat moment, first-person perspective, intense and chaotic, not cinematic, not concept art.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Interface"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-AL3V4BRK",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-E03JPXT6",
+    "title": "Geralt dans Doom Eternal — combat en vue subjective",
+    "prompt": "First-person perspective (POV) gameplay screenshot of Doom Eternal, Geralt of Rivia's Witcher-themed power armor hands gripping a heavy sci-fi shotgun with glowing runes. Firing at a charging Pinky demon at point-blank range with visceral blood spray and sparks. Environment is a brutalist hellish arena with metallic catwalks, flowing lava, and demonic architecture. Digital HUD overlay with health, armor, and ammo counters. High-speed motion blur, aggressive volumetric lighting, high contrast, 4K game engine textures, ID Tech 7 aesthetic. Ultra-violent, chaotic, high fidelity",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Interface"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-E03JPXT6",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-VGGENCHH",
+    "title": "Geralt dans Cyberpunk 2077 — reflet dans un miroir",
+    "prompt": "In-game screenshot from Cyberpunk 2077. First-person perspective, the player stands in front of a bathroom mirror inside a futuristic apartment. Geralt of Rivia is visible only through his reflection in the mirror. Geralt appears as a cyberpunk-era version of himself: white hair pulled back, tired eyes, subtle cybernetic implants integrated into his face and neck. His clothing is modern and worn — a high-tech jacket with minimal armor plating. No medieval gear. The environment reflects Cyberpunk 2077’s aesthetic: neon city lights glowing through a window behind him, chrome and concrete surfaces, holographic UI reflections. Lighting is cold and artificial, with soft neon highlights. Minimal or no HUD, authentic Cyberpunk mirror scene, immersive and introspective, real in-game moment.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Interface"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-VGGENCHH",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-WM2W4NB8",
+    "title": "Geralt dans XCOM — combat tactique",
+    "prompt": "In-game tactical combat screenshot from XCOM. Geralt of Rivia is a playable soldier unit, viewed from an isometric camera. He is positioned behind half-cover, aiming a futuristic tactical rifle at an alien enemy across the battlefield. The environment is a ruined urban area with destroyed vehicles, concrete walls, and debris providing cover. Tactical grid markings are subtly visible on the ground. The enemy alien stands in partial cover, highlighted as the current target. XCOM user interface elements are visible: action points remaining, cover indicators, hit chance percentage, and targeting reticle. Geralt wears modern sci-fi tactical armor adapted from his witcher identity, no medieval weapons visible. Cold military color palette, tense atmosphere. This is a real turn-based gameplay moment, not cinematic, not concept art.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Interface"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-WM2W4NB8",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-K78BL1XI",
+    "title": "Storyboard cinématographique — neuf plans depuis une image",
+    "prompt": "Carefully analyze the provided image to identify all subjects (people, objects, vehicles, etc.) and understand their spatial relationships.\n\n    Generate a cinematic 3×3 storyboard grid (9 panels) showing the same subjects in the same environment, with no changes to identity, clothing, materials, lighting, or atmosphere.\n\n    Each panel must present a different camera framing while maintaining full continuity. Framing must adapt to the content (groups stay together, objects remain fully readable when needed).\n\n    Row 1 — Space & Scale\n\n    Wide panoramic shot showing environment and subject placement\n\n    Full-body / full-object frame with complete proportions\n\n    Overhead (top-down) view emphasizing geometry and layout\n\n    Row 2 — Presence & Power\n\n    4. Mid-range shot focused on body/object core\n\n    5. Tight medium framing (upper torso / main surface)\n\n    6. Low-angle shot to convey strength or narrative weight\n\n    Row 3 — Focus & Detail\n\n    7. Close framing on face or primary feature\n\n    8. Extreme detail / macro of meaningful texture or element\n\n    9. Three-quarter angle for depth and dimensionality\n\n    Maintain photorealism across all panels. Depth of field should increase naturally with closer shots.\n\n    Final output must resemble a professional cinematic storyboard presented in a 3×3 grid, with cohesive grading and consistent visual continuity.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Scène / paysage",
+      "Storyboard / vidéo"
+    ],
+    "tags": [],
+    "language": "en",
+    "requiresReference": true,
+    "kind": "prompt",
+    "variants": [],
+    "details": {
+      "Libellé initial": "Image ref necessaire"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-K78BL1XI",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-0F7FQDVU",
+    "title": "Portrait corporate — citation typographique",
+    "prompt": "**Image Type:** Editorial corporate portrait with integrated typography quote overlay\n\n**Subject & Composition**\n- Use the attached person/photo as the subject (single person only)\n- Classic editorial portrait framed using **rule-of-thirds** composition\n- Subject positioned on the **left third** of the frame\n- Subject facing **toward the right** (looking into the negative space)\n- Large clean **negative space** on the right side for typography\n\n**Background**\n- Pure, pristine **white studio backdrop**\n- Very subtle, extra-large **quotation mark watermark** (extremely faint, low opacity ~8–12%, monochromatic light gray) centered behind the quote text — do not let it compete with the typography or subject\n\n**Lighting**\n- Soft, even, professional **4K studio lighting**\n- Clean beauty / corporate headshot quality — no harsh shadows, no dramatic contrast\n\n**Typography – Main Quote**\n- Text: **I'm testing this feature**\n- Font: bold, modern geometric sans-serif (e.g. Futura, Montserrat ExtraBold, Avenir Next Demi, similar)\n- Color: **red** (e.g. charcoal blue, deep navy, near-black)\n- Sharp, highly legible, premium quality text rendering\n- Size: large enough to be dominant and readable, but not overwhelming the portrait\n\n**Typography – Attribution**\n- Text: **Author: Bill Gates**\n- Same font family, lighter weight (regular or medium)\n- Smaller size (~30–40% of main quote size)\n- Same color as main quote or slightly lighter variant\n- Positioned below or to the bottom-right of the main quote\n\n**Overall Style & Quality**\n- Ultra-detailed commercial photography aesthetic\n- Clean, modern, professional corporate editorial look\n- High-resolution, 4K–8K quality\n- Aspect ratio: 16:9 (default 3:4 portrait or 4:5 if not specified)\n- No additional people, objects, logos, borders, or decorations\n\nGenerate exactly this layout — do not add creative variations unless explicitly requested.",
+    "status": "to-test",
+    "categories": [
+      "Peinture / gravure",
+      "Portrait",
+      "Scène / paysage",
+      "Logo / identité",
+      "Affiche / éditorial"
+    ],
+    "tags": [],
+    "language": "en",
+    "requiresReference": true,
+    "ratio": "16:9 ; 3:4 ; 4:5",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-0F7FQDVU",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-T6P8V8F6",
+    "title": "Pin-up blonde années 1950 — aquarelle",
+    "prompt": "Watercolor fashion illustration of a glamorous 1950s pin-up style blonde woman, standing full body, facing forward. Voluminous curled platinum blonde hair in classic Hollywood waves, porcelain skin, dramatic eyeliner, arched brows, deep dark red lipstick, confident elegant expression. She wears a fitted burgundy/wine-red vintage dress with a wrap-style bodice, short sleeves, deep neckline, cinched waist, pencil skirt silhouette. Subtle shading, soft watercolor blending on the dress fabric, gentle highlights.\n\nBackground is an abstract ink wash: smoky black and grey watercolor cloud textures with splatters, drips, and paint blooms on textured paper. High-end watercolor illustration, clean silhouette edges, detailed face, fashion plate composition, retro glamour aesthetic, hand-painted look, matte paper grain, 4k.",
+    "status": "to-test",
+    "categories": [
+      "Peinture / gravure"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-ASHNWHVH",
+        "prompt": "Watercolor fashion illustration of a glamorous 1950s pin-up style blonde woman, standing full body, facing forward. Voluminous curled platinum blonde hair in classic Hollywood waves, porcelain skin, dramatic eyeliner, arched brows, deep dark red lipstick, confident elegant expression. She wears a fitted burgundy/wine-red vintage dress with a wrap-style bodice, short sleeves, deep neckline, cinched waist, pencil skirt silhouette. Subtle shading, soft watercolor blending on the dress fabric, gentle highlights.\n\nBackground is an abstract ink wash: smoky black and grey watercolor cloud textures with splatters, drips, and paint blooms on textured paper. High-end watercolor illustration, clean silhouette edges, detailed face, fashion plate composition, retro glamour aesthetic, hand-painted look, matte paper grain, 4k.",
+        "language": "en",
+        "label": "Variante (libellé SORA, non vérifié)",
+        "role": "variant"
+      }
+    ],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-T6P8V8F6",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-5HFEXRAM",
+    "title": "Pin-up blonde années 1950 — aquarelle et encre",
+    "prompt": "Watercolor and ink fashion illustration of a glamorous 1950s pin-up style blonde woman, full body, standing in a relaxed elegant pose, facing forward. Classic Hollywood curled platinum blonde hair, soft blue eyes, porcelain skin, sharp eyeliner, refined eyebrows, deep dark burgundy lipstick. A subtle red streak of hair falls along the side of her face. Confident timeless expression.\n\nShe wears a fitted wine-red / burgundy vintage dress with short sleeves, deep V neckline, cinched waist, pencil skirt silhouette. The dress is painted with visible watercolor texture, wet-on-wet pigment blooms, soft shading and natural brush variation.\n\nBackground is a dramatic abstract ink wash on textured paper: deep navy blue and smoky grey watercolor clouds, star-like light spots, splatters, drips, and paint blooms. High contrast between the clean white paper edges and the dark watercolor storm behind her. Ink outlines around the character, clean silhouette, fashion plate illustration style, elegant retro glamour, hand-painted watercolor look, paper grain, 4k.",
+    "status": "to-test",
+    "categories": [
+      "Peinture / gravure"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-R6A0H3I9",
+        "prompt": "Watercolor and ink fashion illustration of a glamorous 1950s pin-up style blonde woman, full body, standing in a relaxed elegant pose, facing forward. Classic Hollywood curled platinum blonde hair, soft blue eyes, porcelain skin, sharp eyeliner, refined eyebrows, deep dark burgundy lipstick. A subtle red streak of hair falls along the side of her face. Confident timeless expression.\n\nShe wears a fitted wine-red / burgundy vintage dress with short sleeves, deep V neckline, cinched waist, pencil skirt silhouette. The dress is painted with visible watercolor texture, wet-on-wet pigment blooms, soft shading and natural brush variation.\n\nBackground is a dramatic abstract ink wash on textured paper: deep navy blue and smoky grey watercolor clouds, star-like light spots, splatters, drips, and paint blooms. High contrast between the clean white paper edges and the dark watercolor storm behind her. Ink outlines around the character, clean silhouette, fashion plate illustration style, elegant retro glamour, hand-painted watercolor look, paper grain, 4k.",
+        "language": "en",
+        "label": "Variante (libellé SORA, non vérifié)",
+        "role": "variant"
+      }
+    ],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-5HFEXRAM",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-MS2N8IST",
+    "title": "États-Unis — diorama isométrique des États",
+    "prompt": "Create a high-detail 3D isometric diorama of the entire United States, where each state is represented as its own miniature platform. Inside each state, place a stylized, small-scale 3D model of that state’s most iconic landmark. Use the same visual style as a cute, polished 3D city diorama: soft pastel colors, clean materials, smooth rounded forms, gentle shadows, and subtle reflections. Each landmark should look like a miniature model, charming, simplified, but clearly recognizable. Arrange the states in accurate geographical layout, with consistent lighting and perspective. Include state labels and landmark labels in a clean, modern font, floating above or near each model.",
+    "status": "to-test",
+    "categories": [
+      "3D / miniature",
+      "Scène / paysage"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-MS2N8IST",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-FD4YNPHB",
+    "title": "Collage rétrofuturiste — esthétique Atom Age",
+    "prompt": "for notebookLM (and others =à ) :  Style Prompt:\n\nPhysical Media Collage, arranged and disparate print cut-outs for a collage, retro-futurism, American 50s-60s, Atom Age, a detailed and carefully arranged collection of printed media from various sources like magazines, newspapers, tabloids, bulletins, photos, scientific publications, etc.",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-FD4YNPHB",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-LJQX1Q0G",
+    "title": "Chasseuse de tempêtes — Supercellule Midwest",
+    "prompt": "Create an intense action shot of a determined female storm chaser in tactical gear bracing against hurricane-force winds beside her modified armored truck on an empty plains highway. The environment is the American Midwest under an apocalyptic supercell thunderstorm with a massive rotating wall cloud and multiple lightning strikes illuminating the scene. The mood should feel dangerous, exhilarating, and awe-inspiring with raw natural power. Visual style is photojournalistic documentary realism inspired by National Geographic and extreme weather photography. Use dramatic natural storm lighting with bright lightning flashes creating stark shadows, dark emerald green storm clouds, and dust being whipped horizontally. Camera is a 50mm lens, dynamic dutch angle, fast shutter freeze-frame effect, medium depth of field with sharp subject and slightly soft background chaos. Include fine details like wind-whipped hair, rain droplets frozen mid-air, mud splatter on the truck, determination in her expression, storm damage debris, and atmospheric turbulence distortion. Quality should be professional DSLR photograph, tack sharp, high dynamic range, raw and unprocessed feel. Avoid calm weather, posed expressions, clean pristine equipment, cartoon lightning, or unrealistic storm colors.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Scène / paysage"
+    ],
+    "tags": [
+      "Danger",
+      "exaltation",
+      "puissance naturelle",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-KIG52XKU",
+        "prompt": "Female storm chaser beside armored truck, Midwest supercell, documentary realism, lightning, 50mm dutch angle, frozen rain and mud, sharp subject",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Réalisme documentaire photojournalistique",
+      "Technique": "Photo DSLR, HDR, mouvement figé",
+      "Époque": "Contemporain",
+      "Ambiance": "Danger, exaltation, puissance naturelle",
+      "Composition": "50 mm, angle hollandais, profondeur de champ moyenne",
+      "Sujet": "Chasseuse en tenue tactique résistant au vent près de son camion blindé",
+      "Décor": "Route déserte du Midwest américain, supercellule et éclairs",
+      "Lumière et couleurs": "Lumière orageuse naturelle, éclairs, nuages vert émeraude sombre",
+      "Format": "Image ; ratio non précisé"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-LJQX1Q0G",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-Y49K7PSM",
+    "title": "Alpiniste — Sommet himalayen au lever du soleil",
+    "prompt": "Create a powerful environmental portrait of a frost-covered female mountaineer reaching the summit of a Himalayan peak at sunrise, exhausted but triumphant, planting an ice axe into the snow as she looks out over an infinite sea of clouds and lesser peaks stretching to the horizon.\n\nThe environment is the death zone above 8000 meters, a knife-edge ridge of wind-sculpted snow and exposed blue ice, prayer flags from previous expeditions snapping violently in the wind, the curvature of the Earth visible at the horizon, other major peaks emerging from the cloud ocean like islands.\n\nThe mood should convey the ultimate human achievement against impossible odds, exhaustion transformed into euphoria, the sublime terror and beauty of standing where humans were never meant to survive, spiritual transcendence through physical extremity.\n\nVisual style is extreme adventure photography inspired by Jimmy Chin and Renan Ozturk, combined with the epic landscape tradition of Ansel Adams and the human-against-nature drama of documentary films like Free Solo and 14 Peaks.\n\nUse dramatic golden hour sunrise lighting breaking over the ridge, warm orange light on one side of the climber contrasting with cold blue shadows on the other. Clouds below are painted in pinks and golds. Color palette transitions from warm rose and amber in the sky through white snow to deep blue shadows and distant purple peaks.\n\nCamera is a wide 24mm lens capturing both the human figure and the overwhelming scale of the environment, shot from slightly below on the ridge. Deep depth of field keeps everything razor sharp from foreground ice crystals to distant peaks. Composition places the climber small but powerful against the vast sky, at the peak of the triangular ridge composition.\n\nInclude fine details such as ice crystals forming on eyelashes and oxygen mask, frost patterns on the weathered Gore-Tex suit, individual fibers of prayer flags frozen mid-flutter, crampon marks in the blue ice, the texture of wind-carved sastrugi snow formations, exhaustion visible in body posture despite triumph, and the fine detail of distant rock faces on neighboring peaks.\n\nQuality should be National Geographic cover photography, absolutely technically perfect, shot on medium format digital for maximum detail, HDR capturing both bright snow and shadow detail, once-in-a-lifetime image quality.\n\nAvoid easy comfortable pose, summer conditions, crowded summit, clean pristine gear, flat overcast lighting, unrealistic peak shapes, or missing environmental danger cues.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait",
+      "Scène / paysage"
+    ],
+    "tags": [
+      "Épuisement",
+      "euphorie",
+      "triomphe",
+      "sublime",
+      "Contemporain"
+    ],
+    "orientation": "landscape",
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-L13T4QXG",
+        "prompt": "Frost-covered female mountaineer on Himalayan summit at sunrise, 24mm environmental portrait, warm light and blue shadows, ice microtextures, deep focus",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Photographie aventure ; références citées : Jimmy Chin, Renan Ozturk, Ansel Adams",
+      "Technique": "Photo moyen format numérique, HDR, textures de givre",
+      "Époque": "Contemporain",
+      "Ambiance": "Épuisement, euphorie, triomphe, sublime",
+      "Composition": "24 mm, légère contre-plongée, grande profondeur de champ, composition triangulaire",
+      "Sujet": "Alpiniste couverte de givre plantant son piolet au sommet",
+      "Décor": "Himalaya au-dessus de 8 000 m, arête, glace bleue, mer de nuages",
+      "Lumière et couleurs": "Soleil levant orange, ombres bleues, ciel rose et ambre, pics violets",
+      "Format": "Image ; ratio non précisé"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-Y49K7PSM",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-EYX7ONI4",
+    "title": "Robot barista — Vaisseau cosy sous la pluie",
+    "prompt": "Subject Definition: friendly robot barista, matte enamel body, warm LED eyes, apron with no text\nAction and Context: pouring latte art into a ceramic cup, steam rising, gentle precision\nEnvironment and Setting: cozy wooden cabin spaceship interior, rain on window, shelves of mugs, soft plants, evening\nMood and Story: comfort in the future, quiet companionship\nVisual Style and References: cinematic cozy sci-fi, warm lifestyle photography, grounded realism\nLighting and Color: warm tungsten lamps, soft window rim light, amber and teal balance, gentle contrast\nCamera and Composition: 35mm lens, medium shot, slight top-down, foreground cup in focus, background softly blurred\nDetail and Texture Control: ceramic glaze, steam wisps, wood grain, raindrops on glass, subtle wear on robot paint\nQuality and Realism Control: high fidelity, sharp focus, cinematic warmth, realistic materials\nNegative Constraints: no text, no watermark, no uncanny faces, no warped objects, no extra fingers, no blur",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Scène / paysage"
+    ],
+    "tags": [
+      "Réconfort",
+      "calme",
+      "compagnie",
+      "Futuriste"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-B0QZJX9Y",
+        "prompt": "Friendly robot barista pouring latte art in cozy wooden spaceship, rainy evening, tungsten and teal light, 35mm, ceramic glaze, steam, matte enamel",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Science-fiction cosy cinématographique ; photo lifestyle",
+      "Technique": "Matériaux réalistes, émail mat, céramique et bois",
+      "Époque": "Futuriste",
+      "Ambiance": "Réconfort, calme, compagnie",
+      "Composition": "35 mm, plan moyen, légère plongée, tasse nette, fond flou",
+      "Sujet": "Robot amical préparant un latte art, yeux LED chauds, tablier sans texte",
+      "Décor": "Intérieur de vaisseau façon cabane en bois, pluie, plantes, soirée",
+      "Lumière et couleurs": "Lampes tungstène, liseré de fenêtre, ambre et bleu-vert",
+      "Format": "Image ; ratio non précisé"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-EYX7ONI4",
+      "importedAt": "2026-10-27T15:56:39.064Z"
+    }
+  },
+  {
+    "id": "ENT-C2ZWR3NX",
+    "title": "Ghosting — Disparition glitch et appel ignoré",
+    "prompt": "Digital illustration of a man disappearing like a glitch while ignoring a phone call from a sad woman",
+    "status": "to-test",
+    "categories": [
+      "Illustration / dessin"
+    ],
+    "tags": [
+      "Tristesse",
+      "absence",
+      "ghosting"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-QL1MQIGF",
+        "prompt": "Man disappearing like a glitch, ignoring a phone call from a sad woman, digital illustration",
+        "language": "en",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Illustration numérique",
+      "Technique": "Disparition par effet glitch",
+      "Ambiance": "Tristesse, absence, ghosting",
+      "Sujet": "Homme disparaissant en ignorant l’appel d’une femme triste",
+      "Format": "Image ; ratio non précisé"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-C2ZWR3NX",
+      "importedAt": "2026-10-27T15:56:39.064Z"
     }
   }
 ]

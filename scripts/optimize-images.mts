@@ -42,7 +42,7 @@ function scan(dir: string, origin: SourceFile['origin']): SourceFile[] {
 
 async function main() {
   const { flags } = parseArgs(process.argv.slice(2));
-  const batches = loadBatches(flags.has('full'));
+  const batches = loadBatches(flags.has('sample'));
   const knownIds = new Set<string>();
   for (const r of batches.excel?.catalogue ?? []) knownIds.add(safeFileStem(excelId(r.Entrée_ID, SOURCE_IDS.excel, '')));
   for (const e of batches.external?.entries ?? []) knownIds.add(safeFileStem(externalEntryId(e)));

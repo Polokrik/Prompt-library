@@ -15,7 +15,9 @@ import { recordImportReport } from './lib/reports.mts';
 import type { ImportReport } from '../src/types/library.ts';
 
 const { flags } = parseArgs(process.argv.slice(2));
-const mode = flags.has('full') ? 'full' : 'sample';
+// --auto : refait le lot déjà importé (complet s'il existe, sinon pilote) ; utilisé par `npm run refresh`.
+const autoFull = flags.has('auto') && exists(path.join(PATHS.excelRawDir, 'excel-full.json'));
+const mode = flags.has('full') || autoFull ? 'full' : 'sample';
 const startedAt = new Date().toISOString();
 
 const raw = readRawExcel(PATHS.excelFile);

@@ -18,11 +18,11 @@ L’expérience est notamment inspirée par [« La baie des images » de Vincent
 |---|---|
 | Application React (accueil, bibliothèque, fiche, favoris, à propos, revue dev) | fonctionnelle |
 | Pipeline d’import / normalisation / fusion / doublons / validation / génération | fonctionnel, testé |
-| Source **Excel** « Prompt Bible » | inspectée ; **lot pilote de 30 fiches** importé |
+| Source **Excel** « Prompt Bible » | inspectée ; **import complet** (424 fiches) fait ; le pilote de 30 fiches reste dans `raw/excel-sample.json` |
 | Source **externe** (vincentflibustier.com) | scripts prêts, **non exécutés avec succès** : le domaine est refusé par la politique réseau de l’environnement où le projet a été construit (voir `reports/source-inspection.md`). Aucune donnée externe n’a été inventée. |
 | Images | **aucune** pour l’instant : le classeur Excel n’en contient pas et la source externe n’a pas pu être lue |
 
-Conséquence : le lot pilote publié ne contient que des fiches Excel **sans image**, affichées comme vignettes typographiques
+Conséquence : le site ne contient que des fiches Excel **sans image**, affichées comme vignettes typographiques
 (extrait du prompt) avec la mention « À tester ». Les nombres exacts sont dans `reports/validation-report.json` (jamais recopiés ici).
 
 ## 2. Stack et dépendances (chacune justifiée)
@@ -132,18 +132,19 @@ npm run import:external:sample # ⚠ ACCÈS RÉSEAU — 30 entrées max + leurs 
 2. Lire `reports/source-inspection.md`. Si `strategy` vaut `none-found`, ouvrir la page dans un navigateur (onglet Réseau), repérer l’appel de données et renseigner à la main
    `dataLocation` (`kind: "json"`, `url`) et `fieldMap` dans `imports/external/source.json`.
 3. `npm run import:external:sample`, puis `npm run refresh`, puis `npm run dev` et vérifier.
-4. Seulement si le pilote est correct : `npm run import:external` (collection entière) puis `npm run refresh:full`.
+4. Seulement si le pilote est correct : `npm run import:external` (collection entière) puis `npm run refresh`.
 
 Les commandes réseau utilisent `node --use-env-proxy` (prise en compte de `HTTPS_PROXY` si présent). Les données sont lues sans jamais exécuter le code de la page ;
 les URL sont limitées à http(s), les téléchargements bornés (délai, taille, type de contenu) et espacés.
 
-### Import complet de l’Excel (local, sans réseau)
+### Import de l’Excel : pilote ou complet
 ```bash
-npm run import:excel     # → imports/prompt-bible/raw/excel-full.json
-npm run refresh:full     # normalise / fusionne / valide / génère à partir des lots « full »
+npm run import:excel:sample   # pilote : 30 fiches → imports/prompt-bible/raw/excel-sample.json
+npm run import:excel          # complet  : tout le classeur → imports/prompt-bible/raw/excel-full.json
+npm run refresh               # normalise / fusionne / valide / génère
 ```
-`npm run refresh` (sans `:full`) travaille toujours sur les lots **sample**. Le mode du dernier `generate` est indiqué dans `SOURCES.md`.
-Un ré-import dont le contenu est inchangé conserve la date d’import d’origine.
+Par source, `refresh` utilise le lot **complet s'il existe**, sinon le pilote (il ré-importe alors automatiquement le même lot depuis le classeur : une modification de l'Excel est donc prise en compte).
+Pour revenir au pilote : supprimer `excel-full.json` (ou `npm run normalize -- --sample`). Le mode utilisé est indiqué dans `SOURCES.md`. Un ré-import dont le contenu est inchangé conserve la date d'import d'origine.
 
 ## 8. Mapping éditorial (corrections persistantes)
 
@@ -190,7 +191,7 @@ Sans `BASE_PATH`, le build utilise des chemins relatifs (`./`), qui fonctionnent
 
 1. **Modifier** `imports/prompt-bible/Prompt Bible.xlsx` (feuille CATALOGUE/TEXTES) **ou** le `mapping.json` concerné.
 2. **Ajouter l’image** si nécessaire : `imports/images/<id>.jpg`, puis son `image.alt` dans le mapping.
-3. `npm run import:excel:sample` si le classeur a changé (ou `npm run import:excel` pour tout), puis **`npm run refresh`** (`refresh:full` pour le lot complet).
+3. **`npm run refresh`** (il ré-importe le classeur tout seul, et prend en compte les images et mappings).
 4. **Consulter** `reports/validation-report.json` et `reports/duplicates-report.json`.
 5. `npm run dev`, ouvrir `#/revue` (liste ce qui reste à traiter et quel fichier modifier), vérifier le rendu.
 6. `git add -A && git commit && git push`.
@@ -203,7 +204,6 @@ Sans `BASE_PATH`, le build utilise des chemins relatifs (`./`), qui fonctionnent
 3. Le workflow **Régénérer les données** (`refresh.yml`) optimise l'image, régénère les données, les commite, puis relance le déploiement (≈ 3 min). Un échec de validation apparaît dans l'onglet *Actions* sans rien casser.
 `generator` (optionnel) = outil IA ayant produit l'image ; il s'affiche sur la fiche (« Généré avec »).
 
-> Le lot **sample** est un échantillon de 30 fiches : pour publier toute la bibliothèque, passez par `import:excel` + `refresh:full`.
 
 ## 14. Commandes
 

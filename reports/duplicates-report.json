@@ -1,11 +1,215 @@
 {
-  "generatedAt": "2026-10-27T15:35:08.609Z",
-  "entriesAnalysed": 29,
+  "generatedAt": "2026-10-27T15:57:24.267Z",
+  "entriesAnalysed": 423,
   "thresholds": {
     "near": 0.85,
     "probableVariant": 0.7
   },
   "canonicalRule": "Doublons exacts : décision éditoriale (canonicalId) > statut le plus avancé > présence d’une image > nombre de catégories+tags > identifiant le plus petit.",
-  "counts": {},
-  "candidates": []
+  "counts": {
+    "exact": 6,
+    "probable-variant": 4
+  },
+  "candidates": [
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-MH2B6WG7",
+        "ENT-9J2PGRVT"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-MH2B6WG7",
+          "text": "wide angle, golden hour light, futuristic vision, end-of-the-world ambience"
+        },
+        {
+          "id": "ENT-9J2PGRVT",
+          "text": "wide angle, golden hour light, futuristic vision, end-of-the-world ambience"
+        }
+      ],
+      "canonicalId": "ENT-9J2PGRVT",
+      "suggestion": "Conserver « ENT-9J2PGRVT » ; pour les autres, ajouter { \"canonicalId\": \"ENT-9J2PGRVT\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-M0PXT4MN",
+        "ENT-CI224JGM"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-M0PXT4MN",
+          "text": "Medium Artistique (style, technique de dessin)"
+        },
+        {
+          "id": "ENT-CI224JGM",
+          "text": "Medium Artistique (style, technique de dessin)"
+        }
+      ],
+      "canonicalId": "ENT-CI224JGM",
+      "suggestion": "Conserver « ENT-CI224JGM » ; pour les autres, ajouter { \"canonicalId\": \"ENT-CI224JGM\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-QSDAUDFD",
+        "ENT-Y21P8R1M"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-QSDAUDFD",
+          "text": "Your Lie in April / Nodame Cantabile"
+        },
+        {
+          "id": "ENT-Y21P8R1M",
+          "text": "Your Lie in April / Nodame Cantabile"
+        }
+      ],
+      "canonicalId": "ENT-QSDAUDFD",
+      "suggestion": "Conserver « ENT-QSDAUDFD » ; pour les autres, ajouter { \"canonicalId\": \"ENT-QSDAUDFD\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-KXOGB72W",
+        "ENT-1ZF0C4JT"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-KXOGB72W",
+          "text": "Période / Réf. culturelle"
+        },
+        {
+          "id": "ENT-1ZF0C4JT",
+          "text": "Période / Réf. culturelle"
+        }
+      ],
+      "canonicalId": "ENT-1ZF0C4JT",
+      "suggestion": "Conserver « ENT-1ZF0C4JT » ; pour les autres, ajouter { \"canonicalId\": \"ENT-1ZF0C4JT\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-K99HRICH",
+        "ENT-6XGEV5WI"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-K99HRICH",
+          "text": "Urban slice of life, tons froids"
+        },
+        {
+          "id": "ENT-6XGEV5WI",
+          "text": "Urban slice of life, tons froids"
+        }
+      ],
+      "canonicalId": "ENT-6XGEV5WI",
+      "suggestion": "Conserver « ENT-6XGEV5WI » ; pour les autres, ajouter { \"canonicalId\": \"ENT-6XGEV5WI\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-89TV41ID",
+        "ENT-UOZ5OJ0J"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-89TV41ID",
+          "text": "vif/naturel"
+        },
+        {
+          "id": "ENT-UOZ5OJ0J",
+          "text": "vif/naturel"
+        }
+      ],
+      "canonicalId": "ENT-89TV41ID",
+      "suggestion": "Conserver « ENT-89TV41ID » ; pour les autres, ajouter { \"canonicalId\": \"ENT-89TV41ID\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ENT-82PWQXZG",
+        "ENT-4WWCQEHH"
+      ],
+      "score": 0.778,
+      "reason": "Formulations voisines (similarité 0.78)",
+      "excerpts": [
+        {
+          "id": "ENT-82PWQXZG",
+          "text": "[Pokémon name / subject], pixel art, icon, gameboy graphics, isolated"
+        },
+        {
+          "id": "ENT-4WWCQEHH",
+          "text": "[subject], pixel art, icon, gameboy graphics, isolated"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ENT-S3LVH090",
+        "ENT-QDKZMJSF"
+      ],
+      "score": 0.714,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ENT-S3LVH090",
+          "text": "pixel art, brain exploding, knowledge --style raw"
+        },
+        {
+          "id": "ENT-QDKZMJSF",
+          "text": "pixel art, knowledge --style raw"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ENT-QDKZMJSF",
+        "ENT-A3YV4KNJ"
+      ],
+      "score": 0.833,
+      "reason": "Formulations voisines (similarité 0.83)",
+      "excerpts": [
+        {
+          "id": "ENT-QDKZMJSF",
+          "text": "pixel art, knowledge --style raw"
+        },
+        {
+          "id": "ENT-A3YV4KNJ",
+          "text": "pixel art, knowledge, trends --style raw"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ENT-OSLEIS6Z",
+        "ENT-CKJODO9R"
+      ],
+      "score": 0.75,
+      "reason": "Formulations voisines (similarité 0.75)",
+      "excerpts": [
+        {
+          "id": "ENT-OSLEIS6Z",
+          "text": "png white background, [subject], in the style of animated illustrations, [environment], full body, text-based --style raw --stylize 0"
+        },
+        {
+          "id": "ENT-CKJODO9R",
+          "text": "png white background, [subject], in the style of big tech illustrations, [environment], full body, text-based --style raw"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    }
+  ]
 }

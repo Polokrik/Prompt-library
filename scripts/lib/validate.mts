@@ -98,11 +98,14 @@ export function validateLibrary(entries: PromptEntry[], ctx: ValidateContext = {
       }
     }
 
-    const blob = JSON.stringify(e);
-    if (/\bdemo\b/i.test(e.source?.id ?? '') || /(^|\/)demo(\/|$)/i.test(blob)) {
+    // Contrôles de chemins : champs techniques seulement (jamais le texte des prompts, qui peut contenir n'importe quoi).
+    const technical = [e.image?.thumbnail, e.image?.large, e.source?.id, e.source?.url, e.source?.originalId].filter(
+      (v): v is string => typeof v === 'string',
+    );
+    if (technical.some((v) => /\bdemo\b/i.test(v.split('/')[0] ?? '') || /(^|\/)demo(\/|$)/i.test(v)) || /\bdemo\b/i.test(e.source?.id ?? '')) {
       add({ severity: 'error', code: 'demo-data', entryId: id, message: 'Donnée de démonstration détectée dans la bibliothèque finale' });
     }
-    if (/[A-Za-z]:\\|\/home\/|\/Users\//.test(blob)) {
+    if (technical.some((v) => /^[A-Za-z]:[\\/]|^\/(home|Users|root|tmp)\//.test(v))) {
       add({ severity: 'error', code: 'local-path', entryId: id, message: 'Chemin local détecté dans les données' });
     }
     if (e.status === 'hidden' && !e.hiddenReason) {
