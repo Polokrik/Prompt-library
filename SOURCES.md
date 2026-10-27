@@ -40,7 +40,7 @@ Jeu de données actuellement publié : mode **sample** — 30 fiche(s) au total.
 - **external-initial** (sample) — 2026-10-27T13:32:45.387Z — **échec** : 0 entrée(s) importée(s) sur 0 analysée(s)
   - Aucune source de données exploitable dans source.json (stratégie : unreachable).
   - Voir reports/source-inspection.md et la procédure locale ; renseigner dataLocation et fieldMap si besoin.
-- **prompt-bible** (sample) — 2026-10-27T15:20:32.942Z — réussi : 30 entrée(s) importée(s) sur 424 analysée(s)
+- **prompt-bible** (sample) — 2026-10-27T15:35:08.100Z — réussi : 30 entrée(s) importée(s) sur 424 analysée(s)
   - Le classeur ne contient aucune image : toutes les fiches sont « sans image » tant que imports/images/<id>.* n’est pas alimenté.
   - 16 texte(s) sans Entrée_ID (fragments autonomes) non inclus dans le lot pilote ; ils ne deviennent pas des fiches.
 
