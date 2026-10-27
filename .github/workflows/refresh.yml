@@ -1,0 +1,61 @@
+name: Régénérer les données
+
+# Pensé pour travailler depuis le site GitHub, sans terminal : déposer une image dans imports/images/
+# (nom = id de la fiche) ou modifier un mapping.json / le classeur Excel suffit.
+# Ce workflow lance `npm run refresh`, commite les fichiers générés, puis relance le déploiement.
+# Il ne contacte jamais le site externe.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'imports/images/**'
+      - 'imports/external/mapping.json'
+      - 'imports/prompt-bible/mapping.json'
+      - 'imports/prompt-bible/Prompt Bible.xlsx'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Régénérer (import local, images, normalisation, fusion, validation)
+        run: npm run refresh
+
+      - name: Commiter les fichiers générés
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A src/data public/images reports imports/prompt-bible/raw imports/external/raw SOURCES.md
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Aucun changement à publier."
+          else
+            git commit -m "Données régénérées automatiquement"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Un push fait avec GITHUB_TOKEN ne déclenche pas d'autre workflow : on lance le déploiement explicitement.
+      - name: Relancer le déploiement
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}

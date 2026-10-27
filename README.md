@@ -152,7 +152,7 @@ Un ré-import dont le contenu est inchangé conserve la date d’import d’orig
 ```json
 { "ENT-VNHZB48D": { "status": "published", "title": "…", "categories": ["Photographie"], "tags": ["panda"], "image": { "alt": "…" } } }
 ```
-Clés possibles : `title`, `description`, `status`, `categories`, `tags`, `orientation`, `language`, `requiresReference`, `image.alt`, `hiddenReason`, `canonicalId`, `collectionIds`.
+Clés possibles : `title`, `description`, `status`, `categories`, `tags`, `orientation`, `language`, `requiresReference`, `image.alt`, `generator`, `hiddenReason`, `canonicalId`, `collectionIds`.
 
 **Priorité des valeurs** : 1. données brutes → 2. règles de normalisation → 3. mapping éditorial (prioritaire dès qu’une valeur est explicitement définie, même un tableau vide) → 4. validation finale.
 Le mapping est appliqué **avant** le calcul du statut : ajouter une catégorie à une fiche `to-confirm` la fait passer en `to-test`. Un statut forcé ne peut pas dépasser ce que la fiche permet
@@ -195,6 +195,13 @@ Sans `BASE_PATH`, le build utilise des chemins relatifs (`./`), qui fonctionnent
 5. `npm run dev`, ouvrir `#/revue` (liste ce qui reste à traiter et quel fichier modifier), vérifier le rendu.
 6. `git add -A && git commit && git push`.
 7. GitHub Actions publie le site.
+
+### Variante sans terminal (depuis le site GitHub)
+1. Dans le dépôt, ouvrir `imports/images/` → *Add file → Upload files* et déposer l'image, nommée comme l'id de la fiche (ex. `ENT-VNHZB48D.jpg`) → *Commit changes* sur `main`.
+2. Ouvrir `imports/prompt-bible/mapping.json` → crayon → ajouter la fiche :
+   `"ENT-VNHZB48D": { "status": "published", "image": { "alt": "…" }, "generator": "Midjourney" }` → *Commit changes*.
+3. Le workflow **Régénérer les données** (`refresh.yml`) optimise l'image, régénère les données, les commite, puis relance le déploiement (≈ 3 min). Un échec de validation apparaît dans l'onglet *Actions* sans rien casser.
+`generator` (optionnel) = outil IA ayant produit l'image ; il s'affiche sur la fiche (« Généré avec »).
 
 > Le lot **sample** est un échantillon de 30 fiches : pour publier toute la bibliothèque, passez par `import:excel` + `refresh:full`.
 

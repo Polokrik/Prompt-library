@@ -13,6 +13,7 @@ const KNOWN_KEYS = new Set([
   'hiddenReason',
   'canonicalId',
   'collectionIds',
+  'generator',
 ]);
 
 export interface MappingResult {
@@ -55,6 +56,7 @@ export function applyMapping(entries: PromptEntry[], mapping: EditorialMapping, 
     if (o.hiddenReason !== undefined) next.hiddenReason = o.hiddenReason;
     if (o.canonicalId !== undefined) next.canonicalId = o.canonicalId;
     if (o.collectionIds !== undefined) next.collectionIds = [...o.collectionIds];
+    if (o.generator !== undefined) next.generator = o.generator;
     if (o.image?.alt !== undefined) altOverrides.set(entry.id, o.image.alt);
     if (o.status !== undefined) forcedStatus.set(entry.id, o.status);
     return next;
