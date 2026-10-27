@@ -51,8 +51,10 @@ jobs:
 
       - name: Contrôle d'accessibilité (axe-core)
         run: |
-          npx playwright install --with-deps chromium
+          npx playwright install chromium
           npm run a11y
+        env:
+          BASE_PATH: /${{ github.event.repository.name }}/
 
       - name: Configurer GitHub Pages
         if: github.event_name != 'pull_request'

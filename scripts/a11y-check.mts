@@ -16,7 +16,9 @@ import { writeJson } from './lib/io.mts';
 const require = createRequire(import.meta.url);
 const axeSource = fs.readFileSync(require.resolve('axe-core/axe.min.js'), 'utf8');
 const PORT = 4179;
-const BASE = `http://127.0.0.1:${PORT}/`;
+// Le build peut être servi sous un sous-chemin (BASE_PATH=/nom-du-repo/ sur GitHub Pages).
+const BASE_PATH = process.env.BASE_PATH?.startsWith('/') ? process.env.BASE_PATH : '/';
+const BASE = `http://127.0.0.1:${PORT}${BASE_PATH}`;
 
 async function waitFor(url: string, tries = 40) {
   for (let i = 0; i < tries; i++) {
