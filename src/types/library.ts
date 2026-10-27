@@ -66,6 +66,8 @@ export interface PromptEntry {
   /** Fiche canonique dont celle-ci est un doublon. */
   canonicalId?: string;
   collectionIds?: string[];
+  /** Outil IA utilisé pour générer l'image (« Midjourney », « Sora »…), tel que fourni. */
+  generator?: string;
   /** Notes de revue : pourquoi le statut n'est pas « published ». Retirées du build public. */
   reviewNotes?: string[];
   createdAt?: string;
@@ -144,5 +146,6 @@ export interface EditorialOverride {
   hiddenReason?: string;
   canonicalId?: string;
   collectionIds?: string[];
+  generator?: string;
 }
 export type EditorialMapping = Record<string, EditorialOverride>;

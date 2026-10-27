@@ -11,6 +11,7 @@
       "language": "en",
       "requiresReference": false,
       "image": { "alt": "Texte alternatif de l’image ajoutée dans imports/images/" },
+      "generator": "Midjourney",
       "hiddenReason": "Raison du masquage",
       "canonicalId": "ENT-YYYYYYYY",
       "collectionIds": ["maitriser-la-lumiere"]

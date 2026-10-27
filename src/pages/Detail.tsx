@@ -93,6 +93,12 @@ export function Detail({ id, lookup = entriesById }: { id: string; lookup?: Map<
                 {STATUS_LABELS[entry.status]}
                 {entry.status === 'to-test' ? ' — exploitable, résultat non vérifié' : ''}
               </dd>
+              {entry.generator ? (
+                <>
+                  <dt>Généré avec</dt>
+                  <dd>{entry.generator}</dd>
+                </>
+              ) : null}
               {entry.kind ? (
                 <>
                   <dt>Type</dt>

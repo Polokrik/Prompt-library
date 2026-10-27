@@ -11,6 +11,11 @@ describe('mapping éditorial', () => {
     expect(base.title).toBe('Brut'); // la donnée d’origine n’est pas modifiée
   });
 
+  it('applique l’outil de génération (generator)', () => {
+    const { entries } = applyMapping([makeEntry()], { 'test-1': { generator: 'Midjourney' } }, 'x');
+    expect(entries[0]!.generator).toBe('Midjourney');
+  });
+
   it('signale les identifiants et clés inconnus sans les appliquer', () => {
     const { warnings } = applyMapping([makeEntry()], { absent: { title: 'x' }, 'test-1': { foo: 1 } as never }, 'x');
     expect(warnings.join('\n')).toMatch(/absent/);
