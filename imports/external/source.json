@@ -1,0 +1,36 @@
+{
+  "note": "Fichier généré par npm run inspect:source. `fieldMap` et `dataLocation` peuvent être corrigés à la main.",
+  "inspectedAt": "2026-10-27T13:24:12.205Z",
+  "inspectedUrl": "https://vincentflibustier.com/imageia/#bibliotheque",
+  "reachable": false,
+  "robots": {
+    "checked": false,
+    "allowed": null,
+    "detail": "robots.txt illisible : fetch failed (Request was cancelled.) : https://vincentflibustier.com/robots.txt"
+  },
+  "strategy": "unreachable",
+  "fieldMap": {},
+  "fieldsAvailable": [],
+  "fieldsAbsent": [],
+  "unmappedKeys": [],
+  "imageTypes": {},
+  "categories": [],
+  "filesInspected": [],
+  "linksFound": {
+    "scripts": 0,
+    "jsonLinks": 0,
+    "images": 0,
+    "secondaryPages": []
+  },
+  "obstacles": [
+    "Page inaccessible depuis cet environnement : fetch failed (Request was cancelled.) : https://vincentflibustier.com/imageia/"
+  ],
+  "recommendedMethod": "Relancer `npm run inspect:source` depuis un poste ayant accès au site, ou autoriser le domaine dans la politique réseau de l’environnement. Voir localInstructions.",
+  "localInstructions": [
+    "Depuis une machine qui peut joindre vincentflibustier.com : `npm ci` puis `npm run inspect:source`.",
+    "Vérifier imports/external/source.json (strategy, dataLocation, fieldMap) et reports/source-inspection.md.",
+    "Si strategy = \"none-found\" : ouvrir la page dans un navigateur, onglet Réseau, repérer l’appel JSON du catalogue, puis renseigner `dataLocation` et `fieldMap` à la main dans source.json (kind = \"json\", url = l’adresse relevée).",
+    "Puis `npm run import:external:sample` (30 entrées max + leurs images) et `npm run refresh`.",
+    "Dépendances : Node ≥ 22.21 (aucune autre que celles de package.json)."
+  ]
+}

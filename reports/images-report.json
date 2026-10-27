@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-10-27T13:32:54.459Z",
+  "mode": "sample",
+  "params": {
+    "thumbnail": {
+      "width": 480,
+      "quality": 72
+    },
+    "large": {
+      "width": 1200,
+      "quality": 82
+    }
+  },
+  "sourcesFound": 0,
+  "processed": [],
+  "skippedUnchanged": [],
+  "invalid": [],
+  "absentForKnownEntries": 30,
+  "absentSample": [
+    "ENT-VNHZB48D",
+    "ENT-348NIYT0",
+    "ENT-22XO7WI9",
+    "ENT-S91YWLSX",
+    "ENT-7M1X64BM",
+    "ENT-MI8WSEPA",
+    "ENT-9TE97400",
+    "ENT-JINHFHYN",
+    "ENT-4R4PLCHM",
+    "ENT-DDM3W2A6",
+    "ENT-7FT7R3CU",
+    "ENT-SWA7C16G",
+    "ENT-BG3NC4DI",
+    "ENT-VDGPV5ZG",
+    "ENT-VJ2MM1K1",
+    "ENT-DD4556UF",
+    "ENT-5UZ6YSAI",
+    "ENT-CALDO3XH",
+    "ENT-MWGRGZKG",
+    "ENT-2KVTXUFV",
+    "ENT-Z1HKI1TU",
+    "ENT-JQ4CSYJP",
+    "ENT-020LFBMH",
+    "ENT-BSFK2T1X",
+    "ENT-PS3I6RUJ",
+    "ENT-B3BOSE7X",
+    "ENT-9V2RPIUY",
+    "ENT-9B7NNCI0",
+    "ENT-UFA9K2FD",
+    "ENT-WQBJLE2V"
+  ],
+  "heavyOutputs": [],
+  "orphanSourceFiles": [],
+  "warnings": [],
+  "notes": [
+    "Lot externe absent (sample) : lancer npm run import:external:sample (accès réseau requis)"
+  ]
+}

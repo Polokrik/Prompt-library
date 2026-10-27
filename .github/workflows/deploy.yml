@@ -1,0 +1,77 @@
+name: Déploiement GitHub Pages
+
+# Le workflow ne relance JAMAIS l'import depuis le site externe : les données importées et validées
+# sont versionnées dans le dépôt (src/data/, public/images/, imports/).
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Installer les dépendances (reproductible)
+        run: npm ci
+
+      - name: Valider les données
+        run: npm run validate
+
+      - name: Tests
+        run: npm test
+
+      - name: Construire le site (chemin du dépôt GitHub Pages)
+        run: npm run build
+        env:
+          BASE_PATH: /${{ github.event.repository.name }}/
+
+      - name: Tester le build de production
+        run: npm run check:build
+        env:
+          BASE_PATH: /${{ github.event.repository.name }}/
+
+      - name: Contrôle d'accessibilité (axe-core)
+        run: |
+          npx playwright install --with-deps chromium
+          npm run a11y
+
+      - name: Configurer GitHub Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Publier l'artefact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Déployer sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

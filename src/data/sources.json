@@ -1,0 +1,14 @@
+[
+  {
+    "id": "prompt-bible",
+    "label": "Prompt Bible",
+    "count": 30,
+    "byStatus": {
+      "published": 0,
+      "to-test": 12,
+      "to-confirm": 17,
+      "hidden": 1
+    },
+    "importedAt": "2026-10-27T13:21:55.111Z"
+  }
+]

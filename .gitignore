@@ -1,0 +1,7 @@
+node_modules/
+dist/
+generated/
+imports/external/originals/
+.DS_Store
+*.log
+reports/a11y-report.json
