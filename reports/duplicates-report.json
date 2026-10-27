@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-10-27T13:32:54.867Z",
+  "entriesAnalysed": 29,
+  "thresholds": {
+    "near": 0.85,
+    "probableVariant": 0.7
+  },
+  "canonicalRule": "Doublons exacts : décision éditoriale (canonicalId) > statut le plus avancé > présence d’une image > nombre de catégories+tags > identifiant le plus petit.",
+  "counts": {},
+  "candidates": []
+}

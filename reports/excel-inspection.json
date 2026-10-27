@@ -1,0 +1,357 @@
+{
+  "generatedAt": "2026-10-27T13:21:36.240Z",
+  "file": "imports/prompt-bible/Prompt Bible.xlsx",
+  "sheets": [
+    {
+      "name": "CATALOGUE",
+      "ref": "A1:AE430",
+      "rows": 430
+    },
+    {
+      "name": "TEXTES",
+      "ref": "A1:M843",
+      "rows": 843
+    },
+    {
+      "name": "RÉFÉRENTIELS",
+      "ref": "A1:H85",
+      "rows": 85
+    },
+    {
+      "name": "MÉTHODE IMAGE 10 BLOCS",
+      "ref": "A1:F58",
+      "rows": 58
+    }
+  ],
+  "structureNote": "CATALOGUE et TEXTES ont un bandeau de 5 lignes ; l’en-tête est en ligne 6. RÉFÉRENTIELS décrit les vocabulaires ; MÉTHODE IMAGE 10 BLOCS est un guide pédagogique (non importé comme fiches).",
+  "catalogue": {
+    "rows": 424,
+    "columns": [
+      {
+        "name": "Entrée_ID",
+        "feedsModel": "source.originalId + id (conservé tel quel)"
+      },
+      {
+        "name": "Titre",
+        "feedsModel": "title"
+      },
+      {
+        "name": "Type proposé",
+        "feedsModel": "kind + plafond de statut"
+      },
+      {
+        "name": "Famille proposée",
+        "feedsModel": "categories[0]"
+      },
+      {
+        "name": "Usages proposés",
+        "feedsModel": "categories (valeurs séparées par « ; »)"
+      },
+      {
+        "name": "Référence requise",
+        "feedsModel": "requiresReference (Oui/Non ; « À confirmer » = inconnu)"
+      },
+      {
+        "name": "Modalité proposée",
+        "feedsModel": "non utilisée (information de classement)"
+      },
+      {
+        "name": "Ratio explicite",
+        "feedsModel": "ratio"
+      },
+      {
+        "name": "Description de travail",
+        "feedsModel": "description (sauf consignes génériques)"
+      },
+      {
+        "name": "Texte principal_ID",
+        "feedsModel": "prompt (jointure vers TEXTES.Texte_ID)"
+      },
+      {
+        "name": "Guide associé",
+        "feedsModel": "non utilisée (renvoie à la feuille MÉTHODE IMAGE 10 BLOCS)"
+      },
+      {
+        "name": "Libellé initial",
+        "feedsModel": "details[\"Libellé initial\"] si différent du titre"
+      },
+      {
+        "name": "Style détaillé",
+        "feedsModel": "details.Style"
+      },
+      {
+        "name": "Technique détaillée",
+        "feedsModel": "details.Technique"
+      },
+      {
+        "name": "Époque / contexte",
+        "feedsModel": "tags + details.Époque"
+      },
+      {
+        "name": "Ambiance",
+        "feedsModel": "tags (valeurs séparées par « , ») + details.Ambiance"
+      },
+      {
+        "name": "Composition / cadrage",
+        "feedsModel": "details.Composition"
+      },
+      {
+        "name": "Sujet / action",
+        "feedsModel": "details.Sujet"
+      },
+      {
+        "name": "Décor",
+        "feedsModel": "details.Décor"
+      },
+      {
+        "name": "Couleurs / lumière",
+        "feedsModel": "details[\"Lumière et couleurs\"]"
+      },
+      {
+        "name": "Format détaillé",
+        "feedsModel": "details.Format"
+      },
+      {
+        "name": "Orientation mentionnée",
+        "feedsModel": "orientation (si non contradictoire)"
+      },
+      {
+        "name": "Fichier mentionné",
+        "feedsModel": "details.Fichier"
+      },
+      {
+        "name": "Durée mentionnée",
+        "feedsModel": "non utilisée (vidéo)"
+      }
+    ],
+    "nature": {
+      "style": 210,
+      "prompt": 71,
+      "contenu non reconnu": 61,
+      "template": 41,
+      "technique": 40,
+      "note pédagogique": 1
+    },
+    "typeProposed": {
+      "Style": 210,
+      "Prompt": 71,
+      "À confirmer": 61,
+      "Template": 41,
+      "Technique": 40,
+      "Note": 1
+    },
+    "family": {
+      "À confirmer": 85,
+      "Photographie": 72,
+      "Illustration / dessin": 72,
+      "Anime / manga": 60,
+      "Peinture / gravure": 43,
+      "Design graphique": 30,
+      "3D / miniature": 29,
+      "Pixel art": 28,
+      "Mixte / expérimental": 5
+    },
+    "requiredReference": {
+      "À confirmer": 411,
+      "Oui": 13
+    }
+  },
+  "texts": {
+    "rows": 837,
+    "columns": [
+      {
+        "name": "Texte_ID",
+        "feedsModel": "variants[].id / prompt principal"
+      },
+      {
+        "name": "Entrée_ID",
+        "feedsModel": "relation vers CATALOGUE"
+      },
+      {
+        "name": "Rôle",
+        "feedsModel": "variants[].role (Original → prompt ; Variante → variant ; Brique → brick)"
+      },
+      {
+        "name": "Texte intégral",
+        "feedsModel": "prompt / variants[].prompt"
+      },
+      {
+        "name": "Langue proposée",
+        "feedsModel": "language"
+      }
+    ],
+    "roles": {
+      "Original": 420,
+      "Brique recomposable": 374,
+      "Fragment non rattaché": 16,
+      "Variante (libellé SORA, non vérifié)": 14,
+      "Variante (libellé Gemini, non vérifié)": 13
+    },
+    "nature": {
+      "prompt": 420,
+      "fragment": 390,
+      "variante": 27
+    },
+    "languages": {
+      "À confirmer": 686,
+      "Anglais": 125,
+      "Français": 26
+    }
+  },
+  "identifiers": {
+    "entryIds": 424,
+    "uniqueEntryIds": 424,
+    "duplicatedEntryIds": [],
+    "textIds": 837,
+    "uniqueTextIds": 837,
+    "duplicatedTextIds": []
+  },
+  "relations": {
+    "textsPerEntryOriginals": {
+      "0": 4,
+      "1": 420
+    },
+    "entriesWithoutResolvableMainText": [],
+    "entriesWhoseMainTextIsNotRoleOriginal": [
+      "ENT-AL3V4BRK",
+      "ENT-E03JPXT6",
+      "ENT-VGGENCHH",
+      "ENT-WM2W4NB8"
+    ],
+    "orphanTexts": [
+      {
+        "id": "TXT-8PXWPX3V",
+        "role": "Fragment non rattaché",
+        "row": 11
+      },
+      {
+        "id": "TXT-SUGZGA0X",
+        "role": "Fragment non rattaché",
+        "row": 14
+      },
+      {
+        "id": "TXT-XU3RWM8S",
+        "role": "Fragment non rattaché",
+        "row": 15
+      },
+      {
+        "id": "TXT-0ELB69MF",
+        "role": "Fragment non rattaché",
+        "row": 26
+      },
+      {
+        "id": "TXT-UMDSVOXQ",
+        "role": "Fragment non rattaché",
+        "row": 35
+      },
+      {
+        "id": "TXT-RDQMVQ17",
+        "role": "Fragment non rattaché",
+        "row": 179
+      },
+      {
+        "id": "TXT-8YPLMZDJ",
+        "role": "Fragment non rattaché",
+        "row": 204
+      },
+      {
+        "id": "TXT-W04TR0SX",
+        "role": "Fragment non rattaché",
+        "row": 275
+      },
+      {
+        "id": "TXT-CSMNDURB",
+        "role": "Fragment non rattaché",
+        "row": 335
+      },
+      {
+        "id": "TXT-X8U2K4N2",
+        "role": "Fragment non rattaché",
+        "row": 398
+      },
+      {
+        "id": "TXT-1XRESQCB",
+        "role": "Fragment non rattaché",
+        "row": 420
+      },
+      {
+        "id": "TXT-WWWUB0EJ",
+        "role": "Fragment non rattaché",
+        "row": 423
+      },
+      {
+        "id": "TXT-FWLDR2SC",
+        "role": "Fragment non rattaché",
+        "row": 464
+      },
+      {
+        "id": "TXT-U1AVD812",
+        "role": "Fragment non rattaché",
+        "row": 467
+      },
+      {
+        "id": "TXT-C54KAUN7",
+        "role": "Fragment non rattaché",
+        "row": 523
+      },
+      {
+        "id": "TXT-GJ1SFA8X",
+        "role": "Fragment non rattaché",
+        "row": 704
+      }
+    ],
+    "textsPointingToUnknownEntry": [],
+    "guideLinks": {
+      "MÉTHODE IMAGE 10 BLOCS": 5
+    }
+  },
+  "statusMarkers": {
+    "CATALOGUE.Référence requise": 411,
+    "CATALOGUE.Usages proposés": 296,
+    "CATALOGUE.Famille proposée": 85,
+    "CATALOGUE.Type proposé": 61,
+    "CATALOGUE.Modalité proposée": 6,
+    "TEXTES.Rôle": 27,
+    "TEXTES.Langue proposée": 686
+  },
+  "incomplete": {
+    "entriesWithoutCategory": 73,
+    "entriesWithPlaceholderFamily": 85,
+    "entriesWithoutTitle": 0,
+    "entriesWithoutMainText": 0,
+    "textsWithEmptyBody": 0,
+    "textsWithUnknownLanguage": 686
+  },
+  "multiValuedColumns": {
+    "Description de travail": 41,
+    "Usages proposés": 30,
+    "Orientation mentionnée": 6,
+    "Ratio explicite": 2,
+    "Fichier mentionné": 1,
+    "Format détaillé": 7,
+    "Style détaillé": 2,
+    "Ambiance": 1,
+    "Sujet / action": 1,
+    "Couleurs / lumière": 1
+  },
+  "longTextColumns": [
+    {
+      "column": "TEXTES.Texte intégral",
+      "maxLength": 10438,
+      "over1000Chars": 23
+    }
+  ],
+  "images": "Aucune colonne d’image ni d’URL d’image : les fiches Excel n’ont pas de visuel (à ajouter dans imports/images/<id>.jpg|png|webp).",
+  "instructionOrNoteColumns": [
+    "Description de travail (consignes génériques + descriptions réelles)",
+    "Guide associé (renvoi vers la feuille de méthode)",
+    "RÉFÉRENTIELS / MÉTHODE IMAGE 10 BLOCS : feuilles de consignes, non importées"
+  ],
+  "statusRulesApplied": {
+    "Type = Prompt": "to-test si prompt/titre/catégorie présents, sinon to-confirm",
+    "Type = Template / Style / Technique": "to-confirm (brique ou modèle, pas une fiche de galerie)",
+    "Type = Note": "hidden (note pédagogique)",
+    "Type = À confirmer": "to-confirm",
+    "Texte sans Entrée_ID": "non importé comme fiche (cité dans le rapport d’import)"
+  }
+}

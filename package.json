@@ -1,0 +1,50 @@
+{
+  "name": "prompt-library",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "axe-core": "^4.14.0",
+    "playwright": "^1.64.1",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5",
+    "xlsx": "^0.18.5"
+  },
+  "description": "Bibliothèque personnelle de prompts pour la création d'images",
+  "engines": {
+    "node": ">=22.21"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run validate && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "check:build": "node scripts/check-build.mts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "a11y": "node scripts/a11y-check.mts",
+    "inspect:source": "node --use-env-proxy --no-warnings scripts/inspect-source.mts",
+    "inspect:excel": "node scripts/inspect-excel.mts",
+    "import:external:sample": "node --use-env-proxy --no-warnings scripts/import-external.mts",
+    "import:external": "node --use-env-proxy --no-warnings scripts/import-external.mts --full",
+    "import:excel:sample": "node scripts/import-excel.mts",
+    "import:excel": "node scripts/import-excel.mts --full",
+    "optimize:images": "node scripts/optimize-images.mts",
+    "normalize": "node scripts/normalize.mts",
+    "merge": "node scripts/merge.mts",
+    "detect:duplicates": "node scripts/detect-duplicates.mts",
+    "validate": "node scripts/validate-library.mts",
+    "generate": "node scripts/generate-library.mts",
+    "refresh": "node scripts/import-excel.mts && node scripts/optimize-images.mts && node scripts/normalize.mts && node scripts/merge.mts && node scripts/detect-duplicates.mts && node scripts/validate-library.mts --input=generated/merged.json && node scripts/generate-library.mts && node scripts/validate-library.mts",
+    "refresh:full": "node scripts/import-excel.mts --full && node scripts/optimize-images.mts --full && node scripts/normalize.mts --full && node scripts/merge.mts && node scripts/detect-duplicates.mts && node scripts/validate-library.mts --input=generated/merged.json && node scripts/generate-library.mts && node scripts/validate-library.mts"
+  }
+}

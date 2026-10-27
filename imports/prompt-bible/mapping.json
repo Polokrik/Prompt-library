@@ -1,0 +1,19 @@
+{
+  "_doc": "Corrections éditoriales persistantes (jamais écrasées par un import). Clé = id de la fiche. Les clés commençant par _ sont ignorées.",
+  "_exemple": {
+    "ENT-XXXXXXXX": {
+      "status": "to-test",
+      "title": "Titre corrigé",
+      "description": "Une phrase de description.",
+      "categories": ["Portrait", "Matières"],
+      "tags": ["verre", "irisé"],
+      "orientation": "portrait",
+      "language": "en",
+      "requiresReference": false,
+      "image": { "alt": "Texte alternatif de l’image ajoutée dans imports/images/" },
+      "hiddenReason": "Raison du masquage",
+      "canonicalId": "ENT-YYYYYYYY",
+      "collectionIds": ["maitriser-la-lumiere"]
+    }
+  }
+}

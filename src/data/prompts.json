@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "ENT-VNHZB48D",
+    "title": "1970s panda train",
+    "prompt": "1970s-style black & white ultra-realistic photo of a panda worker in a train",
+    "description": "Scène photographique : panda cheminot dans un train des années 1970.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Scène / paysage"
+    ],
+    "tags": [
+      "Nostalgique",
+      "documentaire",
+      "Années 1970"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-IMDQ1M8A",
+        "prompt": "Panda portant un uniforme de cheminot vintage avec casquette à visière. Il se tient debout dans l'allée centrale d'un wagon rétro, vérifiant une montre à gousset ou poinçonnant un billet. Éclairage intérieur symétrique, profondeur de champ modérée. Vue en contre-plongée.",
+        "language": "fr",
+        "label": "Variante (libellé Gemini, non vérifié)",
+        "role": "variant"
+      },
+      {
+        "id": "TXT-UK2N6HPO",
+        "prompt": "Ultra-realistic 1970s-style black and white photograph of an anthropomorphic panda dressed as a blue-collar train worker, sitting inside a vintage passenger train. The panda wears a worn work jacket, flat cap, and gloves, gazing thoughtfully out the window. The train interior features retro vinyl seats, wood paneling, and overhead luggage racks, softly lit by natural light filtering through dusty windows. Shot on a Leica M4 with a 50mm lens, shallow depth of field, and grainy Kodak Tri-X 400 film. The photo has a gritty, documentary aesthetic, capturing texture-rich fur, wrinkled fabric, and ambient dust in the air — evoking the tone of classic street photography from the 1970s.",
+        "language": "en",
+        "label": "Variante (libellé SORA, non vérifié)",
+        "role": "variant"
+      },
+      {
+        "id": "TXT-ZAK1RIE8",
+        "prompt": "1970s black & white ultra-realistic panda worker in train",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Black & white photography, ultra-realistic",
+      "Technique": "Analog film, high detail",
+      "Époque": "Années 1970",
+      "Ambiance": "Nostalgique, documentaire",
+      "Composition": "Plan train intérieur, assis ou debout",
+      "Sujet": "Panda travailleur dans le train",
+      "Décor": "Intérieur de wagon ancien",
+      "Lumière et couleurs": "Noir et blanc contrasté",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-VNHZB48D",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-348NIYT0",
+    "title": "8-bit style",
+    "prompt": "8-bit pixel art, bitmap, NES/SNES",
+    "status": "to-confirm",
+    "categories": [
+      "Pixel art"
+    ],
+    "tags": [
+      "Rétro",
+      "ludique",
+      "Années 80-90"
+    ],
+    "ratio": "1:1",
+    "kind": "style",
+    "variants": [
+      {
+        "id": "TXT-N8C6UT5F",
+        "prompt": "8-bit art, NES/SNES bitmap, pixel isolated",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Pixel art, NES/SNES",
+      "Technique": "Bitmap, low-res",
+      "Époque": "Années 80-90",
+      "Ambiance": "Rétro, ludique",
+      "Composition": "Vue frontale, icône simplifiée",
+      "Sujet": "Personnages/objets pixelisés",
+      "Décor": "Fond simplifié ou uni",
+      "Lumière et couleurs": "Palette 8-bit limitée",
+      "Format": "Format carré / 1:1"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-348NIYT0",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-22XO7WI9",
+    "title": "90s Anime classic",
+    "prompt": "90s / Digimon / YuYu Hakusho",
+    "status": "to-confirm",
+    "categories": [
+      "Anime / manga"
+    ],
+    "tags": [
+      "Héroïque",
+      "nostalgique",
+      "Années 90"
+    ],
+    "kind": "style",
+    "variants": [
+      {
+        "id": "TXT-YWAGP9EM",
+        "prompt": "Digimon / YuYu Hakusho anime style",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Anime japonais",
+      "Technique": "Fine anime art",
+      "Époque": "Années 90",
+      "Ambiance": "Héroïque, nostalgique",
+      "Composition": "Duo / Team pose, anime",
+      "Sujet": "Personnages stylisés",
+      "Décor": "Environnements urbains / fantasy",
+      "Lumière et couleurs": "Couleurs anime rétro",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-22XO7WI9",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-S91YWLSX",
+    "title": "African throne logo",
+    "prompt": "an african throne as a flat logo with dark emerald and light azure color, black panther reference",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Logo / identité"
+    ],
+    "tags": [
+      "Symbolique",
+      "élégant",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-TZ2UZU6T",
+        "prompt": "Flat logo African throne, emerald-azure, panther style",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Flat logo design",
+      "Technique": "Logo vectoriel",
+      "Époque": "Contemporain",
+      "Ambiance": "Symbolique, élégant",
+      "Composition": "Composition symétrique isolée",
+      "Sujet": "Trône africain stylisé",
+      "Décor": "Arrière-plan neutre",
+      "Lumière et couleurs": "Couleurs emerald, azure, noir",
+      "Format": "Format PNG / logo",
+      "Fichier": "PNG"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-S91YWLSX",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-7M1X64BM",
+    "title": "AI Fibonacci spiral",
+    "prompt": "A dark vibrant Fibonacci spiral made of tessellating green translucent pixels forming beautiful face of artificial intelligence, mesmerizing and fascinating, surreal, abstract, psychedelic, intense interplay of light and shadows, in the style of android jones, grzegorz domaradzki and alena aenami, 8k —ar 9:16 —v 5.2 —s 250, Broken Glass effect, no background, stunning, something that even doesn’t exist, mythical being, energy, molecular, textures, iridescent and luminescent scales, breathtaking beauty, pure perfection, divine presence, unforgettable, impressive, breathtaking beauty, Volumetric light, auras, rays, vivid colors reflects",
+    "status": "to-test",
+    "categories": [
+      "Mixte / expérimental"
+    ],
+    "tags": [
+      "Surreal",
+      "mystique",
+      "vibrant",
+      "Contemporain / Futuriste"
+    ],
+    "orientation": "portrait",
+    "language": "en",
+    "ratio": "9:16",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-1AES17QL",
+        "prompt": "AI fractal spiral, luminescent face, psychedelic, Android Jones style",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Abstract AI art, Android Jones, Domaradzki, Aenami",
+      "Technique": "Glowing textures, glass fractals",
+      "Époque": "Contemporain / Futuriste",
+      "Ambiance": "Surreal, mystique, vibrant",
+      "Composition": "Composition spirale, portrait fractal",
+      "Sujet": "Entité mythique IA abstraite",
+      "Décor": "Sans fond, fractales organiques",
+      "Lumière et couleurs": "Lumière volumétrique, iridescence",
+      "Format": "9:16 vertical"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-7M1X64BM",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-MI8WSEPA",
+    "title": "Akira GITS",
+    "prompt": "80s-90s, Akira / Ghost in the Shell",
+    "status": "to-confirm",
+    "categories": [
+      "Anime / manga"
+    ],
+    "tags": [
+      "Futuriste",
+      "dystopique",
+      "Années 80-90"
+    ],
+    "kind": "style",
+    "variants": [
+      {
+        "id": "TXT-7DU9UUAD",
+        "prompt": "Aakira / Ghost in the Shell cyberpunk style",
+        "language": "en",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Cyberpunk anime",
+      "Technique": "Animation japonaise",
+      "Époque": "Années 80-90",
+      "Ambiance": "Futuriste, dystopique",
+      "Composition": "Scènes urbaines futuristes",
+      "Sujet": "Personnages cyber-enhanced",
+      "Décor": "City neon dystopia",
+      "Lumière et couleurs": "Néons, contraste élevé",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-MI8WSEPA",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-9TE97400",
+    "title": "Alberto Vargas",
+    "prompt": "Alberto Vargas",
+    "status": "to-confirm",
+    "categories": [],
+    "tags": [
+      "Glamour",
+      "rétro",
+      "Années 40-60"
+    ],
+    "orientation": "portrait",
+    "kind": "style",
+    "variants": [
+      {
+        "id": "TXT-SRYBPX5D",
+        "prompt": "Alberto Vargas pin-up style",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Vintage pin-up",
+      "Technique": "Vargas pin-up style",
+      "Époque": "Années 40-60",
+      "Ambiance": "Glamour, rétro",
+      "Composition": "Illustration pin-up",
+      "Sujet": "Personnage féminin glamour",
+      "Décor": "Fond clair neutre",
+      "Lumière et couleurs": "Tons doux, vintage",
+      "Format": "Format vertical"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-9TE97400",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Prompt très court : ressemble à un fragment",
+      "Catégorie absente"
+    ]
+  },
+  {
+    "id": "ENT-JINHFHYN",
+    "title": "Alien photoreal",
+    "prompt": "Photorealistic, detailed, insect-like alien with a long neck… staring into camera",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Étrange",
+      "captivant",
+      "Contemporain"
+    ],
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-T0PERYGF",
+        "prompt": "Photorealistic detailed alien staring into camera",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Photorealistic sci-fi",
+      "Technique": "Photo réaliste créature",
+      "Époque": "Contemporain",
+      "Ambiance": "Étrange, captivant",
+      "Composition": "Portrait centré frontal",
+      "Sujet": "Alien insectoïde détaillé",
+      "Décor": "Fond neutre ou sombre",
+      "Lumière et couleurs": "Noir, gris, peau texturée",
+      "Format": "Format portrait"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-JINHFHYN",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-4R4PLCHM",
+    "title": "Aliens poster",
+    "prompt": "Movie poster for Aliens with text LIVE LAUGH LOVE… Moebius and synthwave, typography, cinematic",
+    "status": "to-test",
+    "categories": [
+      "Design graphique",
+      "Affiche / éditorial"
+    ],
+    "tags": [
+      "Satirique",
+      "futuriste",
+      "Contemporain"
+    ],
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-NAREE6VT",
+        "prompt": "Aliens poster synthwave Moebius style with Live Laugh Love",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Moebius + synthwave",
+      "Technique": "Poster digital illustration",
+      "Époque": "Contemporain",
+      "Ambiance": "Satirique, futuriste",
+      "Composition": "Poster cinéma stylisé",
+      "Sujet": "Aliens + message ironique",
+      "Décor": "Espace, néons, métal",
+      "Lumière et couleurs": "Liquide métal, couleurs néon",
+      "Format": "Format poster"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-4R4PLCHM",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-DDM3W2A6",
+    "title": "Andrew Wyeth",
+    "prompt": "Andrew Wyeth",
+    "status": "to-confirm",
+    "categories": [
+      "Peinture / gravure"
+    ],
+    "tags": [
+      "Mélancolique",
+      "rural",
+      "Années 40-60"
+    ],
+    "kind": "style",
+    "variants": [
+      {
+        "id": "TXT-BJRGIGST",
+        "prompt": "Andrew Wyeth painting style",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Style Andrew Wyeth",
+      "Technique": "Peinture réaliste, texture visuelle",
+      "Époque": "Années 40-60",
+      "Ambiance": "Mélancolique, rural",
+      "Composition": "Composition figurative naturelle",
+      "Sujet": "Personnages ou paysages réalistes",
+      "Décor": "Lieux ruraux, intérieurs sobres",
+      "Lumière et couleurs": "Lumière naturelle douce",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-DDM3W2A6",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Prompt très court : ressemble à un fragment"
+    ]
+  },
+  {
+    "id": "ENT-7FT7R3CU",
+    "title": "AR annotation template",
+    "prompt": "you are a location-based AR experience generator. highlight [point of interest] in this image and annotate relevant information about it.",
+    "status": "to-confirm",
+    "categories": [],
+    "tags": [
+      "Informative",
+      "interactive",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "template",
+    "variants": [
+      {
+        "id": "TXT-P3OWXY61",
+        "prompt": "AR template: annotate point of interest",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Template AR annotation",
+      "Technique": "AR overlay digital",
+      "Époque": "Contemporain",
+      "Ambiance": "Informative, interactive",
+      "Composition": "Vue image annotée",
+      "Sujet": "Non applicable",
+      "Décor": "Paysage réel avec annotations",
+      "Lumière et couleurs": "Couleurs neutres overlay",
+      "Format": "Format AR"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-7FT7R3CU",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Catégorie absente"
+    ]
+  },
+  {
+    "id": "ENT-SWA7C16G",
+    "title": "Artificial",
+    "prompt": "Artificial lighting",
+    "status": "to-confirm",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Variable selon scène",
+      "Neutre"
+    ],
+    "kind": "technique",
+    "variants": [
+      {
+        "id": "TXT-A0RB6OUI",
+        "prompt": "Artificial lighting source",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Éclairage artificiel",
+      "Technique": "Lumière artificielle",
+      "Époque": "Neutre",
+      "Ambiance": "Variable selon scène",
+      "Composition": "Non défini",
+      "Sujet": "Non défini",
+      "Décor": "Non défini",
+      "Lumière et couleurs": "Lumières artificielles",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-SWA7C16G",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Prompt très court : ressemble à un fragment"
+    ]
+  },
+  {
+    "id": "ENT-BG3NC4DI",
+    "title": "Ascends",
+    "prompt": "Ascends : mouvement vers le haut, élévation",
+    "status": "to-confirm",
+    "categories": [],
+    "tags": [
+      "Élevé",
+      "libérateur",
+      "Neutre"
+    ],
+    "kind": "technique",
+    "variants": [
+      {
+        "id": "TXT-SN9ATL1I",
+        "prompt": "Ascends visual effect: rising upward",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Concept de mouvement",
+      "Technique": "Ascension visuelle",
+      "Époque": "Neutre",
+      "Ambiance": "Élevé, libérateur"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-BG3NC4DI",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Catégorie absente"
+    ]
+  },
+  {
+    "id": "ENT-VDGPV5ZG",
+    "title": "Baby Rambo",
+    "prompt": "Baby Rambo equipped with weapons, comedy, hyper-realistic, vibrant",
+    "status": "to-confirm",
+    "categories": [
+      "3D / miniature"
+    ],
+    "tags": [
+      "Comique",
+      "exagéré",
+      "Contemporain"
+    ],
+    "variants": [
+      {
+        "id": "TXT-P5O9OM3G",
+        "prompt": "Baby Rambo hyper-realistic vibrant funny",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Hyper-realistic 3D",
+      "Technique": "Photorealism, cinematic",
+      "Époque": "Contemporain",
+      "Ambiance": "Comique, exagéré",
+      "Composition": "Portrait ou action",
+      "Sujet": "Humorous baby armed",
+      "Décor": "Décor militaire ou neutre",
+      "Lumière et couleurs": "Couleurs vives",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-VDGPV5ZG",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Type de contenu à confirmer dans l’Excel",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-VJ2MM1K1",
+    "title": "Back lit",
+    "prompt": "Back lit : éclairage par l’arrière, halo ou silhouette",
+    "status": "to-confirm",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Éthéré",
+      "silhouette",
+      "Contemporain, dramatique"
+    ],
+    "kind": "technique",
+    "variants": [
+      {
+        "id": "TXT-RPWN07I1",
+        "prompt": "Backlit silhouette effect",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Technique éclairage",
+      "Technique": "Backlighting",
+      "Époque": "Contemporain, dramatique",
+      "Ambiance": "Éthéré, silhouette",
+      "Composition": "Portrait ou scène scène",
+      "Sujet": "Humains, arbres, objets",
+      "Décor": "Halo, lumière derrière",
+      "Lumière et couleurs": "Silhouette contrastée",
+      "Format": "Format cinématique"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-VJ2MM1K1",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-DD4556UF",
+    "title": "Beatles on moon",
+    "prompt": "film still kodak instamatic… Beatles on the moon, morning light, stars",
+    "status": "to-confirm",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Magique",
+      "nostalgique",
+      "Années 1970"
+    ],
+    "orientation": "landscape",
+    "variants": [
+      {
+        "id": "TXT-OB7H42QC",
+        "prompt": "Beatles on the moon Kodak film still",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Kodak Instamatic film",
+      "Technique": "Vintage photographie",
+      "Époque": "Années 1970",
+      "Ambiance": "Magique, nostalgique",
+      "Composition": "Low angle wide scene",
+      "Sujet": "Beatles sur la lune",
+      "Décor": "Lune, étoiles, horizon",
+      "Lumière et couleurs": "Early morning warm light",
+      "Format": "Format horizontal"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-DD4556UF",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Type de contenu à confirmer dans l’Excel",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-5UZ6YSAI",
+    "title": "Bicolor cigarette man",
+    "prompt": "a bicolor drawing representing a man sitting on chair and smoking a cigarette",
+    "status": "to-confirm",
+    "categories": [
+      "Illustration / dessin"
+    ],
+    "tags": [
+      "Calme",
+      "introspectif",
+      "Non défini"
+    ],
+    "language": "en",
+    "variants": [
+      {
+        "id": "TXT-E32OBBC5",
+        "prompt": "Bicolor minimalistic drawing of man smoking",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Dessin bicolore, minimaliste",
+      "Technique": "Ink drawing, graphite",
+      "Époque": "Non défini",
+      "Ambiance": "Calme, introspectif",
+      "Composition": "Plan assis, profil",
+      "Sujet": "Homme fumant assis",
+      "Décor": "Chaise, décor neutre",
+      "Lumière et couleurs": "Deux tons (bicolore)",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-5UZ6YSAI",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Type de contenu à confirmer dans l’Excel",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-CALDO3XH",
+    "title": "Big tech illustration",
+    "prompt": "big tech crée une ambiance avec de nombreuses personnes png white background, group training and workshops, in the style of big tech illustrations, office atmosphere, full body, text-based --style raw",
+    "status": "to-test",
+    "categories": [
+      "Design graphique"
+    ],
+    "tags": [
+      "Corporate",
+      "éducatif",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-N14LKOOH",
+        "prompt": "Big tech office training illustration, flat design",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Big tech flat illustration",
+      "Technique": "Flat vector style",
+      "Époque": "Contemporain",
+      "Ambiance": "Corporate, éducatif",
+      "Composition": "Scène de groupe bureau",
+      "Sujet": "Personnes en formation",
+      "Décor": "Bureau, espace neutre",
+      "Lumière et couleurs": "Fond blanc, flat colors",
+      "Format": "PNG transparent",
+      "Fichier": "PNG"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-CALDO3XH",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-MWGRGZKG",
+    "title": "Burning Volvo photo",
+    "prompt": "Cinematic, grainy analog photo of a burning volvo 240 in the forest, night winter",
+    "status": "to-test",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Nostalgique",
+      "dramatique",
+      "Contemporain"
+    ],
+    "orientation": "landscape",
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-MKAMZXR2",
+        "prompt": "Cinematic analog photo burning Volvo 240",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Analog cinematic photo",
+      "Technique": "Grainy film, vintage photo",
+      "Époque": "Contemporain",
+      "Ambiance": "Nostalgique, dramatique",
+      "Composition": "Cadrage cinématographique voiture en feu",
+      "Sujet": "Voiture Volvo en feu",
+      "Décor": "Forêt, nuit, hiver",
+      "Lumière et couleurs": "Lumière feu, faible lumière",
+      "Format": "Format horizontal"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-MWGRGZKG",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-2KVTXUFV",
+    "title": "BW portrait face",
+    "prompt": "contrast close portrait of my face… black and white closeup, water droplets, wet hair, ratio 4:3",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait"
+    ],
+    "tags": [
+      "Intense",
+      "introspectif"
+    ],
+    "ratio": "4:3",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-OVYJOCAY",
+        "prompt": "Black-and-white dramatic portrait close-up",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Portrait noir et blanc",
+      "Technique": "Photographie 35mm",
+      "Ambiance": "Intense, introspectif",
+      "Composition": "Close-up visage, ratio 4:3",
+      "Sujet": "Visage, regard fier",
+      "Décor": "Fond noir, profil ombré",
+      "Lumière et couleurs": "Eau, contraste, N&B",
+      "Format": "4:3 portrait"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-2KVTXUFV",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-Z1HKI1TU",
+    "title": "Capture ecran",
+    "prompt": "capture d’écran de <sujet>",
+    "status": "to-confirm",
+    "categories": [
+      "Interface"
+    ],
+    "tags": [
+      "Neutre"
+    ],
+    "kind": "template",
+    "variants": [
+      {
+        "id": "TXT-9BHXY4KS",
+        "prompt": "Screenshot of <sujet>",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Ambiance": "Neutre",
+      "Composition": "Composition écran",
+      "Sujet": "Objet principal capturé",
+      "Décor": "Écran ou interface",
+      "Lumière et couleurs": "Neutre",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-Z1HKI1TU",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-JQ4CSYJP",
+    "title": "Champs électromagnétiques",
+    "prompt": "<sujet> entouré de champs électromagnétiques",
+    "status": "to-confirm",
+    "categories": [],
+    "tags": [
+      "Expérimental",
+      "Illustration technique ou scientifique"
+    ],
+    "kind": "template",
+    "variants": [
+      {
+        "id": "TXT-BXD8V6OP",
+        "prompt": "<sujet> surrounded by electromagnetic fields",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Époque": "Illustration technique ou scientifique",
+      "Ambiance": "Expérimental",
+      "Composition": "Composition centrée",
+      "Sujet": "Sujet au centre, champs en rayonnement",
+      "Décor": "Arrière-plan neutre",
+      "Lumière et couleurs": "Lignes lumineuses, champs d’énergie",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-JQ4CSYJP",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Catégorie absente"
+    ]
+  },
+  {
+    "id": "ENT-020LFBMH",
+    "title": "Collodion portrait",
+    "prompt": "Collodion Process a solemn portrait of a Victorian lady in her elaborate attire…",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait"
+    ],
+    "tags": [
+      "Solennel",
+      "mélancolique",
+      "Ère victorienne"
+    ],
+    "orientation": "portrait",
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-TS3A7CF9",
+        "prompt": "Victorian collodion portrait",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Collodion process portrait",
+      "Technique": "Photographie ancienne, Deardorff",
+      "Époque": "Ère victorienne",
+      "Ambiance": "Solennel, mélancolique",
+      "Composition": "Portrait posé victorien",
+      "Sujet": "Dame en tenue victorienne",
+      "Décor": "Intérieur ancien, rideaux",
+      "Lumière et couleurs": "Lumière fenêtre douce",
+      "Format": "Format vertical"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-020LFBMH",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-BSFK2T1X",
+    "title": "Collodion Process scene",
+    "prompt": "À partir de cette photo de référence d’un homme souriant sur une plage, avec des lunettes de soleil, une barbe courte et un t-shirt blanc, recréer le même portrait comme s’il avait été réalisé avec un procédé photographique au collodion humide sur plaque.\nConserver la pose, le sourire, les lunettes et la composition générale, mais traduire le tout dans un rendu photo ancien : monochrome ou légèrement sépia, contraste fort, zones brûlées et ombres profondes.\nAjouter les caractéristiques du collodion : vignettage autour de l’image, bords légèrement flous, micro-défauts, rayures fines, taches et irrégularités chimiques sur la surface.\nLe fond de plage devient un arrière-plan peu détaillé, presque fantomatique, avec un ciel très clair et un sol sombre.\nRendu comme une photographie ancienne sur plaque de verre ou métal, haute définition, sans watermark.",
+    "status": "to-test",
+    "categories": [
+      "Photographie",
+      "Portrait",
+      "Scène / paysage"
+    ],
+    "tags": [],
+    "language": "fr",
+    "requiresReference": true,
+    "kind": "prompt",
+    "variants": [],
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-BSFK2T1X",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-PS3I6RUJ",
+    "title": "Collodion Process scene",
+    "prompt": "Collodion Process [Scene description], captured with a vintage Deardorff 8x10 camera, evoking a sense of nostalgia akin to early works of photography, [Weather and lighting]",
+    "status": "to-confirm",
+    "categories": [
+      "Photographie",
+      "Scène / paysage"
+    ],
+    "tags": [
+      "Nostalgique",
+      "historique",
+      "Fin XIXe"
+    ],
+    "orientation": "portrait",
+    "language": "en",
+    "kind": "template",
+    "variants": [
+      {
+        "id": "TXT-CKVI8EVK",
+        "prompt": "Collodion style photography vintage scene",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Collodion process",
+      "Technique": "Photographie ancienne, vintage",
+      "Époque": "Fin XIXe",
+      "Ambiance": "Nostalgique, historique",
+      "Composition": "Portrait ou scène ancienne",
+      "Sujet": "Non défini",
+      "Décor": "Décor vintage, flou artistique",
+      "Lumière et couleurs": "Vieille lumière naturelle",
+      "Format": "Format vertical"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-PS3I6RUJ",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-B3BOSE7X",
+    "title": "Color wash",
+    "prompt": "Color wash : lumière colorée uniforme sur tout l’espace",
+    "status": "to-confirm",
+    "categories": [
+      "Photographie"
+    ],
+    "tags": [
+      "Coloré",
+      "immersif",
+      "Contemporain"
+    ],
+    "kind": "technique",
+    "variants": [
+      {
+        "id": "TXT-IUGB3AWP",
+        "prompt": "Color wash immersive light",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Technique éclairage",
+      "Technique": "Color wash artistique",
+      "Époque": "Contemporain",
+      "Ambiance": "Coloré, immersif",
+      "Composition": "Scène large",
+      "Sujet": "Non spécifique",
+      "Décor": "Fond uniforme coloré",
+      "Lumière et couleurs": "Couleurs saturées, monochromes",
+      "Format": "Format scène"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-B3BOSE7X",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-9V2RPIUY",
+    "title": "Conseil maquette site",
+    "prompt": "Si vous souhaitez trouver des sources d'inspiration…",
+    "description": "Conseil ou note à conserver hors des prompts exécutables.",
+    "status": "hidden",
+    "categories": [],
+    "tags": [
+      "Informative",
+      "pédagogique",
+      "Neutre"
+    ],
+    "kind": "note",
+    "variants": [
+      {
+        "id": "TXT-ILYE22HF",
+        "prompt": "Tip: Describe elements for mockup inspiration",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Note méthodologique",
+      "Technique": "Conseil design UX",
+      "Époque": "Neutre",
+      "Ambiance": "Informative, pédagogique",
+      "Composition": "Non applicable",
+      "Sujet": "Non applicable",
+      "Décor": "Non applicable",
+      "Lumière et couleurs": "Non applicable",
+      "Format": "Format libre"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-9V2RPIUY",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "hiddenReason": "Note pédagogique, conservée dans les données mais non publiée",
+    "reviewNotes": [
+      "Note pédagogique : pas une fiche de galerie",
+      "Catégorie absente"
+    ]
+  },
+  {
+    "id": "ENT-9B7NNCI0",
+    "title": "Create coffee cup design",
+    "prompt": "Create a coffee cup for a brand called “we like coffee” use a geometric design, with modern font and colors. Make it a transparent PNG",
+    "status": "to-test",
+    "categories": [
+      "Produit / publicité",
+      "Logo / identité"
+    ],
+    "tags": [],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-W0IZ0CSP",
+        "prompt": "Geometric coffee cup design, branding, modern font, transparent PNG",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Geometric design, branding",
+      "Technique": "Flat graphic, PNG transparent",
+      "Composition": "Composition produit isolé",
+      "Sujet": "Logo, typographie moderne",
+      "Décor": "Arrière-plan transparent",
+      "Lumière et couleurs": "Palette moderne, branding",
+      "Format": "PNG transparent",
+      "Fichier": "PNG"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-9B7NNCI0",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-UFA9K2FD",
+    "title": "Cyberpunk cat poster",
+    "prompt": "Cat looking at the sun and ‘on top of the world, cyberpunk poster, in the style of Erik Jones, social media portraiture, sparth, vibrant color fields, graffiti and street art, highly detailed figures, hyper-detailed",
+    "status": "to-test",
+    "categories": [
+      "Peinture / gravure",
+      "Portrait",
+      "Affiche / éditorial"
+    ],
+    "tags": [
+      "Futuriste",
+      "vibrant",
+      "urbain",
+      "Contemporain"
+    ],
+    "language": "en",
+    "kind": "prompt",
+    "variants": [
+      {
+        "id": "TXT-X9L3WLYT",
+        "prompt": "Create a bold cyberpunk poster-style image expressing calm triumph and scale.\nVISUAL DESCRIPTION\nA solitary cat standing on the edge of a futuristic megacity rooftop, gazing into a massive glowing artificial sun on the horizon.\nThe city below is dense, abstracted, and futuristic, filled with neon towers and layered urban forms.\nSTYLE\nCyberpunk poster illustration with strong street-art and sci-fi concept art influence.\nBold graphic shapes mixed with painterly textures, graffiti marks, and mural-like composition.\nCOLOR & LIGHTING\nVibrant neon color fields — magenta, cyan, acid yellow, deep indigo.\nExtreme backlighting from the sun, glowing rim light around the cat, high contrast, luminous haze.\nCOMPOSITION\nLow-angle heroic view.\nCentered subject with a clean, powerful silhouette.\nDesigned to read instantly as a poster.\nDETAILING\nHyper-detailed fur and face on the cat.\nHighly detailed figure against a slightly abstracted city background for clarity.\nTONE / STORY\nQuiet victory.\n“On top of the world” expressed visually, not literally.\nOUTPUT\nVertical poster format, ultra-detailed, high-resolution, graphic yet cinematic.",
+        "language": "en",
+        "label": "Variante (libellé Gemini, non vérifié)",
+        "role": "variant"
+      },
+      {
+        "id": "TXT-ZHP2H22I",
+        "prompt": "A lone cat stands on the edge of a towering futuristic megacity rooftop at dawn.\nThe city stretches endlessly below, dense with glowing neon towers and holographic signage.\nAhead, an enormous artificial sun rises on the horizon, flooding the skyline with radiant light.\nThe cat looks upward, calm and confident — a quiet sense of triumph, as if it has reached the top of the world.\nThe visual style blends cyberpunk futurism with street-art energy: bold color fields, painterly textures, and graphic mural aesthetics inspired by sci-fi concept art and contemporary graffiti.\nVibrant neon magenta, cyan, acid yellow, and deep indigo dominate the palette.\nCinematography\nLow-angle heroic framing, emphasizing scale and dominance\nSlow, deliberate camera push-in toward the cat\nSubtle parallax in the city layers below\nLighting & Atmosphere\nIntense backlighting from the rising sun\nStrong glowing rim light outlining the cat\nVolumetric haze, light bloom, and soft lens flare\nFloating dust and atmospheric particles catching the light\nMotion\nThe cat’s fur gently moves in the wind\nNeon lights flicker softly across the city\nHolograms pulse faintly in the background\nMood\nEpic, contemplative, victorious — quiet power rather than aggression.\nA cinematic poster moment brought to life.",
+        "language": "en",
+        "label": "Variante (libellé SORA, non vérifié)",
+        "role": "variant"
+      },
+      {
+        "id": "TXT-ALOB9NSR",
+        "prompt": "Cyberpunk cat on rooftop poster, Erik Jones style",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Cyberpunk, Erik Jones, Sparth",
+      "Technique": "Street art, graffiti, digital painting",
+      "Époque": "Contemporain",
+      "Ambiance": "Futuriste, vibrant, urbain",
+      "Composition": "Poster portrait, personnage central",
+      "Sujet": "Chat cyberpunk stylisé",
+      "Décor": "Graffiti, néons, ville",
+      "Lumière et couleurs": "Lumière vive, couleurs vibrantes",
+      "Format": "Format poster"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-UFA9K2FD",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Image absente : fiche affichée sans visuel"
+    ]
+  },
+  {
+    "id": "ENT-WQBJLE2V",
+    "title": "Emoji personnalisé",
+    "prompt": "emoji personnalisé de <sujet>",
+    "status": "to-confirm",
+    "categories": [
+      "Design graphique"
+    ],
+    "tags": [
+      "Neutre",
+      "fun",
+      "Contemporain"
+    ],
+    "kind": "template",
+    "variants": [
+      {
+        "id": "TXT-XECQY1NY",
+        "prompt": "Custom emoji of <sujet>",
+        "label": "Brique recomposable",
+        "role": "brick"
+      }
+    ],
+    "details": {
+      "Style": "Flat emoji design",
+      "Technique": "Design vectoriel",
+      "Époque": "Contemporain",
+      "Ambiance": "Neutre, fun",
+      "Composition": "Composition simplifiée",
+      "Sujet": "<sujet> stylisé emoji",
+      "Décor": "Fond neutre ou rond",
+      "Lumière et couleurs": "Couleurs simples emoji",
+      "Format": "Format carré / PNG",
+      "Fichier": "PNG"
+    },
+    "source": {
+      "id": "prompt-bible",
+      "label": "Prompt Bible",
+      "originalId": "ENT-WQBJLE2V",
+      "importedAt": "2026-10-27T13:21:55.111Z"
+    },
+    "reviewNotes": [
+      "Brique ou modèle à recomposer : pas une fiche de galerie tant qu’un exemple abouti n’est pas associé (mapping : status)",
+      "Image absente : fiche affichée sans visuel"
+    ]
+  }
+]
