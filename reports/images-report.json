@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:57:20.687Z",
+  "generatedAt": "2026-10-28T08:57:25.175Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -15,7 +15,7 @@
   "processed": [],
   "skippedUnchanged": [],
   "invalid": [],
-  "absentForKnownEntries": 424,
+  "absentForKnownEntries": 1554,
   "absentSample": [
     "ENT-VNHZB48D",
     "ENT-348NIYT0",
@@ -71,7 +71,5 @@
   "heavyOutputs": [],
   "orphanSourceFiles": [],
   "warnings": [],
-  "notes": [
-    "Lot external absent : lancer npm run import:external:sample (accès réseau requis)"
-  ]
+  "notes": []
 }

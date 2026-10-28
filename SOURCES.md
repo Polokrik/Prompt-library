@@ -30,7 +30,13 @@ Le parcours (bibliothèque visuelle, fiches, copie du prompt) inspire ce projet 
 
 _Section générée par `npm run generate` à partir des rapports réels. Ne pas modifier à la main._
 
-Jeu de données actuellement publié : mode **full** — 424 fiche(s) au total.
+Jeu de données actuellement publié : mode **full** — 1554 fiche(s) au total.
+
+### La baie des images (`external-initial`)
+
+- Fiches dans la bibliothèque : 1130 (published : 0, to-test : 1130, to-confirm : 0, hidden : 0)
+- URL : https://vincentflibustier.com/imageia/#bibliotheque
+- Dernier import (date réelle) : 2026-10-28T08:57:24.065Z
 
 ### Prompt Bible (`prompt-bible`)
 
@@ -39,14 +45,15 @@ Jeu de données actuellement publié : mode **full** — 424 fiche(s) au total.
 
 ### Journal des imports
 
-- **external-initial** (sample) — 2026-10-27T13:32:45.387Z — **échec** : 0 entrée(s) importée(s) sur 0 analysée(s)
-  - Aucune source de données exploitable dans source.json (stratégie : unreachable).
-  - Voir reports/source-inspection.md et la procédure locale ; renseigner dataLocation et fieldMap si besoin.
+- **external-initial** (sample) — 2026-10-28T08:45:23.006Z — réussi : 30 entrée(s) importée(s) sur 1130 analysée(s)
+  - Prompts seulement : aucune image téléchargée (option --images pour les récupérer).
 - **prompt-bible** (sample) — 2026-10-27T15:35:08.100Z — réussi : 30 entrée(s) importée(s) sur 424 analysée(s)
   - Le classeur ne contient aucune image : toutes les fiches sont « sans image » tant que imports/images/<id>.* n’est pas alimenté.
   - 16 texte(s) sans Entrée_ID (fragments autonomes) non inclus dans le lot pilote ; ils ne deviennent pas des fiches.
-- **prompt-bible** (full) — 2026-10-27T15:57:20.442Z — réussi : 424 entrée(s) importée(s) sur 424 analysée(s)
+- **prompt-bible** (full) — 2026-10-28T08:57:24.953Z — réussi : 424 entrée(s) importée(s) sur 424 analysée(s)
   - Le classeur ne contient aucune image : toutes les fiches sont « sans image » tant que imports/images/<id>.* n’est pas alimenté.
   - 16 texte(s) sans Entrée_ID (fragments autonomes) conservés dans "fragments" du fichier brut ; ils ne deviennent pas des fiches.
+- **external-initial** (full) — 2026-10-28T08:57:24.315Z — réussi : 1130 entrée(s) importée(s) sur 1130 analysée(s)
+  - Prompts seulement : aucune image téléchargée (option --images pour les récupérer).
 
 <!-- AUTO:END -->

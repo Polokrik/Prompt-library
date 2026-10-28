@@ -1,0 +1,1354 @@
+{
+  "source": "external-initial",
+  "sourceUrl": "https://vincentflibustier.com/imageia/#bibliotheque",
+  "importedAt": "2026-10-28T08:45:22.998Z",
+  "mode": "sample",
+  "entries": [
+    {
+      "order": 1,
+      "original": {
+        "id": "104",
+        "title": "Book to Life - 3D Story Eruption",
+        "category": "Concepts créatifs",
+        "prompt": "Input A is a classic novel or book title. Analyze the setting, the protagonist's journey, and the core motif. Goal: A high-end leather-bound book lying open, where the story is physically erupting from the pages in 3D. Rules: - The base: A thick, weathered book with gilded edges. - The scene: Characters and landscapes emerge from the paper as if made of a mix of 'ink-wash' and 'hyper-real miniatures.' - Details: Include 'floating' sentences or iconic quotes as tiny physical gold letters swirling in the air. - Lighting: Warm library glow, candlelight flickering, dust motes visible in the air. - Output: ONE image, 4:5. The book title is visible on the spine and cover.\n\nDIRECTION DÉTAILLÉE — Book to Life - 3D Story Eruption\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nPages et reliure : Rendre lisibles les tranches, la charnière et les pages comme des surfaces distinctes. Si un monde émerge du livre, assurer une transition claire entre papier et scène, avec des ombres de contact cohérentes.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n",
+        "author": "@Gdgtify",
+        "source": "https://x.com/Gdgtify/status/2003388609651454417",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [],
+        "originalPrompt": "Input A is a classic novel or book title. Analyze the setting, the protagonist's journey, and the core motif. Goal: A high-end leather-bound book lying open, where the story is physically erupting from the pages in 3D. Rules: - The base: A thick, weathered book with gilded edges. - The scene: Characters and landscapes emerge from the paper as if made of a mix of 'ink-wash' and 'hyper-real miniatures.' - Details: Include 'floating' sentences or iconic quotes as tiny physical gold letters swirling in the air. - Lighting: Warm library glow, candlelight flickering, dust motes visible in the air. - Output: ONE image, 4:5. The book title is visible on the spine and cover.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Idée centrale",
+            "Pages et reliure",
+            "Cohérence de la scène"
+          ]
+        }
+      },
+      "author": "@Gdgtify",
+      "postUrl": "https://x.com/Gdgtify/status/2003388609651454417",
+      "origin": "collection",
+      "originalId": "104",
+      "title": "Book to Life - 3D Story Eruption",
+      "prompt": "Input A is a classic novel or book title. Analyze the setting, the protagonist's journey, and the core motif. Goal: A high-end leather-bound book lying open, where the story is physically erupting from the pages in 3D. Rules: - The base: A thick, weathered book with gilded edges. - The scene: Characters and landscapes emerge from the paper as if made of a mix of 'ink-wash' and 'hyper-real miniatures.' - Details: Include 'floating' sentences or iconic quotes as tiny physical gold letters swirling in the air. - Lighting: Warm library glow, candlelight flickering, dust motes visible in the air. - Output: ONE image, 4:5. The book title is visible on the spine and cover.\n\nDIRECTION DÉTAILLÉE — Book to Life - 3D Story Eruption\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nPages et reliure : Rendre lisibles les tranches, la charnière et les pages comme des surfaces distinctes. Si un monde émerge du livre, assurer une transition claire entre papier et scène, avec des ombres de contact cohérentes.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n",
+      "categories": "Concepts créatifs"
+    },
+    {
+      "order": 2,
+      "original": {
+        "id": "103",
+        "title": "Designer Presentation Board",
+        "category": "Design produit",
+        "prompt": "An expert [DISCIPLINE] designer's presentation board for [SUBJECT] — [ICONIC FEATURES / ERA], featuring black-and-white 2D technical drawings with annotations and dimensions on the left, an exploded axonometric diagram revealing [KEY INTERNAL COMPONENTS / MATERIALS] in the center, and a photorealistic 3D render of [SUBJECT] in [ICONIC ENVIRONMENT / SCENE] on the right, with [LIGHTING / ATMOSPHERE / MOTION DETAILS]; visual style transitions from [TECHNICAL / ARCHIVAL TONES] to [EMOTIONAL / ATMOSPHERIC COLOR PALETTE], clean grid layout, museum-grade industrial design presentation, ultra-detailed cinematic realism, title block reading \"[TITLE] — [YEAR / VARIANT / TAGLINE]\".\n\nDIRECTION DÉTAILLÉE — Designer Presentation Board\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.\n\nMatériaux : Distinguer les propriétés des surfaces : rugosité, transparence, métal, fibres ou enduit. Garder une échelle de grain cohérente avec la taille du produit et éviter la même brillance sur tous les composants.\n",
+        "author": "@AllaAisling",
+        "source": "https://x.com/AllaAisling/status/2003849647392247864",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [],
+        "originalPrompt": "An expert [DISCIPLINE] designer's presentation board for [SUBJECT] — [ICONIC FEATURES / ERA], featuring black-and-white 2D technical drawings with annotations and dimensions on the left, an exploded axonometric diagram revealing [KEY INTERNAL COMPONENTS / MATERIALS] in the center, and a photorealistic 3D render of [SUBJECT] in [ICONIC ENVIRONMENT / SCENE] on the right, with [LIGHTING / ATMOSPHERE / MOTION DETAILS]; visual style transitions from [TECHNICAL / ARCHIVAL TONES] to [EMOTIONAL / ATMOSPHERIC COLOR PALETTE], clean grid layout, museum-grade industrial design presentation, ultra-detailed cinematic realism, title block reading \"[TITLE] — [YEAR / VARIANT / TAGLINE]\".",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Forme et fonction",
+            "Présentation",
+            "Matériaux"
+          ]
+        }
+      },
+      "author": "@AllaAisling",
+      "postUrl": "https://x.com/AllaAisling/status/2003849647392247864",
+      "origin": "collection",
+      "originalId": "103",
+      "title": "Designer Presentation Board",
+      "prompt": "An expert [DISCIPLINE] designer's presentation board for [SUBJECT] — [ICONIC FEATURES / ERA], featuring black-and-white 2D technical drawings with annotations and dimensions on the left, an exploded axonometric diagram revealing [KEY INTERNAL COMPONENTS / MATERIALS] in the center, and a photorealistic 3D render of [SUBJECT] in [ICONIC ENVIRONMENT / SCENE] on the right, with [LIGHTING / ATMOSPHERE / MOTION DETAILS]; visual style transitions from [TECHNICAL / ARCHIVAL TONES] to [EMOTIONAL / ATMOSPHERIC COLOR PALETTE], clean grid layout, museum-grade industrial design presentation, ultra-detailed cinematic realism, title block reading \"[TITLE] — [YEAR / VARIANT / TAGLINE]\".\n\nDIRECTION DÉTAILLÉE — Designer Presentation Board\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.\n\nMatériaux : Distinguer les propriétés des surfaces : rugosité, transparence, métal, fibres ou enduit. Garder une échelle de grain cohérente avec la taille du produit et éviter la même brillance sur tous les composants.\n",
+      "categories": "Design produit"
+    },
+    {
+      "order": 3,
+      "original": {
+        "id": "102",
+        "title": "FPS UI Cyberpunk Scene",
+        "category": "Jeux & interfaces",
+        "prompt": "First-person shooter (FPS) perspective of a cybernetic mercenary holding a dual-barreled smart pistol in a dystopian mega-city. HUD elements and text must be legible and non-mirrored. Charge meter reads '100%'. Adrenaline-fueled, chaotic, fast-paced atmosphere. Ocular implant interface with glitch effects. Augmented reality (AR) overlay with scan lines. Robotic prosthetic arm visible in foreground. Chrome and synthetic black skin tone with carbon fiber weave, exposed wiring, neon tubing. Pink and cyan reflections from city lights. First-person view, weapon canted slightly sideways, dynamic movement. Parkour/Wall-running stance. High-velocity action camera angle. Tech-wear jacket sleeve, tactical wrist computer. Experimental Smart Pistol with matte black finish and glowing yellow heat vents. Holographic ammo projection displaying '12/12'. HUD Overlay: Red enemy outlines, Threat detection (center), Mini-map (top right), Health bar (bottom left). Text prompt: 'WARNING: SECTOR 4 LOCKDOWN'. In-game screenshot, Ray-traced Render. First-person POV, high FOV (Field of View). 16:9 aspect ratio. Next-gen graphics, wet surface reflections, chromatic aberration, digital noise. Neon signage (pink, purple, cyan), dark shadows, volumetric fog, wet pavement glare. Motion blur on edges, sharp focus on weapon and immediate target. Rain-slicked rooftop in a Cyberpunk metropolis. Dark concrete and neon. Massive holographic billboards featuring anime girls. Flying cars in traffic lanes below. Dense skyscrapers blocking the sky. Heavy rain falling. Dystopian, gritty, technological noir. Artificial city lights, gloom, lightning flashes.\n\nDIRECTION DÉTAILLÉE — FPS UI Cyberpunk Scene\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nHiérarchie fonctionnelle : Séparer zone de jeu ou contenu principal, commandes et informations secondaires. Utiliser des alignements, espacements et tailles cohérents ; le regard doit reconnaître immédiatement l’action ou l’information prioritaire.\n\nSources colorées : Attribuer à chaque teinte lumineuse une provenance identifiable. Garder les hautes lumières maîtrisées et des zones sombres lisibles ; le glow reste proche des sources et ne doit pas recouvrir tous les contours.\n\nInterface : Définir des groupes, alignements et états de commande cohérents. Donner plus de poids à l’action principale qu’aux informations secondaires. Le texte fourni reste lisible et les surfaces interactives ne se confondent pas avec les décorations.\n\nCohérence du monde : Accorder les matériaux, la palette et les signes graphiques à l’univers décrit. Pour une interface, répéter les mêmes règles de boutons et pictogrammes ; pour un objet de jeu, rendre compréhensibles silhouette, prise en main et assemblage.\n\nLecture finale : Préserver les zones utiles sur les bords et éviter les commandes collées au sujet. Si du texte ou des valeurs sont fournis, les reproduire exactement ; ne pas ajouter de fausse télémétrie ni de microtexte illisible.\n\nHiérarchie des détails : Répartir les détails en trois niveaux : silhouette lisible de loin, caractéristiques utiles à taille normale, microtexture visible de près. Réserver les contrastes les plus forts aux informations importantes et alléger les zones secondaires.\n",
+        "author": "@fofr",
+        "source": "https://gist.github.com/fofr/eec0dae326243321c645aceba28c6119",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [],
+        "originalPrompt": "First-person shooter (FPS) perspective of a cybernetic mercenary holding a dual-barreled smart pistol in a dystopian mega-city. HUD elements and text must be legible and non-mirrored. Charge meter reads '100%'. Adrenaline-fueled, chaotic, fast-paced atmosphere. Ocular implant interface with glitch effects. Augmented reality (AR) overlay with scan lines. Robotic prosthetic arm visible in foreground. Chrome and synthetic black skin tone with carbon fiber weave, exposed wiring, neon tubing. Pink and cyan reflections from city lights. First-person view, weapon canted slightly sideways, dynamic movement. Parkour/Wall-running stance. High-velocity action camera angle. Tech-wear jacket sleeve, tactical wrist computer. Experimental Smart Pistol with matte black finish and glowing yellow heat vents. Holographic ammo projection displaying '12/12'. HUD Overlay: Red enemy outlines, Threat detection (center), Mini-map (top right), Health bar (bottom left). Text prompt: 'WARNING: SECTOR 4 LOCKDOWN'. In-game screenshot, Ray-traced Render. First-person POV, high FOV (Field of View). 16:9 aspect ratio. Next-gen graphics, wet surface reflections, chromatic aberration, digital noise. Neon signage (pink, purple, cyan), dark shadows, volumetric fog, wet pavement glare. Motion blur on edges, sharp focus on weapon and immediate target. Rain-slicked rooftop in a Cyberpunk metropolis. Dark concrete and neon. Massive holographic billboards featuring anime girls. Flying cars in traffic lanes below. Dense skyscrapers blocking the sky. Heavy rain falling. Dystopian, gritty, technological noir. Artificial city lights, gloom, lightning flashes.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Hiérarchie fonctionnelle",
+            "Sources colorées",
+            "Interface",
+            "Cohérence du monde",
+            "Lecture finale",
+            "Hiérarchie des détails"
+          ]
+        }
+      },
+      "author": "@fofr",
+      "postUrl": "https://gist.github.com/fofr/eec0dae326243321c645aceba28c6119",
+      "origin": "collection",
+      "originalId": "102",
+      "title": "FPS UI Cyberpunk Scene",
+      "prompt": "First-person shooter (FPS) perspective of a cybernetic mercenary holding a dual-barreled smart pistol in a dystopian mega-city. HUD elements and text must be legible and non-mirrored. Charge meter reads '100%'. Adrenaline-fueled, chaotic, fast-paced atmosphere. Ocular implant interface with glitch effects. Augmented reality (AR) overlay with scan lines. Robotic prosthetic arm visible in foreground. Chrome and synthetic black skin tone with carbon fiber weave, exposed wiring, neon tubing. Pink and cyan reflections from city lights. First-person view, weapon canted slightly sideways, dynamic movement. Parkour/Wall-running stance. High-velocity action camera angle. Tech-wear jacket sleeve, tactical wrist computer. Experimental Smart Pistol with matte black finish and glowing yellow heat vents. Holographic ammo projection displaying '12/12'. HUD Overlay: Red enemy outlines, Threat detection (center), Mini-map (top right), Health bar (bottom left). Text prompt: 'WARNING: SECTOR 4 LOCKDOWN'. In-game screenshot, Ray-traced Render. First-person POV, high FOV (Field of View). 16:9 aspect ratio. Next-gen graphics, wet surface reflections, chromatic aberration, digital noise. Neon signage (pink, purple, cyan), dark shadows, volumetric fog, wet pavement glare. Motion blur on edges, sharp focus on weapon and immediate target. Rain-slicked rooftop in a Cyberpunk metropolis. Dark concrete and neon. Massive holographic billboards featuring anime girls. Flying cars in traffic lanes below. Dense skyscrapers blocking the sky. Heavy rain falling. Dystopian, gritty, technological noir. Artificial city lights, gloom, lightning flashes.\n\nDIRECTION DÉTAILLÉE — FPS UI Cyberpunk Scene\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nHiérarchie fonctionnelle : Séparer zone de jeu ou contenu principal, commandes et informations secondaires. Utiliser des alignements, espacements et tailles cohérents ; le regard doit reconnaître immédiatement l’action ou l’information prioritaire.\n\nSources colorées : Attribuer à chaque teinte lumineuse une provenance identifiable. Garder les hautes lumières maîtrisées et des zones sombres lisibles ; le glow reste proche des sources et ne doit pas recouvrir tous les contours.\n\nInterface : Définir des groupes, alignements et états de commande cohérents. Donner plus de poids à l’action principale qu’aux informations secondaires. Le texte fourni reste lisible et les surfaces interactives ne se confondent pas avec les décorations.\n\nCohérence du monde : Accorder les matériaux, la palette et les signes graphiques à l’univers décrit. Pour une interface, répéter les mêmes règles de boutons et pictogrammes ; pour un objet de jeu, rendre compréhensibles silhouette, prise en main et assemblage.\n\nLecture finale : Préserver les zones utiles sur les bords et éviter les commandes collées au sujet. Si du texte ou des valeurs sont fournis, les reproduire exactement ; ne pas ajouter de fausse télémétrie ni de microtexte illisible.\n\nHiérarchie des détails : Répartir les détails en trois niveaux : silhouette lisible de loin, caractéristiques utiles à taille normale, microtexture visible de près. Réserver les contrastes les plus forts aux informations importantes et alléger les zones secondaires.\n",
+      "categories": "Jeux & interfaces"
+    },
+    {
+      "order": 4,
+      "original": {
+        "id": "101",
+        "title": "Luxury Brand Concept Product",
+        "category": "Identité visuelle",
+        "prompt": "[BRAND NAME]: \nA high-end, glossy concept art magazine editorial photograph of a unique, unexpected functional object conceptualized and designed by the brand.\n\n**1. The Concept & Object (AI Invention):**\nBased on the design philosophy, heritage, and material vocabulary of the specified brand, the AI must invent a novel utility product (NOT standard clothing, shoes, or bags). Examples could be home goods, tech accessories, tools, or sporting equipment, reinterpretated through the brand's lens. The object should feel sculptural yet functional.\n\n**2. Materials & Details (Hyper-Premium):**\nThe object is constructed from ultra-premium, highly tactile materials characteristic of the brand (e.g., patinated exotic leathers, brushed aerospace-grade titanium, sculpted matte ceramics, molded carbon fiber, or technical high-fashion textiles). Every detail is hyper-realistic: visible stitching, microscopic material grain, precision engravings, and complex texture contrasts.\n\n**3. Photography & Lighting (Cinematic Studio):**\nShot on a medium format Phase One camera with a 100mm macro lens. Extremely shallow depth of field, with sharp focus on the hero details of the object and a creamy, smooth bokeh background. The lighting is sophisticated studio softbox lighting: gentle, enveloping fill light with precise rim lighting to accentuate contours and material textures.\n\n**4. Environment:**\nA seamless, impeccably clean studio cyclorama background in a pure, ultra-light pastel tone (e.g., desaturated mint, pale blush, or off-white), free of shadows.\n\n**5. Layout & UI Elements (Strict Placement):**\n- **Bottom Right Corner:** A small, understated, monochrome gray logo of the brand.\n- **Bottom Left Corner:** Small, minimalist monochrome gray text describing the invented product. The font style looks like Manrope Regular with very tight tracking (kerning) and balanced line spacing. Example format: \"CONCEPT STUDY: [AI inserts invented product name]. MATERIAL: [AI inserts main materials]. SS25.\"\n\nDIRECTION DÉTAILLÉE — Luxury Brand Concept Product\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSystème graphique : Utiliser une grille, des alignements et des marges communs. Distinguer signe principal, nom et informations secondaires. Garder des espacements réguliers et une silhouette de marque lisible en petit, sans ajouter de symboles concurrents.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n\nDéclinaisons : Si plusieurs supports sont demandés, répéter les mêmes proportions du signe, couleurs et règles typographiques. Adapter la surface imprimée à chaque support ; distinguer le graphisme plat de la perspective du mockup.\n\nLisibilité : Reproduire exactement les mots fournis. Préserver les contreformes, accents et espacements. Ne pas inventer de promesse commerciale, certification ou label ; les petits textes manquants restent des zones de mise en page.\n\nHiérarchie des détails : Répartir les détails en trois niveaux : silhouette lisible de loin, caractéristiques utiles à taille normale, microtexture visible de près. Réserver les contrastes les plus forts aux informations importantes et alléger les zones secondaires.\n\nBords et superpositions : Contrôler chaque chevauchement : l’élément situé devant masque correctement celui qui est derrière. Les contours ne doivent pas se fondre involontairement ; préserver les petits espaces négatifs qui aident à comprendre les formes.\n\nProportions : Vérifier les rapports de taille entre sujet, accessoires et environnement. Les changements de profondeur expliquent les différences de taille ; éviter des éléments secondaires anormalement grands ou des détails sans épaisseur.\n\nCohérence chromatique : Utiliser la palette indiquée dans le brief avec des variations de valeur et de saturation. Éviter d’introduire une couleur dominante supplémentaire ; les accents servent à distinguer le sujet ou une information précise.\n",
+        "author": "User Provided",
+        "source": "",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [],
+        "originalPrompt": "[BRAND NAME]: \nA high-end, glossy concept art magazine editorial photograph of a unique, unexpected functional object conceptualized and designed by the brand.\n\n**1. The Concept & Object (AI Invention):**\nBased on the design philosophy, heritage, and material vocabulary of the specified brand, the AI must invent a novel utility product (NOT standard clothing, shoes, or bags). Examples could be home goods, tech accessories, tools, or sporting equipment, reinterpretated through the brand's lens. The object should feel sculptural yet functional.\n\n**2. Materials & Details (Hyper-Premium):**\nThe object is constructed from ultra-premium, highly tactile materials characteristic of the brand (e.g., patinated exotic leathers, brushed aerospace-grade titanium, sculpted matte ceramics, molded carbon fiber, or technical high-fashion textiles). Every detail is hyper-realistic: visible stitching, microscopic material grain, precision engravings, and complex texture contrasts.\n\n**3. Photography & Lighting (Cinematic Studio):**\nShot on a medium format Phase One camera with a 100mm macro lens. Extremely shallow depth of field, with sharp focus on the hero details of the object and a creamy, smooth bokeh background. The lighting is sophisticated studio softbox lighting: gentle, enveloping fill light with precise rim lighting to accentuate contours and material textures.\n\n**4. Environment:**\nA seamless, impeccably clean studio cyclorama background in a pure, ultra-light pastel tone (e.g., desaturated mint, pale blush, or off-white), free of shadows.\n\n**5. Layout & UI Elements (Strict Placement):**\n- **Bottom Right Corner:** A small, understated, monochrome gray logo of the brand.\n- **Bottom Left Corner:** Small, minimalist monochrome gray text describing the invented product. The font style looks like Manrope Regular with very tight tracking (kerning) and balanced line spacing. Example format: \"CONCEPT STUDY: [AI inserts invented product name]. MATERIAL: [AI inserts main materials]. SS25.\"",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Système graphique",
+            "Signe et reproduction",
+            "Déclinaisons",
+            "Lisibilité",
+            "Hiérarchie des détails",
+            "Bords et superpositions",
+            "Proportions",
+            "Cohérence chromatique"
+          ]
+        }
+      },
+      "author": "User Provided",
+      "postUrl": "",
+      "origin": "collection",
+      "originalId": "101",
+      "title": "Luxury Brand Concept Product",
+      "prompt": "[BRAND NAME]: \nA high-end, glossy concept art magazine editorial photograph of a unique, unexpected functional object conceptualized and designed by the brand.\n\n**1. The Concept & Object (AI Invention):**\nBased on the design philosophy, heritage, and material vocabulary of the specified brand, the AI must invent a novel utility product (NOT standard clothing, shoes, or bags). Examples could be home goods, tech accessories, tools, or sporting equipment, reinterpretated through the brand's lens. The object should feel sculptural yet functional.\n\n**2. Materials & Details (Hyper-Premium):**\nThe object is constructed from ultra-premium, highly tactile materials characteristic of the brand (e.g., patinated exotic leathers, brushed aerospace-grade titanium, sculpted matte ceramics, molded carbon fiber, or technical high-fashion textiles). Every detail is hyper-realistic: visible stitching, microscopic material grain, precision engravings, and complex texture contrasts.\n\n**3. Photography & Lighting (Cinematic Studio):**\nShot on a medium format Phase One camera with a 100mm macro lens. Extremely shallow depth of field, with sharp focus on the hero details of the object and a creamy, smooth bokeh background. The lighting is sophisticated studio softbox lighting: gentle, enveloping fill light with precise rim lighting to accentuate contours and material textures.\n\n**4. Environment:**\nA seamless, impeccably clean studio cyclorama background in a pure, ultra-light pastel tone (e.g., desaturated mint, pale blush, or off-white), free of shadows.\n\n**5. Layout & UI Elements (Strict Placement):**\n- **Bottom Right Corner:** A small, understated, monochrome gray logo of the brand.\n- **Bottom Left Corner:** Small, minimalist monochrome gray text describing the invented product. The font style looks like Manrope Regular with very tight tracking (kerning) and balanced line spacing. Example format: \"CONCEPT STUDY: [AI inserts invented product name]. MATERIAL: [AI inserts main materials]. SS25.\"\n\nDIRECTION DÉTAILLÉE — Luxury Brand Concept Product\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSystème graphique : Utiliser une grille, des alignements et des marges communs. Distinguer signe principal, nom et informations secondaires. Garder des espacements réguliers et une silhouette de marque lisible en petit, sans ajouter de symboles concurrents.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n\nDéclinaisons : Si plusieurs supports sont demandés, répéter les mêmes proportions du signe, couleurs et règles typographiques. Adapter la surface imprimée à chaque support ; distinguer le graphisme plat de la perspective du mockup.\n\nLisibilité : Reproduire exactement les mots fournis. Préserver les contreformes, accents et espacements. Ne pas inventer de promesse commerciale, certification ou label ; les petits textes manquants restent des zones de mise en page.\n\nHiérarchie des détails : Répartir les détails en trois niveaux : silhouette lisible de loin, caractéristiques utiles à taille normale, microtexture visible de près. Réserver les contrastes les plus forts aux informations importantes et alléger les zones secondaires.\n\nBords et superpositions : Contrôler chaque chevauchement : l’élément situé devant masque correctement celui qui est derrière. Les contours ne doivent pas se fondre involontairement ; préserver les petits espaces négatifs qui aident à comprendre les formes.\n\nProportions : Vérifier les rapports de taille entre sujet, accessoires et environnement. Les changements de profondeur expliquent les différences de taille ; éviter des éléments secondaires anormalement grands ou des détails sans épaisseur.\n\nCohérence chromatique : Utiliser la palette indiquée dans le brief avec des variations de valeur et de saturation. Éviter d’introduire une couleur dominante supplémentaire ; les accents servent à distinguer le sujet ou une information précise.\n",
+      "categories": "Identité visuelle"
+    },
+    {
+      "order": 5,
+      "original": {
+        "id": "100",
+        "title": "Creative Ad with Real Object and Hand-Drawn Doodle",
+        "category": "Concepts créatifs",
+        "prompt": "A minimalist and creative advertisement set on a clean white background.\nA real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.\n\nDIRECTION DÉTAILLÉE — Creative Ad with Real Object and Hand-Drawn Doodle\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n\nLecture : Séparer premier plan, sujet et arrière-plan. Préserver assez d’espace autour du détail qui révèle le concept ; les petits éléments enrichissent la découverte après la première lecture.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/azed_ai/status/1923016036120658122",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-100-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-100-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A minimalist and creative advertisement set on a clean white background.\nA real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Idée centrale",
+            "Cohérence de la scène",
+            "Lecture"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/azed_ai/status/1923016036120658122",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "100",
+      "title": "Creative Ad with Real Object and Hand-Drawn Doodle",
+      "prompt": "A minimalist and creative advertisement set on a clean white background.\nA real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.\n\nDIRECTION DÉTAILLÉE — Creative Ad with Real Object and Hand-Drawn Doodle\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n\nLecture : Séparer premier plan, sujet et arrière-plan. Préserver assez d’espace autour du détail qui révèle le concept ; les petits éléments enrichissent la découverte après la première lecture.\n",
+      "categories": "Concepts créatifs",
+      "imageUrl": "media/archive-100-gpt4o.webp"
+    },
+    {
+      "order": 6,
+      "original": {
+        "id": "99",
+        "title": "Black and White Portrait Art",
+        "category": "Styles artistiques",
+        "prompt": "A high-resolution black and white portrait artwork, in an editorial and fine art photography style. The background features a soft gradient, transitioning from mid-gray to almost pure white, creating a sense of depth and tranquility. Fine film grain adds a tactile, analog-like softness to the image, reminiscent of classic black and white photography.\n\nOn the right side of the frame, a blurred yet striking face of Harry Potter subtly emerges from the shadows, not in a traditional pose, but as if caught in a moment of thought or breath. Only a part of his face is visible: perhaps an eye, a cheekbone, the contour of his lips, evoking a sense of mystery, intimacy, and elegance. His features are delicate yet profound, exuding a melancholic and poetic beauty without being overly dramatic.\n\nA gentle, directional light, softly diffused, caresses the curve of his cheek or glints in his eye—this is the emotional core of the image. The rest of the composition is dominated by ample negative space, intentionally kept simple, allowing the image to breathe. There are no texts, no logos in the image—only an interplay of light, shadow, and emotion.\n\nThe overall atmosphere is abstract yet deeply human, like a fleeting glance or a half-remembered dream: intimate, timeless, and poignantly beautiful.\n\nDIRECTION DÉTAILLÉE — Black and White Portrait Art\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nValeurs : Séparer les grandes masses claires et sombres avant les détails. Conserver une silhouette forte et quelques transitions intermédiaires ; garder les noirs utiles sans perdre le contour du sujet sur le fond.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n\nFinition du médium : Donner aux marques de fabrication une échelle crédible. Les traces, trames ou pigments suivent les surfaces et les gestes ; préserver les détails qui rendent le sujet identifiable même lorsque le rendu est stylisé.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-99-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/99/harry-potter-black-white-portrait-art.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-99-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A high-resolution black and white portrait artwork, in an editorial and fine art photography style. The background features a soft gradient, transitioning from mid-gray to almost pure white, creating a sense of depth and tranquility. Fine film grain adds a tactile, analog-like softness to the image, reminiscent of classic black and white photography.\n\nOn the right side of the frame, a blurred yet striking face of Harry Potter subtly emerges from the shadows, not in a traditional pose, but as if caught in a moment of thought or breath. Only a part of his face is visible: perhaps an eye, a cheekbone, the contour of his lips, evoking a sense of mystery, intimacy, and elegance. His features are delicate yet profound, exuding a melancholic and poetic beauty without being overly dramatic.\n\nA gentle, directional light, softly diffused, caresses the curve of his cheek or glints in his eye—this is the emotional core of the image. The rest of the composition is dominated by ample negative space, intentionally kept simple, allowing the image to breathe. There are no texts, no logos in the image—only an interplay of light, shadow, and emotion.\n\nThe overall atmosphere is abstract yet deeply human, like a fleeting glance or a half-remembered dream: intimate, timeless, and poignantly beautiful.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Écriture visuelle",
+            "Visage",
+            "Valeurs",
+            "Couleur et rythme",
+            "Finition du médium"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "99",
+      "title": "Black and White Portrait Art",
+      "prompt": "A high-resolution black and white portrait artwork, in an editorial and fine art photography style. The background features a soft gradient, transitioning from mid-gray to almost pure white, creating a sense of depth and tranquility. Fine film grain adds a tactile, analog-like softness to the image, reminiscent of classic black and white photography.\n\nOn the right side of the frame, a blurred yet striking face of Harry Potter subtly emerges from the shadows, not in a traditional pose, but as if caught in a moment of thought or breath. Only a part of his face is visible: perhaps an eye, a cheekbone, the contour of his lips, evoking a sense of mystery, intimacy, and elegance. His features are delicate yet profound, exuding a melancholic and poetic beauty without being overly dramatic.\n\nA gentle, directional light, softly diffused, caresses the curve of his cheek or glints in his eye—this is the emotional core of the image. The rest of the composition is dominated by ample negative space, intentionally kept simple, allowing the image to breathe. There are no texts, no logos in the image—only an interplay of light, shadow, and emotion.\n\nThe overall atmosphere is abstract yet deeply human, like a fleeting glance or a half-remembered dream: intimate, timeless, and poignantly beautiful.\n\nDIRECTION DÉTAILLÉE — Black and White Portrait Art\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nValeurs : Séparer les grandes masses claires et sombres avant les détails. Conserver une silhouette forte et quelques transitions intermédiaires ; garder les noirs utiles sans perdre le contour du sujet sur le fond.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n\nFinition du médium : Donner aux marques de fabrication une échelle crédible. Les traces, trames ou pigments suivent les surfaces et les gestes ; préserver les détails qui rendent le sujet identifiable même lorsque le rendu est stylisé.\n",
+      "categories": "Styles artistiques",
+      "imageUrl": "media/archive-99-gpt4o.webp"
+    },
+    {
+      "order": 7,
+      "original": {
+        "id": "98",
+        "title": "Blurred Silhouette Behind Frosted Glass",
+        "category": "Styles artistiques",
+        "prompt": "A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.\n\nDIRECTION DÉTAILLÉE — Blurred Silhouette Behind Frosted Glass\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nValeurs : Séparer les grandes masses claires et sombres avant les détails. Conserver une silhouette forte et quelques transitions intermédiaires ; garder les noirs utiles sans perdre le contour du sujet sur le fond.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/umesh_ai/status/1921487841634156999",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-98-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/98/blurred-silhouette-frosted-glass.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-98-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-pDsaB4o_oiNIjud_j5ypp.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Écriture visuelle",
+            "Transparence",
+            "Valeurs"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/umesh_ai/status/1921487841634156999",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "98",
+      "title": "Blurred Silhouette Behind Frosted Glass",
+      "prompt": "A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.\n\nDIRECTION DÉTAILLÉE — Blurred Silhouette Behind Frosted Glass\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nValeurs : Séparer les grandes masses claires et sombres avant les détails. Conserver une silhouette forte et quelques transitions intermédiaires ; garder les noirs utiles sans perdre le contour du sujet sur le fond.\n",
+      "categories": "Styles artistiques",
+      "imageUrl": "media/archive-98-gpt4o.webp"
+    },
+    {
+      "order": 8,
+      "original": {
+        "id": "97",
+        "title": "Cute and Cozy Knitted Doll",
+        "category": "Personnages & 3D",
+        "prompt": "A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.\n\nDIRECTION DÉTAILLÉE — Cute and Cozy Knitted Doll\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nFibres : Distinguer fils, mailles ou touffes à une échelle régulière. Leur orientation suit les volumes et les raccords. Utiliser une variation de densité et quelques fibres libres discrètes ; éviter une texture de fourrure uniforme là où il faut un tissage.\n\nPersonnage miniature : Conserver une silhouette immédiatement identifiable malgré la simplification. Distinguer vêtements, visage et accessoires par des formes nettes ; les petits éléments gardent une épaisseur de fabrication plausible et ne fusionnent pas avec le corps.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-97-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/97/cute_cozy_knitted_doll.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-97-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-FpVTUFWK2dhd1GSysOFdh.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Silhouette et pose",
+            "Fibres",
+            "Personnage miniature"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "97",
+      "title": "Cute and Cozy Knitted Doll",
+      "prompt": "A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.\n\nDIRECTION DÉTAILLÉE — Cute and Cozy Knitted Doll\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nFibres : Distinguer fils, mailles ou touffes à une échelle régulière. Leur orientation suit les volumes et les raccords. Utiliser une variation de densité et quelques fibres libres discrètes ; éviter une texture de fourrure uniforme là où il faut un tissage.\n\nPersonnage miniature : Conserver une silhouette immédiatement identifiable malgré la simplification. Distinguer vêtements, visage et accessoires par des formes nettes ; les petits éléments gardent une épaisseur de fabrication plausible et ne fusionnent pas avec le corps.\n",
+      "categories": "Personnages & 3D",
+      "imageUrl": "media/archive-97-gpt4o.webp"
+    },
+    {
+      "order": 9,
+      "original": {
+        "id": "96",
+        "title": "Custom Anime Figure",
+        "category": "Personnages & 3D",
+        "prompt": "Generate an anime-style figure photo placed on a desktop, presented from a casual, everyday snapshot perspective as if taken with a mobile phone. The figure model is based on the attached character photo, accurately reproducing the full body posture, facial expression, and clothing style of the person in the photo, ensuring the entire figure is fully rendered. The overall design is exquisite and detailed, with hair and clothing featuring natural, soft gradient colors and fine textures. The style leans towards Japanese anime, rich in detail, with realistic textures and a beautiful appearance.\n\nDIRECTION DÉTAILLÉE — Custom Anime Figure\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nPersonnage miniature : Conserver une silhouette immédiatement identifiable malgré la simplification. Distinguer vêtements, visage et accessoires par des formes nettes ; les petits éléments gardent une épaisseur de fabrication plausible et ne fusionnent pas avec le corps.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/dotey/status/1920851135516082246",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-96-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/96/custom-anime-figure-from-photo.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-96-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Generate an anime-style figure photo placed on a desktop, presented from a casual, everyday snapshot perspective as if taken with a mobile phone. The figure model is based on the attached character photo, accurately reproducing the full body posture, facial expression, and clothing style of the person in the photo, ensuring the entire figure is fully rendered. The overall design is exquisite and detailed, with hair and clothing featuring natural, soft gradient colors and fine textures. The style leans towards Japanese anime, rich in detail, with realistic textures and a beautiful appearance.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Silhouette et pose",
+            "Personnage miniature",
+            "Volume et contact"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/dotey/status/1920851135516082246",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "96",
+      "title": "Custom Anime Figure",
+      "prompt": "Generate an anime-style figure photo placed on a desktop, presented from a casual, everyday snapshot perspective as if taken with a mobile phone. The figure model is based on the attached character photo, accurately reproducing the full body posture, facial expression, and clothing style of the person in the photo, ensuring the entire figure is fully rendered. The overall design is exquisite and detailed, with hair and clothing featuring natural, soft gradient colors and fine textures. The style leans towards Japanese anime, rich in detail, with realistic textures and a beautiful appearance.\n\nDIRECTION DÉTAILLÉE — Custom Anime Figure\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nPersonnage miniature : Conserver une silhouette immédiatement identifiable malgré la simplification. Distinguer vêtements, visage et accessoires par des formes nettes ; les petits éléments gardent une épaisseur de fabrication plausible et ne fusionnent pas avec le corps.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n",
+      "categories": "Personnages & 3D",
+      "imageUrl": "media/archive-96-gpt4o.webp"
+    },
+    {
+      "order": 10,
+      "original": {
+        "id": "95",
+        "title": "Bobblehead Generator from Selfie",
+        "category": "Personnages & 3D",
+        "prompt": "Turn this photo into a bobblehead: enlarge the head slightly, keep the face accurate and cartoonify the body. [Place it on a bookshelf].\n\nDIRECTION DÉTAILLÉE — Bobblehead Generator from Selfie\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/thisdudelikesAI/status/1920433372243136730",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-95-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/95/selfie-to-bobblehead-generator.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-95-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-eJzwap7e7KsSwJofY3ij8.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Turn this photo into a bobblehead: enlarge the head slightly, keep the face accurate and cartoonify the body. [Place it on a bookshelf].",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Silhouette et pose",
+            "Visage",
+            "Volume et contact"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/thisdudelikesAI/status/1920433372243136730",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "95",
+      "title": "Bobblehead Generator from Selfie",
+      "prompt": "Turn this photo into a bobblehead: enlarge the head slightly, keep the face accurate and cartoonify the body. [Place it on a bookshelf].\n\nDIRECTION DÉTAILLÉE — Bobblehead Generator from Selfie\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n",
+      "categories": "Personnages & 3D",
+      "imageUrl": "media/archive-95-gpt4o.webp"
+    },
+    {
+      "order": 11,
+      "original": {
+        "id": "94",
+        "title": "Three Animals Selfie at Landmark",
+        "category": "Effets photo",
+        "prompt": "A close-up selfie of three [animal type] with different expressions in front of the iconic [landmark], taken at golden hour with cinematic lighting. The animals are positioned close to the camera with their heads touching, mimicking a selfie pose, showing joyful, surprised, and calm expressions. The background features the full architectural detail of [landmark], softly illuminated, with a warm ambient atmosphere. Shot in a photographic, realistic cartoon style, high detail, 1:1 aspect ratio.\n\nDIRECTION DÉTAILLÉE — Three Animals Selfie at Landmark\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/berryxia_ai/status/1920795648946782583",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-94-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/94/three_animals_selfie_at_landmark.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-94-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A close-up selfie of three [animal type] with different expressions in front of the iconic [landmark], taken at golden hour with cinematic lighting. The animals are positioned close to the camera with their heads touching, mimicking a selfie pose, showing joyful, surprised, and calm expressions. The background features the full architectural detail of [landmark], softly illuminated, with a warm ambient atmosphere. Shot in a photographic, realistic cartoon style, high detail, 1:1 aspect ratio.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Sujet et netteté",
+            "Visage",
+            "Effet et exposition"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/berryxia_ai/status/1920795648946782583",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "94",
+      "title": "Three Animals Selfie at Landmark",
+      "prompt": "A close-up selfie of three [animal type] with different expressions in front of the iconic [landmark], taken at golden hour with cinematic lighting. The animals are positioned close to the camera with their heads touching, mimicking a selfie pose, showing joyful, surprised, and calm expressions. The background features the full architectural detail of [landmark], softly illuminated, with a warm ambient atmosphere. Shot in a photographic, realistic cartoon style, high detail, 1:1 aspect ratio.\n\nDIRECTION DÉTAILLÉE — Three Animals Selfie at Landmark\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.\n",
+      "categories": "Effets photo",
+      "imageUrl": "media/archive-94-gpt4o.webp"
+    },
+    {
+      "order": 12,
+      "original": {
+        "id": "93",
+        "title": "Glass Retexturing",
+        "category": "Effets photo",
+        "prompt": "retexture the image attached based on the JSON aesthetic below\n{\n  \"style\": \"photorealistic 3D render\",\n  \"material\": \"glass with transparent and iridescent effects\",\n  \"surface_texture\": \"smooth, polished with subtle reflections and refractive effects\",\n  \"lighting\": {\n    \"type\": \"studio HDRI\",\n    \"intensity\": \"high\",\n    \"direction\": \"angled top-left key light and ambient fill\",\n    \"accent_colors\": [\"blue\", \"green\", \"purple\"],\n    \"reflections\": true,\n    \"refractions\": true,\n    \"dispersion_effects\": true,\n    \"bloom\": true\n  },\n  \"color_scheme\": {\n    \"primary\": \"transparent with iridescent blue, green, and purple hues\",\n    \"secondary\": \"crystal-clear with subtle chromatic shifts\",\n    \"highlights\": \"soft, glowing accents reflecting rainbow-like effects\",\n    \"rim_light\": \"soft reflective light around edges\"\n  },\n  \"background\": {\n    \"color\": \"black\",\n    \"vignette\": true,\n    \"texture\": \"none\"\n  },\n  \"post_processing\": {\n    \"chromatic_aberration\": true,\n    \"glow\": true,\n    \"high_contrast\": true,\n    \"sharp_details\": true\n  }\n}\n\nDIRECTION DÉTAILLÉE — Glass Retexturing\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.\n\nCadrage : Conserver les proportions de l’objectif ou de la perspective décrite. Éviter les coupes involontaires et placer le décor à un niveau de détail inférieur au sujet, sauf intention contraire explicitement demandée.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/egeberkina/status/1920448389960909085",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-93-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/93/glass_retexturing.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-93-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "retexture the image attached based on the JSON aesthetic below\n{\n  \"style\": \"photorealistic 3D render\",\n  \"material\": \"glass with transparent and iridescent effects\",\n  \"surface_texture\": \"smooth, polished with subtle reflections and refractive effects\",\n  \"lighting\": {\n    \"type\": \"studio HDRI\",\n    \"intensity\": \"high\",\n    \"direction\": \"angled top-left key light and ambient fill\",\n    \"accent_colors\": [\"blue\", \"green\", \"purple\"],\n    \"reflections\": true,\n    \"refractions\": true,\n    \"dispersion_effects\": true,\n    \"bloom\": true\n  },\n  \"color_scheme\": {\n    \"primary\": \"transparent with iridescent blue, green, and purple hues\",\n    \"secondary\": \"crystal-clear with subtle chromatic shifts\",\n    \"highlights\": \"soft, glowing accents reflecting rainbow-like effects\",\n    \"rim_light\": \"soft reflective light around edges\"\n  },\n  \"background\": {\n    \"color\": \"black\",\n    \"vignette\": true,\n    \"texture\": \"none\"\n  },\n  \"post_processing\": {\n    \"chromatic_aberration\": true,\n    \"glow\": true,\n    \"high_contrast\": true,\n    \"sharp_details\": true\n  }\n}",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Sujet et netteté",
+            "Transparence",
+            "Effet et exposition",
+            "Cadrage"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/egeberkina/status/1920448389960909085",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "93",
+      "title": "Glass Retexturing",
+      "prompt": "retexture the image attached based on the JSON aesthetic below\n{\n  \"style\": \"photorealistic 3D render\",\n  \"material\": \"glass with transparent and iridescent effects\",\n  \"surface_texture\": \"smooth, polished with subtle reflections and refractive effects\",\n  \"lighting\": {\n    \"type\": \"studio HDRI\",\n    \"intensity\": \"high\",\n    \"direction\": \"angled top-left key light and ambient fill\",\n    \"accent_colors\": [\"blue\", \"green\", \"purple\"],\n    \"reflections\": true,\n    \"refractions\": true,\n    \"dispersion_effects\": true,\n    \"bloom\": true\n  },\n  \"color_scheme\": {\n    \"primary\": \"transparent with iridescent blue, green, and purple hues\",\n    \"secondary\": \"crystal-clear with subtle chromatic shifts\",\n    \"highlights\": \"soft, glowing accents reflecting rainbow-like effects\",\n    \"rim_light\": \"soft reflective light around edges\"\n  },\n  \"background\": {\n    \"color\": \"black\",\n    \"vignette\": true,\n    \"texture\": \"none\"\n  },\n  \"post_processing\": {\n    \"chromatic_aberration\": true,\n    \"glow\": true,\n    \"high_contrast\": true,\n    \"sharp_details\": true\n  }\n}\n\nDIRECTION DÉTAILLÉE — Glass Retexturing\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.\n\nCadrage : Conserver les proportions de l’objectif ou de la perspective décrite. Éviter les coupes involontaires et placer le décor à un niveau de détail inférieur au sujet, sauf intention contraire explicitement demandée.\n",
+      "categories": "Effets photo",
+      "imageUrl": "media/archive-93-gpt4o.webp"
+    },
+    {
+      "order": 13,
+      "original": {
+        "id": "92",
+        "title": "Perspective 3D Pop-Out Effect",
+        "category": "Personnages & 3D",
+        "prompt": "Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne Hathaway / see reference image], with exquisite and beautiful makeup and fashionable styling, standing on the screen of a smartphone held up by someone. The image creates a strong perspective illusion. Emphasize the 3D effect of the girl standing out from the phone. She wears black-rimmed glasses, high-street fashion, and strikes a cute, playful pose. The phone screen is treated as a dark floor, like a small stage. The scene uses strong forced perspective to show the proportional difference between the hand, the phone, and the girl. The background is clean gray, using soft indoor light, shallow depth of field, and the overall style is surrealistic photorealistic compositing. Very strong perspective.\n\nDIRECTION DÉTAILLÉE — Perspective 3D Pop-Out Effect\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n\nMise en scène : Conserver une marge autour des parties importantes du personnage. Séparer les plans par le contraste et la netteté, en faisant passer le visage avant les détails du décor. Si une référence est fournie, préserver ses traits distinctifs.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-92-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/92/perspective-3d-pop-out-effect.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-92-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne Hathaway / see reference image], with exquisite and beautiful makeup and fashionable styling, standing on the screen of a smartphone held up by someone. The image creates a strong perspective illusion. Emphasize the 3D effect of the girl standing out from the phone. She wears black-rimmed glasses, high-street fashion, and strikes a cute, playful pose. The phone screen is treated as a dark floor, like a small stage. The scene uses strong forced perspective to show the proportional difference between the hand, the phone, and the girl. The background is clean gray, using soft indoor light, shallow depth of field, and the overall style is surrealistic photorealistic compositing. Very strong perspective.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Silhouette et pose",
+            "Volume et contact",
+            "Mise en scène"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "92",
+      "title": "Perspective 3D Pop-Out Effect",
+      "prompt": "Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne Hathaway / see reference image], with exquisite and beautiful makeup and fashionable styling, standing on the screen of a smartphone held up by someone. The image creates a strong perspective illusion. Emphasize the 3D effect of the girl standing out from the phone. She wears black-rimmed glasses, high-street fashion, and strikes a cute, playful pose. The phone screen is treated as a dark floor, like a small stage. The scene uses strong forced perspective to show the proportional difference between the hand, the phone, and the girl. The background is clean gray, using soft indoor light, shallow depth of field, and the overall style is surrealistic photorealistic compositing. Very strong perspective.\n\nDIRECTION DÉTAILLÉE — Perspective 3D Pop-Out Effect\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n\nMise en scène : Conserver une marge autour des parties importantes du personnage. Séparer les plans par le contraste et la netteté, en faisant passer le visage avant les détails du décor. Si une référence est fournie, préserver ses traits distinctifs.\n",
+      "categories": "Personnages & 3D",
+      "imageUrl": "media/archive-92-gpt4o.webp"
+    },
+    {
+      "order": 14,
+      "original": {
+        "id": "91",
+        "title": "Google Maps to Ancient Treasure Map",
+        "category": "Cartes & diagrammes",
+        "prompt": "Transform the image to an ancient treasure map drawn on aged parchment. The map includes detailed elements like sailing ships on the ocean, old ports or castles on the coastline, a dotted path leading to a large 'X' marking the treasure spot, mountains, palm trees, and a decorative compass rose. The overall style is reminiscent of old pirate adventure films.\n\nDIRECTION DÉTAILLÉE — Google Maps to Ancient Treasure Map\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nStructure : Définir un chemin de lecture clair et regrouper les éléments liés. Donner une place distincte au titre, à la représentation et à la légende lorsqu’ils sont demandés. Espacer les repères pour éviter les collisions.\n\nCartographie : Distinguer zones, parcours et repères par un code visuel simple. Les noms et symboles restent lisibles sans se chevaucher. Si la carte est fictive, conserver une géographie intérieure cohérente ; si elle vient d’une référence, respecter ses positions relatives.\n\nRelations : Les traits et flèches relient des éléments identifiables et se terminent précisément à leur destination. Les couleurs portent une signification constante ; un même symbole doit garder le même sens et la même taille de référence.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/umesh_ai/status/1919701229363466328",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-91-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/91/case.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-91-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Transform the image to an ancient treasure map drawn on aged parchment. The map includes detailed elements like sailing ships on the ocean, old ports or castles on the coastline, a dotted path leading to a large 'X' marking the treasure spot, mountains, palm trees, and a decorative compass rose. The overall style is reminiscent of old pirate adventure films.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Structure",
+            "Cartographie",
+            "Relations"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/umesh_ai/status/1919701229363466328",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "91",
+      "title": "Google Maps to Ancient Treasure Map",
+      "prompt": "Transform the image to an ancient treasure map drawn on aged parchment. The map includes detailed elements like sailing ships on the ocean, old ports or castles on the coastline, a dotted path leading to a large 'X' marking the treasure spot, mountains, palm trees, and a decorative compass rose. The overall style is reminiscent of old pirate adventure films.\n\nDIRECTION DÉTAILLÉE — Google Maps to Ancient Treasure Map\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nStructure : Définir un chemin de lecture clair et regrouper les éléments liés. Donner une place distincte au titre, à la représentation et à la légende lorsqu’ils sont demandés. Espacer les repères pour éviter les collisions.\n\nCartographie : Distinguer zones, parcours et repères par un code visuel simple. Les noms et symboles restent lisibles sans se chevaucher. Si la carte est fictive, conserver une géographie intérieure cohérente ; si elle vient d’une référence, respecter ses positions relatives.\n\nRelations : Les traits et flèches relient des éléments identifiables et se terminent précisément à leur destination. Les couleurs portent une signification constante ; un même symbole doit garder le même sens et la même taille de référence.\n",
+      "categories": "Cartes & diagrammes",
+      "imageUrl": "media/archive-91-gpt4o.webp"
+    },
+    {
+      "order": 15,
+      "original": {
+        "id": "90",
+        "title": "Branded Mechanical Keycaps",
+        "category": "Design produit",
+        "prompt": "ultra-realistic 3D render of four mechanical keyboard keycaps in a tight 2x2 grid, all keys touching. View from an isometric angle. One key is transparent with the word “{just}” printed in {white}. The other three colors are: {black, purple, and white}. One key features the {Github} logo. The other two say \"{fork}\" and \"{it}\". Realistic plastic texture, rounded sculpted keycaps, soft shadows, clean light-gray background.\n\nDIRECTION DÉTAILLÉE — Branded Mechanical Keycaps\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n\nAssemblage mécanique : Donner une logique aux axes, articulations et raccords. Les pièces conservent leur épaisseur et leur échelle ; limiter les engrenages décoratifs qui ne sont reliés à aucun mouvement ou support.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/egeberkina/status/1918291652210311278",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-90-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/90/case.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-90-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "ultra-realistic 3D render of four mechanical keyboard keycaps in a tight 2x2 grid, all keys touching. View from an isometric angle. One key is transparent with the word “{just}” printed in {white}. The other three colors are: {black, purple, and white}. One key features the {Github} logo. The other two say \"{fork}\" and \"{it}\". Realistic plastic texture, rounded sculpted keycaps, soft shadows, clean light-gray background.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Forme et fonction",
+            "Signe et reproduction",
+            "Assemblage mécanique"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/egeberkina/status/1918291652210311278",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "90",
+      "title": "Branded Mechanical Keycaps",
+      "prompt": "ultra-realistic 3D render of four mechanical keyboard keycaps in a tight 2x2 grid, all keys touching. View from an isometric angle. One key is transparent with the word “{just}” printed in {white}. The other three colors are: {black, purple, and white}. One key features the {Github} logo. The other two say \"{fork}\" and \"{it}\". Realistic plastic texture, rounded sculpted keycaps, soft shadows, clean light-gray background.\n\nDIRECTION DÉTAILLÉE — Branded Mechanical Keycaps\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n\nAssemblage mécanique : Donner une logique aux axes, articulations et raccords. Les pièces conservent leur épaisseur et leur échelle ; limiter les engrenages décoratifs qui ne sont reliés à aucun mouvement ou support.\n",
+      "categories": "Design produit",
+      "imageUrl": "media/archive-90-gpt4o.webp"
+    },
+    {
+      "order": 16,
+      "original": {
+        "id": "89",
+        "title": "Chrome Emoji Pin",
+        "category": "Design produit",
+        "prompt": "highly detailed 3D render of a single metallic {👍} emoji pin attached to a vertical product card, ultra-glossy chrome finish, smooth rounded 3D icon, stylized futuristic design, soft reflections, clean shadows, paper card has a die-cut euro hole at the top center, bold title “{Awesome}” above the pin, fun tagline “{Smash that ⭐ if you like it!}” below, soft gray background, soft studio lighting, minimal aesthetic\n\nDIRECTION DÉTAILLÉE — Chrome Emoji Pin\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nReflets métalliques : Dessiner des reflets continus qui épousent la courbure, avec des transitions franches entre clair et sombre. Éviter une surface grise uniforme : la lecture du métal vient du reflet de l’environnement et de bords bien définis.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/egeberkina/status/1919398870867440124",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-89-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/89/case.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-89-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "highly detailed 3D render of a single metallic {👍} emoji pin attached to a vertical product card, ultra-glossy chrome finish, smooth rounded 3D icon, stylized futuristic design, soft reflections, clean shadows, paper card has a die-cut euro hole at the top center, bold title “{Awesome}” above the pin, fun tagline “{Smash that ⭐ if you like it!}” below, soft gray background, soft studio lighting, minimal aesthetic",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Forme et fonction",
+            "Reflets métalliques",
+            "Signe et reproduction"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/egeberkina/status/1919398870867440124",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "89",
+      "title": "Chrome Emoji Pin",
+      "prompt": "highly detailed 3D render of a single metallic {👍} emoji pin attached to a vertical product card, ultra-glossy chrome finish, smooth rounded 3D icon, stylized futuristic design, soft reflections, clean shadows, paper card has a die-cut euro hole at the top center, bold title “{Awesome}” above the pin, fun tagline “{Smash that ⭐ if you like it!}” below, soft gray background, soft studio lighting, minimal aesthetic\n\nDIRECTION DÉTAILLÉE — Chrome Emoji Pin\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nReflets métalliques : Dessiner des reflets continus qui épousent la courbure, avec des transitions franches entre clair et sombre. Éviter une surface grise uniforme : la lecture du métal vient du reflet de l’environnement et de bords bien définis.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n",
+      "categories": "Design produit",
+      "imageUrl": "media/archive-89-gpt4o.webp"
+    },
+    {
+      "order": 17,
+      "original": {
+        "id": "88",
+        "title": "Children's Coloring Page Illustration",
+        "category": "Styles artistiques",
+        "prompt": "A black and white line drawing coloring illustration, suitable for direct printing on standard size (8.5x11 inch) paper, without paper borders. The overall illustration style is fresh and simple, using clear and smooth black outline lines, without shadows, grayscale, or color filling, with a pure white background for easy coloring.\n[At the same time, for the convenience of users who are not good at coloring, please generate a complete colored version in the lower right corner as a small image for reference]\nSuitable for: [6-9 year old children]\nScene description:\n[A unicorn is walking on the grass in the forest, with bright sunshine, blue sky and white clouds]\n\nDIRECTION DÉTAILLÉE — Children's Coloring Page Illustration\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nDessin : Varier pression et direction des traits selon les volumes. Les contours importants restent clairs ; éviter les zones noircies sans intention. Si c’est une page de coloriage, garder des formes fermées et des intérieurs dégagés.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/dotey/status/1919522110395080838",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-88-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/88/case.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-88-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A black and white line drawing coloring illustration, suitable for direct printing on standard size (8.5x11 inch) paper, without paper borders. The overall illustration style is fresh and simple, using clear and smooth black outline lines, without shadows, grayscale, or color filling, with a pure white background for easy coloring.\n[At the same time, for the convenience of users who are not good at coloring, please generate a complete colored version in the lower right corner as a small image for reference]\nSuitable for: [6-9 year old children]\nScene description:\n[A unicorn is walking on the grass in the forest, with bright sunshine, blue sky and white clouds]",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Écriture visuelle",
+            "Dessin",
+            "Couleur et rythme"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/dotey/status/1919522110395080838",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "88",
+      "title": "Children's Coloring Page Illustration",
+      "prompt": "A black and white line drawing coloring illustration, suitable for direct printing on standard size (8.5x11 inch) paper, without paper borders. The overall illustration style is fresh and simple, using clear and smooth black outline lines, without shadows, grayscale, or color filling, with a pure white background for easy coloring.\n[At the same time, for the convenience of users who are not good at coloring, please generate a complete colored version in the lower right corner as a small image for reference]\nSuitable for: [6-9 year old children]\nScene description:\n[A unicorn is walking on the grass in the forest, with bright sunshine, blue sky and white clouds]\n\nDIRECTION DÉTAILLÉE — Children's Coloring Page Illustration\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nDessin : Varier pression et direction des traits selon les volumes. Les contours importants restent clairs ; éviter les zones noircies sans intention. Si c’est une page de coloriage, garder des formes fermées et des intérieurs dégagés.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n",
+      "categories": "Styles artistiques",
+      "imageUrl": "media/archive-88-gpt4o.webp"
+    },
+    {
+      "order": 18,
+      "original": {
+        "id": "87",
+        "title": "Integrating Word Meaning into Letters",
+        "category": "Concepts créatifs",
+        "prompt": "Integrate the meaning of the word into the letters, cleverly blending graphics and letters.\nWord: {beautify}\nAdd a brief explanation of the word below.\n\nDIRECTION DÉTAILLÉE — Integrating Word Meaning into Letters\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n\nLecture : Séparer premier plan, sujet et arrière-plan. Préserver assez d’espace autour du détail qui révèle le concept ; les petits éléments enrichissent la découverte après la première lecture.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/dotey/status/1918529055340576812",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-87-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/87/case.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-87-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Integrate the meaning of the word into the letters, cleverly blending graphics and letters.\nWord: {beautify}\nAdd a brief explanation of the word below.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Idée centrale",
+            "Cohérence de la scène",
+            "Lecture"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/dotey/status/1918529055340576812",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "87",
+      "title": "Integrating Word Meaning into Letters",
+      "prompt": "Integrate the meaning of the word into the letters, cleverly blending graphics and letters.\nWord: {beautify}\nAdd a brief explanation of the word below.\n\nDIRECTION DÉTAILLÉE — Integrating Word Meaning into Letters\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n\nLecture : Séparer premier plan, sujet et arrière-plan. Préserver assez d’espace autour du détail qui révèle le concept ; les petits éléments enrichissent la découverte après la première lecture.\n",
+      "categories": "Concepts créatifs",
+      "imageUrl": "media/archive-87-gpt4o.webp"
+    },
+    {
+      "order": 19,
+      "original": {
+        "id": "86",
+        "title": "Double Exposure",
+        "category": "Styles artistiques",
+        "prompt": "Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).\n\nDIRECTION DÉTAILLÉE — Double Exposure\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nRaccord entre les mondes : Choisir précisément la zone de superposition ou de passage. Préserver la lisibilité du sujet principal et la continuité des contours aux limites ; les reflets ou doubles images suivent une logique visuelle commune.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-86-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/86/double_exposure.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-86-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Écriture visuelle",
+            "Raccord entre les mondes",
+            "Couleur et rythme"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "86",
+      "title": "Double Exposure",
+      "prompt": "Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).\n\nDIRECTION DÉTAILLÉE — Double Exposure\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nRaccord entre les mondes : Choisir précisément la zone de superposition ou de passage. Préserver la lisibilité du sujet principal et la continuité des contours aux limites ; les reflets ou doubles images suivent une logique visuelle commune.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n",
+      "categories": "Styles artistiques",
+      "imageUrl": "media/archive-86-gpt4o.webp"
+    },
+    {
+      "order": 20,
+      "original": {
+        "id": "85",
+        "title": "Surreal Interaction Scene",
+        "category": "Concepts créatifs",
+        "prompt": "A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] is rendered as a realistic, full-color object, creating a surreal contrast against the hand-drawn style of [Subject 1] and the background\n\nDIRECTION DÉTAILLÉE — Surreal Interaction Scene\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n\nLecture : Séparer premier plan, sujet et arrière-plan. Préserver assez d’espace autour du détail qui révèle le concept ; les petits éléments enrichissent la découverte après la première lecture.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/umesh_ai/status/1917444534239191544",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-85-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/85/case.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-85-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] is rendered as a realistic, full-color object, creating a surreal contrast against the hand-drawn style of [Subject 1] and the background",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Idée centrale",
+            "Cohérence de la scène",
+            "Lecture"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/umesh_ai/status/1917444534239191544",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "85",
+      "title": "Surreal Interaction Scene",
+      "prompt": "A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] is rendered as a realistic, full-color object, creating a surreal contrast against the hand-drawn style of [Subject 1] and the background\n\nDIRECTION DÉTAILLÉE — Surreal Interaction Scene\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n\nLecture : Séparer premier plan, sujet et arrière-plan. Préserver assez d’espace autour du détail qui révèle le concept ; les petits éléments enrichissent la découverte après la première lecture.\n",
+      "categories": "Concepts créatifs",
+      "imageUrl": "media/archive-85-gpt4o.webp"
+    },
+    {
+      "order": 21,
+      "original": {
+        "id": "84",
+        "title": "Animal Silicone Wrist Rest",
+        "category": "Concepts créatifs",
+        "prompt": "Create an image of a cute chibi-style silicone wrist rest based on the {🐼} emoji. The wrist rest is made of soft, food-grade silicone with a skin-friendly matte surface. The interior is filled with slow-rebound foam. Designed in a personified cartoon style, the expression is lively, with both arms stretched out as if hugging the user’s wrist while lying on a desk. The overall shape is round, soft, and adorable, featuring the classic {🐼} color scheme. The design is comforting and cute, suitable for office use. The background is a solid white color with soft lighting. Rendered in a product photography style, the angle is either front-facing or at a 45-degree top-down view, showcasing high-definition details and emphasizing the silicone texture and comfort functionality.\n\nDIRECTION DÉTAILLÉE — Animal Silicone Wrist Rest\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nSouplesse : Rendre perceptibles la légère compression aux points d’appui et la tension de la surface. Les raccords restent doux et propres ; ne pas ajouter de plis rigides ou de grain minéral à cette matière souple.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-84-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/84/case.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-84-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Create an image of a cute chibi-style silicone wrist rest based on the {🐼} emoji. The wrist rest is made of soft, food-grade silicone with a skin-friendly matte surface. The interior is filled with slow-rebound foam. Designed in a personified cartoon style, the expression is lively, with both arms stretched out as if hugging the user’s wrist while lying on a desk. The overall shape is round, soft, and adorable, featuring the classic {🐼} color scheme. The design is comforting and cute, suitable for office use. The background is a solid white color with soft lighting. Rendered in a product photography style, the angle is either front-facing or at a 45-degree top-down view, showcasing high-definition details and emphasizing the silicone texture and comfort functionality.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Idée centrale",
+            "Souplesse",
+            "Signe et reproduction"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "84",
+      "title": "Animal Silicone Wrist Rest",
+      "prompt": "Create an image of a cute chibi-style silicone wrist rest based on the {🐼} emoji. The wrist rest is made of soft, food-grade silicone with a skin-friendly matte surface. The interior is filled with slow-rebound foam. Designed in a personified cartoon style, the expression is lively, with both arms stretched out as if hugging the user’s wrist while lying on a desk. The overall shape is round, soft, and adorable, featuring the classic {🐼} color scheme. The design is comforting and cute, suitable for office use. The background is a solid white color with soft lighting. Rendered in a product photography style, the angle is either front-facing or at a 45-degree top-down view, showcasing high-definition details and emphasizing the silicone texture and comfort functionality.\n\nDIRECTION DÉTAILLÉE — Animal Silicone Wrist Rest\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nSouplesse : Rendre perceptibles la légère compression aux points d’appui et la tension de la surface. Les raccords restent doux et propres ; ne pas ajouter de plis rigides ou de grain minéral à cette matière souple.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n",
+      "categories": "Concepts créatifs",
+      "imageUrl": "media/archive-84-gpt4o.webp"
+    },
+    {
+      "order": 22,
+      "original": {
+        "id": "83",
+        "title": "Glowing Lines Anatomy Diagram",
+        "category": "Cartes & diagrammes",
+        "prompt": "A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique\n\nDIRECTION DÉTAILLÉE — Glowing Lines Anatomy Diagram\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nStructure : Définir un chemin de lecture clair et regrouper les éléments liés. Donner une place distincte au titre, à la représentation et à la légende lorsqu’ils sont demandés. Espacer les repères pour éviter les collisions.\n\nPrécision pédagogique : Séparer les parties observables des annotations et vérifier leurs relations. Utiliser une légende sobre, sans ajouter d’organe, de composant ou de trajet fictif pour remplir l’espace. L’illustration ne doit pas suggérer une précision scientifique qui n’est pas fournie.\n\nRelations : Les traits et flèches relient des éléments identifiables et se terminent précisément à leur destination. Les couleurs portent une signification constante ; un même symbole doit garder le même sens et la même taille de référence.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/umesh_ai/status/1914644426334314545",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-83-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/83/case.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-83-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Structure",
+            "Précision pédagogique",
+            "Relations"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/umesh_ai/status/1914644426334314545",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "83",
+      "title": "Glowing Lines Anatomy Diagram",
+      "prompt": "A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique\n\nDIRECTION DÉTAILLÉE — Glowing Lines Anatomy Diagram\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nStructure : Définir un chemin de lecture clair et regrouper les éléments liés. Donner une place distincte au titre, à la représentation et à la légende lorsqu’ils sont demandés. Espacer les repères pour éviter les collisions.\n\nPrécision pédagogique : Séparer les parties observables des annotations et vérifier leurs relations. Utiliser une légende sobre, sans ajouter d’organe, de composant ou de trajet fictif pour remplir l’espace. L’illustration ne doit pas suggérer une précision scientifique qui n’est pas fournie.\n\nRelations : Les traits et flèches relient des éléments identifiables et se terminent précisément à leur destination. Les couleurs portent une signification constante ; un même symbole doit garder le même sens et la même taille de référence.\n",
+      "categories": "Cartes & diagrammes",
+      "imageUrl": "media/archive-83-gpt4o.webp"
+    },
+    {
+      "order": 23,
+      "original": {
+        "id": "82",
+        "title": "Signature City Weather Forecast",
+        "category": "Cartes & diagrammes",
+        "prompt": "Show a clear 45-degree bird’s-eye view of an isometric miniature city scene featuring Shanghai’s iconic buildings, such as the Oriental Pearl Tower and the Bund. The weather effect—cloudy—blends softly into the city, interacting gently with the architecture. Use physically based rendering (PBR) and realistic lighting. Solid color background, crisp and clean. Centered composition to highlight the precision and detail of the 3D model. Display “Shanghai Cloudy 20°C” and a cloudy weather icon at the top of the image.\n\nDIRECTION DÉTAILLÉE — Signature City Weather Forecast\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nStructure : Définir un chemin de lecture clair et regrouper les éléments liés. Donner une place distincte au titre, à la représentation et à la légende lorsqu’ils sont demandés. Espacer les repères pour éviter les collisions.\n\nRelations : Les traits et flèches relient des éléments identifiables et se terminent précisément à leur destination. Les couleurs portent une signification constante ; un même symbole doit garder le même sens et la même taille de référence.\n\nInformation : Préserver les noms, valeurs, orientations et relations fournis. Ne pas inventer de mesures ou de localisation réelle manquante. Employer des espaces réservés explicites lorsque les données nécessaires ne sont pas données.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/dotey/status/1917988595228438771",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-82-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/82/example.png",
+            "width": 603,
+            "height": 905
+          },
+          {
+            "src": "media/archive-82-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Show a clear 45-degree bird’s-eye view of an isometric miniature city scene featuring Shanghai’s iconic buildings, such as the Oriental Pearl Tower and the Bund. The weather effect—cloudy—blends softly into the city, interacting gently with the architecture. Use physically based rendering (PBR) and realistic lighting. Solid color background, crisp and clean. Centered composition to highlight the precision and detail of the 3D model. Display “Shanghai Cloudy 20°C” and a cloudy weather icon at the top of the image.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Structure",
+            "Relations",
+            "Information"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/dotey/status/1917988595228438771",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "82",
+      "title": "Signature City Weather Forecast",
+      "prompt": "Show a clear 45-degree bird’s-eye view of an isometric miniature city scene featuring Shanghai’s iconic buildings, such as the Oriental Pearl Tower and the Bund. The weather effect—cloudy—blends softly into the city, interacting gently with the architecture. Use physically based rendering (PBR) and realistic lighting. Solid color background, crisp and clean. Centered composition to highlight the precision and detail of the 3D model. Display “Shanghai Cloudy 20°C” and a cloudy weather icon at the top of the image.\n\nDIRECTION DÉTAILLÉE — Signature City Weather Forecast\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nStructure : Définir un chemin de lecture clair et regrouper les éléments liés. Donner une place distincte au titre, à la représentation et à la légende lorsqu’ils sont demandés. Espacer les repères pour éviter les collisions.\n\nRelations : Les traits et flèches relient des éléments identifiables et se terminent précisément à leur destination. Les couleurs portent une signification constante ; un même symbole doit garder le même sens et la même taille de référence.\n\nInformation : Préserver les noms, valeurs, orientations et relations fournis. Ne pas inventer de mesures ou de localisation réelle manquante. Employer des espaces réservés explicites lorsque les données nécessaires ne sont pas données.\n",
+      "categories": "Cartes & diagrammes",
+      "imageUrl": "media/archive-82-gpt4o.webp"
+    },
+    {
+      "order": 24,
+      "original": {
+        "id": "81",
+        "title": "3D Translucent Glass Transformation",
+        "category": "Personnages & 3D",
+        "prompt": "A soft, 3D translucent glass of the attached image with a frosty matte finish and detailed texture, original colors, centered on a light gray background, floats gently in space, soft shadows, natural lighting\n\nDIRECTION DÉTAILLÉE — 3D Translucent Glass Transformation\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/azed_ai/status/1917948899098243407",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-81-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/81/example.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-81-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-_aDii7pr31c7nBC30esLt.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A soft, 3D translucent glass of the attached image with a frosty matte finish and detailed texture, original colors, centered on a light gray background, floats gently in space, soft shadows, natural lighting",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Silhouette et pose",
+            "Transparence",
+            "Volume et contact"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/azed_ai/status/1917948899098243407",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "81",
+      "title": "3D Translucent Glass Transformation",
+      "prompt": "A soft, 3D translucent glass of the attached image with a frosty matte finish and detailed texture, original colors, centered on a light gray background, floats gently in space, soft shadows, natural lighting\n\nDIRECTION DÉTAILLÉE — 3D Translucent Glass Transformation\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n",
+      "categories": "Personnages & 3D",
+      "imageUrl": "media/archive-81-gpt4o.webp"
+    },
+    {
+      "order": 25,
+      "original": {
+        "id": "80",
+        "title": "Code Style Business Card",
+        "category": "Styles artistiques",
+        "prompt": "A close-up shot of a hand holding a business card designed to look like a JSON file opened in VS Code. The card shows code formatted in realistic syntax-highlighted JSON code. The window includes typical toolbar icons and a title bar labeled Business Card.json, styled exactly like the interface of VS Code. Background is slightly blurred, keeping the focus on the card.\nThe card displays the following code formatted in JSON:\n{\n  \"name\": \"Jamez Bondos\",\n  \"title\": \"Your Title\",\n  \"email\": \"your@email.com\",\n  \"link\": \"yourwebsite\"\n}\n\nDIRECTION DÉTAILLÉE — Code Style Business Card\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n\nFinition du médium : Donner aux marques de fabrication une échelle crédible. Les traces, trames ou pigments suivent les surfaces et les gestes ; préserver les détails qui rendent le sujet identifiable même lorsque le rendu est stylisé.\n",
+        "author": "Créateur cité dans la source",
+        "source": "",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-80-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/80/example_business_card_code_style.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-80-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A close-up shot of a hand holding a business card designed to look like a JSON file opened in VS Code. The card shows code formatted in realistic syntax-highlighted JSON code. The window includes typical toolbar icons and a title bar labeled Business Card.json, styled exactly like the interface of VS Code. Background is slightly blurred, keeping the focus on the card.\nThe card displays the following code formatted in JSON:\n{\n  \"name\": \"Jamez Bondos\",\n  \"title\": \"Your Title\",\n  \"email\": \"your@email.com\",\n  \"link\": \"yourwebsite\"\n}",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Écriture visuelle",
+            "Couleur et rythme",
+            "Finition du médium"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "80",
+      "title": "Code Style Business Card",
+      "prompt": "A close-up shot of a hand holding a business card designed to look like a JSON file opened in VS Code. The card shows code formatted in realistic syntax-highlighted JSON code. The window includes typical toolbar icons and a title bar labeled Business Card.json, styled exactly like the interface of VS Code. Background is slightly blurred, keeping the focus on the card.\nThe card displays the following code formatted in JSON:\n{\n  \"name\": \"Jamez Bondos\",\n  \"title\": \"Your Title\",\n  \"email\": \"your@email.com\",\n  \"link\": \"yourwebsite\"\n}\n\nDIRECTION DÉTAILLÉE — Code Style Business Card\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n\nFinition du médium : Donner aux marques de fabrication une échelle crédible. Les traces, trames ou pigments suivent les surfaces et les gestes ; préserver les détails qui rendent le sujet identifiable même lorsque le rendu est stylisé.\n",
+      "categories": "Styles artistiques",
+      "imageUrl": "media/archive-80-gpt4o.webp"
+    },
+    {
+      "order": 26,
+      "original": {
+        "id": "79",
+        "title": "Lego Cityscape",
+        "category": "Personnages & 3D",
+        "prompt": "Create a highly detailed and vividly colored LEGO-style scene of the Shanghai Bund. The foreground features the iconic historical buildings of the Bund, meticulously recreated with LEGO bricks in Western and neoclassical architectural styles — including clock towers, domes, and colonnades. LEGO minifigures are seen strolling along the riverfront, taking photos, and sightseeing, with classic LEGO-style cars parked along the street.\nIn the background lies the spectacular Huangpu River, assembled with translucent blue LEGO bricks. On the water, LEGO ferries and tour boats sail along. Across the river stands the skyline of Lujiazui in Pudong, including the Oriental Pearl Tower, Shanghai Tower, Jin Mao Tower, and Shanghai World Financial Center — all rendered as vibrant, lifelike LEGO skyscrapers.\nThe sky is LEGO’s signature bright blue, adorned with a few white LEGO brick clouds, creating a visual full of energy and modernity.\n\nDIRECTION DÉTAILLÉE — Lego Cityscape\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n\nMise en scène : Conserver une marge autour des parties importantes du personnage. Séparer les plans par le contraste et la netteté, en faisant passer le visage avant les détails du décor. Si une référence est fournie, préserver ses traits distinctifs.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/dotey/status/1917713810346872902",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-79-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/79/example_lego_shanghai_bund.png",
+            "width": 1000,
+            "height": 667
+          },
+          {
+            "src": "media/archive-79-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Create a highly detailed and vividly colored LEGO-style scene of the Shanghai Bund. The foreground features the iconic historical buildings of the Bund, meticulously recreated with LEGO bricks in Western and neoclassical architectural styles — including clock towers, domes, and colonnades. LEGO minifigures are seen strolling along the riverfront, taking photos, and sightseeing, with classic LEGO-style cars parked along the street.\nIn the background lies the spectacular Huangpu River, assembled with translucent blue LEGO bricks. On the water, LEGO ferries and tour boats sail along. Across the river stands the skyline of Lujiazui in Pudong, including the Oriental Pearl Tower, Shanghai Tower, Jin Mao Tower, and Shanghai World Financial Center — all rendered as vibrant, lifelike LEGO skyscrapers.\nThe sky is LEGO’s signature bright blue, adorned with a few white LEGO brick clouds, creating a visual full of energy and modernity.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Silhouette et pose",
+            "Volume et contact",
+            "Mise en scène"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/dotey/status/1917713810346872902",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "79",
+      "title": "Lego Cityscape",
+      "prompt": "Create a highly detailed and vividly colored LEGO-style scene of the Shanghai Bund. The foreground features the iconic historical buildings of the Bund, meticulously recreated with LEGO bricks in Western and neoclassical architectural styles — including clock towers, domes, and colonnades. LEGO minifigures are seen strolling along the riverfront, taking photos, and sightseeing, with classic LEGO-style cars parked along the street.\nIn the background lies the spectacular Huangpu River, assembled with translucent blue LEGO bricks. On the water, LEGO ferries and tour boats sail along. Across the river stands the skyline of Lujiazui in Pudong, including the Oriental Pearl Tower, Shanghai Tower, Jin Mao Tower, and Shanghai World Financial Center — all rendered as vibrant, lifelike LEGO skyscrapers.\nThe sky is LEGO’s signature bright blue, adorned with a few white LEGO brick clouds, creating a visual full of energy and modernity.\n\nDIRECTION DÉTAILLÉE — Lego Cityscape\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n\nMise en scène : Conserver une marge autour des parties importantes du personnage. Séparer les plans par le contraste et la netteté, en faisant passer le visage avant les détails du décor. Si une référence est fournie, préserver ses traits distinctifs.\n",
+      "categories": "Personnages & 3D",
+      "imageUrl": "media/archive-79-gpt4o.webp"
+    },
+    {
+      "order": 27,
+      "original": {
+        "id": "78",
+        "title": "Glass Retexturing",
+        "category": "Effets photo",
+        "prompt": "retexture the image attached based on the json below:\n\n{\n  \"style\": \"photorealistic\",\n  \"material\": \"glass\",\n  \"background\": \"plain white\",\n  \"object_position\": \"centered\",\n  \"lighting\": \"soft, diffused studio lighting\",\n  \"camera_angle\": \"eye-level, straight-on\",\n  \"resolution\": \"high\",\n  \"aspect_ratio\": \"2:3\",\n  \"details\": {\n    \"reflections\": true,\n    \"shadows\": false,\n    \"transparency\": true\n  }\n}\n\nDIRECTION DÉTAILLÉE — Glass Retexturing\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/egeberkina/status/1917631056980721743",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-78-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/78/example_retexture_glass_phone.png",
+            "width": 667,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-78-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-jmGRjdDLKOu0Lwb-gg2Se.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "retexture the image attached based on the json below:\n\n{\n  \"style\": \"photorealistic\",\n  \"material\": \"glass\",\n  \"background\": \"plain white\",\n  \"object_position\": \"centered\",\n  \"lighting\": \"soft, diffused studio lighting\",\n  \"camera_angle\": \"eye-level, straight-on\",\n  \"resolution\": \"high\",\n  \"aspect_ratio\": \"2:3\",\n  \"details\": {\n    \"reflections\": true,\n    \"shadows\": false,\n    \"transparency\": true\n  }\n}",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Sujet et netteté",
+            "Transparence",
+            "Effet et exposition"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/egeberkina/status/1917631056980721743",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "78",
+      "title": "Glass Retexturing",
+      "prompt": "retexture the image attached based on the json below:\n\n{\n  \"style\": \"photorealistic\",\n  \"material\": \"glass\",\n  \"background\": \"plain white\",\n  \"object_position\": \"centered\",\n  \"lighting\": \"soft, diffused studio lighting\",\n  \"camera_angle\": \"eye-level, straight-on\",\n  \"resolution\": \"high\",\n  \"aspect_ratio\": \"2:3\",\n  \"details\": {\n    \"reflections\": true,\n    \"shadows\": false,\n    \"transparency\": true\n  }\n}\n\nDIRECTION DÉTAILLÉE — Glass Retexturing\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.\n",
+      "categories": "Effets photo",
+      "imageUrl": "media/archive-78-gpt4o.webp"
+    },
+    {
+      "order": 28,
+      "original": {
+        "id": "77",
+        "title": "Story Scene in Crystal Ball",
+        "category": "Concepts créatifs",
+        "prompt": "A delicate crystal ball rests quietly on a warm, softly lit tabletop by the window. The background is blurred and hazy, with warm-toned sunlight gently passing through the crystal ball, refracting specks of golden light that softly illuminate the dim surroundings.\nInside the crystal ball, a miniature three-dimensional world themed around {Chang’e Flying to the Moon} is naturally displayed — a finely detailed, dreamlike 3D scene. All characters and objects are rendered in adorable chibi style, exquisitely crafted and visually charming, with vivid emotional interactions between them.\nThe overall atmosphere is rich with East Asian fantasy elements, full of intricate details and a surreal magical realism texture. The entire scene feels poetic and dreamy, luxurious yet elegant, radiating a gentle, comforting glow — as if imbued with life through the warm play of light and shadow.\n\nDIRECTION DÉTAILLÉE — Story Scene in Crystal Ball\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/dotey/status/1916530529324699858",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-77-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/77/example_crystal_ball_chang_e.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-77-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "A delicate crystal ball rests quietly on a warm, softly lit tabletop by the window. The background is blurred and hazy, with warm-toned sunlight gently passing through the crystal ball, refracting specks of golden light that softly illuminate the dim surroundings.\nInside the crystal ball, a miniature three-dimensional world themed around {Chang’e Flying to the Moon} is naturally displayed — a finely detailed, dreamlike 3D scene. All characters and objects are rendered in adorable chibi style, exquisitely crafted and visually charming, with vivid emotional interactions between them.\nThe overall atmosphere is rich with East Asian fantasy elements, full of intricate details and a surreal magical realism texture. The entire scene feels poetic and dreamy, luxurious yet elegant, radiating a gentle, comforting glow — as if imbued with life through the warm play of light and shadow.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Idée centrale",
+            "Transparence",
+            "Cohérence de la scène"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/dotey/status/1916530529324699858",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "77",
+      "title": "Story Scene in Crystal Ball",
+      "prompt": "A delicate crystal ball rests quietly on a warm, softly lit tabletop by the window. The background is blurred and hazy, with warm-toned sunlight gently passing through the crystal ball, refracting specks of golden light that softly illuminate the dim surroundings.\nInside the crystal ball, a miniature three-dimensional world themed around {Chang’e Flying to the Moon} is naturally displayed — a finely detailed, dreamlike 3D scene. All characters and objects are rendered in adorable chibi style, exquisitely crafted and visually charming, with vivid emotional interactions between them.\nThe overall atmosphere is rich with East Asian fantasy elements, full of intricate details and a surreal magical realism texture. The entire scene feels poetic and dreamy, luxurious yet elegant, radiating a gentle, comforting glow — as if imbued with life through the warm play of light and shadow.\n\nDIRECTION DÉTAILLÉE — Story Scene in Crystal Ball\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nIdée centrale : Rendre la transformation ou la rencontre inhabituelle immédiatement compréhensible. Choisir un point focal net et organiser les éléments secondaires pour expliquer cette idée, plutôt que multiplier les surprises sans lien entre elles.\n\nTransparence : Montrer l’épaisseur aux bords, la réfraction à travers le volume et la déformation des éléments vus derrière. Les zones transparentes gardent des reflets fins ; les ombres et caustiques restent compatibles avec la direction de lumière.\n\nCohérence de la scène : Même dans une scène impossible, accorder l’échelle des objets, les directions de lumière et les zones de contact. Soigner les raccords entre les deux univers : continuité des contours, des textures et des ombres là où ils se rencontrent.\n",
+      "categories": "Concepts créatifs",
+      "imageUrl": "media/archive-77-gpt4o.webp"
+    },
+    {
+      "order": 29,
+      "original": {
+        "id": "76",
+        "title": "Nostalgic Anime Film Poster",
+        "category": "Styles artistiques",
+        "prompt": "{The Lord of the Rings} anime film poster, the anime is in the style of High School DXD. Visible even folds are seen across the poster as it’s been folded over time, and due to some creases over damaging the poster has caused some physical damage scuffing along the creases and the color has partially faded. Indiscriminate flaps and folds and scratches all around simply from moving back and forth causing subtle yet incremental damage with the ever expanding of entropy we cannot escape, but the loving memories in our hearts will forever be whole. Making the objects we collect along the way priceless is the essence you feel when looking at this nostalgic poster.\n\nDIRECTION DÉTAILLÉE — Nostalgic Anime Film Poster\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nHiérarchie éditoriale : Faire lire d’abord le titre exact demandé, puis le sujet, puis les informations secondaires prévues. Préserver les bords de coupe et les espaces de respiration. Éviter les faux crédits, les dates ou les logos ajoutés automatiquement.\n\nCaractère analogique : Adapter le grain, les couleurs et les petites imperfections au procédé demandé. Les défauts restent mesurés et ne doivent pas effacer le sujet ; éviter les poussières, rayures et fuites de lumière ajoutées partout sans logique.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-76-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/76/example_anime_nostalgic_poster.png",
+            "width": 667,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "{The Lord of the Rings} anime film poster, the anime is in the style of High School DXD. Visible even folds are seen across the poster as it’s been folded over time, and due to some creases over damaging the poster has caused some physical damage scuffing along the creases and the color has partially faded. Indiscriminate flaps and folds and scratches all around simply from moving back and forth causing subtle yet incremental damage with the ever expanding of entropy we cannot escape, but the loving memories in our hearts will forever be whole. Making the objects we collect along the way priceless is the essence you feel when looking at this nostalgic poster.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Écriture visuelle",
+            "Hiérarchie éditoriale",
+            "Caractère analogique"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "76",
+      "title": "Nostalgic Anime Film Poster",
+      "prompt": "{The Lord of the Rings} anime film poster, the anime is in the style of High School DXD. Visible even folds are seen across the poster as it’s been folded over time, and due to some creases over damaging the poster has caused some physical damage scuffing along the creases and the color has partially faded. Indiscriminate flaps and folds and scratches all around simply from moving back and forth causing subtle yet incremental damage with the ever expanding of entropy we cannot escape, but the loving memories in our hearts will forever be whole. Making the objects we collect along the way priceless is the essence you feel when looking at this nostalgic poster.\n\nDIRECTION DÉTAILLÉE — Nostalgic Anime Film Poster\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nHiérarchie éditoriale : Faire lire d’abord le titre exact demandé, puis le sujet, puis les informations secondaires prévues. Préserver les bords de coupe et les espaces de respiration. Éviter les faux crédits, les dates ou les logos ajoutés automatiquement.\n\nCaractère analogique : Adapter le grain, les couleurs et les petites imperfections au procédé demandé. Les défauts restent mesurés et ne doivent pas effacer le sujet ; éviter les poussières, rayures et fuites de lumière ajoutées partout sans logique.\n",
+      "categories": "Styles artistiques",
+      "imageUrl": "media/archive-76-gpt4o.webp"
+    },
+    {
+      "order": 30,
+      "original": {
+        "id": "75",
+        "title": "Social Media Frame Integration",
+        "category": "Réseaux sociaux",
+        "prompt": "Create a stylized 3D chibi character based on the attached photo, accurately preserving the subject’s facial features and clothing details. The character is making a finger heart with the left hand (with a red heart element above the fingers) and playfully sitting on the edge of a giant Instagram frame, with both legs hanging outside the frame. The top of the frame displays the username “Beauty,” and various social media icons (like, comment, share) float around the scene.\n\nDIRECTION DÉTAILLÉE — Social Media Frame Integration\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nLecture rapide : Construire une hiérarchie immédiatement compréhensible : un message ou sujet dominant, puis les informations utiles. Préserver une zone de sécurité sur les bords et une taille de texte confortable lorsque le visuel est vu sur téléphone.\n\nMise en page : Aligner titre, image et détails sur une grille simple. Ne pas surcharger les angles de badges et de décorations. Conserver un contraste suffisant entre les lettres et leur fond, y compris dans les zones photographiques.\n\nContenu exact : Reprendre fidèlement le texte fourni, accents compris. Ne pas inventer de statistiques, témoignages ou engagements. Si une capture est fictive, la traiter comme une maquette ou illustration, sans la présenter comme une publication authentique.\n",
+        "author": "Créateur cité dans la source",
+        "source": "https://x.com/dotey/status/1917042797506662560",
+        "description": "Un point de départ à adapter à votre sujet, votre composition et votre palette.",
+        "origin": "collection",
+        "images": [
+          {
+            "src": "media/archive-75-gpt4o.webp",
+            "label": "GPT-4o · archive",
+            "source": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/75/example_instagram_frame_pearl_earring.png",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "src": "media/archive-75-gemini.webp",
+            "label": "Gemini · archive",
+            "source": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png?v=1",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "originalPrompt": "Create a stylized 3D chibi character based on the attached photo, accurately preserving the subject’s facial features and clothing details. The character is making a finger heart with the left hand (with a red heart element above the fingers) and playfully sitting on the edge of a giant Instagram frame, with both legs hanging outside the frame. The top of the frame displays the username “Beauty,” and various social media icons (like, comment, share) float around the scene.",
+        "enrichment": {
+          "version": "2026-10-20-r3",
+          "sections": [
+            "Lecture rapide",
+            "Mise en page",
+            "Contenu exact"
+          ]
+        }
+      },
+      "author": "Créateur cité dans la source",
+      "postUrl": "https://x.com/dotey/status/1917042797506662560",
+      "imageLabel": "GPT-4o · archive",
+      "origin": "collection",
+      "originalId": "75",
+      "title": "Social Media Frame Integration",
+      "prompt": "Create a stylized 3D chibi character based on the attached photo, accurately preserving the subject’s facial features and clothing details. The character is making a finger heart with the left hand (with a red heart element above the fingers) and playfully sitting on the edge of a giant Instagram frame, with both legs hanging outside the frame. The top of the frame displays the username “Beauty,” and various social media icons (like, comment, share) float around the scene.\n\nDIRECTION DÉTAILLÉE — Social Media Frame Integration\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nLecture rapide : Construire une hiérarchie immédiatement compréhensible : un message ou sujet dominant, puis les informations utiles. Préserver une zone de sécurité sur les bords et une taille de texte confortable lorsque le visuel est vu sur téléphone.\n\nMise en page : Aligner titre, image et détails sur une grille simple. Ne pas surcharger les angles de badges et de décorations. Conserver un contraste suffisant entre les lettres et leur fond, y compris dans les zones photographiques.\n\nContenu exact : Reprendre fidèlement le texte fourni, accents compris. Ne pas inventer de statistiques, témoignages ou engagements. Si une capture est fictive, la traiter comme une maquette ou illustration, sans la présenter comme une publication authentique.\n",
+      "categories": "Réseaux sociaux",
+      "imageUrl": "media/archive-75-gpt4o.webp"
+    }
+  ]
+}
