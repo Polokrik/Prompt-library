@@ -15,6 +15,7 @@ import {
   extractJsonBlobs,
   fetchTargets,
   guessFieldMap,
+  refineFieldMap,
   listLinks,
   summarizeCandidate,
   type CandidateArray,
@@ -219,7 +220,7 @@ async function main() {
       'Relever l’appel de données dans l’onglet Réseau du navigateur et renseigner dataLocation + fieldMap dans source.json ; sinon, saisir un export manuel en JSON dans imports/external/raw/.';
     return finish();
   }
-  const fieldMap = guessFieldMap(best.c.keys);
+  const fieldMap = refineFieldMap(guessFieldMap(best.c.keys), best.c.items);
   const sum = summarizeCandidate(best.c, fieldMap);
   out.strategy = best.kind === 'json' ? 'json-endpoint' : 'embedded-json';
   out.dataLocation = { url: best.url, kind: best.kind, candidatePath: best.c.path, items: best.c.items.length };

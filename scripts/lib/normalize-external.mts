@@ -19,6 +19,13 @@ export interface RawExternalEntry {
   pageUrl?: string;
   language?: string;
   alt?: string;
+  author?: string;
+  license?: { label: string; url?: string };
+  /** Lien vers la publication d'origine (post X, dépôt…). */
+  postUrl?: string;
+  /** Libellé de la première image (ex. « GPT-4o · archive »). */
+  imageLabel?: string;
+  origin?: string;
   original: Record<string, unknown>;
 }
 
@@ -40,12 +47,23 @@ function list(value: string | string[] | undefined): string[] {
   return unique(splitMulti(value, /[,;|]/).map((s) => cleanText(stripHtml(s))).filter(Boolean));
 }
 
+/** Textes de remplissage de la source, jamais republiés comme valeur éditoriale. */
+const PLACEHOLDER_AUTHOR = [/^créateur cité dans la source$/i, /^anonyme?$/i, /^inconnu/i];
+
+/** « GPT-4o · archive » -> « GPT-4o » : l'outil est la partie avant « · » ; sans libellé, rien n'est déduit. */
+export function generatorFromLabel(label: string | undefined): string | undefined {
+  const t = cleanText(label).split('·')[0]?.trim();
+  return t || undefined;
+}
+
 export function normalizeExternal(batch: RawExternalBatch): { entry: PromptEntry; alt?: string }[] {
   return batch.entries.map((raw) => {
     const prompt = cleanText(stripHtml(raw.prompt ?? ''));
-    const pageUrl = safeUrl(raw.pageUrl, batch.sourceUrl);
     const language = toLanguage(raw.language);
     const alt = cleanText(stripHtml(raw.alt ?? ''));
+    const author = cleanText(raw.author);
+    const postUrl = safeUrl(raw.postUrl);
+    const generator = generatorFromLabel(raw.imageLabel);
     const entry: PromptEntry = {
       id: externalEntryId(raw),
       title: cleanText(stripHtml(raw.title ?? '')),
@@ -54,12 +72,17 @@ export function normalizeExternal(batch: RawExternalBatch): { entry: PromptEntry
       categories: list(raw.categories),
       tags: list(raw.tags),
       ...(language ? { language } : {}),
+      ...(generator ? { generator } : {}),
       variants: [],
       source: {
         id: SOURCE_IDS.external,
         label: EXTERNAL_LABEL,
-        url: pageUrl ?? safeUrl(batch.sourceUrl) ?? batch.sourceUrl,
+        // Lien vers la compilation (le site source) ; le post d'origine est dans originalUrl.
+        url: safeUrl(batch.sourceUrl) ?? batch.sourceUrl,
         ...(raw.originalId ? { originalId: cleanText(raw.originalId) } : {}),
+        ...(author && !PLACEHOLDER_AUTHOR.some((r) => r.test(author)) ? { author } : {}),
+        ...(postUrl ? { originalUrl: postUrl } : {}),
+        ...(raw.license?.label ? { license: { label: cleanText(raw.license.label), ...(safeUrl(raw.license.url) ? { url: safeUrl(raw.license.url)! } : {}) } } : {}),
         importedAt: batch.importedAt,
       },
     };

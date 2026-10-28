@@ -35,7 +35,12 @@ function build(drafts: Draft[], mapping: EditorialMapping, label: string, verifi
     const draft = drafts[i]!;
     const alt = mapped.altOverrides.get(entry.id) ?? draft.alt;
     const image = resolveImage(entry.id, alt, manifest);
-    const withImage: PromptEntry = image ? { ...entry, image } : entry;
+    // Orientation mesurée sur l'image optimisée, seulement si la source n'en donne aucune.
+    const measured =
+      image?.width && image.height && !entry.orientation
+        ? { orientation: Math.abs(image.width - image.height) / Math.max(image.width, image.height) < 0.05 ? 'square' : image.width > image.height ? 'landscape' : 'portrait' }
+        : {};
+    const withImage = (image ? { ...entry, ...measured, image } : entry) as PromptEntry;
     const forced = mapped.forcedStatus.get(entry.id);
     const res = finalizeEntry(withImage, {
       verified,

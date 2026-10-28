@@ -168,6 +168,33 @@ export function Detail({ id, lookup = entriesById }: { id: string; lookup?: Map<
               {entry.source.originalId ? <> · référence d’origine <code>{entry.source.originalId}</code></> : null}
               {entry.source.importedAt ? <> · importé le {formatDate(entry.source.importedAt)}</> : null}
             </p>
+            {entry.source.author || entry.source.originalUrl || entry.source.license ? (
+              <p>
+                {entry.source.author ? <>Auteur : {entry.source.author}. </> : null}
+                {entry.source.originalUrl ? (
+                  <>
+                    <a href={entry.source.originalUrl} target="_blank" rel="noopener noreferrer">
+                      Publication d’origine<span className="sr-only"> (s’ouvre dans un nouvel onglet)</span>
+                    </a>
+                    .{' '}
+                  </>
+                ) : null}
+                {entry.source.license ? (
+                  <>
+                    Licence :{' '}
+                    {entry.source.license.url ? (
+                      <a href={entry.source.license.url} target="_blank" rel="noopener noreferrer">
+                        {entry.source.license.label}
+                        <span className="sr-only"> (s’ouvre dans un nouvel onglet)</span>
+                      </a>
+                    ) : (
+                      entry.source.license.label
+                    )}
+                    .
+                  </>
+                ) : null}
+              </p>
+            ) : null}
           </section>
         </div>
       </div>

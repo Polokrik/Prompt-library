@@ -29,6 +29,11 @@ export interface PromptSource {
   label: string;
   url?: string;
   originalId?: string;
+  /** Auteur du prompt, tel que fourni par la source (jamais déduit). */
+  author?: string;
+  /** Lien vers la publication d'origine (post, dépôt…). */
+  originalUrl?: string;
+  license?: { label: string; url?: string };
   /** Date ISO du dernier import de ce lot (jamais inventée). */
   importedAt?: string;
 }

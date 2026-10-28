@@ -14,7 +14,21 @@ export interface CandidateArray {
   keys: string[];
 }
 
-export type FieldName = 'originalId' | 'title' | 'prompt' | 'categories' | 'tags' | 'imageUrl' | 'pageUrl' | 'language' | 'alt';
+export type FieldName =
+  | 'originalId'
+  | 'title'
+  | 'prompt'
+  | 'categories'
+  | 'tags'
+  | 'imageUrl'
+  | 'pageUrl'
+  | 'language'
+  | 'alt'
+  | 'author'
+  | 'license'
+  | 'postUrl'
+  | 'imageLabel'
+  | 'origin';
 export type FieldMap = Partial<Record<FieldName, string>>;
 
 const ALIASES: Record<FieldName, string[]> = {
@@ -27,7 +41,29 @@ const ALIASES: Record<FieldName, string[]> = {
   pageUrl: ['url', 'link', 'href', 'permalink', 'page'],
   language: ['lang', 'language', 'langue'],
   alt: ['alt', 'alttext', 'alt_text', 'imagealt', 'caption', 'legende'],
+  author: ['author', 'auteur', 'creator'],
+  license: ['license', 'licence'],
+  postUrl: ['source', 'sourceurl', 'originalurl'],
+  imageLabel: [],
+  origin: ['origin'],
 };
+
+/**
+ * Affine la correspondance des champs d'après les données : quand `images` est une liste d'objets
+ * { src, label, … }, la première image fournit l'URL et l'outil (libellé).
+ */
+export function refineFieldMap(map: FieldMap, items: Record<string, unknown>[]): FieldMap {
+  const out = { ...map };
+  const withImages = items.find((it) => Array.isArray(it.images) && it.images.length > 0 && isObject(it.images[0]));
+  if (withImages) {
+    const first = (withImages.images as Record<string, unknown>[])[0]!;
+    const key = ['src', 'url', 'large', 'full'].find((k) => typeof first[k] === 'string');
+    if (key) out.imageUrl = `images.0.${key}`;
+    if (typeof first.label === 'string') out.imageLabel = 'images.0.label';
+    if (typeof first.alt === 'string') out.alt = 'images.0.alt';
+  }
+  return out;
+}
 
 const norm = (k: string) => k.toLowerCase().replace(/[^a-z0-9]/g, '');
 
@@ -172,6 +208,19 @@ export function toRawEntry(obj: Record<string, unknown>, order: number, map: Fie
   const pageUrl = asText(pick('pageUrl'));
   const language = asText(pick('language'));
   const alt = asText(pick('alt'));
+  const author = asText(pick('author'));
+  const postUrl = asText(pick('postUrl'));
+  const imageLabel = asText(pick('imageLabel'));
+  const origin = asText(pick('origin'));
+  const licenseRaw = pick('license');
+  const license = isObject(licenseRaw) && typeof licenseRaw.label === 'string'
+    ? { label: licenseRaw.label, ...(typeof licenseRaw.url === 'string' ? { url: licenseRaw.url } : {}) }
+    : typeof licenseRaw === 'string' ? { label: licenseRaw } : undefined;
+  if (author !== undefined) entry.author = author;
+  if (postUrl !== undefined) entry.postUrl = postUrl;
+  if (imageLabel !== undefined) entry.imageLabel = imageLabel;
+  if (origin !== undefined) entry.origin = origin;
+  if (license !== undefined) entry.license = license;
   if (id !== undefined) entry.originalId = id;
   if (title !== undefined) entry.title = title;
   if (prompt !== undefined) entry.prompt = prompt;

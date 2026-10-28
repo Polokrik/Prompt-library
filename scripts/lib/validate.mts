@@ -73,6 +73,12 @@ export function validateLibrary(entries: PromptEntry[], ctx: ValidateContext = {
       add({ severity: 'error', code: 'source-url-invalid', entryId: id, message: `URL source invalide : « ${e.source.url} »`, fixIn: 'source' });
     }
 
+    if (e.source?.originalUrl !== undefined && !safeUrl(e.source.originalUrl)) {
+      add({ severity: 'error', code: 'source-original-url-invalid', entryId: id, message: `Lien d'origine invalide : « ${e.source.originalUrl} »`, fixIn: 'source' });
+    }
+    if (e.source?.license?.url !== undefined && !safeUrl(e.source.license.url)) {
+      add({ severity: 'error', code: 'license-url-invalid', entryId: id, message: `URL de licence invalide : « ${e.source.license.url} »`, fixIn: 'source' });
+    }
     if (e.status === 'published' && !e.image) {
       add({ severity: 'error', code: 'image-missing', entryId: id, message: 'Fiche « published » sans image', fixIn: 'images' });
     }
@@ -99,7 +105,7 @@ export function validateLibrary(entries: PromptEntry[], ctx: ValidateContext = {
     }
 
     // Contrôles de chemins : champs techniques seulement (jamais le texte des prompts, qui peut contenir n'importe quoi).
-    const technical = [e.image?.thumbnail, e.image?.large, e.source?.id, e.source?.url, e.source?.originalId].filter(
+    const technical = [e.image?.thumbnail, e.image?.large, e.source?.id, e.source?.url, e.source?.originalUrl, e.source?.originalId].filter(
       (v): v is string => typeof v === 'string',
     );
     if (technical.some((v) => /\bdemo\b/i.test(v.split('/')[0] ?? '') || /(^|\/)demo(\/|$)/i.test(v)) || /\bdemo\b/i.test(e.source?.id ?? '')) {
