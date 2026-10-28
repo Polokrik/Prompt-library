@@ -43,8 +43,13 @@ for (const needle of ['reviewNotes', 'hiddenReason', 'Revue (dev)', 'duplicates-
   if (js.includes(needle)) fail(`Contenu réservé au développement présent dans le build : « ${needle} »`);
 }
 if (walk(dist).some((f) => /(^|[\\/])demo([\\/]|$)/i.test(path.relative(dist, f)))) fail('Dossier demo présent dans dist/');
-const big = walk(dist).filter((f) => fs.statSync(f).size > 1_500_000);
-big.forEach((f) => fail(`Fichier trop volumineux dans dist/ : ${path.relative(dist, f)}`));
+// Images et autres fichiers : 1,5 Mo max. Le code (JS/CSS) embarque les données des fiches : 8 Mo max
+// (servi compressé par GitHub Pages, bien plus léger sur le réseau).
+const limitFor = (f: string) => (/\.(js|css)$/.test(f) ? 8_000_000 : 1_500_000);
+for (const f of walk(dist)) {
+  const size = fs.statSync(f).size;
+  if (size > limitFor(f)) fail(`Fichier trop volumineux dans dist/ : ${path.relative(dist, f)} (${Math.round(size / 1024)} Ko)`);
+}
 
 if (errors.length) {
   console.error(`Build de production : ${errors.length} problème(s)\n${errors.map((e) => `  ✗ ${e}`).join('\n')}`);
