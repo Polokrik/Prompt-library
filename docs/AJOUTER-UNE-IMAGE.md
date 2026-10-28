@@ -1,4 +1,24 @@
-# Ajouter une image à une fiche — modèle
+# Ajouter une image à une fiche
+
+## Méthode directe sur GitHub (la plus simple, sans terminal)
+
+1. **Nommer l'image** : `IDENTIFIANT__Outil.jpg`, par exemple
+   `ENT-VNHZB48D__Midjourney v7.jpg` ou `ext-104__GPT-4o.png`.
+   - L'identifiant est à la fin de l'adresse de la fiche (`…/#/fiche/ENT-VNHZB48D`).
+   - Le titre exact de la fiche est accepté à la place de l'identifiant **s'il est unique** (sinon l'image est signalée, jamais devinée).
+   - Après `__`, l'outil IA ; un tiret bas devient un espace (`Midjourney_v7` → « Midjourney v7 »). Sans `__Outil`, aucun outil n'est enregistré.
+2. **Déposer l'image** : dans le dépôt, dossier `imports/images/` → *Add file → Upload files* → *Commit changes*.
+3. **Ajouter une ligne dans `imports/descriptions.txt`** (crayon ✎ sur GitHub) :
+   `ENT-VNHZB48D | Panda en uniforme de cheminot, assis dans un wagon de train des années 1970, en noir et blanc.`
+   Une ligne par image, sans guillemets ni virgules à gérer. Référence = identifiant ou titre exact.
+4. GitHub optimise l'image, met à jour les données et republie le site tout seul (environ 3 minutes). Un problème (nom inconnu, titre ambigu…) apparaît dans l'onglet *Actions* et dans `reports/images-report.json`.
+
+Règles : une image **sans ligne dans `descriptions.txt` n'est pas publiée** (la fiche reste visible sans image, rien n'est cassé). Une image avec description fait passer la fiche en **« publiée »** : n'ajoutez donc que les résultats satisfaisants.
+Vous pouvez aussi me déposer les images et me dire « j'ai uploadé » : je vérifie les attributions et je rédige les descriptions à partir des images.
+
+---
+
+# Variante : m'envoyer les images — modèle
 
 Une image par fiche, avec les informations ci-dessous. Copiez le bloc « Modèle », remplissez-le (un bloc par image) et envoyez-le avec le fichier image.
 

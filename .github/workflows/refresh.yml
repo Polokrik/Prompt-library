@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - 'imports/images/**'
+      - 'imports/descriptions.txt'
       - 'imports/external/mapping.json'
       - 'imports/prompt-bible/mapping.json'
       - 'imports/prompt-bible/Prompt Bible.xlsx'

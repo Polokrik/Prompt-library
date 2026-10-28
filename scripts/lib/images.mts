@@ -15,6 +15,8 @@ export interface ManifestItem {
   sourceHash: string;
   thumbBytes: number;
   largeBytes: number;
+  /** Outil IA lu dans le nom du fichier (`ID__Outil.jpg`). */
+  generator?: string;
 }
 export type ImageManifest = Record<string, ManifestItem>;
 
