@@ -2,7 +2,10 @@ import path from 'node:path';
 import { PATHS } from './paths.mts';
 import { exists, readJson } from './io.mts';
 import type { RawExcelBatch } from './normalize-excel.mts';
-import type { RawExternalBatch } from './normalize-external.mts';
+import { externalEntryId, type RawExternalBatch } from './normalize-external.mts';
+import { excelId } from './ids.mts';
+import { SOURCE_IDS } from './paths.mts';
+import { safeFileStem } from './text.mts';
 
 export interface Batches {
   mode: 'sample' | 'full' | 'mixed';
@@ -35,4 +38,14 @@ export function loadBatches(forceSample = false): Batches {
     ...(external.data ? { external: external.data } : {}),
     notes,
   };
+}
+
+/** Identifiant et titre de chaque fiche des lots chargés (pour résoudre les références par titre). */
+export function refEntries(batches: Batches): { id: string; title: string }[] {
+  const out: { id: string; title: string }[] = [];
+  for (const r of batches.excel?.catalogue ?? []) {
+    out.push({ id: safeFileStem(excelId(r.Entrée_ID, SOURCE_IDS.excel, '')), title: String(r['Titre'] ?? '') });
+  }
+  for (const e of batches.external?.entries ?? []) out.push({ id: safeFileStem(externalEntryId(e)), title: e.title ?? '' });
+  return out;
 }

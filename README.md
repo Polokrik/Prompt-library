@@ -162,11 +162,11 @@ Les ids inconnus ou clés inconnues sont signalés à la normalisation.
 
 ## 9. Images
 
-Déposer `imports/images/<id>.jpg|png|webp|gif|avif` (l’id est celui de la fiche, ex. `ENT-VNHZB48D.jpg`) ; priorité à l’ajout manuel sur une image téléchargée. `npm run optimize:images` génère :
+Déposer `imports/images/<id>[__Outil].jpg|png|webp|gif|avif` (id de la fiche, ex. `ENT-VNHZB48D__Midjourney v7.jpg`, ou titre exact unique) ; priorité à l’ajout manuel sur une image téléchargée. `npm run optimize:images` génère :
 `public/images/prompts/thumbs/<id>.webp` (≤ 480 px, qualité 72) et `large/<id>.webp` (≤ 1200 px, qualité 82), ratio conservé, métadonnées retirées, orientation EXIF appliquée.
 Une image inchangée n’est pas retraitée (empreinte dans `public/images/prompts/manifest.json`, qui stocke aussi les dimensions pour éviter les décalages de mise en page).
 Rapport : `reports/images-report.json` (images invalides, absentes, orphelines, collisions, fichiers lourds). Les originaux ne sont jamais copiés dans `public/`.
-**Après avoir ajouté l’image, ajoutez son texte alternatif** dans le mapping (`image.alt`) : sans lui la fiche reste `to-confirm`. Un bon alt est court, ne commence pas par « image de », ne répète pas le titre.
+**Après avoir ajouté l’image, ajoutez sa description** (texte alternatif) dans `imports/descriptions.txt` ou dans le mapping (`image.alt`, prioritaire) : sans elle l’image n’est pas publiée. Un bon alt est court, ne commence pas par « image de », ne répète pas le titre.
 
 ## 10. Doublons
 
@@ -198,12 +198,11 @@ Sans `BASE_PATH`, le build utilise des chemins relatifs (`./`), qui fonctionnent
 7. GitHub Actions publie le site.
 
 ### Variante sans terminal (depuis le site GitHub)
-1. Dans le dépôt, ouvrir `imports/images/` → *Add file → Upload files* et déposer l'image, nommée comme l'id de la fiche (ex. `ENT-VNHZB48D.jpg`) → *Commit changes* sur `main`.
-2. Ouvrir `imports/prompt-bible/mapping.json` → crayon → ajouter la fiche :
-   `"ENT-VNHZB48D": { "status": "published", "image": { "alt": "…" }, "generator": "Midjourney" }` → *Commit changes*.
-3. Le workflow **Régénérer les données** (`refresh.yml`) optimise l'image, régénère les données, les commite, puis relance le déploiement (≈ 3 min). Un échec de validation apparaît dans l'onglet *Actions* sans rien casser.
-`generator` (optionnel) = outil IA ayant produit l'image ; il s'affiche sur la fiche (« Généré avec »).
-
+Détail dans [docs/AJOUTER-UNE-IMAGE.md](docs/AJOUTER-UNE-IMAGE.md) :
+1. déposer `imports/images/ENT-VNHZB48D__Midjourney v7.jpg` (identifiant — ou titre exact unique — puis `__Outil`) ;
+2. ajouter une ligne `ENT-VNHZB48D | Description de l'image` dans `imports/descriptions.txt` ;
+3. le workflow **Régénérer les données** (`refresh.yml`) optimise l'image, régénère les données, les commite et relance le déploiement (≈ 3 min).
+Une image sans description n'est pas publiée (fiche visible sans image). Avec description, la fiche passe en `published`. L'outil du nom de fichier alimente `generator` (« Généré avec ») ; `mapping.json` reste prioritaire (`status`, `generator`, `image.alt`…).
 
 ## 14. Commandes
 

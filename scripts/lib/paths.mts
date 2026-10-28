@@ -15,6 +15,7 @@ export const PATHS = {
   excelMapping: p('imports', 'prompt-bible', 'mapping.json'),
   excelRawDir: p('imports', 'prompt-bible', 'raw'),
   manualImages: p('imports', 'images'),
+  descriptions: p('imports', 'descriptions.txt'),
   thumbs: p('public', 'images', 'prompts', 'thumbs'),
   large: p('public', 'images', 'prompts', 'large'),
   publicDir: p('public'),

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T09:28:50.025Z",
+  "generatedAt": "2026-10-28T11:35:03.463Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -69,7 +69,7 @@
     "ENT-3V26L5MP"
   ],
   "heavyOutputs": [],
-  "orphanSourceFiles": [],
+  "unresolvedSourceFiles": [],
   "warnings": [],
   "notes": []
 }

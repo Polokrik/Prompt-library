@@ -1,0 +1,9 @@
+# Descriptions des images (texte alternatif) — une ligne par image :
+#   référence | description
+# référence = identifiant de la fiche (ex. ENT-VNHZB48D, ext-104) ou titre exact s'il est unique.
+# description = une phrase qui décrit ce qu'on voit (ne pas commencer par « Image de… », ne pas recopier le titre).
+# Les lignes vides et celles qui commencent par # sont ignorées.
+# Image ajoutée sans ligne ici : elle n'est pas publiée (la fiche reste visible sans image).
+#
+# Exemple :
+# ENT-VNHZB48D | Panda en uniforme de cheminot, assis dans un wagon de train des années 1970, en noir et blanc.
