@@ -50,12 +50,6 @@ function list(value: string | string[] | undefined): string[] {
 /** Textes de remplissage de la source, jamais republiés comme valeur éditoriale. */
 const PLACEHOLDER_AUTHOR = [/^créateur cité dans la source$/i, /^anonyme?$/i, /^inconnu/i];
 
-/** « GPT-4o · archive » -> « GPT-4o » : l'outil est la partie avant « · » ; sans libellé, rien n'est déduit. */
-export function generatorFromLabel(label: string | undefined): string | undefined {
-  const t = cleanText(label).split('·')[0]?.trim();
-  return t || undefined;
-}
-
 export function normalizeExternal(batch: RawExternalBatch): { entry: PromptEntry; alt?: string }[] {
   return batch.entries.map((raw) => {
     const prompt = cleanText(stripHtml(raw.prompt ?? ''));
@@ -63,7 +57,6 @@ export function normalizeExternal(batch: RawExternalBatch): { entry: PromptEntry
     const alt = cleanText(stripHtml(raw.alt ?? ''));
     const author = cleanText(raw.author);
     const postUrl = safeUrl(raw.postUrl);
-    const generator = generatorFromLabel(raw.imageLabel);
     const entry: PromptEntry = {
       id: externalEntryId(raw),
       title: cleanText(stripHtml(raw.title ?? '')),
@@ -72,7 +65,6 @@ export function normalizeExternal(batch: RawExternalBatch): { entry: PromptEntry
       categories: list(raw.categories),
       tags: list(raw.tags),
       ...(language ? { language } : {}),
-      ...(generator ? { generator } : {}),
       variants: [],
       source: {
         id: SOURCE_IDS.external,

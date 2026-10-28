@@ -66,7 +66,7 @@ describe('format réel de la source (structure observée, valeurs synthétiques)
     const [first, second] = out.map((o) => o.entry);
     expect(first!.source.author).toBeUndefined(); // « Créateur cité dans la source » = remplissage
     expect(second!.source).toMatchObject({ author: '@auteur', originalUrl: 'https://x.com/auteur/status/2', license: { label: expect.stringContaining('CC BY 4.0') } });
-    expect(second!.generator).toBe('GPT-4o');
+    expect(second!.generator).toBeUndefined(); // l'outil de l'image n'est pas repris sans l'image
     expect(second!.categories).toEqual(['Concepts créatifs']);
     expect(out[1]!.alt).toBeUndefined();
   });

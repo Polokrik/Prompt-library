@@ -131,7 +131,7 @@ npm run import:external:sample # ⚠ ACCÈS RÉSEAU — 30 entrées max + leurs 
 1. `npm ci && npm run inspect:source` — lit la page, ses scripts et JSON du même domaine (14 fichiers max, robots.txt respecté, aucun contournement).
 2. Lire `reports/source-inspection.md`. Si `strategy` vaut `none-found`, ouvrir la page dans un navigateur (onglet Réseau), repérer l’appel de données et renseigner à la main
    `dataLocation` (`kind: "json"`, `url`) et `fieldMap` dans `imports/external/source.json`.
-3. `npm run import:external:sample`, puis `npm run refresh`, puis `npm run dev` et vérifier.
+3. `npm run import:external:sample`, puis `npm run refresh`, puis `npm run dev` et vérifier. **Prompts seulement** : les images ne sont téléchargées qu'avec `-- --images` (les images du site source n'ont pas de licence visible).
 4. Seulement si le pilote est correct : `npm run import:external` (collection entière) puis `npm run refresh`.
 
 Les commandes réseau utilisent `node --use-env-proxy` (prise en compte de `HTTPS_PROXY` si présent). Les données sont lues sans jamais exécuter le code de la page ;
