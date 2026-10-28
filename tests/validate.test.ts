@@ -45,3 +45,14 @@ describe('validation d’une fiche', () => {
     expect(validateLibrary([e], { imageExists: () => false }).map((i) => i.code)).toContain('image-file-missing');
   });
 });
+
+describe('contrôles de chemins', () => {
+  it('ne confond pas le texte d’un prompt avec un chemin local', () => {
+    const e = makeEntry({ prompt: 'Key Requirements:\n- Row 1: A | B\nC:\\fake and /home/x/ in the text' });
+    expect(validateLibrary([e]).map((i) => i.code)).not.toContain('local-path');
+  });
+  it('détecte un chemin local dans un champ technique', () => {
+    const e = makeEntry({ source: { id: 's', label: 'S', url: 'https://example.org', originalId: '/home/me/file' } });
+    expect(validateLibrary([e]).map((i) => i.code)).toContain('local-path');
+  });
+});

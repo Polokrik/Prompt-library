@@ -4,8 +4,9 @@
  *
  * ACCÈDE AU SITE EXTERNE. Prérequis : imports/external/source.json produit par `npm run inspect:source`
  * (ou renseigné à la main). Le fichier brut conserve l'objet source tel quel (`original`) ;
- * aucune normalisation n'y est appliquée. Les images des entrées retenues sont téléchargées dans
- * imports/external/originals/ (ignoré par git) puis optimisées par `npm run optimize:images`.
+ * aucune normalisation n'y est appliquée. PAR DÉFAUT, AUCUNE IMAGE N'EST TÉLÉCHARGÉE (prompts seulement :
+ * les images du site source n'ont pas de licence visible). Option `-- --images` : télécharge les images des
+ * entrées retenues dans imports/external/originals/ (ignoré par git), puis `npm run optimize:images`.
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -122,10 +123,11 @@ async function main() {
   }
   report.exactDuplicatesInBatch = [...byPrompt.values()].filter((g) => g.length > 1);
 
-  // 3. Images des entrées retenues uniquement
-  fs.mkdirSync(PATHS.externalOriginals, { recursive: true });
+  // 3. Images des entrées retenues uniquement, et seulement sur demande explicite (--images)
+  const withImages = flags.has('images');
+  if (withImages) fs.mkdirSync(PATHS.externalOriginals, { recursive: true });
   let downloaded = 0;
-  for (const e of entries) {
+  for (const e of withImages ? entries : []) {
     if (!e.imageUrl) continue;
     const id = externalEntryId(e);
     const url = safeUrl(e.imageUrl, loc.url);
@@ -151,10 +153,14 @@ async function main() {
   report.imported = entries.length;
   report.ok = true;
   report.output = rel(out, PATHS.root);
-  report.notes.push(`${downloaded} image(s) téléchargée(s) dans imports/external/originals/ (non versionné).`);
+  report.notes.push(
+    withImages
+      ? `${downloaded} image(s) téléchargée(s) dans imports/external/originals/ (non versionné).`
+      : 'Prompts seulement : aucune image téléchargée (option --images pour les récupérer).',
+  );
   report.finishedAt = new Date().toISOString();
   recordImportReport(report);
-  console.log(`Import externe (${mode}) : ${entries.length}/${items.length} entrées -> ${report.output} ; ${downloaded} image(s).`);
+  console.log(`Import externe (${mode}) : ${entries.length}/${items.length} entrées -> ${report.output} ; ${withImages ? `${downloaded} image(s)` : 'sans images'}.`);
   console.log(`Prompts absents : ${report.missingPrompt.length} ; images absentes : ${report.missingImage.length} ; erreurs réseau : ${report.networkErrors.length}.`);
   console.log('Étape suivante : npm run refresh');
 }

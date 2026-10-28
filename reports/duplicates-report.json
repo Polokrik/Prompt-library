@@ -1,11 +1,2976 @@
 {
-  "generatedAt": "2026-10-27T15:35:08.609Z",
-  "entriesAnalysed": 29,
+  "generatedAt": "2026-10-28T09:28:56.570Z",
+  "entriesAnalysed": 1553,
   "thresholds": {
     "near": 0.85,
     "probableVariant": 0.7
   },
   "canonicalRule": "Doublons exacts : décision éditoriale (canonicalId) > statut le plus avancé > présence d’une image > nombre de catégories+tags > identifiant le plus petit.",
-  "counts": {},
-  "candidates": []
+  "counts": {
+    "exact": 6,
+    "near": 36,
+    "probable-variant": 106
+  },
+  "candidates": [
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-MH2B6WG7",
+        "ENT-9J2PGRVT"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-MH2B6WG7",
+          "text": "wide angle, golden hour light, futuristic vision, end-of-the-world ambience"
+        },
+        {
+          "id": "ENT-9J2PGRVT",
+          "text": "wide angle, golden hour light, futuristic vision, end-of-the-world ambience"
+        }
+      ],
+      "canonicalId": "ENT-9J2PGRVT",
+      "suggestion": "Conserver « ENT-9J2PGRVT » ; pour les autres, ajouter { \"canonicalId\": \"ENT-9J2PGRVT\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-M0PXT4MN",
+        "ENT-CI224JGM"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-M0PXT4MN",
+          "text": "Medium Artistique (style, technique de dessin)"
+        },
+        {
+          "id": "ENT-CI224JGM",
+          "text": "Medium Artistique (style, technique de dessin)"
+        }
+      ],
+      "canonicalId": "ENT-CI224JGM",
+      "suggestion": "Conserver « ENT-CI224JGM » ; pour les autres, ajouter { \"canonicalId\": \"ENT-CI224JGM\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-QSDAUDFD",
+        "ENT-Y21P8R1M"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-QSDAUDFD",
+          "text": "Your Lie in April / Nodame Cantabile"
+        },
+        {
+          "id": "ENT-Y21P8R1M",
+          "text": "Your Lie in April / Nodame Cantabile"
+        }
+      ],
+      "canonicalId": "ENT-QSDAUDFD",
+      "suggestion": "Conserver « ENT-QSDAUDFD » ; pour les autres, ajouter { \"canonicalId\": \"ENT-QSDAUDFD\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-KXOGB72W",
+        "ENT-1ZF0C4JT"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-KXOGB72W",
+          "text": "Période / Réf. culturelle"
+        },
+        {
+          "id": "ENT-1ZF0C4JT",
+          "text": "Période / Réf. culturelle"
+        }
+      ],
+      "canonicalId": "ENT-1ZF0C4JT",
+      "suggestion": "Conserver « ENT-1ZF0C4JT » ; pour les autres, ajouter { \"canonicalId\": \"ENT-1ZF0C4JT\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-K99HRICH",
+        "ENT-6XGEV5WI"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-K99HRICH",
+          "text": "Urban slice of life, tons froids"
+        },
+        {
+          "id": "ENT-6XGEV5WI",
+          "text": "Urban slice of life, tons froids"
+        }
+      ],
+      "canonicalId": "ENT-6XGEV5WI",
+      "suggestion": "Conserver « ENT-6XGEV5WI » ; pour les autres, ajouter { \"canonicalId\": \"ENT-6XGEV5WI\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "exact",
+      "ids": [
+        "ENT-89TV41ID",
+        "ENT-UOZ5OJ0J"
+      ],
+      "reason": "Prompt identique (casse, accents, ponctuation et espaces ignorés)",
+      "excerpts": [
+        {
+          "id": "ENT-89TV41ID",
+          "text": "vif/naturel"
+        },
+        {
+          "id": "ENT-UOZ5OJ0J",
+          "text": "vif/naturel"
+        }
+      ],
+      "canonicalId": "ENT-89TV41ID",
+      "suggestion": "Conserver « ENT-89TV41ID » ; pour les autres, ajouter { \"canonicalId\": \"ENT-89TV41ID\", \"status\": \"hidden\" } dans le mapping, ou les garder comme variantes."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-5856",
+        "ext-ym-5853"
+      ],
+      "score": 0.944,
+      "reason": "Textes très proches (similarité 0.94)",
+      "excerpts": [
+        {
+          "id": "ext-ym-5856",
+          "text": "# Role: Comparison Infographic Generator (Design-Centric with Toggles) # === USER INPUT SETTINGS (FILL THESE IN) === # 1. Grid Size (e.g., \"2x2 (4 panels)\", …"
+        },
+        {
+          "id": "ext-ym-5853",
+          "text": "# Role: Comparison Infographic Generator (Design-Centric with Toggles) # === USER INPUT SETTINGS (FILL THESE IN) === # 1. Grid Size (e.g., \"2x2 (4 panels)\", …"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-522",
+        "ext-ym-33285"
+      ],
+      "score": 0.705,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-522",
+          "text": "From the information below, create an explanatory image in infographic format. Use a classic-style Japanese font. Aspect ratio: 16:9. lang: ja. Reference inf…"
+        },
+        {
+          "id": "ext-ym-33285",
+          "text": "Create a clean infographic summarizing {argument name=\"subject\" default=\"Teva’s revenue report\"}, with clear headings and a {argument name=\"chart type\" defau…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-1442",
+        "ext-ym-1437"
+      ],
+      "score": 0.873,
+      "reason": "Textes très proches (similarité 0.87)",
+      "excerpts": [
+        {
+          "id": "ext-ym-1442",
+          "text": "Please design a high-quality 3D poster for the film/novel \"{argument name=\"name\" default=\"Name to be added\"}\", requiring prior retrieval of information about…"
+        },
+        {
+          "id": "ext-ym-1437",
+          "text": "Please design a high-quality 3D poster for the film/novel \"{argument name=\"name\" default=\"Name to be added\"}\", requiring prior retrieval of information about…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-11134",
+        "ext-ym-1312"
+      ],
+      "score": 0.877,
+      "reason": "Textes très proches (similarité 0.88)",
+      "excerpts": [
+        {
+          "id": "ext-ym-11134",
+          "text": "A whimsical handmade paper art piece is placed on a wooden desk: a hand-drawn cartoon [{argument name=\"character\" default=\"Dong Yuhui\"}] is cut out from pape…"
+        },
+        {
+          "id": "ext-ym-1312",
+          "text": "[Character] = {argument name=\"character\" default=\"Luffy\"} On a wooden desk sits a whimsical piece of handmade paper art: a hand-drawn cartoon [Character] cut…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-36",
+        "ext-25"
+      ],
+      "score": 0.742,
+      "reason": "Formulations voisines (similarité 0.74)",
+      "excerpts": [
+        {
+          "id": "ext-36",
+          "text": "Draw a Toilet ## 🎨 Art Style: Minimalist 3D Illustration ### 🟢 Shape Language - Rounded edges and smooth, soft forms using simplified geometric shapes. ###…"
+        },
+        {
+          "id": "ext-25",
+          "text": "Generate a toilet with the following JSON profile: { \"art_style_profile\": { \"style_name\": \"Minimalist 3D Illustration\", \"visual_elements\": { \"shape_language\"…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-290",
+        "ext-293"
+      ],
+      "score": 0.707,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-290",
+          "text": "Staff uniform design with brand integration. Logo embroidery placement options. Color coordination with brand palette. Practical design for job function. The…"
+        },
+        {
+          "id": "ext-293",
+          "text": "Retail environment branding showing store design. Signage, displays, and wayfinding. Materials and finishes specified. The space embodies brand experience. C…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-19399",
+        "ext-ym-20429"
+      ],
+      "score": 0.844,
+      "reason": "Formulations voisines (similarité 0.84)",
+      "excerpts": [
+        {
+          "id": "ext-ym-19399",
+          "text": "A vintage, technical scientific diagram of [{argument name=\"subject\" default=\"A GIANT STRAWBERRY SHORTCAKE\"}], styled as a {argument name=\"style\" default=\"19…"
+        },
+        {
+          "id": "ext-ym-20429",
+          "text": "Vintage 1920s laboratory blueprint illustration of a giant {argument name=\"subject\" default=\"strawberry shortcake\"} styled as technical scientific diagram on…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-11483",
+        "ext-ym-11547"
+      ],
+      "score": 0.893,
+      "reason": "Textes très proches (similarité 0.89)",
+      "excerpts": [
+        {
+          "id": "ext-ym-11483",
+          "text": "Create a branded technical infographic of a [{argument name=\"product name\" default=\"PRODUCT NAME\"}], fully matching the visual density, structure, and engine…"
+        },
+        {
+          "id": "ext-ym-11547",
+          "text": "Create a branded technical infographic of a {argument name=\"product name\" default=\"PRODUCT NAME\"}, fully matching the visual density, structure, and engineer…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-8083",
+        "ext-ym-6930"
+      ],
+      "score": 0.967,
+      "reason": "Textes très proches (similarité 0.97)",
+      "excerpts": [
+        {
+          "id": "ext-ym-8083",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-6930",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"laptop\"} ,combining a realistic photograph or photoreal render of the object with technical a…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-8083",
+        "ext-ym-7374"
+      ],
+      "score": 0.946,
+      "reason": "Textes très proches (similarité 0.95)",
+      "excerpts": [
+        {
+          "id": "ext-ym-8083",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-7374",
+          "text": "Create an infographic image of [{argument name=\"body part\" default=\"Eye\"}], combining a realistic photograph or photoreal render of the object with technical…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-8083",
+        "ext-ym-7376"
+      ],
+      "score": 0.956,
+      "reason": "Textes très proches (similarité 0.96)",
+      "excerpts": [
+        {
+          "id": "ext-ym-8083",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-7376",
+          "text": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technica…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-8083",
+        "ext-ym-7935"
+      ],
+      "score": 1,
+      "reason": "Textes très proches (similarité 1.00)",
+      "excerpts": [
+        {
+          "id": "ext-ym-8083",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-7935",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-8083",
+        "ext-ym-8690"
+      ],
+      "score": 0.716,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-ym-8083",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-8690",
+          "text": "PROMPT 1 - Create an infographic image of Mustang GTD combining a realistic photograph or photorealistic render of the object with technical annotation overl…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-8083",
+        "ext-ym-10689"
+      ],
+      "score": 0.805,
+      "reason": "Formulations voisines (similarité 0.80)",
+      "excerpts": [
+        {
+          "id": "ext-ym-8083",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-10689",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic rendering of the object with a…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-8083",
+        "ext-ym-7974"
+      ],
+      "score": 0.96,
+      "reason": "Textes très proches (similarité 0.96)",
+      "excerpts": [
+        {
+          "id": "ext-ym-8083",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-7974",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object w…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-6930",
+        "ext-ym-10286"
+      ],
+      "score": 0.7,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6930",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"laptop\"} ,combining a realistic photograph or photoreal render of the object with technical a…"
+        },
+        {
+          "id": "ext-ym-10286",
+          "text": "Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to r…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-6930",
+        "ext-ym-7374"
+      ],
+      "score": 0.971,
+      "reason": "Textes très proches (similarité 0.97)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6930",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"laptop\"} ,combining a realistic photograph or photoreal render of the object with technical a…"
+        },
+        {
+          "id": "ext-ym-7374",
+          "text": "Create an infographic image of [{argument name=\"body part\" default=\"Eye\"}], combining a realistic photograph or photoreal render of the object with technical…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-6930",
+        "ext-ym-7376"
+      ],
+      "score": 0.981,
+      "reason": "Textes très proches (similarité 0.98)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6930",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"laptop\"} ,combining a realistic photograph or photoreal render of the object with technical a…"
+        },
+        {
+          "id": "ext-ym-7376",
+          "text": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technica…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-6930",
+        "ext-ym-7935"
+      ],
+      "score": 0.967,
+      "reason": "Textes très proches (similarité 0.97)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6930",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"laptop\"} ,combining a realistic photograph or photoreal render of the object with technical a…"
+        },
+        {
+          "id": "ext-ym-7935",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-6930",
+        "ext-ym-10689"
+      ],
+      "score": 0.807,
+      "reason": "Formulations voisines (similarité 0.81)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6930",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"laptop\"} ,combining a realistic photograph or photoreal render of the object with technical a…"
+        },
+        {
+          "id": "ext-ym-10689",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic rendering of the object with a…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-6930",
+        "ext-ym-7974"
+      ],
+      "score": 0.936,
+      "reason": "Textes très proches (similarité 0.94)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6930",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"laptop\"} ,combining a realistic photograph or photoreal render of the object with technical a…"
+        },
+        {
+          "id": "ext-ym-7974",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object w…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-4033",
+        "ext-ym-4036"
+      ],
+      "score": 0.726,
+      "reason": "Formulations voisines (similarité 0.73)",
+      "excerpts": [
+        {
+          "id": "ext-ym-4033",
+          "text": "{ \"image_analysis\": { \"subject\": \"{argument name=\"drug name\" default=\"Oseltamivir Capsule\"} Science Infographic, 9:16\", \"style\": \"Modular Bento Grid Design /…"
+        },
+        {
+          "id": "ext-ym-4036",
+          "text": "{ \"image_analysis\": { \"subject\": \"{argument name=\"drug name\" default=\"Semaglutide\"} Science Infographic, 9:16\", \"style\": \"Modular Bento Grid Design / Minimal…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-10286",
+        "ext-ym-10754"
+      ],
+      "score": 0.996,
+      "reason": "Textes très proches (similarité 1.00)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10286",
+          "text": "Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to r…"
+        },
+        {
+          "id": "ext-ym-10754",
+          "text": "Create a technical infographic of {argument name=\"object name\" default=\"[OBJECT NAME]\"} with a 45-degree isometric 3D perspective showing the device slightly…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-10286",
+        "ext-ym-7374"
+      ],
+      "score": 0.702,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10286",
+          "text": "Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to r…"
+        },
+        {
+          "id": "ext-ym-7374",
+          "text": "Create an infographic image of [{argument name=\"body part\" default=\"Eye\"}], combining a realistic photograph or photoreal render of the object with technical…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-10286",
+        "ext-ym-7376"
+      ],
+      "score": 0.709,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10286",
+          "text": "Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to r…"
+        },
+        {
+          "id": "ext-ym-7376",
+          "text": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technica…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-10286",
+        "ext-ym-10654"
+      ],
+      "score": 0.858,
+      "reason": "Textes très proches (similarité 0.86)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10286",
+          "text": "Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to r…"
+        },
+        {
+          "id": "ext-ym-10654",
+          "text": "“Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to …"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-10754",
+        "ext-ym-7374"
+      ],
+      "score": 0.7,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10754",
+          "text": "Create a technical infographic of {argument name=\"object name\" default=\"[OBJECT NAME]\"} with a 45-degree isometric 3D perspective showing the device slightly…"
+        },
+        {
+          "id": "ext-ym-7374",
+          "text": "Create an infographic image of [{argument name=\"body part\" default=\"Eye\"}], combining a realistic photograph or photoreal render of the object with technical…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-10754",
+        "ext-ym-7376"
+      ],
+      "score": 0.712,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10754",
+          "text": "Create a technical infographic of {argument name=\"object name\" default=\"[OBJECT NAME]\"} with a 45-degree isometric 3D perspective showing the device slightly…"
+        },
+        {
+          "id": "ext-ym-7376",
+          "text": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technica…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-10754",
+        "ext-ym-10654"
+      ],
+      "score": 0.855,
+      "reason": "Textes très proches (similarité 0.86)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10754",
+          "text": "Create a technical infographic of {argument name=\"object name\" default=\"[OBJECT NAME]\"} with a 45-degree isometric 3D perspective showing the device slightly…"
+        },
+        {
+          "id": "ext-ym-10654",
+          "text": "“Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to …"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-7374",
+        "ext-ym-7376"
+      ],
+      "score": 0.982,
+      "reason": "Textes très proches (similarité 0.98)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7374",
+          "text": "Create an infographic image of [{argument name=\"body part\" default=\"Eye\"}], combining a realistic photograph or photoreal render of the object with technical…"
+        },
+        {
+          "id": "ext-ym-7376",
+          "text": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technica…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-7374",
+        "ext-ym-7935"
+      ],
+      "score": 0.946,
+      "reason": "Textes très proches (similarité 0.95)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7374",
+          "text": "Create an infographic image of [{argument name=\"body part\" default=\"Eye\"}], combining a realistic photograph or photoreal render of the object with technical…"
+        },
+        {
+          "id": "ext-ym-7935",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-7374",
+        "ext-ym-10689"
+      ],
+      "score": 0.796,
+      "reason": "Formulations voisines (similarité 0.80)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7374",
+          "text": "Create an infographic image of [{argument name=\"body part\" default=\"Eye\"}], combining a realistic photograph or photoreal render of the object with technical…"
+        },
+        {
+          "id": "ext-ym-10689",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic rendering of the object with a…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-7374",
+        "ext-ym-7974"
+      ],
+      "score": 0.929,
+      "reason": "Textes très proches (similarité 0.93)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7374",
+          "text": "Create an infographic image of [{argument name=\"body part\" default=\"Eye\"}], combining a realistic photograph or photoreal render of the object with technical…"
+        },
+        {
+          "id": "ext-ym-7974",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object w…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-7376",
+        "ext-ym-7935"
+      ],
+      "score": 0.956,
+      "reason": "Textes très proches (similarité 0.96)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7376",
+          "text": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technica…"
+        },
+        {
+          "id": "ext-ym-7935",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-7376",
+        "ext-ym-10689"
+      ],
+      "score": 0.804,
+      "reason": "Formulations voisines (similarité 0.80)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7376",
+          "text": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technica…"
+        },
+        {
+          "id": "ext-ym-10689",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic rendering of the object with a…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-7376",
+        "ext-ym-7974"
+      ],
+      "score": 0.939,
+      "reason": "Textes très proches (similarité 0.94)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7376",
+          "text": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technica…"
+        },
+        {
+          "id": "ext-ym-7974",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object w…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-7935",
+        "ext-ym-8690"
+      ],
+      "score": 0.716,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7935",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-8690",
+          "text": "PROMPT 1 - Create an infographic image of Mustang GTD combining a realistic photograph or photorealistic render of the object with technical annotation overl…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-7935",
+        "ext-ym-10689"
+      ],
+      "score": 0.805,
+      "reason": "Formulations voisines (similarité 0.80)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7935",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-10689",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic rendering of the object with a…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-7935",
+        "ext-ym-7974"
+      ],
+      "score": 0.96,
+      "reason": "Textes très proches (similarité 0.96)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7935",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with tech…"
+        },
+        {
+          "id": "ext-ym-7974",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object w…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-10689",
+        "ext-ym-7974"
+      ],
+      "score": 0.785,
+      "reason": "Formulations voisines (similarité 0.79)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10689",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic rendering of the object with a…"
+        },
+        {
+          "id": "ext-ym-7974",
+          "text": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object w…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-10816",
+        "ext-ym-5529"
+      ],
+      "score": 0.717,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-ym-10816",
+          "text": "Create a refined, gallery-quality tribute poster built around a central portrait silhouette filled with a textured photo mosaic. The design should feel tacti…"
+        },
+        {
+          "id": "ext-ym-5529",
+          "text": "[PERSON NAME]. Act as a high-end sports graphic designer creating a conceptual tribute poster. The style is a complex \"dual exposure photo-grid composite\" wi…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-4738",
+        "ext-ym-4740"
+      ],
+      "score": 0.993,
+      "reason": "Textes très proches (similarité 0.99)",
+      "excerpts": [
+        {
+          "id": "ext-ym-4738",
+          "text": "Create a high-resolution square (1:1) food poster of ({argument name=\"meal name\" default=\"YOUR MEAL\"}). Capture the dish in a dynamic, explosion-like composi…"
+        },
+        {
+          "id": "ext-ym-4740",
+          "text": "Create a high-resolution square (1:1) food poster of ({argument name=\"meal name\" default=\"YOUR MEAL\"}). Capture the dish in a dynamic, explosion-like composi…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-13076",
+        "ext-ym-12624"
+      ],
+      "score": 0.706,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-13076",
+          "text": "4-panel manga Title The Truth of the Sanctuary Gaia = Harm = Rip-off Paradise = Rip-off Heaven and Hell Are the same whether it's Gaia or Paradise Isn't that…"
+        },
+        {
+          "id": "ext-ym-12624",
+          "text": "4-panel manga Title Anonymous and Mask Description: Inside a moving car. The smartphone of the man in the back seat (center of the image) rings. The display …"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-13076",
+        "ext-ym-22035"
+      ],
+      "score": 0.727,
+      "reason": "Formulations voisines (similarité 0.73)",
+      "excerpts": [
+        {
+          "id": "ext-ym-13076",
+          "text": "4-panel manga Title The Truth of the Sanctuary Gaia = Harm = Rip-off Paradise = Rip-off Heaven and Hell Are the same whether it's Gaia or Paradise Isn't that…"
+        },
+        {
+          "id": "ext-ym-22035",
+          "text": "4-panel manga {argument name=\"title\" default=\"History's Makeup\"} {argument name=\"quote\" default=\"History is a fairy tale written by the winners\"} By {argumen…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-13076",
+        "ext-ym-12673"
+      ],
+      "score": 0.71,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-13076",
+          "text": "4-panel manga Title The Truth of the Sanctuary Gaia = Harm = Rip-off Paradise = Rip-off Heaven and Hell Are the same whether it's Gaia or Paradise Isn't that…"
+        },
+        {
+          "id": "ext-ym-12673",
+          "text": "4-panel manga Title Labyrinth of Objection Buying YouTube views Getting caught by the director I don't know since I haven't experienced it It seems like a ve…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-13076",
+        "ext-ym-27973"
+      ],
+      "score": 0.705,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-13076",
+          "text": "4-panel manga Title The Truth of the Sanctuary Gaia = Harm = Rip-off Paradise = Rip-off Heaven and Hell Are the same whether it's Gaia or Paradise Isn't that…"
+        },
+        {
+          "id": "ext-ym-27973",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} {argument name=\"theme\" default=\"vision test using symbols\"} Eye exam using {argument name=\"brand name\" defau…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-13076",
+        "ext-ym-13577"
+      ],
+      "score": 0.714,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-13076",
+          "text": "4-panel manga Title The Truth of the Sanctuary Gaia = Harm = Rip-off Paradise = Rip-off Heaven and Hell Are the same whether it's Gaia or Paradise Isn't that…"
+        },
+        {
+          "id": "ext-ym-13577",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\"…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-1899",
+        "ext-ym-1930"
+      ],
+      "score": 0.719,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-ym-1899",
+          "text": "Astronaut floating in space, bold title text '{argument name=\"title text\" default=\"BEYOND THE VOID\"}' layered between character and nebula background, cinema…"
+        },
+        {
+          "id": "ext-ym-1930",
+          "text": "Create a high-resolution Amazon KDP book cover design (front only). Clean layout, bold title, strong central image, premium typography, {argument name=\"trim …"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-59",
+        "ext-15"
+      ],
+      "score": 0.73,
+      "reason": "Formulations voisines (similarité 0.73)",
+      "excerpts": [
+        {
+          "id": "ext-59",
+          "text": "Barcelona Spain colourful summer vector art poster with big \"BARCELONA\" title at the top and smaller \"SPAIN\" title under DIRECTION DÉTAILLÉE — Colorful Vecto…"
+        },
+        {
+          "id": "ext-15",
+          "text": "Satirical Poster Text (English): GPT-4o is taking over. Forget working in image AI maybe it’s time to deliver takeout instead. DIRECTION DÉTAILLÉE — Satirica…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-12861",
+        "ext-ym-12164"
+      ],
+      "score": 0.706,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-12861",
+          "text": "AI Image Generation 4-panel manga Title 'Modern Black Ship AI Rhapsody (Pesante Scherzo)' Pesante: Heavily Scherzo: Humorously If you ask AI, you don't even …"
+        },
+        {
+          "id": "ext-ym-12164",
+          "text": "4-panel manga title: Academic Silence (Shijima) University of Tokyo, Kyoto University 6 major universities MARCH NG Nittokoma-sen I don't even know the names…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-33081",
+        "ext-ym-33564"
+      ],
+      "score": 0.702,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-33081",
+          "text": "TITLE: Premium {argument name=\"product\" default=\"Frozen Pizza\"} Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio •…"
+        },
+        {
+          "id": "ext-ym-33564",
+          "text": "TITLE: Premium Greek Yogurt Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Premium dairy food campaign • 8 cin…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-33668",
+        "ext-ym-31997"
+      ],
+      "score": 0.702,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-33668",
+          "text": "TITLE: Premium Greek Yogurt Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Premium dairy food campaign • 8 cin…"
+        },
+        {
+          "id": "ext-ym-31997",
+          "text": "TITLE: Premium Instant Noodles Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • High-energy food advertisement •…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-33668",
+        "ext-ym-33564"
+      ],
+      "score": 0.953,
+      "reason": "Textes très proches (similarité 0.95)",
+      "excerpts": [
+        {
+          "id": "ext-ym-33668",
+          "text": "TITLE: Premium Greek Yogurt Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Premium dairy food campaign • 8 cin…"
+        },
+        {
+          "id": "ext-ym-33564",
+          "text": "TITLE: Premium Greek Yogurt Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Premium dairy food campaign • 8 cin…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-28672",
+        "ext-ym-22035"
+      ],
+      "score": 0.706,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-28672",
+          "text": "8-panel manga Title {argument name=\"title\" default=\"The Agony of the Baccarat Venue\"} Culprit \"{argument name=\"dialogue\" default=\"Go ahead and try it if you …"
+        },
+        {
+          "id": "ext-ym-22035",
+          "text": "4-panel manga {argument name=\"title\" default=\"History's Makeup\"} {argument name=\"quote\" default=\"History is a fairy tale written by the winners\"} By {argumen…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-28672",
+        "ext-ym-13577"
+      ],
+      "score": 0.706,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-28672",
+          "text": "8-panel manga Title {argument name=\"title\" default=\"The Agony of the Baccarat Venue\"} Culprit \"{argument name=\"dialogue\" default=\"Go ahead and try it if you …"
+        },
+        {
+          "id": "ext-ym-13577",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\"…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-12624",
+        "ext-ym-22035"
+      ],
+      "score": 0.723,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-ym-12624",
+          "text": "4-panel manga Title Anonymous and Mask Description: Inside a moving car. The smartphone of the man in the back seat (center of the image) rings. The display …"
+        },
+        {
+          "id": "ext-ym-22035",
+          "text": "4-panel manga {argument name=\"title\" default=\"History's Makeup\"} {argument name=\"quote\" default=\"History is a fairy tale written by the winners\"} By {argumen…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-12624",
+        "ext-ym-13577"
+      ],
+      "score": 0.723,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-ym-12624",
+          "text": "4-panel manga Title Anonymous and Mask Description: Inside a moving car. The smartphone of the man in the back seat (center of the image) rings. The display …"
+        },
+        {
+          "id": "ext-ym-13577",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\"…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-22035",
+        "ext-ym-12673"
+      ],
+      "score": 0.714,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-22035",
+          "text": "4-panel manga {argument name=\"title\" default=\"History's Makeup\"} {argument name=\"quote\" default=\"History is a fairy tale written by the winners\"} By {argumen…"
+        },
+        {
+          "id": "ext-ym-12673",
+          "text": "4-panel manga Title Labyrinth of Objection Buying YouTube views Getting caught by the director I don't know since I haven't experienced it It seems like a ve…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-22035",
+        "ext-ym-13577"
+      ],
+      "score": 0.774,
+      "reason": "Formulations voisines (similarité 0.77)",
+      "excerpts": [
+        {
+          "id": "ext-ym-22035",
+          "text": "4-panel manga {argument name=\"title\" default=\"History's Makeup\"} {argument name=\"quote\" default=\"History is a fairy tale written by the winners\"} By {argumen…"
+        },
+        {
+          "id": "ext-ym-13577",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\"…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-22035",
+        "ext-ym-3549"
+      ],
+      "score": 0.723,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-ym-22035",
+          "text": "4-panel manga {argument name=\"title\" default=\"History's Makeup\"} {argument name=\"quote\" default=\"History is a fairy tale written by the winners\"} By {argumen…"
+        },
+        {
+          "id": "ext-ym-3549",
+          "text": "make a manga page with {argument name=\"character 1\" default=\"[your character]\"} and {argument name=\"character 2\" default=\"[your character]\"}, have them do th…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-31997",
+        "ext-ym-33091"
+      ],
+      "score": 0.713,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-31997",
+          "text": "TITLE: Premium Instant Noodles Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • High-energy food advertisement •…"
+        },
+        {
+          "id": "ext-ym-33091",
+          "text": "TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Gourmet snack advertising cam…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-33091",
+        "ext-ym-33464"
+      ],
+      "score": 0.732,
+      "reason": "Formulations voisines (similarité 0.73)",
+      "excerpts": [
+        {
+          "id": "ext-ym-33091",
+          "text": "TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Gourmet snack advertising cam…"
+        },
+        {
+          "id": "ext-ym-33464",
+          "text": "Premium {argument name=\"snack type\" default=\"Crunchy Potato Sticks\"} Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ra…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-33393",
+        "ext-ym-33564"
+      ],
+      "score": 0.709,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-33393",
+          "text": "TITLE: Premium Italian Spaghetti Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Premium packaged food campaign…"
+        },
+        {
+          "id": "ext-ym-33564",
+          "text": "TITLE: Premium Greek Yogurt Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Premium dairy food campaign • 8 cin…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-12673",
+        "ext-ym-12164"
+      ],
+      "score": 0.712,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-12673",
+          "text": "4-panel manga Title Labyrinth of Objection Buying YouTube views Getting caught by the director I don't know since I haven't experienced it It seems like a ve…"
+        },
+        {
+          "id": "ext-ym-12164",
+          "text": "4-panel manga title: Academic Silence (Shijima) University of Tokyo, Kyoto University 6 major universities MARCH NG Nittokoma-sen I don't even know the names…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-style-15",
+        "ext-style-18"
+      ],
+      "score": 0.708,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-style-15",
+          "text": "Représenter un perroquet comme sujet principal. Visuel pop art très contrasté, palette limitée de couleurs vives, contours noirs épais et ombres en aplats. T…"
+        },
+        {
+          "id": "ext-style-18",
+          "text": "Représenter un perroquet comme sujet principal. Illustration imprimée en risographie avec deux ou trois encres contrastées, trames granuleuses et légers déca…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-style-19",
+        "ext-style-20"
+      ],
+      "score": 0.76,
+      "reason": "Formulations voisines (similarité 0.76)",
+      "excerpts": [
+        {
+          "id": "ext-style-19",
+          "text": "Représenter un perroquet comme sujet principal. Composition en papiers découpés superposés, bords nets et fibres discrètes. Différents plans créent des ombre…"
+        },
+        {
+          "id": "ext-style-20",
+          "text": "Représenter un perroquet comme sujet principal. Collage surréaliste mêlant photographies découpées, fragments de papier et éléments graphiques. Associations …"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-style-22",
+        "ext-style-23"
+      ],
+      "score": 0.734,
+      "reason": "Formulations voisines (similarité 0.73)",
+      "excerpts": [
+        {
+          "id": "ext-style-22",
+          "text": "Représenter un perroquet comme sujet principal. Diorama miniature photographié à hauteur du sujet, détails fabriqués à la main et matériaux crédibles à petit…"
+        },
+        {
+          "id": "ext-style-23",
+          "text": "Représenter un perroquet comme sujet principal. Illustration 3D en perspective isométrique, volumes géométriques nets, matériaux mats et palette harmonieuse.…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-27973",
+        "ext-ym-22035"
+      ],
+      "score": 0.793,
+      "reason": "Formulations voisines (similarité 0.79)",
+      "excerpts": [
+        {
+          "id": "ext-ym-27973",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} {argument name=\"theme\" default=\"vision test using symbols\"} Eye exam using {argument name=\"brand name\" defau…"
+        },
+        {
+          "id": "ext-ym-22035",
+          "text": "4-panel manga {argument name=\"title\" default=\"History's Makeup\"} {argument name=\"quote\" default=\"History is a fairy tale written by the winners\"} By {argumen…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-27973",
+        "ext-ym-12624"
+      ],
+      "score": 0.713,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-27973",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} {argument name=\"theme\" default=\"vision test using symbols\"} Eye exam using {argument name=\"brand name\" defau…"
+        },
+        {
+          "id": "ext-ym-12624",
+          "text": "4-panel manga Title Anonymous and Mask Description: Inside a moving car. The smartphone of the man in the back seat (center of the image) rings. The display …"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-27973",
+        "ext-ym-13577"
+      ],
+      "score": 0.793,
+      "reason": "Formulations voisines (similarité 0.79)",
+      "excerpts": [
+        {
+          "id": "ext-ym-27973",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} {argument name=\"theme\" default=\"vision test using symbols\"} Eye exam using {argument name=\"brand name\" defau…"
+        },
+        {
+          "id": "ext-ym-13577",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\"…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-27973",
+        "ext-ym-3549"
+      ],
+      "score": 0.727,
+      "reason": "Formulations voisines (similarité 0.73)",
+      "excerpts": [
+        {
+          "id": "ext-ym-27973",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} {argument name=\"theme\" default=\"vision test using symbols\"} Eye exam using {argument name=\"brand name\" defau…"
+        },
+        {
+          "id": "ext-ym-3549",
+          "text": "make a manga page with {argument name=\"character 1\" default=\"[your character]\"} and {argument name=\"character 2\" default=\"[your character]\"}, have them do th…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-308",
+        "ext-313"
+      ],
+      "score": 0.853,
+      "reason": "Textes très proches (similarité 0.85)",
+      "excerpts": [
+        {
+          "id": "ext-308",
+          "text": "Créer une photographie de studio d’une théière sculpturale ronde, avec anse à gauche, bec à droite et couvercle. Vue de trois quarts, objet entier centré sur…"
+        },
+        {
+          "id": "ext-313",
+          "text": "Créer une photographie de studio d’une théière sculpturale ronde, avec anse à gauche, bec à droite et couvercle. Vue de trois quarts, objet entier centré sur…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-312",
+        "ext-315"
+      ],
+      "score": 0.873,
+      "reason": "Textes très proches (similarité 0.87)",
+      "excerpts": [
+        {
+          "id": "ext-312",
+          "text": "Créer une photographie de studio d’une théière sculpturale ronde, avec anse à gauche, bec à droite et couvercle. Vue de trois quarts, objet entier centré sur…"
+        },
+        {
+          "id": "ext-315",
+          "text": "Créer une photographie de studio d’une théière sculpturale ronde, avec anse à gauche, bec à droite et couvercle. Vue de trois quarts, objet entier centré sur…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-8784",
+        "ext-ym-8529"
+      ],
+      "score": 0.704,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-8784",
+          "text": "{ \"image_prompt\": { \"type\": \"Ultra-realistic culinary infographic\", \"subject\": { \"cuisine\": \"{argument name=\"cuisine type\" default=\"Indonesian\"}\", \"base_elem…"
+        },
+        {
+          "id": "ext-ym-8529",
+          "text": "{ \"image_prompt\": { \"type\": \"Hyper-realistic food infographic\", \"subject\": { \"cuisine\": \"Indonesian\", \"base_element\": \"Traditional bowl with steaming hot dis…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-1477",
+        "ext-ym-1192"
+      ],
+      "score": 0.916,
+      "reason": "Textes très proches (similarité 0.92)",
+      "excerpts": [
+        {
+          "id": "ext-ym-1477",
+          "text": "Make a photo that is perfectly isometric. It is not a miniature; it is a captured photo that just happens to be perfectly isometric. It is a photo of {argume…"
+        },
+        {
+          "id": "ext-ym-1192",
+          "text": "Make a photo that is perfectly isometric. It is not a miniature, it is a captured photo that just happened to be perfectly isometric. It is a photo of {argum…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-6750",
+        "ext-ym-6636"
+      ],
+      "score": 0.766,
+      "reason": "Formulations voisines (similarité 0.77)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6750",
+          "text": "A clean, minimalist 3D isometric model showcasing a [{argument name=\"location\" default=\"car showroom\"}], where [{argument name=\"display items\" default=\"displ…"
+        },
+        {
+          "id": "ext-ym-6636",
+          "text": "A clean, minimal 3D isometric diorama transforming a {argument name=\"household object\" default=\"HOUSEHOLD OBJECT\"} into a small architectural structure. Func…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-13577",
+        "ext-ym-3549"
+      ],
+      "score": 0.736,
+      "reason": "Formulations voisines (similarité 0.74)",
+      "excerpts": [
+        {
+          "id": "ext-ym-13577",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\"…"
+        },
+        {
+          "id": "ext-ym-3549",
+          "text": "make a manga page with {argument name=\"character 1\" default=\"[your character]\"} and {argument name=\"character 2\" default=\"[your character]\"}, have them do th…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-13577",
+        "ext-ym-12673"
+      ],
+      "score": 0.701,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-13577",
+          "text": "{argument name=\"format\" default=\"4-panel manga\"} titled {argument name=\"name\" default=\"The Prodigy of the Piano World, Erz\"} depicting {argument name=\"story\"…"
+        },
+        {
+          "id": "ext-ym-12673",
+          "text": "4-panel manga Title Labyrinth of Objection Buying YouTube views Getting caught by the director I don't know since I haven't experienced it It seems like a ve…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-95",
+        "ext-13"
+      ],
+      "score": 0.717,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-95",
+          "text": "Turn this photo into a bobblehead: enlarge the head slightly, keep the face accurate and cartoonify the body. [Place it on a bookshelf]. DIRECTION DÉTAILLÉE …"
+        },
+        {
+          "id": "ext-13",
+          "text": "Transform the characters in the scene into 3D chibi-style figures, while keeping the original scene layout and their clothing exactly the same. DIRECTION DÉT…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-7279",
+        "ext-ym-16446"
+      ],
+      "score": 0.873,
+      "reason": "Textes très proches (similarité 0.87)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7279",
+          "text": "Create a dark, high-contrast poster with a moody, underground club aesthetic. The composition features a monochrome portrait of a young woman from the chest …"
+        },
+        {
+          "id": "ext-ym-16446",
+          "text": "Create a dark, high‑contrast poster with a {argument name=\"style\" default=\"moody, underground club aesthetic\"}. The composition features a monochrome portrai…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-6667",
+        "ext-ym-5334"
+      ],
+      "score": 0.991,
+      "reason": "Textes très proches (similarité 0.99)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6667",
+          "text": "A cinematic still-life photograph set on a busy city street in the evening, with rain falling gently. In sharp focus at the center is a handcrafted paper fig…"
+        },
+        {
+          "id": "ext-ym-5334",
+          "text": "A cinematic still-life photograph set on a busy city street in the evening, rain falling gently. In sharp focus at the center is a handcrafted paper figure i…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-6468",
+        "ext-ym-6176"
+      ],
+      "score": 0.834,
+      "reason": "Formulations voisines (similarité 0.83)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6468",
+          "text": "A clean, minimal 3D isometric diorama of a {argument name=\"exhibition type\" default=\"[EXHIBITION TYPE]\"}, featuring {argument name=\"display objects\" default=…"
+        },
+        {
+          "id": "ext-ym-6176",
+          "text": "A clean, minimal 3D isometric diorama of a [{argument name=\"urban retail type\" default=\"URBAN RETAIL TYPE\"}], featuring a [{argument name=\"main counter objec…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-6468",
+        "ext-ym-6143"
+      ],
+      "score": 0.828,
+      "reason": "Formulations voisines (similarité 0.83)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6468",
+          "text": "A clean, minimal 3D isometric diorama of a {argument name=\"exhibition type\" default=\"[EXHIBITION TYPE]\"}, featuring {argument name=\"display objects\" default=…"
+        },
+        {
+          "id": "ext-ym-6143",
+          "text": "A clean, minimal 3D isometric diorama of a {argument name=\"city transport type\" default=\"[CITY TRANSPORT TYPE]\"} stop, featuring a {argument name=\"vehicle ty…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-6176",
+        "ext-ym-6143"
+      ],
+      "score": 0.831,
+      "reason": "Formulations voisines (similarité 0.83)",
+      "excerpts": [
+        {
+          "id": "ext-ym-6176",
+          "text": "A clean, minimal 3D isometric diorama of a [{argument name=\"urban retail type\" default=\"URBAN RETAIL TYPE\"}], featuring a [{argument name=\"main counter objec…"
+        },
+        {
+          "id": "ext-ym-6143",
+          "text": "A clean, minimal 3D isometric diorama of a {argument name=\"city transport type\" default=\"[CITY TRANSPORT TYPE]\"} stop, featuring a {argument name=\"vehicle ty…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-9360",
+        "ext-ym-9332"
+      ],
+      "score": 0.986,
+      "reason": "Textes très proches (similarité 0.99)",
+      "excerpts": [
+        {
+          "id": "ext-ym-9360",
+          "text": "Ultra-realistic 3D render of the official {argument name=\"brand name\" default=\"BRAND NAME\"} logo, exact original shape, proportions, and colors, no redesign,…"
+        },
+        {
+          "id": "ext-ym-9332",
+          "text": "Ultra-realistic 3D render of the official [{argument name=\"brand name\" default=\"BRAND NAME\"}] logo, exact original shape, proportions, and colors, no redesig…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-335",
+        "ext-336"
+      ],
+      "score": 0.814,
+      "reason": "Formulations voisines (similarité 0.81)",
+      "excerpts": [
+        {
+          "id": "ext-335",
+          "text": "Créer une maquette de visualisation à données fictives sur papier crème, style éditorial sobre. Priorité à la hiérarchie et à la lisibilité. Maquette d’un gr…"
+        },
+        {
+          "id": "ext-336",
+          "text": "Créer une maquette de visualisation à données fictives sur papier crème, style éditorial sobre. Priorité à la hiérarchie et à la lisibilité. Maquette d’un gr…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-335",
+        "ext-337"
+      ],
+      "score": 0.861,
+      "reason": "Textes très proches (similarité 0.86)",
+      "excerpts": [
+        {
+          "id": "ext-335",
+          "text": "Créer une maquette de visualisation à données fictives sur papier crème, style éditorial sobre. Priorité à la hiérarchie et à la lisibilité. Maquette d’un gr…"
+        },
+        {
+          "id": "ext-337",
+          "text": "Créer une maquette de visualisation à données fictives sur papier crème, style éditorial sobre. Priorité à la hiérarchie et à la lisibilité. Maquette d’un di…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-27529",
+        "ext-ym-485"
+      ],
+      "score": 0.702,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-27529",
+          "text": "Cutaway diagram of a {argument name=\"object\" default=\"mechanical device\"}, detailed with interior component, on a white background. High-resolution, with a f…"
+        },
+        {
+          "id": "ext-ym-485",
+          "text": "A shear and moment diagram for a simply supported beam with a uniform load of {argument name=\"load_en\" default=\"100 plf\"}. The beam is {argument name=\"length…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-27529",
+        "ext-ym-16195"
+      ],
+      "score": 0.704,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-27529",
+          "text": "Cutaway diagram of a {argument name=\"object\" default=\"mechanical device\"}, detailed with interior component, on a white background. High-resolution, with a f…"
+        },
+        {
+          "id": "ext-ym-16195",
+          "text": "create a product design, {argument name=\"object\" default=\"mazda rx7 fc3s\"}, exploded view diagram, white background, three-dimensional, highly detailed inter…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-28562",
+        "ext-ym-28784"
+      ],
+      "score": 0.959,
+      "reason": "Textes très proches (similarité 0.96)",
+      "excerpts": [
+        {
+          "id": "ext-ym-28562",
+          "text": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete gender\" default=\"female\"} basketball athlete in a {argument name=\"uniform…"
+        },
+        {
+          "id": "ext-ym-28784",
+          "text": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete\" default=\"female basketball athlete\"} in a {argument name=\"uniform color\"…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-4285",
+        "ext-ym-4277"
+      ],
+      "score": 0.768,
+      "reason": "Formulations voisines (similarité 0.77)",
+      "excerpts": [
+        {
+          "id": "ext-ym-4285",
+          "text": "Ultra-realistic premium beverage product photography of a chilled aluminum soda can floating upright at the center of the frame, partially submerged in vivid…"
+        },
+        {
+          "id": "ext-ym-4277",
+          "text": "-Ultra-realistic premium beverage product photography of a chilled aluminum soda can floating upright at the center of the frame, partially submerged in vivi…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-87",
+        "ext-85"
+      ],
+      "score": 0.719,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-87",
+          "text": "Integrate the meaning of the word into the letters, cleverly blending graphics and letters. Word: {beautify} Add a brief explanation of the word below. DIREC…"
+        },
+        {
+          "id": "ext-85",
+          "text": "A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] is rendered as a realistic, full-color object, creating a surreal contrast aga…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-87",
+        "ext-302"
+      ],
+      "score": 0.706,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-87",
+          "text": "Integrate the meaning of the word into the letters, cleverly blending graphics and letters. Word: {beautify} Add a brief explanation of the word below. DIREC…"
+        },
+        {
+          "id": "ext-302",
+          "text": "Penrose stairs in realistic environment. People walking endless loop unaware. Photorealistic rendering of impossible geometry. The mundane activity on imposs…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-336",
+        "ext-337"
+      ],
+      "score": 0.84,
+      "reason": "Formulations voisines (similarité 0.84)",
+      "excerpts": [
+        {
+          "id": "ext-336",
+          "text": "Créer une maquette de visualisation à données fictives sur papier crème, style éditorial sobre. Priorité à la hiérarchie et à la lisibilité. Maquette d’un gr…"
+        },
+        {
+          "id": "ext-337",
+          "text": "Créer une maquette de visualisation à données fictives sur papier crème, style éditorial sobre. Priorité à la hiérarchie et à la lisibilité. Maquette d’un di…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-379",
+        "ext-380"
+      ],
+      "score": 0.701,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-379",
+          "text": "Transformer le sujet [SUJET] en fiche visuelle : trois idées clés fournies [IDÉES], un pictogramme par idée et une flèche entre les étapes si nécessaire. Sty…"
+        },
+        {
+          "id": "ext-380",
+          "text": "Composer une infographie en deux colonnes équilibrées, « AVANT » et « APRÈS », sur [PROCESSUS]. Utiliser uniquement les différences fournies : [DIFFÉRENCES].…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-11270",
+        "ext-ym-485"
+      ],
+      "score": 0.713,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-11270",
+          "text": "product design, {argument name=\"item\" default=\"THE ITEM HERE\"}, exploded view diagram, white background, three-dimensional, highly detailed internal componen…"
+        },
+        {
+          "id": "ext-ym-485",
+          "text": "A shear and moment diagram for a simply supported beam with a uniform load of {argument name=\"load_en\" default=\"100 plf\"}. The beam is {argument name=\"length…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-11270",
+        "ext-ym-646"
+      ],
+      "score": 0.701,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-ym-11270",
+          "text": "product design, {argument name=\"item\" default=\"THE ITEM HERE\"}, exploded view diagram, white background, three-dimensional, highly detailed internal componen…"
+        },
+        {
+          "id": "ext-ym-646",
+          "text": "Create a technical exploded view diagram of a {argument name=\"subject_en\" default=\"[SUBJECT]\"} in {argument name=\"dimension_en\" default=\"1080x1080\"} dimensio…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-ym-11270",
+        "ext-ym-16195"
+      ],
+      "score": 0.926,
+      "reason": "Textes très proches (similarité 0.93)",
+      "excerpts": [
+        {
+          "id": "ext-ym-11270",
+          "text": "product design, {argument name=\"item\" default=\"THE ITEM HERE\"}, exploded view diagram, white background, three-dimensional, highly detailed internal componen…"
+        },
+        {
+          "id": "ext-ym-16195",
+          "text": "create a product design, {argument name=\"object\" default=\"mazda rx7 fc3s\"}, exploded view diagram, white background, three-dimensional, highly detailed inter…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-11270",
+        "ext-ym-33285"
+      ],
+      "score": 0.711,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-11270",
+          "text": "product design, {argument name=\"item\" default=\"THE ITEM HERE\"}, exploded view diagram, white background, three-dimensional, highly detailed internal componen…"
+        },
+        {
+          "id": "ext-ym-33285",
+          "text": "Create a clean infographic summarizing {argument name=\"subject\" default=\"Teva’s revenue report\"}, with clear headings and a {argument name=\"chart type\" defau…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-485",
+        "ext-ym-33285"
+      ],
+      "score": 0.729,
+      "reason": "Formulations voisines (similarité 0.73)",
+      "excerpts": [
+        {
+          "id": "ext-ym-485",
+          "text": "A shear and moment diagram for a simply supported beam with a uniform load of {argument name=\"load_en\" default=\"100 plf\"}. The beam is {argument name=\"length…"
+        },
+        {
+          "id": "ext-ym-33285",
+          "text": "Create a clean infographic summarizing {argument name=\"subject\" default=\"Teva’s revenue report\"}, with clear headings and a {argument name=\"chart type\" defau…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-485",
+        "ext-ym-104"
+      ],
+      "score": 0.706,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-485",
+          "text": "A shear and moment diagram for a simply supported beam with a uniform load of {argument name=\"load_en\" default=\"100 plf\"}. The beam is {argument name=\"length…"
+        },
+        {
+          "id": "ext-ym-104",
+          "text": "Create a detailed infographic for {argument name=\"audience_en\" default=\"college students\"} on trophic levels and energy transfer in ecosystems. The infograph…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-16195",
+        "ext-ym-33285"
+      ],
+      "score": 0.706,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-16195",
+          "text": "create a product design, {argument name=\"object\" default=\"mazda rx7 fc3s\"}, exploded view diagram, white background, three-dimensional, highly detailed inter…"
+        },
+        {
+          "id": "ext-ym-33285",
+          "text": "Create a clean infographic summarizing {argument name=\"subject\" default=\"Teva’s revenue report\"}, with clear headings and a {argument name=\"chart type\" defau…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-7006",
+        "ext-ym-33285"
+      ],
+      "score": 0.71,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7006",
+          "text": "1️⃣ Select {argument name=\"object\" default=\"OBJECT\"} 2️⃣ Keep the realistic image clear and visible 3️⃣ Overlay black, hand-drawn engineering annotations (la…"
+        },
+        {
+          "id": "ext-ym-33285",
+          "text": "Create a clean infographic summarizing {argument name=\"subject\" default=\"Teva’s revenue report\"}, with clear headings and a {argument name=\"chart type\" defau…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-58",
+        "ext-5"
+      ],
+      "score": 0.8,
+      "reason": "Formulations voisines (similarité 0.80)",
+      "excerpts": [
+        {
+          "id": "ext-58",
+          "text": "Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION] DIRECTION …"
+        },
+        {
+          "id": "ext-5",
+          "text": "Redraw this photo in Ghibli style DIRECTION DÉTAILLÉE — Ghibli Style Ces précisions complètent la demande ci-dessus ; ses contraintes explicites restent prio…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-5",
+        "ext-225"
+      ],
+      "score": 0.719,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-5",
+          "text": "Redraw this photo in Ghibli style DIRECTION DÉTAILLÉE — Ghibli Style Ces précisions complètent la demande ci-dessus ; ses contraintes explicites restent prio…"
+        },
+        {
+          "id": "ext-225",
+          "text": "Ligne claire illustration style inspired by Hergé and Tintin. Clean, uniform line weight with no hatching. Flat colors within precise outlines. Clear, readab…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-5",
+        "ext-228"
+      ],
+      "score": 0.712,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-5",
+          "text": "Redraw this photo in Ghibli style DIRECTION DÉTAILLÉE — Ghibli Style Ces précisions complètent la demande ci-dessus ; ses contraintes explicites restent prio…"
+        },
+        {
+          "id": "ext-228",
+          "text": "1960s psychedelic poster art with swirling organic forms. Vibrating color combinations creating optical effects. Art Nouveau influences with contemporary edg…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-5",
+        "ext-231"
+      ],
+      "score": 0.719,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-5",
+          "text": "Redraw this photo in Ghibli style DIRECTION DÉTAILLÉE — Ghibli Style Ces précisions complètent la demande ci-dessus ; ses contraintes explicites restent prio…"
+        },
+        {
+          "id": "ext-231",
+          "text": "Art brut or outsider art style with naive, untrained aesthetic. Bold, direct imagery without academic conventions. Raw emotional expression through simple fo…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-353",
+        "ext-354"
+      ],
+      "score": 0.705,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-353",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        },
+        {
+          "id": "ext-354",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-353",
+        "ext-357"
+      ],
+      "score": 0.703,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-353",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        },
+        {
+          "id": "ext-357",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-353",
+        "ext-358"
+      ],
+      "score": 0.701,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-353",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        },
+        {
+          "id": "ext-358",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-354",
+        "ext-356"
+      ],
+      "score": 0.707,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-354",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        },
+        {
+          "id": "ext-356",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-354",
+        "ext-357"
+      ],
+      "score": 0.701,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-354",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        },
+        {
+          "id": "ext-357",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-356",
+        "ext-357"
+      ],
+      "score": 0.705,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-356",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        },
+        {
+          "id": "ext-357",
+          "text": "Garder la même façade vue de face et les mêmes objets, pour comparer le traitement graphique. Aucun texte sur la devanture. Un petit café de quartier à devan…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-21278",
+        "ext-ym-23741"
+      ],
+      "score": 0.804,
+      "reason": "Formulations voisines (similarité 0.80)",
+      "excerpts": [
+        {
+          "id": "ext-ym-21278",
+          "text": "A {argument name=\"style\" default=\"modern editorial collage poster design\"}. The background consists of four overlapping rounded panels filled with cinematic …"
+        },
+        {
+          "id": "ext-ym-23741",
+          "text": "A premium modern {argument name=\"design\" default=\"editorial collage poster design\"}. The background features four stacked rounded panels filled with high-con…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-7149",
+        "ext-ym-28449"
+      ],
+      "score": 0.75,
+      "reason": "Formulations voisines (similarité 0.75)",
+      "excerpts": [
+        {
+          "id": "ext-ym-7149",
+          "text": "Action movie poster style, strongest spy, mission complete, not looking back at the explosion, {argument name=\"style\" default=\"cinematic\"}, {argument name=\"c…"
+        },
+        {
+          "id": "ext-ym-28449",
+          "text": "summer {argument name=\"product type\" default=\"AI tool launch\"} poster, {argument name=\"color palette\" default=\"glossy citrus\"} palette, {argument name=\"font …"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-317",
+        "ext-319"
+      ],
+      "score": 0.706,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-317",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        },
+        {
+          "id": "ext-319",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-317",
+        "ext-322"
+      ],
+      "score": 0.852,
+      "reason": "Textes très proches (similarité 0.85)",
+      "excerpts": [
+        {
+          "id": "ext-317",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        },
+        {
+          "id": "ext-322",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-318",
+        "ext-319"
+      ],
+      "score": 0.873,
+      "reason": "Textes très proches (similarité 0.87)",
+      "excerpts": [
+        {
+          "id": "ext-318",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        },
+        {
+          "id": "ext-319",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-319",
+        "ext-322"
+      ],
+      "score": 0.705,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ext-319",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        },
+        {
+          "id": "ext-322",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-321",
+        "ext-322"
+      ],
+      "score": 0.704,
+      "reason": "Formulations voisines (similarité 0.70)",
+      "excerpts": [
+        {
+          "id": "ext-321",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        },
+        {
+          "id": "ext-322",
+          "text": "Photographier une tasse blanche sur une petite table de café en chêne, à côté d’un vase transparent contenant une branche verte, devant un mur en enduit. Cad…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-350",
+        "ext-351"
+      ],
+      "score": 0.754,
+      "reason": "Formulations voisines (similarité 0.75)",
+      "excerpts": [
+        {
+          "id": "ext-350",
+          "text": "Appartement en coupe isométrique comme une maison de poupée : chambre, salon, cuisine et plantes. Matériaux mats, fond crème et pièces clairement séparées. C…"
+        },
+        {
+          "id": "ext-351",
+          "text": "Intérieur monumental d’un musée en béton brut, ouverture ronde vers le ciel et une petite silhouette pour l’échelle. Lumière dramatique et géométrie précise.…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-371",
+        "ext-372"
+      ],
+      "score": 0.715,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-371",
+          "text": "Étude de direction artistique d’un produit. Conserver le flacon entier, proportions et angle de caméra comparables. Pour travailler depuis une photo réelle, …"
+        },
+        {
+          "id": "ext-372",
+          "text": "Étude de direction artistique d’un produit. Conserver le flacon entier, proportions et angle de caméra comparables. Pour travailler depuis une photo réelle, …"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-371",
+        "ext-374"
+      ],
+      "score": 0.717,
+      "reason": "Formulations voisines (similarité 0.72)",
+      "excerpts": [
+        {
+          "id": "ext-371",
+          "text": "Étude de direction artistique d’un produit. Conserver le flacon entier, proportions et angle de caméra comparables. Pour travailler depuis une photo réelle, …"
+        },
+        {
+          "id": "ext-374",
+          "text": "Étude de direction artistique d’un produit. Conserver le flacon entier, proportions et angle de caméra comparables. Pour travailler depuis une photo réelle, …"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "near",
+      "ids": [
+        "ext-372",
+        "ext-374"
+      ],
+      "score": 0.887,
+      "reason": "Textes très proches (similarité 0.89)",
+      "excerpts": [
+        {
+          "id": "ext-372",
+          "text": "Étude de direction artistique d’un produit. Conserver le flacon entier, proportions et angle de caméra comparables. Pour travailler depuis une photo réelle, …"
+        },
+        {
+          "id": "ext-374",
+          "text": "Étude de direction artistique d’un produit. Conserver le flacon entier, proportions et angle de caméra comparables. Pour travailler depuis une photo réelle, …"
+        }
+      ],
+      "suggestion": "Comparer à la main ; aucune fusion automatique."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-365",
+        "ext-367"
+      ],
+      "score": 0.781,
+      "reason": "Formulations voisines (similarité 0.78)",
+      "excerpts": [
+        {
+          "id": "ext-365",
+          "text": "Paysage de montagnes au lever du jour, plans successifs bleutés, brume dans les vallées et lumière rose sur les sommets. Photographie panoramique au cadrage …"
+        },
+        {
+          "id": "ext-367",
+          "text": "Vue aérienne d’une côte rocheuse, eau turquoise transparente, vagues blanches et formes organiques. Photographie naturelle, pas de bâtiment. Composition lisi…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-ym-26315",
+        "ext-ym-26407"
+      ],
+      "score": 0.76,
+      "reason": "Formulations voisines (similarité 0.76)",
+      "excerpts": [
+        {
+          "id": "ext-ym-26315",
+          "text": "masterpiece, realistic photo, landscape, {argument name=\"subject\" default=\"Dewy lotus leaves\"}, sparkling droplets, {argument name=\"backdrop\" default=\"blurre…"
+        },
+        {
+          "id": "ext-ym-26407",
+          "text": "masterpiece, realistic photo, landscape, {argument name=\"subject\" default=\"Panoramic cliffs\"}, crashing {argument name=\"water\" default=\"turquoise waves\"}, pi…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-349",
+        "ext-350"
+      ],
+      "score": 0.767,
+      "reason": "Formulations voisines (similarité 0.77)",
+      "excerpts": [
+        {
+          "id": "ext-349",
+          "text": "Salon minimaliste chaleureux, étagères en chêne, canapé en lin, suspension en papier et lumière latérale naturelle. Palette beige et bois, détails sobres. Co…"
+        },
+        {
+          "id": "ext-350",
+          "text": "Appartement en coupe isométrique comme une maison de poupée : chambre, salon, cuisine et plantes. Matériaux mats, fond crème et pièces clairement séparées. C…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-349",
+        "ext-351"
+      ],
+      "score": 0.748,
+      "reason": "Formulations voisines (similarité 0.75)",
+      "excerpts": [
+        {
+          "id": "ext-349",
+          "text": "Salon minimaliste chaleureux, étagères en chêne, canapé en lin, suspension en papier et lumière latérale naturelle. Palette beige et bois, détails sobres. Co…"
+        },
+        {
+          "id": "ext-351",
+          "text": "Intérieur monumental d’un musée en béton brut, ouverture ronde vers le ciel et une petite silhouette pour l’échelle. Lumière dramatique et géométrie précise.…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-347",
+        "ext-348"
+      ],
+      "score": 0.732,
+      "reason": "Formulations voisines (similarité 0.73)",
+      "excerpts": [
+        {
+          "id": "ext-347",
+          "text": "Photographie d’architecture d’une petite cabane en bois noir dans une forêt de pins brumeuse. Vue extérieure de trois quarts, intérieur chaleureux visible, m…"
+        },
+        {
+          "id": "ext-348",
+          "text": "Cour intérieure méditerranéenne, arches enduites à la chaux blanche, sol en terre cuite et olivier. Soleil chaud, ombres végétales et composition calme. Comp…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-347",
+        "ext-349"
+      ],
+      "score": 0.757,
+      "reason": "Formulations voisines (similarité 0.76)",
+      "excerpts": [
+        {
+          "id": "ext-347",
+          "text": "Photographie d’architecture d’une petite cabane en bois noir dans une forêt de pins brumeuse. Vue extérieure de trois quarts, intérieur chaleureux visible, m…"
+        },
+        {
+          "id": "ext-349",
+          "text": "Salon minimaliste chaleureux, étagères en chêne, canapé en lin, suspension en papier et lumière latérale naturelle. Palette beige et bois, détails sobres. Co…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-347",
+        "ext-350"
+      ],
+      "score": 0.737,
+      "reason": "Formulations voisines (similarité 0.74)",
+      "excerpts": [
+        {
+          "id": "ext-347",
+          "text": "Photographie d’architecture d’une petite cabane en bois noir dans une forêt de pins brumeuse. Vue extérieure de trois quarts, intérieur chaleureux visible, m…"
+        },
+        {
+          "id": "ext-350",
+          "text": "Appartement en coupe isométrique comme une maison de poupée : chambre, salon, cuisine et plantes. Matériaux mats, fond crème et pièces clairement séparées. C…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-347",
+        "ext-351"
+      ],
+      "score": 0.77,
+      "reason": "Formulations voisines (similarité 0.77)",
+      "excerpts": [
+        {
+          "id": "ext-347",
+          "text": "Photographie d’architecture d’une petite cabane en bois noir dans une forêt de pins brumeuse. Vue extérieure de trois quarts, intérieur chaleureux visible, m…"
+        },
+        {
+          "id": "ext-351",
+          "text": "Intérieur monumental d’un musée en béton brut, ouverture ronde vers le ciel et une petite silhouette pour l’échelle. Lumière dramatique et géométrie précise.…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-348",
+        "ext-349"
+      ],
+      "score": 0.748,
+      "reason": "Formulations voisines (similarité 0.75)",
+      "excerpts": [
+        {
+          "id": "ext-348",
+          "text": "Cour intérieure méditerranéenne, arches enduites à la chaux blanche, sol en terre cuite et olivier. Soleil chaud, ombres végétales et composition calme. Comp…"
+        },
+        {
+          "id": "ext-349",
+          "text": "Salon minimaliste chaleureux, étagères en chêne, canapé en lin, suspension en papier et lumière latérale naturelle. Palette beige et bois, détails sobres. Co…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-348",
+        "ext-350"
+      ],
+      "score": 0.754,
+      "reason": "Formulations voisines (similarité 0.75)",
+      "excerpts": [
+        {
+          "id": "ext-348",
+          "text": "Cour intérieure méditerranéenne, arches enduites à la chaux blanche, sol en terre cuite et olivier. Soleil chaud, ombres végétales et composition calme. Comp…"
+        },
+        {
+          "id": "ext-350",
+          "text": "Appartement en coupe isométrique comme une maison de poupée : chambre, salon, cuisine et plantes. Matériaux mats, fond crème et pièces clairement séparées. C…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-348",
+        "ext-351"
+      ],
+      "score": 0.748,
+      "reason": "Formulations voisines (similarité 0.75)",
+      "excerpts": [
+        {
+          "id": "ext-348",
+          "text": "Cour intérieure méditerranéenne, arches enduites à la chaux blanche, sol en terre cuite et olivier. Soleil chaud, ombres végétales et composition calme. Comp…"
+        },
+        {
+          "id": "ext-351",
+          "text": "Intérieur monumental d’un musée en béton brut, ouverture ronde vers le ciel et une petite silhouette pour l’échelle. Lumière dramatique et géométrie précise.…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-393",
+        "ext-394"
+      ],
+      "score": 0.788,
+      "reason": "Formulations voisines (similarité 0.79)",
+      "excerpts": [
+        {
+          "id": "ext-393",
+          "text": "À partir de l’image jointe, remplacer uniquement l’arrière-plan par [DÉCOR]. Conserver le sujet, sa silhouette, ses proportions, ses couleurs et sa position.…"
+        },
+        {
+          "id": "ext-394",
+          "text": "Sur l’image jointe, remplacer uniquement la couleur de [ÉLÉMENT] par [COULEUR]. Conserver texture, plis, reflets, éclairage, géométrie et tous les autres obj…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-393",
+        "ext-396"
+      ],
+      "score": 0.736,
+      "reason": "Formulations voisines (similarité 0.74)",
+      "excerpts": [
+        {
+          "id": "ext-393",
+          "text": "À partir de l’image jointe, remplacer uniquement l’arrière-plan par [DÉCOR]. Conserver le sujet, sa silhouette, ses proportions, ses couleurs et sa position.…"
+        },
+        {
+          "id": "ext-396",
+          "text": "Étendre l’image jointe au format horizontal 16:9. Préserver intégralement le sujet et la zone existante, prolonger le décor de manière cohérente, sans duplic…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ext-394",
+        "ext-396"
+      ],
+      "score": 0.736,
+      "reason": "Formulations voisines (similarité 0.74)",
+      "excerpts": [
+        {
+          "id": "ext-394",
+          "text": "Sur l’image jointe, remplacer uniquement la couleur de [ÉLÉMENT] par [COULEUR]. Conserver texture, plis, reflets, éclairage, géométrie et tous les autres obj…"
+        },
+        {
+          "id": "ext-396",
+          "text": "Étendre l’image jointe au format horizontal 16:9. Préserver intégralement le sujet et la zone existante, prolonger le décor de manière cohérente, sans duplic…"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ENT-82PWQXZG",
+        "ENT-4WWCQEHH"
+      ],
+      "score": 0.778,
+      "reason": "Formulations voisines (similarité 0.78)",
+      "excerpts": [
+        {
+          "id": "ENT-82PWQXZG",
+          "text": "[Pokémon name / subject], pixel art, icon, gameboy graphics, isolated"
+        },
+        {
+          "id": "ENT-4WWCQEHH",
+          "text": "[subject], pixel art, icon, gameboy graphics, isolated"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ENT-OSLEIS6Z",
+        "ENT-CKJODO9R"
+      ],
+      "score": 0.75,
+      "reason": "Formulations voisines (similarité 0.75)",
+      "excerpts": [
+        {
+          "id": "ENT-OSLEIS6Z",
+          "text": "png white background, [subject], in the style of animated illustrations, [environment], full body, text-based --style raw --stylize 0"
+        },
+        {
+          "id": "ENT-CKJODO9R",
+          "text": "png white background, [subject], in the style of big tech illustrations, [environment], full body, text-based --style raw"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ENT-S3LVH090",
+        "ENT-QDKZMJSF"
+      ],
+      "score": 0.714,
+      "reason": "Formulations voisines (similarité 0.71)",
+      "excerpts": [
+        {
+          "id": "ENT-S3LVH090",
+          "text": "pixel art, brain exploding, knowledge --style raw"
+        },
+        {
+          "id": "ENT-QDKZMJSF",
+          "text": "pixel art, knowledge --style raw"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    },
+    {
+      "type": "probable-variant",
+      "ids": [
+        "ENT-QDKZMJSF",
+        "ENT-A3YV4KNJ"
+      ],
+      "score": 0.833,
+      "reason": "Formulations voisines (similarité 0.83)",
+      "excerpts": [
+        {
+          "id": "ENT-QDKZMJSF",
+          "text": "pixel art, knowledge --style raw"
+        },
+        {
+          "id": "ENT-A3YV4KNJ",
+          "text": "pixel art, knowledge, trends --style raw"
+        }
+      ],
+      "suggestion": "Possible variante d’une même idée ; à regrouper si pertinent."
+    }
+  ]
 }

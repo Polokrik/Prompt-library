@@ -35,7 +35,12 @@ function build(drafts: Draft[], mapping: EditorialMapping, label: string, verifi
     const draft = drafts[i]!;
     const alt = mapped.altOverrides.get(entry.id) ?? draft.alt;
     const image = resolveImage(entry.id, alt, manifest);
-    const withImage: PromptEntry = image ? { ...entry, image } : entry;
+    // Orientation mesurée sur l'image optimisée, seulement si la source n'en donne aucune.
+    const measured =
+      image?.width && image.height && !entry.orientation
+        ? { orientation: Math.abs(image.width - image.height) / Math.max(image.width, image.height) < 0.05 ? 'square' : image.width > image.height ? 'landscape' : 'portrait' }
+        : {};
+    const withImage = (image ? { ...entry, ...measured, image } : entry) as PromptEntry;
     const forced = mapped.forcedStatus.get(entry.id);
     const res = finalizeEntry(withImage, {
       verified,
@@ -50,7 +55,7 @@ function build(drafts: Draft[], mapping: EditorialMapping, label: string, verifi
 
 function main() {
   const { flags } = parseArgs(process.argv.slice(2));
-  const batches = loadBatches(flags.has('full'));
+  const batches = loadBatches(flags.has('sample'));
   batches.notes.forEach((n) => console.log(`  ! ${n}`));
   const summary: string[] = [];
 
@@ -58,7 +63,7 @@ function main() {
     const drafts: Draft[] = normalizeExcel(batches.excel).map(({ entry, cap }: ExcelDraft) => ({ entry, ...(cap ? { cap } : {}) }));
     const mapping = readJson<EditorialMapping>(PATHS.excelMapping, {});
     const { entries, warnings } = build(drafts, mapping, 'prompt-bible', false);
-    const file: NormalizedFile = { source: SOURCE_IDS.excel, mode: batches.mode, entries, warnings };
+    const file: NormalizedFile = { source: SOURCE_IDS.excel, mode: batches.excel.mode, entries, warnings };
     writeJson(path.join(PATHS.generated, `normalized-${SOURCE_IDS.excel}.json`), file);
     summary.push(`prompt-bible : ${entries.length} fiches`);
     warnings.forEach((w) => console.log(`  ⚠ ${w}`));
@@ -67,7 +72,7 @@ function main() {
     const drafts: Draft[] = normalizeExternal(batches.external).map(({ entry, alt }) => ({ entry, ...(alt ? { alt } : {}) }));
     const mapping = readJson<EditorialMapping>(PATHS.externalMapping, {});
     const { entries, warnings } = build(drafts, mapping, 'external', true);
-    const file: NormalizedFile = { source: SOURCE_IDS.external, mode: batches.mode, entries, warnings };
+    const file: NormalizedFile = { source: SOURCE_IDS.external, mode: batches.external.mode, entries, warnings };
     writeJson(path.join(PATHS.generated, `normalized-${SOURCE_IDS.external}.json`), file);
     summary.push(`external-initial : ${entries.length} fiches`);
     warnings.forEach((w) => console.log(`  ⚠ ${w}`));

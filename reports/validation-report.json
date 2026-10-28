@@ -1,23 +1,30 @@
 {
-  "generatedAt": "2026-10-27T15:35:08.917Z",
+  "generatedAt": "2026-10-28T09:29:02.918Z",
   "input": "src/data/prompts.json",
   "stats": {
-    "analysed": 30,
+    "analysed": 1554,
     "published": 0,
-    "toTest": 12,
-    "toConfirm": 17,
+    "toTest": 1196,
+    "toConfirm": 357,
     "hidden": 1,
-    "missingImages": 29,
+    "missingImages": 1553,
     "missingAlt": 0,
-    "duplicateCandidates": 0,
+    "duplicateCandidates": 148,
     "blockingErrors": 0,
-    "warnings": 7
+    "warnings": 76
   },
   "issues": [
     {
       "severity": "warning",
       "code": "category-missing",
       "entryId": "ENT-9TE97400",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-NJGAEM2A",
       "message": "Catégorie absente",
       "fixIn": "mapping"
     },
@@ -38,7 +45,28 @@
     {
       "severity": "warning",
       "code": "category-missing",
+      "entryId": "ENT-VSPVT8MB",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-3V26L5MP",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
       "entryId": "ENT-JQ4CSYJP",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-2TC3FG9X",
       "message": "Catégorie absente",
       "fixIn": "mapping"
     },
@@ -48,6 +76,459 @@
       "entryId": "ENT-9V2RPIUY",
       "message": "Catégorie absente",
       "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-CCAPLHHH",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-MT4NI8HR",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-DVJCSFZO",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-JNC0365M",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-YIHFGK3N",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-EK1YGZCA",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-EXLNSVV4",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-X52KF5WY",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-TV2UNT6K",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-AXPG39IB",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-I3BJWP8J",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-7J0TZ1FM",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-PKCAMXOY",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-0UB0NUGN",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-MDDLATVC",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-T74287X4",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-XCGPTUNM",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-31BQKJRB",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-QKBTPFV4",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-IQCJ264R",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-BUL5G6VR",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-GJY2BXH8",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-7BO2QJMC",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-LGC40HQB",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-5L9P2LAY",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-LD8ZLCX6",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-UH5WBCGO",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-38X0JW8V",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-OYYAN4ED",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-MM5VU8FV",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-DSGWDTW5",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-GW47C7VK",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-9FEPXTG6",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-8KN09LNY",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-KXOGB72W",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-1ZF0C4JT",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-25EXQ9II",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-2J32Q60G",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-ARHH242I",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-3OVPI6T3",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-KVN70DPM",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-U69IL5RO",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-8STD645Q",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-0A9Q68P1",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-3S1ZHCR0",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-F0158QUC",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-ERZODGEJ",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-B79X7HC7",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-4OM8ANZI",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-WZKG91KT",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-SC3NDLK2",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-M7IDGFO5",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-0PMGBK7W",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-DPSQWFA3",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-6V0SDA0H",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-AOTWA5UE",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-89TV41ID",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-UOZ5OJ0J",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-0CPEUPQA",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-O6NYHJK1",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-Z7AY8EWE",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-BW7SL4JU",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-WOJR290P",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "category-missing",
+      "entryId": "ENT-2A9HI9WC",
+      "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "duplicates-candidates",
+      "message": "142 candidat(s) de doublon non exact : voir reports/duplicates-report.json"
     },
     {
       "severity": "warning",

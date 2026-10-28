@@ -40,3 +40,34 @@ describe('extraction de la source externe (fixtures synthétiques)', () => {
     expect(stripHtml('<script>x()</script>a<br>b')).toBe('a\nb');
   });
 });
+
+describe('format réel de la source (structure observée, valeurs synthétiques)', () => {
+  const item = (i: number, withImg: boolean) => ({
+    id: String(i), title: `Titre ${i}`, category: 'Concepts créatifs', prompt: `prompt numéro ${i}`, author: i === 1 ? 'Créateur cité dans la source' : '@auteur',
+    source: `https://x.com/auteur/status/${i}`, origin: 'collection', description: 'Un point de départ à adapter', license: { label: 'CC BY 4.0 · collection X', url: 'https://creativecommons.org/licenses/by/4.0/' },
+    images: withImg ? [{ src: `media/a-${i}.webp`, label: 'GPT-4o · archive', source: 'https://cdn.example/x.png', width: 667, height: 1000 }, { src: `media/b-${i}.webp`, label: 'Gemini · archive' }] : [],
+  });
+  const items = [item(1, false), item(2, true), item(3, true), item(4, true), item(5, false), item(6, true)];
+
+  it('devine images.0.src, auteur, licence, post d’origine et catégorie', async () => {
+    const { refineFieldMap, guessFieldMap } = await import('../scripts/lib/extract.mts');
+    const map = refineFieldMap(guessFieldMap(Object.keys(items[1]!)), items);
+    expect(map).toMatchObject({ imageUrl: 'images.0.src', imageLabel: 'images.0.label', author: 'author', license: 'license', postUrl: 'source', categories: 'category', originalId: 'id' });
+  });
+
+  it('brut fidèle puis normalisation : crédit, licence, outil, image relative, pas d’alt inventé', async () => {
+    const { refineFieldMap, guessFieldMap } = await import('../scripts/lib/extract.mts');
+    const map = refineFieldMap(guessFieldMap(Object.keys(items[1]!)), items);
+    const raws = items.map((it, i) => toRawEntry(it, i + 1, map));
+    expect(raws[1]).toMatchObject({ imageUrl: 'media/a-2.webp', imageLabel: 'GPT-4o · archive', postUrl: 'https://x.com/auteur/status/2' });
+    expect(raws[1]!.license).toEqual({ label: 'CC BY 4.0 · collection X', url: 'https://creativecommons.org/licenses/by/4.0/' });
+    expect(raws[0]!.imageUrl).toBeUndefined();
+    const out = normalizeExternal({ source: 'external-initial', sourceUrl: 'https://example.org/imageia/#bibliotheque', importedAt: '2000-01-01T00:00:00.000Z', mode: 'sample', entries: raws });
+    const [first, second] = out.map((o) => o.entry);
+    expect(first!.source.author).toBeUndefined(); // « Créateur cité dans la source » = remplissage
+    expect(second!.source).toMatchObject({ author: '@auteur', originalUrl: 'https://x.com/auteur/status/2', license: { label: expect.stringContaining('CC BY 4.0') } });
+    expect(second!.generator).toBeUndefined(); // l'outil de l'image n'est pas repris sans l'image
+    expect(second!.categories).toEqual(['Concepts créatifs']);
+    expect(out[1]!.alt).toBeUndefined();
+  });
+});

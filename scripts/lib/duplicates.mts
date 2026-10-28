@@ -112,33 +112,70 @@ export function detectDuplicates(
     });
   }
 
-  // 2 & 5. Textes proches, variantes probables
-  const sets = entries.map((e) => tokenSet(e.prompt));
+  // 2 & 5. Textes proches, variantes probables.
+  // Tout est précalculé une fois par fiche ; les paires candidates viennent d'un index inversé
+  // (mots rares partagés), jamais d'une double boucle sur toutes les fiches.
+  const n = entries.length;
+  const compared = entries.map((e) => comparable(e.prompt));
+  const sets = compared.map((c) => new Set(c ? c.split(' ') : []));
   const variantTexts = entries.map((e) => new Set(e.variants.map((v) => comparable(v.prompt))));
-  for (let i = 0; i < entries.length; i++) {
-    for (let j = i + 1; j < entries.length; j++) {
-      const a = entries[i]!;
-      const b = entries[j]!;
-      if (exactPairs.has(pairKey(a.id, b.id))) continue;
-      const aInB = variantTexts[j]!.has(comparable(a.prompt));
-      const bInA = variantTexts[i]!.has(comparable(b.prompt));
-      if (aInB || bInA) {
-        out.push({
-          type: 'probable-variant',
-          ids: [a.id, b.id],
-          reason: 'Le prompt d’une fiche est une variante de l’autre',
-          excerpts: [excerpt(a), excerpt(b)],
-          suggestion: 'Regrouper en une fiche avec variantes (canonicalId sur la fiche secondaire).',
-        });
-        continue;
+  const seenPair = new Set<string>();
+  const push = (i: number, j: number, c: DuplicateCandidate) => {
+    const k = pairKey(entries[i]!.id, entries[j]!.id);
+    if (seenPair.has(k) || exactPairs.has(k)) return;
+    seenPair.add(k);
+    out.push(c);
+  };
+
+  // 5a. le prompt d'une fiche est une variante de l'autre (table texte de variante -> fiches, O(n))
+  const byVariantText = new Map<string, number[]>();
+  variantTexts.forEach((set, j) => set.forEach((t) => byVariantText.set(t, [...(byVariantText.get(t) ?? []), j])));
+  compared.forEach((c, i) => {
+    if (!c) return;
+    for (const j of byVariantText.get(c) ?? []) {
+      if (j === i) continue;
+      const [x, y] = i < j ? [i, j] : [j, i];
+      push(x, y, {
+        type: 'probable-variant',
+        ids: [entries[x]!.id, entries[y]!.id],
+        reason: 'Le prompt d’une fiche est une variante de l’autre',
+        excerpts: [excerpt(entries[x]!), excerpt(entries[y]!)],
+        suggestion: 'Regrouper en une fiche avec variantes (canonicalId sur la fiche secondaire).',
+      });
+    }
+  });
+
+  // 5b/2. similarité par index inversé : mots présents dans au plus 20 % des fiches
+  const postings = new Map<string, number[]>();
+  sets.forEach((set, i) => {
+    if (set.size < MIN_TOKENS_FOR_SIMILARITY) return;
+    for (const t of set) postings.set(t, [...(postings.get(t) ?? []), i]);
+  });
+  const maxDf = Math.max(20, Math.floor(n * 0.2));
+  const shared = new Map<number, Map<number, number>>();
+  for (const list of postings.values()) {
+    if (list.length < 2 || list.length > maxDf) continue;
+    for (let x = 0; x < list.length; x++) {
+      for (let y = x + 1; y < list.length; y++) {
+        const i = list[x]!;
+        const j = list[y]!;
+        const row = shared.get(i) ?? new Map<number, number>();
+        row.set(j, (row.get(j) ?? 0) + 1);
+        shared.set(i, row);
       }
+    }
+  }
+  for (const [i, row] of shared) {
+    for (const [j, count] of row) {
+      if (count < 3) continue;
       const sa = sets[i]!;
       const sb = sets[j]!;
-      if (sa.size < MIN_TOKENS_FOR_SIMILARITY || sb.size < MIN_TOKENS_FOR_SIMILARITY) continue;
       if (Math.min(sa.size, sb.size) / Math.max(sa.size, sb.size) < VARIANT_THRESHOLD) continue;
       const score = jaccard(sa, sb);
+      const a = entries[i]!;
+      const b = entries[j]!;
       if (score >= NEAR_THRESHOLD) {
-        out.push({
+        push(i, j, {
           type: 'near',
           ids: [a.id, b.id],
           score: Number(score.toFixed(3)),
@@ -147,7 +184,7 @@ export function detectDuplicates(
           suggestion: 'Comparer à la main ; aucune fusion automatique.',
         });
       } else if (score >= VARIANT_THRESHOLD) {
-        out.push({
+        push(i, j, {
           type: 'probable-variant',
           ids: [a.id, b.id],
           score: Number(score.toFixed(3)),
