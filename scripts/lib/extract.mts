@@ -240,3 +240,20 @@ export function summarizeCandidate(c: CandidateArray, map: FieldMap) {
   }
   return { present, absent, unmapped, categories: [...cats].sort().slice(0, 100), imageExt };
 }
+
+/** Aperçu lisible de la forme d'un JSON : clés, types, longueurs et un exemple (textes tronqués). */
+export function describeShape(value: unknown, depth = 0): unknown {
+  const clip = (t: string) => (t.length > 160 ? `${t.slice(0, 157)}…` : t);
+  if (typeof value === 'string') return clip(value);
+  if (value === null || typeof value !== 'object') return value;
+  if (Array.isArray(value)) {
+    return { _type: 'array', length: value.length, sample: depth < 3 && value.length ? describeShape(value[0], depth + 1) : undefined };
+  }
+  if (depth >= 3) return { _type: 'object', keys: Object.keys(value as object).slice(0, 30) };
+  return Object.fromEntries(Object.entries(value as Record<string, unknown>).slice(0, 40).map(([k, v]) => [k, describeShape(v, depth + 1)]));
+}
+
+/** Adresses passées à fetch('…') dans un texte (HTML ou JavaScript), littéraux uniquement. */
+export function fetchTargets(text: string): string[] {
+  return [...new Set([...text.matchAll(/fetch\(\s*['"`]([^'"`]+)['"`]/g)].map((m) => m[1]!))];
+}

@@ -11,7 +11,9 @@ import { rel, writeJson, writeText } from './lib/io.mts';
 import { FetchError, fetchLimited, sleep } from './lib/net.mts';
 import {
   bestCandidate,
+  describeShape,
   extractJsonBlobs,
+  fetchTargets,
   guessFieldMap,
   listLinks,
   summarizeCandidate,
@@ -39,6 +41,7 @@ interface SourceFile {
   categories: string[];
   filesInspected: { url: string; status: number; bytes: number; contentType: string }[];
   linksFound: { scripts: number; jsonLinks: number; images: number; secondaryPages: string[] };
+  shapes: { url: string; shape: unknown }[];
   obstacles: string[];
   recommendedMethod: string;
   localInstructions: string[];
@@ -90,6 +93,7 @@ async function main() {
     categories: [],
     filesInspected: [],
     linksFound: { scripts: 0, jsonLinks: 0, images: 0, secondaryPages: [] },
+    shapes: [],
     obstacles: [],
     recommendedMethod: '',
     localInstructions: LOCAL_INSTRUCTIONS,
@@ -158,6 +162,7 @@ async function main() {
   const texts: { url: string; kind: 'json' | 'embedded'; blobs: unknown[] }[] = [
     { url: base, kind: 'embedded', blobs: extractJsonBlobs(html) },
   ];
+  const rawTexts: string[] = [html];
   for (const u of [...links.jsonLinks, ...links.scripts].filter(sameOrigin).slice(0, MAX_FILES)) {
     await sleep(300);
     try {
@@ -173,9 +178,29 @@ async function main() {
         }
       } else {
         texts.push({ url: u, kind: 'embedded', blobs: extractJsonBlobs(text) });
+        rawTexts.push(text);
       }
     } catch (e) {
       out.obstacles.push((e as Error).message);
+    }
+  }
+
+  // 3 bis. appels fetch('…') écrits dans la page ou ses scripts (adresses relatives résolues par rapport à la page)
+  const targets = [...new Set(rawTexts.flatMap(fetchTargets).map((t) => safeUrl(t, base)).filter((u): u is string => !!u && sameOrigin(u)))].slice(0, 6);
+  for (const u of targets) {
+    await sleep(300);
+    try {
+      const r = await fetchLimited(u, { maxBytes: 30 * 1024 * 1024, accept: 'application/json' });
+      out.filesInspected.push({ url: r.url, status: r.status, bytes: r.body.length, contentType: r.contentType });
+      if (!r.ok) {
+        out.obstacles.push(`HTTP ${r.status} : ${u}`);
+        continue;
+      }
+      const json: unknown = JSON.parse(r.body.toString('utf8'));
+      texts.push({ url: u, kind: 'json', blobs: [json] });
+      out.shapes.push({ url: u, shape: describeShape(json) });
+    } catch (e) {
+      out.obstacles.push(`Appel fetch non lisible (${u}) : ${(e as Error).message}`);
     }
   }
 
@@ -237,6 +262,9 @@ function toMarkdown(s: SourceFile): string {
     '',
     '## Fichiers inspectés',
     s.filesInspected.map((f) => `- ${f.url} — HTTP ${f.status}, ${f.bytes} octets`).join('\n') || '- (aucun)',
+    '',
+    '## Forme des données récupérées (appels fetch)',
+    s.shapes.map((x) => `### ${x.url}\n\n\`\`\`json\n${JSON.stringify(x.shape, null, 2)}\n\`\`\``).join('\n\n') || '- (aucun)',
     '',
     '## Obstacles',
     li(s.obstacles),
