@@ -49,3 +49,39 @@ export function refEntries(batches: Batches): { id: string; title: string }[] {
   for (const e of batches.external?.entries ?? []) out.push({ id: safeFileStem(externalEntryId(e)), title: e.title ?? '' });
   return out;
 }
+
+export interface SourceImageRef {
+  id: string;
+  /** Position de l'image dans la liste `images` de la source (0 = première). */
+  rank: number;
+  tool?: string;
+}
+
+/** « GPT-4o · archive » -> « GPT-4o ». Un libellé sans « · » (ex. « Collection YouMind ») n'est pas un outil. */
+export function toolFromLabel(label: unknown): string | undefined {
+  if (typeof label !== 'string' || !label.includes('·')) return undefined;
+  return label.split('·')[0]!.trim() || undefined;
+}
+
+/**
+ * Noms d'images de la source (champ `images[].src` de chaque entrée brute) -> fiche. C'est la correspondance
+ * exacte fournie par la source : le suffixe « -thumb » ajouté pour alléger les fichiers est ignoré à la recherche.
+ */
+export function sourceImageIndex(batches: Batches): Map<string, SourceImageRef> {
+  const out = new Map<string, SourceImageRef>();
+  for (const e of batches.external?.entries ?? []) {
+    const images = (e.original as { images?: { src?: unknown; label?: unknown }[] }).images;
+    if (!Array.isArray(images)) continue;
+    const id = safeFileStem(externalEntryId(e));
+    images.forEach((im, rank) => {
+      if (typeof im?.src !== 'string') return;
+      const stem = im.src.split('/').pop()!.replace(/\.[a-z0-9]+$/i, '').toLowerCase();
+      const tool = toolFromLabel(im.label);
+      if (!out.has(stem)) out.set(stem, { id, rank, ...(tool ? { tool } : {}) });
+    });
+  }
+  return out;
+}
+
+/** Nom d'un fichier envoyé -> clé de recherche (minuscules, sans suffixe « -thumb »). */
+export const imageLookupKey = (stem: string): string => stem.toLowerCase().replace(/-thumb$/, '');
