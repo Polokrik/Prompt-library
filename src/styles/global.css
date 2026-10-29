@@ -140,7 +140,7 @@ input[type='checkbox'] { width: 1.4rem; height: 1.4rem; accent-color: var(--acce
 .count { margin: 0; font: 600 1rem var(--mono); }
 .toolbar .field--grow, .more, .toolbar__foot { grid-column: 1 / -1; }
 @media (min-width: 48rem) {
-  .toolbar { grid-template-columns: 2fr 1fr 1fr; align-items: end; }
+  .toolbar { grid-template-columns: 2fr 1fr 1fr 1fr; align-items: end; }
   .toolbar .field--grow { grid-column: auto; }
 }
 

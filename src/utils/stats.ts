@@ -7,3 +7,14 @@ export function categoryCounts(entries: readonly PromptEntry[]): { name: string;
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, 'fr'));
 }
+
+/** Provenances présentes dans une liste de fiches, avec leur nombre de fiches. */
+export function sourceCounts(entries: readonly PromptEntry[]): { id: string; label: string; count: number }[] {
+  const counts = new Map<string, { id: string; label: string; count: number }>();
+  for (const e of entries) {
+    const cur = counts.get(e.source.id) ?? { id: e.source.id, label: e.source.label, count: 0 };
+    cur.count++;
+    counts.set(e.source.id, cur);
+  }
+  return [...counts.values()].sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, 'fr'));
+}

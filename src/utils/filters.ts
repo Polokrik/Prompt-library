@@ -6,6 +6,8 @@ export type StatusFilter = 'all' | 'published' | 'to-test';
 export interface Filters {
   q: string;
   category: string;
+  /** Identifiant de la source (provenance) : « external-initial », « prompt-bible »… ; vide = toutes. */
+  source: string;
   orientation: '' | PromptOrientation;
   language: '' | PromptLanguage;
   status: StatusFilter;
@@ -17,6 +19,7 @@ export interface Filters {
 export const DEFAULT_FILTERS: Filters = {
   q: '',
   category: '',
+  source: '',
   orientation: '',
   language: '',
   status: 'all',
@@ -32,6 +35,7 @@ export function applyFilters(
 ): PromptEntry[] {
   const out = entries.filter((e) => {
     if (f.category && !e.categories.includes(f.category)) return false;
+    if (f.source && e.source.id !== f.source) return false;
     if (f.orientation && e.orientation !== f.orientation) return false;
     if (f.language && e.language !== f.language) return false;
     if (f.status !== 'all' && e.status !== f.status) return false;
@@ -47,6 +51,7 @@ export function applyFilters(
 export function countActiveFilters(f: Filters): number {
   return (
     Number(!!f.category) +
+    Number(!!f.source) +
     Number(!!f.orientation) +
     Number(!!f.language) +
     Number(f.status !== 'all') +
@@ -75,6 +80,7 @@ export function filtersFromParams(p: URLSearchParams): Filters {
   return {
     q: p.get('q') ?? '',
     category: p.get('category') ?? '',
+    source: p.get('source') ?? '',
     orientation: pick(p.get('orientation'), ORIENTATIONS, ''),
     language: pick(p.get('language'), LANGUAGES, ''),
     status: pick(p.get('status'), STATUSES, 'all'),

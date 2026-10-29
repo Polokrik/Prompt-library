@@ -4,13 +4,14 @@ import { entries } from '../data/index.ts';
 import { PromptGrid } from '../components/PromptGrid.tsx';
 import { applyFilters, countActiveFilters, filtersFromParams, filtersToParams, type Filters } from '../utils/filters.ts';
 import { buildIndex, search } from '../utils/search.ts';
-import { categoryCounts } from '../utils/stats.ts';
+import { categoryCounts, sourceCounts } from '../utils/stats.ts';
 import { replaceHash, useRoute } from '../utils/router.ts';
 import { useFavorites } from '../utils/favorites.ts';
 import { LANGUAGE_LABELS, ORIENTATION_LABELS } from '../utils/labels.ts';
 
 const index = buildIndex(entries);
 const categories = categoryCounts(entries);
+const provenances = sourceCounts(entries);
 
 export function Library({ favoritesView = false }: { favoritesView?: boolean }) {
   const route = useRoute();
@@ -19,7 +20,7 @@ export function Library({ favoritesView = false }: { favoritesView?: boolean }) 
   const filters: Filters = favoritesView ? { ...base, favoritesOnly: true } : base;
   const routePath = favoritesView ? 'favoris' : 'bibliotheque';
   const [limit, setLimit] = useState(PAGE_SIZE);
-  const [moreOpen, setMoreOpen] = useState(() => countActiveFilters(filters) - Number(!!filters.category) > 0);
+  const [moreOpen, setMoreOpen] = useState(() => countActiveFilters(filters) - Number(!!filters.category) - Number(!!filters.source) > 0);
 
   const deferredQuery = useDeferredValue(filters.q);
   const key = JSON.stringify(filters);
@@ -63,6 +64,19 @@ export function Library({ favoritesView = false }: { favoritesView?: boolean }) 
             ))}
           </select>
         </div>
+        {provenances.length > 1 ? (
+          <div className="field">
+            <label htmlFor="source">Provenance</label>
+            <select id="source" value={filters.source} onChange={(e) => update({ source: e.target.value })}>
+              <option value="">Toutes</option>
+              {provenances.map((s) => (
+                <option key={s.id} value={s.id}>
+                  {s.label} ({s.count})
+                </option>
+              ))}
+            </select>
+          </div>
+        ) : null}
         <div className="field">
           <label htmlFor="sort">Trier</label>
           <select id="sort" value={filters.sort} onChange={(e) => update({ sort: e.target.value as Filters['sort'] })}>
