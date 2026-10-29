@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T14:29:37.562Z",
+  "generatedAt": "2026-10-29T14:34:05.303Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -12,9 +12,7 @@
     }
   },
   "sourcesFound": 947,
-  "processed": [
-    "ext-125"
-  ],
+  "processed": [],
   "skippedUnchanged": [
     "ext-305",
     "ext-306",
@@ -220,6 +218,7 @@
     "ext-122",
     "ext-123",
     "ext-124",
+    "ext-125",
     "ext-126",
     "ext-127",
     "ext-128",
@@ -1018,16 +1017,7 @@
     "ENT-YH48GMW5"
   ],
   "heavyOutputs": [],
-  "unresolvedSourceFiles": [
-    {
-      "file": "imports/images/slide_01.jpg",
-      "error": "aucune fiche pour « 01 »"
-    },
-    {
-      "file": "imports/images/vincent-pirate-perroquet.webp",
-      "error": "aucune fiche pour « vincent-pirate-perroquet »"
-    }
-  ],
+  "unresolvedSourceFiles": [],
   "warnings": [
     "93 fiche(s) ont plusieurs images : une seule est utilisée (image n° 1, puis les « archive »)."
   ],
