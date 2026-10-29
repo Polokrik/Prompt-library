@@ -15,6 +15,14 @@
     "largeBytes": 226840,
     "generator": "gemini"
   },
+  "ext-100": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "f5e14b4b2ced74e9f4724b488dc602b92425c86c",
+    "thumbBytes": 8012,
+    "largeBytes": 25480,
+    "generator": "gemini"
+  },
   "ext-104": {
     "width": 1122,
     "height": 1402,
@@ -175,6 +183,13 @@
     "largeBytes": 84548,
     "generator": "gemini"
   },
+  "ext-305": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "b3a96c647a566e1cbf91de50c7d2e4d9d2801596",
+    "thumbBytes": 6364,
+    "largeBytes": 13086
+  },
   "ext-306": {
     "width": 512,
     "height": 512,
@@ -224,6 +239,13 @@
     "sourceHash": "afcd73789a858d8f3cad9abfb6ccf586c4c56a1c",
     "thumbBytes": 5422,
     "largeBytes": 9002
+  },
+  "ext-314": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "d0d534962349a73768ab6043ca36982038bfccdc",
+    "thumbBytes": 4494,
+    "largeBytes": 7060
   },
   "ext-315": {
     "width": 512,
@@ -445,6 +467,13 @@
     "thumbBytes": 7874,
     "largeBytes": 53440,
     "generator": "gemini"
+  },
+  "ext-350": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "ba35ac71f68f537cd0beedddb8cf9f20f330b263",
+    "thumbBytes": 19234,
+    "largeBytes": 35112
   },
   "ext-353": {
     "width": 512,
@@ -791,6 +820,22 @@
     "largeBytes": 12728,
     "generator": "gemini"
   },
+  "ext-64": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "55aef4fa4fd07394d4c86154a9a76e02da737f94",
+    "thumbBytes": 15368,
+    "largeBytes": 63914,
+    "generator": "gemini"
+  },
+  "ext-65": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "a26ebc73709508b3396e9d13b4ca6e92dbc874d1",
+    "thumbBytes": 15764,
+    "largeBytes": 59734,
+    "generator": "gemini"
+  },
   "ext-66": {
     "width": 1000,
     "height": 1000,
@@ -799,12 +844,28 @@
     "largeBytes": 17294,
     "generator": "gpt4o"
   },
+  "ext-67": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "fbc2c92f72bc103c91a554c3b4d54f403a506843",
+    "thumbBytes": 10730,
+    "largeBytes": 52728,
+    "generator": "gemini"
+  },
   "ext-68": {
     "width": 1000,
     "height": 1000,
     "sourceHash": "49128180d758c8d3601ca61506750d03941b958a",
     "thumbBytes": 5084,
     "largeBytes": 18738,
+    "generator": "gemini"
+  },
+  "ext-69": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "3c60bfb1d814403acb21356a32f41bf9658c50ae",
+    "thumbBytes": 12426,
+    "largeBytes": 35044,
     "generator": "gemini"
   },
   "ext-7": {
@@ -858,10 +919,10 @@
   "ext-75": {
     "width": 1000,
     "height": 1000,
-    "sourceHash": "6911190d1dca2bba2e77f537958764dc81d16c6e",
-    "thumbBytes": 13370,
-    "largeBytes": 69344,
-    "generator": "gpt4o"
+    "sourceHash": "49e70a4dffa3f49afffcbbec2e166a938bb8bf7f",
+    "thumbBytes": 11752,
+    "largeBytes": 37916,
+    "generator": "gemini"
   },
   "ext-76": {
     "width": 667,
@@ -870,6 +931,14 @@
     "thumbBytes": 42080,
     "largeBytes": 142956,
     "generator": "gpt4o"
+  },
+  "ext-77": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "5eb620cf8656b747f8afd9549e78a34d3421a28c",
+    "thumbBytes": 14064,
+    "largeBytes": 49090,
+    "generator": "gemini"
   },
   "ext-78": {
     "width": 1000,
@@ -912,12 +981,12 @@
     "generator": "gemini"
   },
   "ext-82": {
-    "width": 603,
-    "height": 905,
-    "sourceHash": "75a1e24f5d2fff56041a19d85bd721d79ead07a9",
-    "thumbBytes": 20132,
-    "largeBytes": 49846,
-    "generator": "gpt4o"
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "527499c59a42ee4ae0b45233d08eb7742226c5de",
+    "thumbBytes": 10056,
+    "largeBytes": 48586,
+    "generator": "gemini"
   },
   "ext-83": {
     "width": 1000,
@@ -933,6 +1002,14 @@
     "sourceHash": "c72bdbdcacdc4228dcb8219d14ce1cb693e687f7",
     "thumbBytes": 4630,
     "largeBytes": 14138,
+    "generator": "gemini"
+  },
+  "ext-85": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "329abffda73805d9faaee16d2f1baef6b63c53c1",
+    "thumbBytes": 36778,
+    "largeBytes": 169652,
     "generator": "gemini"
   },
   "ext-86": {
@@ -997,6 +1074,14 @@
     "sourceHash": "226bbbdf503f8ce1fb305ecd8f83377d231faf6d",
     "thumbBytes": 18500,
     "largeBytes": 66494,
+    "generator": "gemini"
+  },
+  "ext-94": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "8130d3331312ea69b08db4d3591d47737128c4c6",
+    "thumbBytes": 13172,
+    "largeBytes": 55796,
     "generator": "gemini"
   },
   "ext-95": {
