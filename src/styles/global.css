@@ -153,13 +153,11 @@ input[type='checkbox'] { width: 1.4rem; height: 1.4rem; accent-color: var(--acce
   .toolbar > .field:not(.field--check):not(.field--grow) { grid-column: auto; }
 }
 
-/* Mosaïque type moodboard : colonnes CSS, aucune dépendance */
-.grid { list-style: none; margin: 0; padding: 0; columns: 2; column-gap: 1rem; }
-.grid > li { break-inside: avoid; margin-bottom: 1.5rem; }
-@media (min-width: 40rem) { .grid { columns: 3; column-gap: 1.25rem; } }
-@media (min-width: 64rem) { .grid { columns: 4; } }
-@media (min-width: 96rem) { .grid { columns: 5; } }
-@media (max-width: 22rem) { .grid { columns: 1; } }
+/* Mosaïque type moodboard : colonnes réparties en JavaScript (voir PromptGrid), les fiches ne bougent plus quand on en ajoute */
+.grid { display: flex; align-items: flex-start; gap: 1rem; }
+@media (min-width: 40rem) { .grid { gap: 1.25rem; } }
+.grid__col { flex: 1 1 0; min-width: 0; list-style: none; margin: 0; padding: 0; }
+.grid__col > li { margin-bottom: 1.5rem; }
 
 .card { display: flex; flex-direction: column; gap: 0.6rem; }
 .card__visual { display: block; text-decoration: none; }

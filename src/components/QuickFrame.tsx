@@ -2,13 +2,11 @@
 export function QuickFrame({ hasFields = true, needsReference = false }: { hasFields?: boolean; needsReference?: boolean }) {
   return (
     <aside className="quick-frame" aria-label="Cadre rapide">
-      <p className="quick-frame__title">En trois gestes</p>
+      <p className="quick-frame__title">Prêt en 3 gestes</p>
       <ol>
-        {hasFields ? <li>Remplissez les champs ci-dessous avec votre sujet (laissez vide ce qui ne vous concerne pas).</li> : <li>Lisez le prompt : vous pouvez le garder tel quel ou changer le sujet.</li>}
-        <li>
-          Copiez le prompt{needsReference ? ', puis joignez votre image' : ''} dans votre outil d’image (ChatGPT, Gemini, Midjourney…).
-        </li>
-        <li>Lancez, regardez, puis ajustez un détail à la fois (lumière, ambiance, cadrage) plutôt que tout réécrire.</li>
+        <li>{hasFields ? 'Remplissez les champs, ou gardez le prompt tel quel.' : 'Gardez le prompt tel quel, ou changez le sujet.'}</li>
+        <li>{needsReference ? 'Copiez, joignez votre image, collez dans votre IA.' : 'Copiez, puis collez dans votre IA d’image.'}</li>
+        <li>Ajustez un détail à la fois : lumière, ambiance, cadrage.</li>
       </ol>
     </aside>
   );

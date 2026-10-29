@@ -5,9 +5,9 @@ import { readStorage, writeStorage } from './storage.ts';
 export type HelpLevel = 'beginner' | 'intermediate' | 'expert';
 
 export const HELP_LEVELS: readonly { id: HelpLevel; label: string; text: string }[] = [
-  { id: 'beginner', label: 'Je découvre', text: 'Explications pas à pas, champs à remplir mis en avant, précisions longues repliées.' },
-  { id: 'intermediate', label: 'Je me débrouille', text: 'Champs à remplir et prompt prêt à copier, sans explications.' },
-  { id: 'expert', label: 'Je maîtrise', text: 'Le prompt brut d’abord, tout visible, aucune aide.' },
+  { id: 'beginner', label: 'Je découvre', text: 'On vous guide pas à pas.' },
+  { id: 'intermediate', label: 'Je me débrouille', text: 'Champs à remplir, prompt prêt à copier.' },
+  { id: 'expert', label: 'Je maîtrise', text: 'Le prompt brut, sans détour.' },
 ];
 
 const KEY = 'carnet.helpLevel';
