@@ -35,8 +35,7 @@ export function PromptBlock({ entry }: { entry: PromptEntry }) {
 
       {needsReference ? (
         <p className="note note--reference">
-          <strong>Image à fournir.</strong> Ce prompt {entry.requiresReference === true ? 'demande' : 'semble demander'} une image de votre part (un portrait, une photo, un
-          objet…) : joignez-la à votre outil avant d’envoyer le texte.
+          <strong>Image à fournir.</strong> Joignez votre photo (portrait, objet…) à votre outil avant d’envoyer ce prompt.
         </p>
       ) : null}
 
@@ -46,7 +45,7 @@ export function PromptBlock({ entry }: { entry: PromptEntry }) {
             À remplir avant de copier ({fields.length} champ{fields.length > 1 ? 's' : ''})
           </summary>
           {level === 'beginner' ? (
-            <p className="field__hint">Chaque champ remplace une zone entre crochets du prompt. Laissez vide ce qui ne vous concerne pas.</p>
+            <p className="field__hint">Chaque champ remplace une zone entre crochets. Laissez vide ce qui ne vous concerne pas.</p>
           ) : null}
           <div className="fields__grid">
             {fields.map((f, i) => (
@@ -84,7 +83,7 @@ export function PromptBlock({ entry }: { entry: PromptEntry }) {
         <details className="detail-more" open={level === 'expert'}>
           <summary>Précisions détaillées (optionnelles)</summary>
           <p className="field__hint">
-            Consignes de style ajoutées à l’origine. Les IA récentes se débrouillent souvent très bien sans : essayez d’abord le prompt seul.
+            Consignes de style ajoutées à l’origine. Essayez d’abord sans.
           </p>
           <pre className="prompt-text" lang="fr" tabIndex={0} aria-label="Précisions détaillées">
             {detail}
