@@ -146,6 +146,11 @@ npm run refresh               # normalise / fusionne / valide / génère
 Par source, `refresh` utilise le lot **complet s'il existe**, sinon le pilote (il ré-importe alors automatiquement le même lot depuis le classeur : une modification de l'Excel est donc prise en compte).
 Pour revenir au pilote : supprimer `excel-full.json` (ou `npm run normalize -- --sample`). Le mode utilisé est indiqué dans `SOURCES.md`. Un ré-import dont le contenu est inchangé conserve la date d'import d'origine.
 
+## 7 bis. Composeur de prompt
+
+Page `#/composeur` (menu « Composeur », bouton sur l'accueil, et lien « Modifier ce prompt dans le composeur » sur chaque fiche, qui pré-remplit le prompt de départ). Il suit les **10 blocs** de la feuille « MÉTHODE IMAGE 10 BLOCS » de l'Excel : sujet, action, décor, récit/ambiance, style, lumière, caméra, textures, qualité, exclusions, plus un format (Carré 1:1, Portrait 4:5, Affiche 2:3, Paysage 16:9, Story 9:16).
+Les propositions viennent du classeur (`npm run generate:composer` → `src/data/composer.json`, relancé par `refresh`) : 212 styles groupés par famille, 18 éclairages et 20 effets de mouvement (lignes « Technique »), 41 modèles (« Template »), les 5 groupes d'exclusions de la feuille méthode, les ambiances et époques les plus fréquentes. Aucun champ vide ne produit de texte. Si le prompt de départ contient une variable (`<sujet>`, `[Scene description]`), le sujet la remplace. Sortie : copier ou télécharger `.txt`. Rien n'est envoyé nulle part.
+
 ## 8. Mapping éditorial (corrections persistantes)
 
 `imports/prompt-bible/mapping.json` et `imports/external/mapping.json`, indexés par id de fiche (voir `_exemple` dans ces fichiers) :

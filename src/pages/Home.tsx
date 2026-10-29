@@ -59,6 +59,9 @@ export function Home() {
           <a className="btn btn--outline" href={href('bibliotheque')}>
             Toute la bibliothèque ({entries.length})
           </a>
+          <a className="btn btn--outline" href={href('composeur')}>
+            Composer un prompt
+          </a>
           <button type="button" className="btn btn--outline" onClick={surprise} disabled={entries.length === 0}>
             Surprends-moi
           </button>

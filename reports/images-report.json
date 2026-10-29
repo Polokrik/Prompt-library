@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T19:39:56.593Z",
+  "generatedAt": "2026-10-29T09:16:34.462Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -11,11 +11,13 @@
       "quality": 82
     }
   },
-  "sourcesFound": 0,
+  "sourcesFound": 1,
   "processed": [],
-  "skippedUnchanged": [],
+  "skippedUnchanged": [
+    "ext-104"
+  ],
   "invalid": [],
-  "absentForKnownEntries": 1554,
+  "absentForKnownEntries": 1553,
   "absentSample": [
     "ENT-VNHZB48D",
     "ENT-348NIYT0",
@@ -69,12 +71,7 @@
     "ENT-3V26L5MP"
   ],
   "heavyOutputs": [],
-  "unresolvedSourceFiles": [
-    {
-      "file": "imports/images/OpenAI_ext-104.png",
-      "error": "aucune fiche pour « OpenAI_ext-104 »"
-    }
-  ],
+  "unresolvedSourceFiles": [],
   "warnings": [],
   "notes": []
 }

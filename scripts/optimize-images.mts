@@ -32,6 +32,7 @@ interface SourceFile {
   origin: 'manual' | 'external';
   /** Outil IA lu dans le nom (`ID__Outil.jpg`). */
   tool?: string;
+  rank: number;
 }
 
 async function main() {
@@ -51,21 +52,31 @@ async function main() {
       if (EXTS.includes(path.extname(f).toLowerCase())) candidates.push({ file: path.join(dir, f), origin });
     }
   }
+  const multiple: string[] = [];
   for (const c of candidates) {
-    const { ref, tool } = parseImageStem(path.basename(c.file, path.extname(c.file)));
-    const r = knownIds.size > 0 ? refs.resolve(ref) : { id: safeFileStem(ref) };
+    const parsed = parseImageStem(path.basename(c.file, path.extname(c.file)));
+    let tool = parsed.tool;
+    let r = knownIds.size > 0 ? refs.resolve(parsed.ref) : { id: safeFileStem(parsed.ref) };
+    if ('error' in r && parsed.altRef) {
+      r = refs.resolve(parsed.altRef);
+      // « Outil_ID » : l'outil est le texte avant le dernier tiret bas ; « archive-N-outil » : outil déjà lu.
+      if (!('error' in r) && parsed.altTool) tool = parsed.altTool;
+    }
     if ('error' in r) {
       unresolved.push({ file: rel(c.file, PATHS.root), error: r.error });
       continue;
     }
     const prev = sources.get(r.id);
-    if (prev && prev.origin === c.origin) {
-      warnings.push(`Plusieurs images pour « ${r.id} » : ${rel(prev.file, PATHS.root)} et ${rel(c.file, PATHS.root)} (la première est conservée)`);
-      continue;
+    const next: SourceFile = { id: r.id, file: c.file, origin: c.origin, rank: parsed.rank, ...(tool ? { tool } : {}) };
+    if (prev) {
+      multiple.push(r.id);
+      // Ajout manuel prioritaire ; à origine égale, le rang le plus faible (image n° 1 avant les « archive »).
+      const better = c.origin !== prev.origin ? c.origin === 'manual' : next.rank < prev.rank;
+      if (!better) continue;
     }
-    if (prev) warnings.push(`Plusieurs images pour « ${r.id} » (priorité à l'ajout manuel)`);
-    if (!prev || c.origin === 'manual') sources.set(r.id, { id: r.id, file: c.file, origin: c.origin, ...(tool ? { tool } : {}) });
+    sources.set(r.id, next);
   }
+  if (multiple.length) warnings.push(`${new Set(multiple).size} fiche(s) ont plusieurs images : une seule est utilisée (image n° 1, puis les « archive »).`);
 
   fs.mkdirSync(PATHS.thumbs, { recursive: true });
   fs.mkdirSync(PATHS.large, { recursive: true });

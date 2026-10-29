@@ -24,6 +24,7 @@ export function Layout({ current, children }: { current: string; children: React
         <nav aria-label="Navigation principale">
           <ul>
             <li>{link('bibliotheque', 'Bibliothèque', 'bibliotheque')}</li>
+            <li>{link('composeur', 'Composeur', 'composeur')}</li>
             <li>{link('favoris', `Favoris${favorites.size ? ` (${favorites.size})` : ''}`, 'favoris')}</li>
             <li>{link('a-propos', 'À propos', 'a-propos')}</li>
             {import.meta.env.DEV ? <li>{link('revue', 'Revue (dev)', 'revue')}</li> : null}
