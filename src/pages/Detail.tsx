@@ -3,8 +3,9 @@ import { entries, entriesById } from '../data/index.ts';
 import { Visual } from '../components/Visual.tsx';
 import { StatusBadge } from '../components/StatusBadge.tsx';
 import { CopyButton } from '../components/CopyButton.tsx';
-import { FavoriteButton } from '../components/FavoriteButton.tsx';
+import { PromptBlock } from '../components/PromptBlock.tsx';
 import { PromptGrid } from '../components/PromptGrid.tsx';
+import { mentionsReference, splitPrompt } from '../utils/guide.ts';
 import { relatedEntries } from '../utils/related.ts';
 import { href } from '../utils/router.ts';
 import { KIND_LABELS, LANGUAGE_LABELS, ORIENTATION_LABELS } from '../utils/labels.ts';
@@ -42,19 +43,7 @@ export function Detail({ id, lookup = entriesById }: { id: string; lookup?: Map<
           </p>
           {entry.description ? <p className="lede">{entry.description}</p> : null}
 
-          <section aria-labelledby="prompt-title" className="prompt-block">
-            <h2 id="prompt-title">Prompt</h2>
-            <pre className="prompt-text" lang={entry.language} tabIndex={0} aria-label="Texte du prompt">
-              {entry.prompt}
-            </pre>
-            <div className="prompt-block__actions">
-              <CopyButton text={entry.prompt} accessibleName={`Copier le prompt : ${entry.title}`} />
-              <FavoriteButton id={entry.id} title={entry.title} withLabel />
-            </div>
-            <p className="compose-line">
-              Envie de l’adapter ? <a href={href('composeur', new URLSearchParams({ from: entry.id }))}>Modifier ce prompt dans le composeur →</a>
-            </p>
-          </section>
+          <PromptBlock key={entry.id} entry={entry} />
 
           {variants.length > 0 ? (
             <section aria-labelledby="variants-title">
@@ -147,7 +136,13 @@ export function Detail({ id, lookup = entriesById }: { id: string; lookup?: Map<
               <dt>Langue du prompt</dt>
               <dd>{entry.language ? LANGUAGE_LABELS[entry.language] : 'Non précisée'}</dd>
               <dt>Image de référence</dt>
-              <dd>{entry.requiresReference === true ? 'Oui, le prompt en demande une' : entry.requiresReference === false ? 'Non' : 'Non précisé'}</dd>
+              <dd>{entry.requiresReference === true
+                  ? 'Oui, le prompt en demande une'
+                  : entry.requiresReference === false
+                    ? 'Non'
+                    : mentionsReference(splitPrompt(entry.prompt).base)
+                      ? 'Probablement (détecté dans le texte)'
+                      : 'Non précisé'}</dd>
               {details.map(([k, v]) => (
                 <div key={k} className="facts__row">
                   <dt>{k}</dt>

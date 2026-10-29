@@ -13,6 +13,8 @@ export interface Filters {
   status: StatusFilter;
   reference: '' | 'yes';
   favoritesOnly: boolean;
+  /** Masque les fiches sans image (bibliothèque : activé tant que la personne ne le désactive pas). */
+  imageOnly: boolean;
   sort: SortKey;
 }
 
@@ -25,6 +27,7 @@ export const DEFAULT_FILTERS: Filters = {
   status: 'all',
   reference: '',
   favoritesOnly: false,
+  imageOnly: false,
   sort: 'relevance',
 };
 
@@ -40,6 +43,7 @@ export function applyFilters(
     if (f.language && e.language !== f.language) return false;
     if (f.status !== 'all' && e.status !== f.status) return false;
     if (f.reference === 'yes' && e.requiresReference !== true) return false;
+    if (f.imageOnly && !e.image) return false;
     if (f.favoritesOnly && !favorites.has(e.id)) return false;
     return true;
   });
@@ -86,6 +90,7 @@ export function filtersFromParams(p: URLSearchParams): Filters {
     status: pick(p.get('status'), STATUSES, 'all'),
     reference: pick(p.get('reference'), ['yes'], ''),
     favoritesOnly: p.get('favoritesOnly') === 'true',
+    imageOnly: p.get('imageOnly') === 'true',
     sort: pick(p.get('sort'), SORTS, 'relevance'),
   };
 }

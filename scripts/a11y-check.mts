@@ -42,12 +42,15 @@ async function main() {
     await waitFor(BASE);
     const publicFile = path.join(PATHS.dataDir, 'prompts.public.json');
     const first = (JSON.parse(fs.readFileSync(publicFile, 'utf8')) as { id: string }[])[0]?.id;
-    const routes = ['#/', '#/bibliotheque', '#/bibliotheque?q=photo', '#/favoris', '#/a-propos', '#/composeur', ...(first ? [`#/composeur?from=${first}`] : []), ...(first ? [`#/fiche/${first}`] : [])];
+    const routes = ['#/', '#/bibliotheque', '#/bibliotheque?q=photo', '#/favoris', '#/a-propos', '#/composeur', ...(first ? [`#/composeur?from=${first}`] : []), ...(first ? [`#/fiche/${first}`] : []), '#/fiche/ext-103'];
     const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
     const results: { route: string; scheme: string; viewport: string; violations: unknown[] }[] = [];
     for (const scheme of ['light', 'dark'] as const) {
       for (const viewport of [{ name: 'mobile', width: 375, height: 800 }, { name: 'desktop', width: 1280, height: 900 }]) {
+        // Contexte vierge : la fenêtre de choix du niveau d'aide s'ouvre (contrôlée par axe) ; le thème sombre
+        // reprend avec le niveau « Je découvre » déjà choisi, ce qui affiche le cadre rapide.
         const ctx = await browser.newContext({ colorScheme: scheme, viewport });
+        if (scheme === 'dark') await ctx.addInitScript(() => window.localStorage.setItem('carnet.helpLevel', 'beginner'));
         const page = await ctx.newPage();
         for (const route of routes) {
           await page.goto(`${BASE}${route}`);
