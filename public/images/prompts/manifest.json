@@ -95,6 +95,14 @@
     "largeBytes": 66680,
     "generator": "gpt4o"
   },
+  "ext-19": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "1b36a28758c71607e271525773705843f9a3a62a",
+    "thumbBytes": 27574,
+    "largeBytes": 173756,
+    "generator": "gpt4o"
+  },
   "ext-2": {
     "width": 1000,
     "height": 1000,
@@ -117,6 +125,14 @@
     "sourceHash": "9572f959034b78f5e9ab709d45248029d24866c5",
     "thumbBytes": 32590,
     "largeBytes": 109478,
+    "generator": "gemini"
+  },
+  "ext-22": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "ad16210f090da29b7777ec19f28eec0b4af1171b",
+    "thumbBytes": 19616,
+    "largeBytes": 59624,
     "generator": "gemini"
   },
   "ext-23": {
@@ -240,6 +256,13 @@
     "thumbBytes": 5422,
     "largeBytes": 9002
   },
+  "ext-313": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "7b21a9594c84cad886b7d0b61a8629ad649fb16e",
+    "thumbBytes": 8366,
+    "largeBytes": 18604
+  },
   "ext-314": {
     "width": 512,
     "height": 512,
@@ -304,6 +327,13 @@
     "thumbBytes": 10462,
     "largeBytes": 18158
   },
+  "ext-323": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "15e06e320d89d4e21458d3aa0c212ed331fee95e",
+    "thumbBytes": 20600,
+    "largeBytes": 34484
+  },
   "ext-324": {
     "width": 512,
     "height": 512,
@@ -354,6 +384,13 @@
     "largeBytes": 121242,
     "generator": "gemini"
   },
+  "ext-330": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "7318367f99fe5477b624d28c7f9cc1931f653339",
+    "thumbBytes": 28862,
+    "largeBytes": 50612
+  },
   "ext-331": {
     "width": 512,
     "height": 512,
@@ -367,6 +404,13 @@
     "sourceHash": "466d878a669843e229f852c23e427e594233c127",
     "thumbBytes": 11914,
     "largeBytes": 19688
+  },
+  "ext-333": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "26e748a5bbade13be4c23478603fd392f2307605",
+    "thumbBytes": 7418,
+    "largeBytes": 13972
   },
   "ext-334": {
     "width": 512,
@@ -446,12 +490,40 @@
     "thumbBytes": 19894,
     "largeBytes": 34400
   },
+  "ext-344": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "c838c6ff9c711560060f3049eaff016018d20eb2",
+    "thumbBytes": 56784,
+    "largeBytes": 101226
+  },
+  "ext-345": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "ddec898bc145fae053285ad9b4a5af7ed3cf7d57",
+    "thumbBytes": 29690,
+    "largeBytes": 55696
+  },
   "ext-346": {
     "width": 512,
     "height": 512,
     "sourceHash": "b9c76380e5a56559a3cf84054eea5aea621bc90e",
     "thumbBytes": 41400,
     "largeBytes": 82750
+  },
+  "ext-347": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "1137fd59142abfb47166056484f771fc314bc392",
+    "thumbBytes": 37650,
+    "largeBytes": 72432
+  },
+  "ext-348": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "b0696955b5ca26feda010950aa2247dd827b6878",
+    "thumbBytes": 43446,
+    "largeBytes": 77418
   },
   "ext-349": {
     "width": 512,
@@ -474,6 +546,20 @@
     "sourceHash": "ba35ac71f68f537cd0beedddb8cf9f20f330b263",
     "thumbBytes": 19234,
     "largeBytes": 35112
+  },
+  "ext-351": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "25e657b49cc8247e6b896fa27015401b8b8d9e27",
+    "thumbBytes": 17048,
+    "largeBytes": 37394
+  },
+  "ext-352": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "f58317bdc46d1c87ec67d3ed3465c9c8b1086634",
+    "thumbBytes": 36442,
+    "largeBytes": 67530
   },
   "ext-353": {
     "width": 512,
@@ -510,6 +596,13 @@
     "thumbBytes": 36112,
     "largeBytes": 55800
   },
+  "ext-359": {
+    "width": 512,
+    "height": 491,
+    "sourceHash": "35c7cb78bc8c0b0753c323352feb4d5df73e22a6",
+    "thumbBytes": 11152,
+    "largeBytes": 21374
+  },
   "ext-36": {
     "width": 1000,
     "height": 1000,
@@ -525,12 +618,26 @@
     "thumbBytes": 19780,
     "largeBytes": 35876
   },
+  "ext-361": {
+    "width": 512,
+    "height": 491,
+    "sourceHash": "b0ba1e0c354f80a56a7ee3250f71aa8b7c96f25b",
+    "thumbBytes": 13946,
+    "largeBytes": 25840
+  },
   "ext-362": {
     "width": 512,
     "height": 533,
     "sourceHash": "ed43c53914f01b7870182d06abb7da0542a33205",
     "thumbBytes": 41082,
     "largeBytes": 75862
+  },
+  "ext-363": {
+    "width": 512,
+    "height": 533,
+    "sourceHash": "8fcbd7a0a6c3e8875b4d1f80b934bdd356da9719",
+    "thumbBytes": 7876,
+    "largeBytes": 13446
   },
   "ext-364": {
     "width": 512,
@@ -553,6 +660,20 @@
     "thumbBytes": 18270,
     "largeBytes": 33126
   },
+  "ext-368": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "e0b9adbe29c9fc2c2e0ba9f63d59b8c3a26f6f1c",
+    "thumbBytes": 44794,
+    "largeBytes": 77154
+  },
+  "ext-369": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "25a0d3bca2b7ef3e61834030f8a2f9195e72db83",
+    "thumbBytes": 33802,
+    "largeBytes": 55538
+  },
   "ext-37": {
     "width": 1000,
     "height": 1000,
@@ -567,6 +688,13 @@
     "sourceHash": "3697b173c68f4433c34a210b2106ec9036d546b9",
     "thumbBytes": 25232,
     "largeBytes": 61902
+  },
+  "ext-371": {
+    "width": 627,
+    "height": 627,
+    "sourceHash": "6dda5885fd1060e91c7dbf915fba0b3249fad0b0",
+    "thumbBytes": 8146,
+    "largeBytes": 17412
   },
   "ext-372": {
     "width": 627,
@@ -589,12 +717,33 @@
     "thumbBytes": 21452,
     "largeBytes": 42958
   },
+  "ext-375": {
+    "width": 627,
+    "height": 627,
+    "sourceHash": "fdf43499060831616b66170061b5ba766fe2e2a6",
+    "thumbBytes": 14950,
+    "largeBytes": 36446
+  },
+  "ext-376": {
+    "width": 627,
+    "height": 627,
+    "sourceHash": "5803775343c7d2608b46a44f0d54f318a15c0047",
+    "thumbBytes": 13842,
+    "largeBytes": 31838
+  },
   "ext-377": {
     "width": 627,
     "height": 627,
     "sourceHash": "c7362b9b85782689e5f5e374cd598e992e82f9f5",
     "thumbBytes": 9008,
     "largeBytes": 20016
+  },
+  "ext-378": {
+    "width": 627,
+    "height": 627,
+    "sourceHash": "8e84d4c9508e101322ac01ed01b35300110ef379",
+    "thumbBytes": 45002,
+    "largeBytes": 109058
   },
   "ext-38": {
     "width": 1000,
@@ -682,6 +831,14 @@
     "sourceHash": "2a0c2e97552edd82698998611e65439c67380fda",
     "thumbBytes": 13440,
     "largeBytes": 43208,
+    "generator": "gemini"
+  },
+  "ext-48": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "6c73eefc27988b5553f00346ec27df41d287adf5",
+    "thumbBytes": 14844,
+    "largeBytes": 51162,
     "generator": "gemini"
   },
   "ext-49": {
@@ -967,10 +1124,10 @@
   "ext-80": {
     "width": 1000,
     "height": 1000,
-    "sourceHash": "a39963905d0936b3cf1eb9af2a0b36b3d07af402",
-    "thumbBytes": 10236,
-    "largeBytes": 39368,
-    "generator": "gpt4o"
+    "sourceHash": "a7f7a13eb4aace236ec0ab830ece4c65c61f3c2c",
+    "thumbBytes": 11568,
+    "largeBytes": 37488,
+    "generator": "gemini"
   },
   "ext-81": {
     "width": 1000,
