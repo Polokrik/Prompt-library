@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T14:02:00.560Z",
+  "generatedAt": "2026-10-29T14:29:37.562Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -11,41 +11,9 @@
       "quality": 82
     }
   },
-  "sourcesFound": 946,
+  "sourcesFound": 947,
   "processed": [
-    "ENT-7M1X64BM",
-    "ENT-JINHFHYN",
-    "ENT-MWGRGZKG",
-    "ENT-S91YWLSX",
-    "ENT-VNHZB48D",
-    "ext-101",
-    "ext-102",
-    "ext-106",
-    "ext-107",
-    "ext-108",
-    "ext-109",
-    "ext-110",
-    "ext-112",
-    "ext-113",
-    "ext-114",
-    "ext-115",
-    "ext-116",
-    "ext-117",
-    "ext-118",
-    "ext-120",
-    "ext-122",
-    "ext-123",
-    "ext-124",
-    "ext-126",
-    "ext-127",
-    "ext-128",
-    "ext-130",
-    "ext-132",
-    "ext-133",
-    "ext-134",
-    "ext-135",
-    "ext-136",
-    "ext-137"
+    "ext-125"
   ],
   "skippedUnchanged": [
     "ext-305",
@@ -225,12 +193,45 @@
     "ext-99",
     "ENT-2KVTXUFV",
     "ENT-4R4PLCHM",
+    "ENT-7M1X64BM",
     "ENT-CALDO3XH",
+    "ENT-JINHFHYN",
+    "ENT-MWGRGZKG",
+    "ENT-S91YWLSX",
+    "ENT-VNHZB48D",
+    "ext-101",
+    "ext-102",
+    "ext-106",
+    "ext-107",
+    "ext-108",
+    "ext-109",
+    "ext-110",
     "ext-111",
+    "ext-112",
+    "ext-113",
+    "ext-114",
+    "ext-115",
+    "ext-116",
+    "ext-117",
+    "ext-118",
     "ext-119",
+    "ext-120",
     "ext-121",
+    "ext-122",
+    "ext-123",
+    "ext-124",
+    "ext-126",
+    "ext-127",
+    "ext-128",
     "ext-129",
+    "ext-130",
     "ext-131",
+    "ext-132",
+    "ext-133",
+    "ext-134",
+    "ext-135",
+    "ext-136",
+    "ext-137",
     "ext-138",
     "ext-139",
     "ext-140",
@@ -963,7 +964,7 @@
     "ext-ym-9981"
   ],
   "invalid": [],
-  "absentForKnownEntries": 608,
+  "absentForKnownEntries": 607,
   "absentSample": [
     "ENT-348NIYT0",
     "ENT-22XO7WI9",
@@ -1016,28 +1017,8 @@
     "ENT-CYZWMRTP",
     "ENT-YH48GMW5"
   ],
-  "heavyOutputs": [
-    {
-      "id": "ENT-7M1X64BM",
-      "kind": "thumbnail",
-      "bytes": 182844
-    },
-    {
-      "id": "ENT-7M1X64BM",
-      "kind": "large",
-      "bytes": 696078
-    },
-    {
-      "id": "ext-128",
-      "kind": "large",
-      "bytes": 552648
-    }
-  ],
+  "heavyOutputs": [],
   "unresolvedSourceFiles": [
-    {
-      "file": "imports/images/image2.5_xt-125.webp",
-      "error": "aucune fiche pour « xt-125 »"
-    },
     {
       "file": "imports/images/slide_01.jpg",
       "error": "aucune fiche pour « 01 »"

@@ -910,3 +910,49 @@ ext-ym-34670 | Aquarelle d'un visage de femme aux yeux fermés, au sommet de bâ
 ext-ym-34749 | Illustration d'un homme en costume sombre, cheveux courts, vu de profil, dessiné à l'encre et à l'aquarelle.
 ext-ym-35224 | Une femme souriante en T-shirt « Google Flow », devant un mur de briques, avec le texte « Find your flow. ».
 ext-ym-36152 | Une grenouille en feutrine verte, sac en bandoulière, assise sur un nénuphar au milieu de fleurs de lotus et de galets colorés, au coucher du soleil.
+ENT-2KVTXUFV | Portrait rapproché en noir et blanc d'une jeune femme aux cheveux mouillés, gouttes d'eau sur la peau et le visage, regard vers l'objectif.
+ENT-4R4PLCHM | Affiche de film « Aliens » en style synthwave : une créature extraterrestre assise sur un rocher face à un soleil rose et deux lunes, avec le slogan « Live Laugh Love… » en grosses lettres.
+ENT-7M1X64BM | Visage féminin stylisé formé d'une spirale de Fibonacci en éclats verts translucides, sur fond blanc, avec des feuilles et des filaments dorés.
+ENT-CALDO3XH | Illustration plate sur fond blanc d'ateliers de groupe : de nombreuses personnes autour de tables et de tableaux blancs couverts de notes adhésives, avec des plantes.
+ENT-JINHFHYN | Gros plan photoréaliste d'une créature extraterrestre au long cou, aux yeux verts brillants, à la peau écailleuse ornée de motifs dorés, qui fixe l'objectif.
+ENT-MWGRGZKG | Photo argentique granuleuse d'une vieille Volvo 240 en flammes dans une forêt enneigée, de nuit.
+ENT-S91YWLSX | Logo plat d'une panthère noire allongée sur un trône africain géométrique vert émeraude et bleu azur, dans un médaillon, avec des détails dorés.
+ENT-VNHZB48D | Photo en noir et blanc, style années 1970, d'un panda en veste d'ouvrier et casquette, assis dans un wagon de train et regardant par la fenêtre.
+ext-101 | Photographie éditoriale d'une gourde en cuir brun et laiton avec deux gobelets assortis, sur fond clair, signée de la marque fictive « Golden Polo ».
+ext-102 | Vue subjective d'un jeu de tir futuriste : deux mains tenant un pistolet intelligent à double canon dans une ville cyberpunk de nuit, avec interface de jeu (santé, munitions, alerte).
+ext-106 | Photographie type Polaroid des années 1970 : une jeune femme aux cheveux longs allongée sur un lit, éclairage chaud orangé, cadre blanc de Polaroid.
+ext-107 | Portrait en double exposition : le visage d'une femme fondu dans un paysage de forêt de sapins et de brume au coucher du soleil.
+ext-108 | Portrait cyberpunk à effet glitch : visage de femme aux canaux rouge, vert et bleu décalés, lignes horizontales de distorsion, néons rose et cyan.
+ext-109 | Portrait à l'aquarelle d'une femme, taches et coulures bleues, orange et jaunes sur papier blanc, bords fondus.
+ext-110 | Portrait d'une femme reflété dans un miroir brisé : chaque éclat montre un angle ou une expression différente du visage.
+ext-111 | Portrait en photographie infrarouge : femme aux cheveux longs dans un paysage au feuillage rose pâle presque blanc et au ciel rouge sombre.
+ext-112 | Portrait de mode années 1990 : femme en blazer sombre, cheveux longs, flash direct sur fond blanc uni, pose assise.
+ext-113 | Portrait avec reflets holographiques irisés sur la peau et sur une veste translucide, fond clair.
+ext-114 | Portrait dans le style d'une peinture à l'huile de la Renaissance : femme aux cheveux bruns, drapé rouge et blanc, fond sombre et lumière chaude.
+ext-115 | Figurine kawaii en résine d'un personnage chibi assis sur un croissant de lune et des nuages pastel, avec un chat, décor rose et étoilé.
+ext-116 | Personnage 3D style Pixar : jeune femme aux longs cheveux bouclés, pull crème et jean, assise sur un lit dans une chambre décorée, le menton dans la main.
+ext-117 | Figurine miniature en argile d'une petite créature dragon aux grands yeux turquoise, ornée de feuilles, posée sur un socle de mousse dans un atelier.
+ext-118 | Petit robot compagnon rétro-futuriste crème et cuivre, écran-visage souriant, sur roues, dans un salon aux fenêtres ouvertes sur une ville futuriste.
+ext-119 | Personnage low-poly facetté : une randonneuse avec sac à dos et son chien sur un rocher, face à un lac et des montagnes au coucher du soleil.
+ext-120 | Mascotte 3D d'entreprise : jeune homme souriant en sweat bleu, ordinateur portable sous le bras, une main tendue en geste d'accueil, sur fond blanc.
+ext-121 | Créature fantastique bioluminescente aux longs tentacules violets et bleus lumineux, dans une grotte sombre aux plantes lumineuses.
+ext-122 | Planche de figurine d'action de style anime : guerrière aux cheveux clairs en pleine pose de combat, avec visages, mains et armes interchangeables et support transparent.
+ext-123 | Personnage voxel isométrique : aventurier avec sac à dos et lanterne sur un bloc de terrain avec cascade, panneaux de bois et mousse.
+ext-124 | Statue de jardin d'une femme couverte de mousse, appuyée contre une fontaine dont l'eau coule, entourée de fleurs.
+ext-125 | Affiche Art nouveau « Fleurs de rêve » : jeune femme aux longs cheveux ondulés entourée de lys, cadre ornemental vert et rose.
+ext-126 | Peinture impressionniste d'un étang de nénuphars roses, saule pleureur et lumière dorée au crépuscule.
+ext-127 | Affiche de propagande constructiviste rouge et noire (texte russe « Вместе к новому миру ») : ouvrier devant un engrenage, usines au fond, avec à droite une colonne « Comment remplir votre prompt ? » en cinq étapes numérotées.
+ext-128 | Illustration de conte de fées vintage à l'encre et à l'aquarelle : petite fille en capuchon rouge devant un grand arbre noueux dans une forêt, cadre ornemental doré.
+ext-129 | Nature morte baroque de type vanité : crâne, sablier, bougie éteinte, fleurs fanées, fruits et perles sur une table drapée de velours rouge.
+ext-130 | Planche botanique « Rosa canina » : églantier en fleurs et en fruits avec détails de feuilles, graines et coupes, légendes manuscrites.
+ext-131 | Peinture expressionniste abstraite : larges coups de pinceau et coulures orange, bleu sombre, noir et blanc cassé, matière épaisse.
+ext-132 | Estampe japonaise ukiyo-e : cerisier en fleurs au premier plan, mont Fuji au fond, mer et petit voilier, cartouche de texte en haut à droite.
+ext-133 | Collage dadaïste surréaliste : visage de femme, abeille, œil, avion, formes rouges et fragments de journaux vintage sur fond beige.
+ext-134 | Paysage romantique sublime : petite silhouette en robe rouge sur un rocher face à de grandes montagnes, une vallée brumeuse, un château et un ciel doré orageux.
+ext-135 | Flacon de cosmétique minimaliste en verre dépoli rose pâle, bouchon doré, marque « Lumière », posé sur du marbre avec des feuilles et des pivoines.
+ext-136 | Concept de basket futuriste en tricot dégradé bleu et violet, semelle translucide lumineuse, sur sol reflétant.
+ext-137 | Sachet de granola écoresponsable « Terre Bonne » en papier kraft, entouré d'un bol de fruits, d'avoine, de miel et de plantes.
+ext-138 | Montre connectée élégante à bracelet cuir brun, cadran sombre avec affichages santé, posée sur de la pierre noire avec bracelets de rechange et outil.
+ext-139 | Bouteille de vin rouge au design asymétrique et à l'étiquette crème « Velours », posée sur un bloc de pierre avec une feuille de vigne rouge.
+ext-140 | Planche de présentation d'un mobilier modulaire scandinave : trois configurations (étagère, bureau, séparation), vue éclatée, détails et palette de matériaux et couleurs.
+ext-141 | Packaging de thé premium asiatique : boîte cylindrique ornée d'une peinture de paysage, sceau rouge et idéogrammes, avec théière, tasse, feuilles de thé et étui vert.

@@ -5,8 +5,8 @@
     "url": "https://vincentflibustier.com/imageia/#bibliotheque",
     "count": 1130,
     "byStatus": {
-      "published": 901,
-      "to-test": 229,
+      "published": 939,
+      "to-test": 191,
       "to-confirm": 0,
       "hidden": 0
     },
@@ -17,8 +17,8 @@
     "label": "Prompt Bible",
     "count": 424,
     "byStatus": {
-      "published": 0,
-      "to-test": 66,
+      "published": 8,
+      "to-test": 58,
       "to-confirm": 357,
       "hidden": 1
     },

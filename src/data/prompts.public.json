@@ -33,7 +33,7 @@
     "title": "1970s panda train",
     "prompt": "1970s-style black & white ultra-realistic photo of a panda worker in a train",
     "description": "Scène photographique : panda cheminot dans un train des années 1970.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Photographie",
       "Scène / paysage"
@@ -83,7 +83,16 @@
       "label": "Prompt Bible",
       "originalId": "ENT-VNHZB48D",
       "importedAt": "2026-10-27T15:56:39.064Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ENT-VNHZB48D.webp",
+      "large": "images/prompts/large/ENT-VNHZB48D.webp",
+      "alt": "Photo en noir et blanc, style années 1970, d'un panda en veste d'ouvrier et casquette, assis dans un wagon de train et regardant par la fenêtre.",
+      "width": 1200,
+      "height": 800
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-103",
@@ -109,7 +118,7 @@
     "id": "ext-102",
     "title": "FPS UI Cyberpunk Scene",
     "prompt": "First-person shooter (FPS) perspective of a cybernetic mercenary holding a dual-barreled smart pistol in a dystopian mega-city. HUD elements and text must be legible and non-mirrored. Charge meter reads '100%'. Adrenaline-fueled, chaotic, fast-paced atmosphere. Ocular implant interface with glitch effects. Augmented reality (AR) overlay with scan lines. Robotic prosthetic arm visible in foreground. Chrome and synthetic black skin tone with carbon fiber weave, exposed wiring, neon tubing. Pink and cyan reflections from city lights. First-person view, weapon canted slightly sideways, dynamic movement. Parkour/Wall-running stance. High-velocity action camera angle. Tech-wear jacket sleeve, tactical wrist computer. Experimental Smart Pistol with matte black finish and glowing yellow heat vents. Holographic ammo projection displaying '12/12'. HUD Overlay: Red enemy outlines, Threat detection (center), Mini-map (top right), Health bar (bottom left). Text prompt: 'WARNING: SECTOR 4 LOCKDOWN'. In-game screenshot, Ray-traced Render. First-person POV, high FOV (Field of View). 16:9 aspect ratio. Next-gen graphics, wet surface reflections, chromatic aberration, digital noise. Neon signage (pink, purple, cyan), dark shadows, volumetric fog, wet pavement glare. Motion blur on edges, sharp focus on weapon and immediate target. Rain-slicked rooftop in a Cyberpunk metropolis. Dark concrete and neon. Massive holographic billboards featuring anime girls. Flying cars in traffic lanes below. Dense skyscrapers blocking the sky. Heavy rain falling. Dystopian, gritty, technological noir. Artificial city lights, gloom, lightning flashes.\n\nDIRECTION DÉTAILLÉE — FPS UI Cyberpunk Scene\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nHiérarchie fonctionnelle : Séparer zone de jeu ou contenu principal, commandes et informations secondaires. Utiliser des alignements, espacements et tailles cohérents ; le regard doit reconnaître immédiatement l’action ou l’information prioritaire.\n\nSources colorées : Attribuer à chaque teinte lumineuse une provenance identifiable. Garder les hautes lumières maîtrisées et des zones sombres lisibles ; le glow reste proche des sources et ne doit pas recouvrir tous les contours.\n\nInterface : Définir des groupes, alignements et états de commande cohérents. Donner plus de poids à l’action principale qu’aux informations secondaires. Le texte fourni reste lisible et les surfaces interactives ne se confondent pas avec les décorations.\n\nCohérence du monde : Accorder les matériaux, la palette et les signes graphiques à l’univers décrit. Pour une interface, répéter les mêmes règles de boutons et pictogrammes ; pour un objet de jeu, rendre compréhensibles silhouette, prise en main et assemblage.\n\nLecture finale : Préserver les zones utiles sur les bords et éviter les commandes collées au sujet. Si du texte ou des valeurs sont fournis, les reproduire exactement ; ne pas ajouter de fausse télémétrie ni de microtexte illisible.\n\nHiérarchie des détails : Répartir les détails en trois niveaux : silhouette lisible de loin, caractéristiques utiles à taille normale, microtexture visible de près. Réserver les contrastes les plus forts aux informations importantes et alléger les zones secondaires.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Jeux & interfaces"
     ],
@@ -123,13 +132,22 @@
       "author": "@fofr",
       "originalUrl": "https://gist.github.com/fofr/eec0dae326243321c645aceba28c6119",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-102.webp",
+      "large": "images/prompts/large/ext-102.webp",
+      "alt": "Vue subjective d'un jeu de tir futuriste : deux mains tenant un pistolet intelligent à double canon dans une ville cyberpunk de nuit, avec interface de jeu (santé, munitions, alerte).",
+      "width": 1200,
+      "height": 675
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-101",
     "title": "Luxury Brand Concept Product",
     "prompt": "[BRAND NAME]:\nA high-end, glossy concept art magazine editorial photograph of a unique, unexpected functional object conceptualized and designed by the brand.\n\n**1. The Concept & Object (AI Invention):**\nBased on the design philosophy, heritage, and material vocabulary of the specified brand, the AI must invent a novel utility product (NOT standard clothing, shoes, or bags). Examples could be home goods, tech accessories, tools, or sporting equipment, reinterpretated through the brand's lens. The object should feel sculptural yet functional.\n\n**2. Materials & Details (Hyper-Premium):**\nThe object is constructed from ultra-premium, highly tactile materials characteristic of the brand (e.g., patinated exotic leathers, brushed aerospace-grade titanium, sculpted matte ceramics, molded carbon fiber, or technical high-fashion textiles). Every detail is hyper-realistic: visible stitching, microscopic material grain, precision engravings, and complex texture contrasts.\n\n**3. Photography & Lighting (Cinematic Studio):**\nShot on a medium format Phase One camera with a 100mm macro lens. Extremely shallow depth of field, with sharp focus on the hero details of the object and a creamy, smooth bokeh background. The lighting is sophisticated studio softbox lighting: gentle, enveloping fill light with precise rim lighting to accentuate contours and material textures.\n\n**4. Environment:**\nA seamless, impeccably clean studio cyclorama background in a pure, ultra-light pastel tone (e.g., desaturated mint, pale blush, or off-white), free of shadows.\n\n**5. Layout & UI Elements (Strict Placement):**\n- **Bottom Right Corner:** A small, understated, monochrome gray logo of the brand.\n- **Bottom Left Corner:** Small, minimalist monochrome gray text describing the invented product. The font style looks like Manrope Regular with very tight tracking (kerning) and balanced line spacing. Example format: \"CONCEPT STUDY: [AI inserts invented product name]. MATERIAL: [AI inserts main materials]. SS25.\"\n\nDIRECTION DÉTAILLÉE — Luxury Brand Concept Product\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSystème graphique : Utiliser une grille, des alignements et des marges communs. Distinguer signe principal, nom et informations secondaires. Garder des espacements réguliers et une silhouette de marque lisible en petit, sans ajouter de symboles concurrents.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n\nDéclinaisons : Si plusieurs supports sont demandés, répéter les mêmes proportions du signe, couleurs et règles typographiques. Adapter la surface imprimée à chaque support ; distinguer le graphisme plat de la perspective du mockup.\n\nLisibilité : Reproduire exactement les mots fournis. Préserver les contreformes, accents et espacements. Ne pas inventer de promesse commerciale, certification ou label ; les petits textes manquants restent des zones de mise en page.\n\nHiérarchie des détails : Répartir les détails en trois niveaux : silhouette lisible de loin, caractéristiques utiles à taille normale, microtexture visible de près. Réserver les contrastes les plus forts aux informations importantes et alléger les zones secondaires.\n\nBords et superpositions : Contrôler chaque chevauchement : l’élément situé devant masque correctement celui qui est derrière. Les contours ne doivent pas se fondre involontairement ; préserver les petits espaces négatifs qui aident à comprendre les formes.\n\nProportions : Vérifier les rapports de taille entre sujet, accessoires et environnement. Les changements de profondeur expliquent les différences de taille ; éviter des éléments secondaires anormalement grands ou des détails sans épaisseur.\n\nCohérence chromatique : Utiliser la palette indiquée dans le brief avec des variations de valeur et de saturation. Éviter d’introduire une couleur dominante supplémentaire ; les accents servent à distinguer le sujet ou une information précise.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Identité visuelle"
     ],
@@ -142,7 +160,16 @@
       "originalId": "101",
       "author": "User Provided",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-101.webp",
+      "large": "images/prompts/large/ext-101.webp",
+      "alt": "Photographie éditoriale d'une gourde en cuir brun et laiton avec deux gobelets assortis, sur fond clair, signée de la marque fictive « Golden Polo ».",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-100",
@@ -260,7 +287,7 @@
     "id": "ENT-S91YWLSX",
     "title": "African throne logo",
     "prompt": "an african throne as a flat logo with dark emerald and light azure color, black panther reference",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design graphique",
       "Logo / identité"
@@ -297,7 +324,16 @@
       "label": "Prompt Bible",
       "originalId": "ENT-S91YWLSX",
       "importedAt": "2026-10-27T15:56:39.064Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ENT-S91YWLSX.webp",
+      "large": "images/prompts/large/ENT-S91YWLSX.webp",
+      "alt": "Logo plat d'une panthère noire allongée sur un trône africain géométrique vert émeraude et bleu azur, dans un médaillon, avec des détails dorés.",
+      "width": 1200,
+      "height": 1200
+    },
+    "generator": "image2.5",
+    "orientation": "square"
   },
   {
     "id": "ext-96",
@@ -387,7 +423,7 @@
     "id": "ENT-7M1X64BM",
     "title": "AI Fibonacci spiral",
     "prompt": "A dark vibrant Fibonacci spiral made of tessellating green translucent pixels forming beautiful face of artificial intelligence, mesmerizing and fascinating, surreal, abstract, psychedelic, intense interplay of light and shadows, in the style of android jones, grzegorz domaradzki and alena aenami, 8k —ar 9:16 —v 5.2 —s 250, Broken Glass effect, no background, stunning, something that even doesn’t exist, mythical being, energy, molecular, textures, iridescent and luminescent scales, breathtaking beauty, pure perfection, divine presence, unforgettable, impressive, breathtaking beauty, Volumetric light, auras, rays, vivid colors reflects",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Mixte / expérimental"
     ],
@@ -425,7 +461,15 @@
       "label": "Prompt Bible",
       "originalId": "ENT-7M1X64BM",
       "importedAt": "2026-10-27T15:56:39.064Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ENT-7M1X64BM.webp",
+      "large": "images/prompts/large/ENT-7M1X64BM.webp",
+      "alt": "Visage féminin stylisé formé d'une spirale de Fibonacci en éclats verts translucides, sur fond blanc, avec des feuilles et des filaments dorés.",
+      "width": 941,
+      "height": 1672
+    },
+    "generator": "image2.5"
   },
   {
     "id": "ext-93",
@@ -655,7 +699,7 @@
     "id": "ENT-JINHFHYN",
     "title": "Alien photoreal",
     "prompt": "Photorealistic, detailed, insect-like alien with a long neck… staring into camera",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Photographie"
     ],
@@ -689,7 +733,16 @@
       "label": "Prompt Bible",
       "originalId": "ENT-JINHFHYN",
       "importedAt": "2026-10-27T15:56:39.064Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ENT-JINHFHYN.webp",
+      "large": "images/prompts/large/ENT-JINHFHYN.webp",
+      "alt": "Gros plan photoréaliste d'une créature extraterrestre au long cou, aux yeux verts brillants, à la peau écailleuse ornée de motifs dorés, qui fixe l'objectif.",
+      "width": 1024,
+      "height": 1536
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-85",
@@ -779,7 +832,7 @@
     "id": "ENT-4R4PLCHM",
     "title": "Aliens poster",
     "prompt": "Movie poster for Aliens with text LIVE LAUGH LOVE… Moebius and synthwave, typography, cinematic",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design graphique",
       "Affiche / éditorial"
@@ -814,7 +867,16 @@
       "label": "Prompt Bible",
       "originalId": "ENT-4R4PLCHM",
       "importedAt": "2026-10-27T15:56:39.064Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ENT-4R4PLCHM.webp",
+      "large": "images/prompts/large/ENT-4R4PLCHM.webp",
+      "alt": "Affiche de film « Aliens » en style synthwave : une créature extraterrestre assise sur un rocher face à un soleil rose et deux lunes, avec le slogan « Live Laugh Love… » en grosses lettres.",
+      "width": 1024,
+      "height": 1536
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-82",
@@ -2662,7 +2724,7 @@
     "id": "ENT-CALDO3XH",
     "title": "Big tech illustration",
     "prompt": "big tech crée une ambiance avec de nombreuses personnes png white background, group training and workshops, in the style of big tech illustrations, office atmosphere, full body, text-based --style raw",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design graphique"
     ],
@@ -2698,7 +2760,16 @@
       "label": "Prompt Bible",
       "originalId": "ENT-CALDO3XH",
       "importedAt": "2026-10-27T15:56:39.064Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ENT-CALDO3XH.webp",
+      "large": "images/prompts/large/ENT-CALDO3XH.webp",
+      "alt": "Illustration plate sur fond blanc d'ateliers de groupe : de nombreuses personnes autour de tables et de tableaux blancs couverts de notes adhésives, avec des plantes.",
+      "width": 1200,
+      "height": 800
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-16",
@@ -3152,7 +3223,7 @@
     "id": "ENT-MWGRGZKG",
     "title": "Burning Volvo photo",
     "prompt": "Cinematic, grainy analog photo of a burning volvo 240 in the forest, night winter",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Photographie"
     ],
@@ -3188,7 +3259,15 @@
       "label": "Prompt Bible",
       "originalId": "ENT-MWGRGZKG",
       "importedAt": "2026-10-27T15:56:39.064Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ENT-MWGRGZKG.webp",
+      "large": "images/prompts/large/ENT-MWGRGZKG.webp",
+      "alt": "Photo argentique granuleuse d'une vieille Volvo 240 en flammes dans une forêt enneigée, de nuit.",
+      "width": 1200,
+      "height": 675
+    },
+    "generator": "image2.5"
   },
   {
     "id": "ext-105",
@@ -3213,7 +3292,7 @@
     "id": "ext-106",
     "title": "Portrait rétro Polaroid années 70",
     "prompt": "Vintage Polaroid photograph from the 1970s. Slightly overexposed with warm orange and yellow color cast. White Polaroid frame visible. Subject in retro clothing with period-accurate hairstyle. Soft focus, slight motion blur. Authentic film grain and light leaks. The characteristic Polaroid color palette with faded blacks and creamy highlights. Nostalgic summer afternoon feeling.\n\nDIRECTION DÉTAILLÉE — Portrait rétro Polaroid années 70\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nCaractère analogique : Adapter le grain, les couleurs et les petites imperfections au procédé demandé. Les défauts restent mesurés et ne doivent pas effacer le sujet ; éviter les poussières, rayures et fuites de lumière ajoutées partout sans logique.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3226,13 +3305,22 @@
       "originalId": "106",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-106.webp",
+      "large": "images/prompts/large/ext-106.webp",
+      "alt": "Photographie type Polaroid des années 1970 : une jeune femme aux cheveux longs allongée sur un lit, éclairage chaud orangé, cadre blanc de Polaroid.",
+      "width": 1144,
+      "height": 1375
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-107",
     "title": "Portrait double exposition artistique",
     "prompt": "Artistic double exposure portrait combining a human face with a forest landscape. The trees and foliage blend seamlessly into the subject's silhouette. Ethereal and dreamlike quality. Soft pastel colors transitioning from deep greens to warm sunset oranges. The subject's eyes remain sharp and visible through the overlay. Fine art photography style, gallery-worthy composition.\n\nDIRECTION DÉTAILLÉE — Portrait double exposition artistique\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3245,13 +3333,22 @@
       "originalId": "107",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-107.webp",
+      "large": "images/prompts/large/ext-107.webp",
+      "alt": "Portrait en double exposition : le visage d'une femme fondu dans un paysage de forêt de sapins et de brume au coucher du soleil.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-108",
     "title": "Portrait effet glitch cyberpunk",
     "prompt": "Cyberpunk glitch art portrait with RGB color channel separation. Digital distortion effects creating horizontal scan lines and pixel displacement. Neon pink and cyan color palette against dark background. The subject's face fragmented by glitch artifacts. VHS tracking errors and static noise overlay. Retro-futuristic aesthetic mixing analog and digital corruption.\n\nDIRECTION DÉTAILLÉE — Portrait effet glitch cyberpunk\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nSources colorées : Attribuer à chaque teinte lumineuse une provenance identifiable. Garder les hautes lumières maîtrisées et des zones sombres lisibles ; le glow reste proche des sources et ne doit pas recouvrir tous les contours.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3264,13 +3361,22 @@
       "originalId": "108",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-108.webp",
+      "large": "images/prompts/large/ext-108.webp",
+      "alt": "Portrait cyberpunk à effet glitch : visage de femme aux canaux rouge, vert et bleu décalés, lignes horizontales de distorsion, néons rose et cyan.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-109",
     "title": "Portrait aquarelle fluide",
     "prompt": "Watercolor portrait where the paint appears to be still wet and flowing. Soft edges bleeding into the white paper background. Vibrant pigments pooling in organic patterns. The face emerges from abstract color splashes. Visible brush strokes and water blooms. Traditional watercolor paper texture. Colors include ultramarine blue, burnt sienna, and cadmium yellow.\n\nDIRECTION DÉTAILLÉE — Portrait aquarelle fluide\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nPigments et eau : Alterner lavis transparents, bords diffus et quelques contours plus nets. Montrer de légères accumulations de pigment et réserver le blanc du papier pour les lumières ; éviter un flou uniforme qui efface le dessin.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3283,13 +3389,22 @@
       "originalId": "109",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-109.webp",
+      "large": "images/prompts/large/ext-109.webp",
+      "alt": "Portrait à l'aquarelle d'une femme, taches et coulures bleues, orange et jaunes sur papier blanc, bords fondus.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-110",
     "title": "Portrait effet miroir brisé",
     "prompt": "Portrait reflected in a shattered mirror, each fragment showing a different angle or expression of the subject. Dramatic lighting creating sharp reflections on glass edges. Some fragments missing, revealing darkness behind. Metaphorical representation of identity and perception. High contrast, moody atmosphere. Shot with shallow depth of field.\n\nDIRECTION DÉTAILLÉE — Portrait effet miroir brisé\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3302,13 +3417,22 @@
       "originalId": "110",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-110.webp",
+      "large": "images/prompts/large/ext-110.webp",
+      "alt": "Portrait d'une femme reflété dans un miroir brisé : chaque éclat montre un angle ou une expression différente du visage.",
+      "width": 1024,
+      "height": 1536
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ENT-2KVTXUFV",
     "title": "BW portrait face",
     "prompt": "contrast close portrait of my face… black and white closeup, water droplets, wet hair, ratio 4:3",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Photographie",
       "Portrait"
@@ -3342,13 +3466,22 @@
       "label": "Prompt Bible",
       "originalId": "ENT-2KVTXUFV",
       "importedAt": "2026-10-27T15:56:39.064Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ENT-2KVTXUFV.webp",
+      "large": "images/prompts/large/ENT-2KVTXUFV.webp",
+      "alt": "Portrait rapproché en noir et blanc d'une jeune femme aux cheveux mouillés, gouttes d'eau sur la peau et le visage, regard vers l'objectif.",
+      "width": 1200,
+      "height": 900
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-111",
     "title": "Portrait infrarouge surréaliste",
     "prompt": "Infrared photography portrait with characteristic white foliage and dark skies. The subject's skin appears smooth and ethereal. Trees and grass rendered in bright white and pink tones. Deep red-black sky creating dramatic contrast. Dreamlike, otherworldly atmosphere. Shot with infrared-converted camera, 720nm filter effect.\n\nDIRECTION DÉTAILLÉE — Portrait infrarouge surréaliste\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nEffet et exposition : Appliquer l’effet de manière localisée et cohérente avec la scène. Garder des transitions lisibles entre lumières et ombres, des reflets orientés correctement et des couleurs de peau ou de matière compatibles avec l’éclairage demandé.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3361,13 +3494,22 @@
       "originalId": "111",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-111.webp",
+      "large": "images/prompts/large/ext-111.webp",
+      "alt": "Portrait en photographie infrarouge : femme aux cheveux longs dans un paysage au feuillage rose pâle presque blanc et au ciel rouge sombre.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-112",
     "title": "Portrait style magazine de mode années 90",
     "prompt": "High fashion editorial portrait in 1990s magazine style. Direct flash photography with harsh shadows. Minimal makeup, natural skin texture visible. Subject wearing oversized blazer with nothing underneath. Neutral expression, direct eye contact. White seamless background. Shot on medium format film, slight color shift. Inspired by Juergen Teller and Corinne Day aesthetic.\n\nDIRECTION DÉTAILLÉE — Portrait style magazine de mode années 90\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.\n\nHiérarchie éditoriale : Faire lire d’abord le titre exact demandé, puis le sujet, puis les informations secondaires prévues. Préserver les bords de coupe et les espaces de respiration. Éviter les faux crédits, les dates ou les logos ajoutés automatiquement.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3380,13 +3522,22 @@
       "originalId": "112",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-112.webp",
+      "large": "images/prompts/large/ext-112.webp",
+      "alt": "Portrait de mode années 1990 : femme en blazer sombre, cheveux longs, flash direct sur fond blanc uni, pose assise.",
+      "width": 1200,
+      "height": 800
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-113",
     "title": "Portrait holographique iridescent",
     "prompt": "Portrait with holographic iridescent effect across the skin and clothing. Rainbow light refractions creating prismatic patterns. The subject appears to shimmer with opalescent colors. Futuristic beauty aesthetic. Clean white background to emphasize the color play. Sharp focus on facial features with soft holographic glow around edges.\n\nDIRECTION DÉTAILLÉE — Portrait holographique iridescent\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nCouleur selon l’angle : Faire évoluer subtilement la couleur le long des courbures en fonction de l’incidence de lumière. Conserver une base lisible et des zones calmes ; éviter un dégradé arc-en-ciel identique sur toutes les surfaces.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3399,13 +3550,22 @@
       "originalId": "113",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-113.webp",
+      "large": "images/prompts/large/ext-113.webp",
+      "alt": "Portrait avec reflets holographiques irisés sur la peau et sur une veste translucide, fond clair.",
+      "width": 1200,
+      "height": 800
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-114",
     "title": "Portrait effet peinture à l'huile Renaissance",
     "prompt": "Portrait transformed into a Renaissance oil painting style. Rich, warm color palette with deep shadows and luminous highlights. Visible brush strokes mimicking Old Masters technique. Chiaroscuro lighting reminiscent of Rembrandt. Craquelure texture suggesting aged canvas. The subject posed in three-quarter view with contemplative expression. Dark, neutral background.\n\nDIRECTION DÉTAILLÉE — Portrait effet peinture à l'huile Renaissance\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSujet et netteté : Choisir la zone réellement nette et laisser les autres plans se dégrader progressivement. Préserver les traits du sujet et une texture de peau ou de surface crédible ; l’effet photographique ne doit pas effacer les informations importantes.\n\nPeinture : Construire les volumes par des valeurs et touches cohérentes avec leur orientation. Montrer des passages plus fins dans les ombres et une matière plus présente sur certains accents lumineux, sans plaquer une texture de toile sur les détails du sujet.\n\nVisage : Préserver les proportions, l’expression et les traits distinctifs du visage de référence. Rendre les yeux et leur orientation cohérents, conserver des textures naturelles et éviter les dents, doigts ou contours d’oreille déformés.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Effets photo"
     ],
@@ -3418,13 +3578,22 @@
       "originalId": "114",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-114.webp",
+      "large": "images/prompts/large/ext-114.webp",
+      "alt": "Portrait dans le style d'une peinture à l'huile de la Renaissance : femme aux cheveux bruns, drapé rouge et blanc, fond sombre et lumière chaude.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-115",
     "title": "Figurine Chibi kawaii en résine",
     "prompt": "Adorable chibi-style resin figurine of a character with oversized head and tiny body. Glossy finish with subtle pearlescent sheen. Pastel color palette - soft pink, mint green, and lavender. Large sparkling eyes with star-shaped highlights. The figure stands on a small cloud-shaped base. Professional product photography with soft studio lighting. 4K detail showing the smooth resin surface.\n\nDIRECTION DÉTAILLÉE — Figurine Chibi kawaii en résine\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nPersonnage miniature : Conserver une silhouette immédiatement identifiable malgré la simplification. Distinguer vêtements, visage et accessoires par des formes nettes ; les petits éléments gardent une épaisseur de fabrication plausible et ne fusionnent pas avec le corps.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3437,13 +3606,22 @@
       "originalId": "115",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-115.webp",
+      "large": "images/prompts/large/ext-115.webp",
+      "alt": "Figurine kawaii en résine d'un personnage chibi assis sur un croissant de lune et des nuages pastel, avec un chat, décor rose et étoilé.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-116",
     "title": "Personnage 3D style Pixar",
     "prompt": "3D rendered character in Pixar animation style. Expressive cartoon proportions with slightly oversized head and eyes. Subsurface scattering on skin for realistic glow. Detailed fabric simulation on clothing with visible thread texture. Warm, appealing color palette. The character shows a genuine smile with subtle asymmetry. Soft ambient occlusion and global illumination. Rendered in Octane or similar path tracer.\n\nDIRECTION DÉTAILLÉE — Personnage 3D style Pixar\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.\n\nMise en scène : Conserver une marge autour des parties importantes du personnage. Séparer les plans par le contraste et la netteté, en faisant passer le visage avant les détails du décor. Si une référence est fournie, préserver ses traits distinctifs.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3456,13 +3634,22 @@
       "originalId": "116",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-116.webp",
+      "large": "images/prompts/large/ext-116.webp",
+      "alt": "Personnage 3D style Pixar : jeune femme aux longs cheveux bouclés, pull crème et jean, assise sur un lit dans une chambre décorée, le menton dans la main.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-117",
     "title": "Sculpture miniature fantasy en argile",
     "prompt": "Handcrafted polymer clay miniature of a fantasy creature. Visible fingerprint textures and tool marks showing artisan craftsmanship. Intricate details painted with fine brushes - tiny scales, fur texture, and gem-like eyes. The creature sits on a naturalistic base with miniature mushrooms and moss. Macro photography revealing every detail. Warm workshop lighting.\n\nDIRECTION DÉTAILLÉE — Sculpture miniature fantasy en argile\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nFaçonnage : Montrer une légère variation d’épaisseur et des traces manuelles mesurées. Adapter la brillance à la finition explicitement demandée ; garder les raccords, creux et arêtes perceptibles sans rendre la matière molle ou fondue.\n\nÉchelle miniature : Conserver une direction de projection commune et une échelle constante entre objets. Faire lire le support et la séparation des plans ; garder les petits détails suffisamment simples pour éviter un effet de maquette brouillée.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3475,13 +3662,22 @@
       "originalId": "117",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-117.webp",
+      "large": "images/prompts/large/ext-117.webp",
+      "alt": "Figurine miniature en argile d'une petite créature dragon aux grands yeux turquoise, ornée de feuilles, posée sur un socle de mousse dans un atelier.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-118",
     "title": "Robot companion style rétro-futuriste",
     "prompt": "Retro-futuristic companion robot design inspired by 1950s science fiction. Rounded, friendly forms in cream white and chrome. Vacuum tube displays showing simple emoticon expressions. Riveted metal panels and art deco styling. Small antenna and spinning radar dish. The robot has wheeled base and articulated arms. Rendered with realistic metal materials and subtle wear.\n\nDIRECTION DÉTAILLÉE — Robot companion style rétro-futuriste\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nCaractère analogique : Adapter le grain, les couleurs et les petites imperfections au procédé demandé. Les défauts restent mesurés et ne doivent pas effacer le sujet ; éviter les poussières, rayures et fuites de lumière ajoutées partout sans logique.\n\nAssemblage mécanique : Donner une logique aux axes, articulations et raccords. Les pièces conservent leur épaisseur et leur échelle ; limiter les engrenages décoratifs qui ne sont reliés à aucun mouvement ou support.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3494,13 +3690,22 @@
       "originalId": "118",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-118.webp",
+      "large": "images/prompts/large/ext-118.webp",
+      "alt": "Petit robot compagnon rétro-futuriste crème et cuivre, écran-visage souriant, sur roues, dans un salon aux fenêtres ouvertes sur une ville futuriste.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-119",
     "title": "Personnage low-poly stylisé",
     "prompt": "Stylized low-poly 3D character with flat-shaded triangular faces. Bold, saturated colors with no textures - pure geometric forms. The character has a distinctive silhouette recognizable even as simple shapes. Inspired by Monument Valley and Firewatch art direction. Soft gradient background complementing the character colors. Clean, minimalist aesthetic.\n\nDIRECTION DÉTAILLÉE — Personnage low-poly stylisé\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nGéométrie : Hiérarchiser quelques formes simples, avec des angles et proportions cohérents. Réserver les petites facettes ou les accents géométriques au point focal ; ne pas multiplier les subdivisions sans améliorer la lecture.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3513,13 +3718,22 @@
       "originalId": "119",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-119.webp",
+      "large": "images/prompts/large/ext-119.webp",
+      "alt": "Personnage low-poly facetté : une randonneuse avec sac à dos et son chien sur un rocher, face à un lac et des montagnes au coucher du soleil.",
+      "width": 1024,
+      "height": 1536
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-120",
     "title": "Mascotte corporate 3D moderne",
     "prompt": "Modern 3D corporate mascot character with friendly, approachable design. Smooth, rounded forms suggesting reliability and innovation. Brand colors integrated naturally into the character design. Simple but expressive face with dot eyes and curved smile. The character performs a welcoming gesture. Clean white studio background. Professional product visualization quality.\n\nDIRECTION DÉTAILLÉE — Mascotte corporate 3D moderne\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nPersonnage miniature : Conserver une silhouette immédiatement identifiable malgré la simplification. Distinguer vêtements, visage et accessoires par des formes nettes ; les petits éléments gardent une épaisseur de fabrication plausible et ne fusionnent pas avec le corps.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3532,13 +3746,22 @@
       "originalId": "120",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-120.webp",
+      "large": "images/prompts/large/ext-120.webp",
+      "alt": "Mascotte 3D d'entreprise : jeune homme souriant en sweat bleu, ordinateur portable sous le bras, une main tendue en geste d'accueil, sur fond blanc.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-121",
     "title": "Créature fantastique bioluminescente",
     "prompt": "Fantastical bioluminescent creature design for a fantasy world. Organic, flowing forms with glowing patterns under translucent skin. Deep sea inspiration mixed with alien aesthetics. Multiple eyes arranged in unusual patterns. Tentacles or appendages with delicate, feathery details. The creature emits soft blue and purple light in darkness. Rendered with volumetric lighting and subsurface scattering.\n\nDIRECTION DÉTAILLÉE — Créature fantastique bioluminescente\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nÉmission lumineuse : Limiter la lumière émise aux organismes ou surfaces prévus. Montrer sa faible influence sur les objets proches et préserver des zones d’ombre ; éviter une scène entièrement fluorescente sans hiérarchie.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3551,13 +3774,22 @@
       "originalId": "121",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-121.webp",
+      "large": "images/prompts/large/ext-121.webp",
+      "alt": "Créature fantastique bioluminescente aux longs tentacules violets et bleus lumineux, dans une grotte sombre aux plantes lumineuses.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-122",
     "title": "Figurine articulée style anime",
     "prompt": "High-end anime figure collectible with multiple points of articulation. Dynamic action pose captured mid-movement. Flowing hair and clothing sculpted to suggest motion. Metallic and matte finish combinations. Detailed accessories and interchangeable parts visible. Professional figure photography with dramatic lighting. Based on popular anime aesthetic but original character design.\n\nDIRECTION DÉTAILLÉE — Figurine articulée style anime\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nPersonnage miniature : Conserver une silhouette immédiatement identifiable malgré la simplification. Distinguer vêtements, visage et accessoires par des formes nettes ; les petits éléments gardent une épaisseur de fabrication plausible et ne fusionnent pas avec le corps.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3570,13 +3802,22 @@
       "originalId": "122",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-122.webp",
+      "large": "images/prompts/large/ext-122.webp",
+      "alt": "Planche de figurine d'action de style anime : guerrière aux cheveux clairs en pleine pose de combat, avec visages, mains et armes interchangeables et support transparent.",
+      "width": 1200,
+      "height": 800
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-123",
     "title": "Personnage voxel art isométrique",
     "prompt": "Voxel art character rendered in isometric view. Chunky, cubic aesthetic reminiscent of Minecraft but with more detail. Limited color palette creating cohesive look. The character has recognizable profession or role through costume details. Small environmental voxels around the base. Soft shadows and ambient occlusion. Perfect for game asset or NFT collection.\n\nDIRECTION DÉTAILLÉE — Personnage voxel art isométrique\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nGrille : Respecter une unité graphique régulière et une palette resserrée. Construire les diagonales de façon intentionnelle, sans mélanger pixels nets et contours floutés. Pour une série, garder la même échelle et les mêmes repères d’une vignette à l’autre.\n\nÉchelle miniature : Conserver une direction de projection commune et une échelle constante entre objets. Faire lire le support et la séparation des plans ; garder les petits détails suffisamment simples pour éviter un effet de maquette brouillée.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3589,13 +3830,22 @@
       "originalId": "123",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-123.webp",
+      "large": "images/prompts/large/ext-123.webp",
+      "alt": "Personnage voxel isométrique : aventurier avec sac à dos et lanterne sur un bloc de terrain avec cascade, panneaux de bois et mousse.",
+      "width": 1200,
+      "height": 1200
+    },
+    "generator": "image2.5",
+    "orientation": "square"
   },
   {
     "id": "ext-124",
     "title": "Statue de jardin fantaisiste",
     "prompt": "Whimsical garden statue design of a mythical creature. Weathered stone or bronze patina texture. Moss and lichen growing in crevices suggesting age. The creature has a playful, mischievous expression. Water feature integrated - perhaps water flowing from mouth or hands. Photographed in actual garden setting with soft natural light filtering through leaves.\n\nDIRECTION DÉTAILLÉE — Statue de jardin fantaisiste\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nSilhouette et pose : Séparer clairement la tête, le torse et les membres par leur silhouette. Donner au personnage une posture stable et une expression intentionnelle ; les accessoires doivent rester reconnaissables sans masquer le visage. Respecter les proportions du style demandé.\n\nVégétation : Varier orientation et taille des feuilles, tout en gardant des attaches compréhensibles aux tiges ou branches. Distinguer premier plan et arrière-plan par la précision ; les nervures et les pétales ne doivent pas se répéter mécaniquement.\n\nVolume et contact : Montrer les points d’appui, les jonctions des vêtements et l’épaisseur des petits accessoires. Les ombres de contact relient les pièces au corps et le personnage à son support ; éviter les membres fusionnés et les éléments flottants accidentels.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Personnages & 3D"
     ],
@@ -3608,13 +3858,22 @@
       "originalId": "124",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-124.webp",
+      "large": "images/prompts/large/ext-124.webp",
+      "alt": "Statue de jardin d'une femme couverte de mousse, appuyée contre une fontaine dont l'eau coule, entourée de fleurs.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-125",
     "title": "Illustration Art Nouveau florale",
     "prompt": "Art Nouveau illustration with flowing organic lines and floral motifs. A female figure integrated with decorative plant forms. Muted color palette of sage green, dusty rose, and gold accents. Ornate border design with symmetrical patterns. Inspired by Alphonse Mucha's poster art. Visible as vintage lithograph print with slight paper texture. Elegant typography integrated into the composition.\n\nDIRECTION DÉTAILLÉE — Illustration Art Nouveau florale\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nVégétation : Varier orientation et taille des feuilles, tout en gardant des attaches compréhensibles aux tiges ou branches. Distinguer premier plan et arrière-plan par la précision ; les nervures et les pétales ne doivent pas se répéter mécaniquement.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3627,13 +3886,22 @@
       "originalId": "125",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-125.webp",
+      "large": "images/prompts/large/ext-125.webp",
+      "alt": "Affiche Art nouveau « Fleurs de rêve » : jeune femme aux longs cheveux ondulés entourée de lys, cadre ornemental vert et rose.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-126",
     "title": "Paysage impressionniste style Monet",
     "prompt": "Impressionist landscape painting in the style of Claude Monet. Visible brushstrokes capturing light and atmosphere. Water lilies floating on a pond with reflections of willow trees. Soft, diffused light of late afternoon. Color palette of greens, blues, and touches of pink and purple. The paint appears thick and textured. Peaceful, contemplative mood.\n\nDIRECTION DÉTAILLÉE — Paysage impressionniste style Monet\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nRelief : Construire les plans du paysage par des valeurs distinctes et des formes non répétitives. Les lignes du relief guident le regard ; les détails du lointain sont simplifiés et la perspective atmosphérique reste cohérente.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3646,13 +3914,22 @@
       "originalId": "126",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-126.webp",
+      "large": "images/prompts/large/ext-126.webp",
+      "alt": "Peinture impressionniste d'un étang de nénuphars roses, saule pleureur et lumière dorée au crépuscule.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-127",
     "title": "Affiche propagande constructiviste",
     "prompt": "Constructivist propaganda poster design with bold geometric shapes. Limited color palette of red, black, and cream. Dynamic diagonal composition suggesting movement and progress. Photomontage elements combined with graphic shapes. Bold sans-serif typography in Russian constructivist style. Industrial imagery - gears, factories, workers. High contrast and stark shadows.\n\nDIRECTION DÉTAILLÉE — Affiche propagande constructiviste\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nGéométrie : Hiérarchiser quelques formes simples, avec des angles et proportions cohérents. Réserver les petites facettes ou les accents géométriques au point focal ; ne pas multiplier les subdivisions sans améliorer la lecture.\n\nHiérarchie éditoriale : Faire lire d’abord le titre exact demandé, puis le sujet, puis les informations secondaires prévues. Préserver les bords de coupe et les espaces de respiration. Éviter les faux crédits, les dates ou les logos ajoutés automatiquement.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3665,13 +3942,22 @@
       "originalId": "127",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-127.webp",
+      "large": "images/prompts/large/ext-127.webp",
+      "alt": "Affiche de propagande constructiviste rouge et noire (texte russe « Вместе к новому миру ») : ouvrier devant un engrenage, usines au fond, avec à droite une colonne « Comment remplir votre prompt ? » en cinq étapes numérotées.",
+      "width": 1200,
+      "height": 1260
+    },
+    "generator": "image2.5",
+    "orientation": "square"
   },
   {
     "id": "ext-128",
     "title": "Illustration conte de fées vintage",
     "prompt": "Vintage fairy tale illustration in the style of Arthur Rackham or Edmund Dulac. Detailed pen and ink linework with delicate watercolor washes. Gnarled trees with faces, mystical creatures hiding in foliage. A child protagonist in period clothing discovering a magical scene. Ornate decorative border. Aged paper texture with foxing marks. Early 20th century book illustration aesthetic.\n\nDIRECTION DÉTAILLÉE — Illustration conte de fées vintage\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nCaractère analogique : Adapter le grain, les couleurs et les petites imperfections au procédé demandé. Les défauts restent mesurés et ne doivent pas effacer le sujet ; éviter les poussières, rayures et fuites de lumière ajoutées partout sans logique.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3684,13 +3970,22 @@
       "originalId": "128",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-128.webp",
+      "large": "images/prompts/large/ext-128.webp",
+      "alt": "Illustration de conte de fées vintage à l'encre et à l'aquarelle : petite fille en capuchon rouge devant un grand arbre noueux dans une forêt, cadre ornemental doré.",
+      "width": 1024,
+      "height": 1536
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-129",
     "title": "Nature morte vanité baroque",
     "prompt": "Baroque vanitas still life painting with symbolic objects. A human skull, wilting flowers, extinguished candle, and hourglass arranged on draped velvet. Rich, dark background with dramatic chiaroscuro lighting. Hyper-detailed rendering of textures - bone, petals, fabric, glass. Memento mori theme. Oil painting technique with visible glazing layers. Museum-quality fine art.\n\nDIRECTION DÉTAILLÉE — Nature morte vanité baroque\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nPeinture : Construire les volumes par des valeurs et touches cohérentes avec leur orientation. Montrer des passages plus fins dans les ombres et une matière plus présente sur certains accents lumineux, sans plaquer une texture de toile sur les détails du sujet.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3703,13 +3998,22 @@
       "originalId": "129",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-129.webp",
+      "large": "images/prompts/large/ext-129.webp",
+      "alt": "Nature morte baroque de type vanité : crâne, sablier, bougie éteinte, fleurs fanées, fruits et perles sur une table drapée de velours rouge.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-130",
     "title": "Illustration scientifique botanique",
     "prompt": "Scientific botanical illustration of a flowering plant. Precise, detailed rendering showing the complete plant - roots, stem, leaves, flower, and seeds. Cross-sections revealing internal structure. Handwritten Latin nomenclature and measurement scales. Watercolor on cream paper with fine ink outlines. Style of Maria Sibylla Merian or Pierre-Joseph Redouté. Educational yet beautiful.\n\nDIRECTION DÉTAILLÉE — Illustration scientifique botanique\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nVégétation : Varier orientation et taille des feuilles, tout en gardant des attaches compréhensibles aux tiges ou branches. Distinguer premier plan et arrière-plan par la précision ; les nervures et les pétales ne doivent pas se répéter mécaniquement.\n\nPrécision pédagogique : Séparer les parties observables des annotations et vérifier leurs relations. Utiliser une légende sobre, sans ajouter d’organe, de composant ou de trajet fictif pour remplir l’espace. L’illustration ne doit pas suggérer une précision scientifique qui n’est pas fournie.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3722,13 +4026,22 @@
       "originalId": "130",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-130.webp",
+      "large": "images/prompts/large/ext-130.webp",
+      "alt": "Planche botanique « Rosa canina » : églantier en fleurs et en fruits avec détails de feuilles, graines et coupes, légendes manuscrites.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-131",
     "title": "Peinture expressionniste abstraite",
     "prompt": "Abstract expressionist painting with bold, gestural brushstrokes. Large canvas filled with energetic marks and drips. Color palette of deep blues, fiery oranges, and stark whites. Visible texture from thick impasto application. Emotional intensity conveyed through mark-making. Inspired by Willem de Kooning and Franz Kline. The paint appears fresh and spontaneous.\n\nDIRECTION DÉTAILLÉE — Peinture expressionniste abstraite\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.\n\nFinition du médium : Donner aux marques de fabrication une échelle crédible. Les traces, trames ou pigments suivent les surfaces et les gestes ; préserver les détails qui rendent le sujet identifiable même lorsque le rendu est stylisé.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3741,13 +4054,22 @@
       "originalId": "131",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-131.webp",
+      "large": "images/prompts/large/ext-131.webp",
+      "alt": "Peinture expressionniste abstraite : larges coups de pinceau et coulures orange, bleu sombre, noir et blanc cassé, matière épaisse.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-132",
     "title": "Estampe japonaise Ukiyo-e",
     "prompt": "Traditional Japanese woodblock print (ukiyo-e) depicting a scene from nature. Mount Fuji visible in the distance. Cherry blossoms or waves as primary subject. Limited color palette typical of Edo period prints. Visible wood grain texture from printing process. Flat perspective and bold outlines. Inspired by Hokusai and Hiroshige. Includes Japanese calligraphy and artist seal.\n\nDIRECTION DÉTAILLÉE — Estampe japonaise Ukiyo-e\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nSigne et reproduction : Faire fonctionner la silhouette à petite taille, avec des contreformes dégagées et des espacements réguliers. Si le signe devient un objet, conserver sa géométrie et montrer sa matière sans ajouter de détails qui en changent la lecture.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3760,13 +4082,22 @@
       "originalId": "132",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-132.webp",
+      "large": "images/prompts/large/ext-132.webp",
+      "alt": "Estampe japonaise ukiyo-e : cerisier en fleurs au premier plan, mont Fuji au fond, mer et petit voilier, cartouche de texte en haut à droite.",
+      "width": 1200,
+      "height": 800
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-133",
     "title": "Collage dadaïste surréaliste",
     "prompt": "Dadaist collage combining disparate vintage images in surreal juxtaposition. Cut-out figures from old magazines and encyclopedias. Unexpected scale relationships - giant insects, tiny humans. Geometric shapes and typography fragments. Aged paper textures and visible cut edges. Absurdist humor and dreamlike logic. Inspired by Hannah Höch and Max Ernst.\n\nDIRECTION DÉTAILLÉE — Collage dadaïste surréaliste\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nAssemblage en papier : Rendre visibles l’épaisseur des feuilles, les plis et les chevauchements. Les couches projettent de petites ombres cohérentes ; conserver des découpes franches et des silhouettes simples, sans simuler du plastique ou du métal.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3779,13 +4110,22 @@
       "originalId": "133",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-133.webp",
+      "large": "images/prompts/large/ext-133.webp",
+      "alt": "Collage dadaïste surréaliste : visage de femme, abeille, œil, avion, formes rouges et fragments de journaux vintage sur fond beige.",
+      "width": 1200,
+      "height": 800
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-134",
     "title": "Paysage romantique sublime",
     "prompt": "Romantic era landscape painting depicting the sublime power of nature. Tiny human figure dwarfed by massive mountains and stormy sky. Dramatic lighting breaking through clouds. Misty valleys and ancient ruins suggesting the passage of time. Rich earth tones with dramatic sky colors. Inspired by Caspar David Friedrich and J.M.W. Turner. Evokes awe and contemplation.\n\nDIRECTION DÉTAILLÉE — Paysage romantique sublime\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nRelief : Construire les plans du paysage par des valeurs distinctes et des formes non répétitives. Les lignes du relief guident le regard ; les détails du lointain sont simplifiés et la perspective atmosphérique reste cohérente.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Styles artistiques"
     ],
@@ -3798,13 +4138,22 @@
       "originalId": "134",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-134.webp",
+      "large": "images/prompts/large/ext-134.webp",
+      "alt": "Paysage romantique sublime : petite silhouette en robe rouge sur un rocher face à de grandes montagnes, une vallée brumeuse, un château et un ciel doré orageux.",
+      "width": 1200,
+      "height": 1000
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-135",
     "title": "Packaging cosmétique minimaliste luxe",
     "prompt": "Luxury minimalist cosmetic packaging design. Frosted glass bottle with subtle gradient from clear to soft pink. Matte gold cap with satisfying weight. Clean sans-serif typography in small, elegant point size. The product sits on white marble surface with soft shadows. Single green leaf as accent. Shot with Phase One medium format, shallow depth of field. High-end beauty brand aesthetic.\n\nDIRECTION DÉTAILLÉE — Packaging cosmétique minimaliste luxe\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nContenant : Définir clairement bouchon ou ouverture, épaisseur, étiquette et jonction des matériaux. La typographie fournie suit le support sans déformation excessive. Les reflets mettent en valeur les volumes et la lisibilité de la face principale.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design produit"
     ],
@@ -3817,13 +4166,22 @@
       "originalId": "135",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-135.webp",
+      "large": "images/prompts/large/ext-135.webp",
+      "alt": "Flacon de cosmétique minimaliste en verre dépoli rose pâle, bouchon doré, marque « Lumière », posé sur du marbre avec des feuilles et des pivoines.",
+      "width": 1145,
+      "height": 1374
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-136",
     "title": "Concept sneaker futuriste",
     "prompt": "Futuristic sneaker concept design with innovative materials. Seamless knit upper in gradient colorway. Visible air cushioning system in transparent sole. Integrated LED strips that pulse with movement. Magnetic closure system replacing traditional laces. The shoe appears to float slightly, suggesting advanced technology. Clean studio shot with dramatic rim lighting. Rendered in photorealistic 3D.\n\nDIRECTION DÉTAILLÉE — Concept sneaker futuriste\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.\n\nMatériaux : Distinguer les propriétés des surfaces : rugosité, transparence, métal, fibres ou enduit. Garder une échelle de grain cohérente avec la taille du produit et éviter la même brillance sur tous les composants.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design produit"
     ],
@@ -3836,13 +4194,22 @@
       "originalId": "136",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-136.webp",
+      "large": "images/prompts/large/ext-136.webp",
+      "alt": "Concept de basket futuriste en tricot dégradé bleu et violet, semelle translucide lumineuse, sur sol reflétant.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-137",
     "title": "Emballage alimentaire éco-responsable",
     "prompt": "Eco-friendly food packaging design using sustainable materials. Kraft paper and plant-based inks. Die-cut window revealing the product inside. Hand-drawn botanical illustrations. Earthy color palette - forest green, terracotta, natural brown. Clear hierarchy of information with playful typography. The packaging sits on reclaimed wood surface with scattered ingredients. Lifestyle product photography.\n\nDIRECTION DÉTAILLÉE — Emballage alimentaire éco-responsable\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nContenant : Définir clairement bouchon ou ouverture, épaisseur, étiquette et jonction des matériaux. La typographie fournie suit le support sans déformation excessive. Les reflets mettent en valeur les volumes et la lisibilité de la face principale.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design produit"
     ],
@@ -3855,13 +4222,22 @@
       "originalId": "137",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-137.webp",
+      "large": "images/prompts/large/ext-137.webp",
+      "alt": "Sachet de granola écoresponsable « Terre Bonne » en papier kraft, entouré d'un bol de fruits, d'avoine, de miel et de plantes.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-138",
     "title": "Montre connectée concept élégant",
     "prompt": "Elegant smartwatch concept design balancing technology and traditional watchmaking. Circular display with customizable analog face. Titanium case with ceramic bezel. Interchangeable leather and sport bands. The interface shows health metrics in beautiful data visualization. Photographed on dark slate with dramatic side lighting. Premium product photography style.\n\nDIRECTION DÉTAILLÉE — Montre connectée concept élégant\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.\n\nMatériaux : Distinguer les propriétés des surfaces : rugosité, transparence, métal, fibres ou enduit. Garder une échelle de grain cohérente avec la taille du produit et éviter la même brillance sur tous les composants.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design produit"
     ],
@@ -3874,13 +4250,22 @@
       "originalId": "138",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-138.webp",
+      "large": "images/prompts/large/ext-138.webp",
+      "alt": "Montre connectée élégante à bracelet cuir brun, cadran sombre avec affichages santé, posée sur de la pierre noire avec bracelets de rechange et outil.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-139",
     "title": "Bouteille de vin design contemporain",
     "prompt": "Contemporary wine bottle design breaking traditional conventions. Asymmetrical bottle shape suggesting flowing liquid. Minimalist label with embossed typography and metallic foil accents. Deep burgundy glass with subtle texture. The bottle casts interesting shadows on neutral background. Single grape leaf as styling element. Shot for design award submission.\n\nDIRECTION DÉTAILLÉE — Bouteille de vin design contemporain\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nContenant : Définir clairement bouchon ou ouverture, épaisseur, étiquette et jonction des matériaux. La typographie fournie suit le support sans déformation excessive. Les reflets mettent en valeur les volumes et la lisibilité de la face principale.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design produit"
     ],
@@ -3893,13 +4278,22 @@
       "originalId": "139",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-139.webp",
+      "large": "images/prompts/large/ext-139.webp",
+      "alt": "Bouteille de vin rouge au design asymétrique et à l'étiquette crème « Velours », posée sur un bloc de pierre avec une feuille de vigne rouge.",
+      "width": 1024,
+      "height": 1536
+    },
+    "generator": "image2.5",
+    "orientation": "portrait"
   },
   {
     "id": "ext-140",
     "title": "Mobilier modulaire concept",
     "prompt": "Modular furniture concept showing multiple configuration possibilities. Clean Scandinavian design with rounded edges. Natural oak wood combined with powder-coated steel in muted colors. The same pieces arranged as shelf, desk, and room divider. Exploded view showing connection system. Rendered in bright, airy interior setting. Lifestyle visualization for crowdfunding campaign.\n\nDIRECTION DÉTAILLÉE — Mobilier modulaire concept\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nConstruction de l’objet : Rendre lisibles les parties porteuses, assemblages et points d’appui. Respecter l’épaisseur des composants et la logique des raccords ; si l’objet est présenté en vue éclatée, conserver l’alignement de ses pièces.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design produit"
     ],
@@ -3912,13 +4306,22 @@
       "originalId": "140",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-140.webp",
+      "large": "images/prompts/large/ext-140.webp",
+      "alt": "Planche de présentation d'un mobilier modulaire scandinave : trois configurations (étagère, bureau, séparation), vue éclatée, détails et palette de matériaux et couleurs.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-141",
     "title": "Packaging thé premium asiatique",
     "prompt": "Premium Asian tea packaging design combining tradition and modernity. Cylindrical tin container with textured paper wrap. Watercolor mountain landscape illustration. Gold foil stamping for brand name in both Chinese characters and English. Wax seal closure. The package sits on bamboo mat with loose tea leaves scattered artfully. Warm, inviting lighting. Luxury gift presentation.\n\nDIRECTION DÉTAILLÉE — Packaging thé premium asiatique\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nForme et fonction : Montrer une silhouette exploitable et des épaisseurs plausibles. Soigner les jonctions, coutures, fermetures, ouvertures ou commandes réellement présentes ; chaque détail doit avoir une place logique sur l’objet.\n\nContenant : Définir clairement bouchon ou ouverture, épaisseur, étiquette et jonction des matériaux. La typographie fournie suit le support sans déformation excessive. Les reflets mettent en valeur les volumes et la lisibilité de la face principale.\n\nPrésentation : Faire lire le produit avant ses accessoires. Préserver les arêtes et la face principale, avec des ombres de contact qui expliquent son appui. Les reflets révèlent les volumes sans cacher les détails ni les mentions fournies.",
-    "status": "to-test",
+    "status": "published",
     "categories": [
       "Design produit"
     ],
@@ -3931,7 +4334,16 @@
       "originalId": "141",
       "author": "ImageIA",
       "importedAt": "2026-10-28T08:57:24.065Z"
-    }
+    },
+    "image": {
+      "thumbnail": "images/prompts/thumbs/ext-141.webp",
+      "large": "images/prompts/large/ext-141.webp",
+      "alt": "Packaging de thé premium asiatique : boîte cylindrique ornée d'une peinture de paysage, sceau rouge et idéogrammes, avec théière, tasse, feuilles de thé et étui vert.",
+      "width": 1200,
+      "height": 1097
+    },
+    "generator": "image2.5",
+    "orientation": "landscape"
   },
   {
     "id": "ext-142",
