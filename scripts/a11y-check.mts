@@ -42,7 +42,7 @@ async function main() {
     await waitFor(BASE);
     const publicFile = path.join(PATHS.dataDir, 'prompts.public.json');
     const first = (JSON.parse(fs.readFileSync(publicFile, 'utf8')) as { id: string }[])[0]?.id;
-    const routes = ['#/', '#/bibliotheque', '#/bibliotheque?q=photo', '#/favoris', '#/a-propos', ...(first ? [`#/fiche/${first}`] : [])];
+    const routes = ['#/', '#/bibliotheque', '#/bibliotheque?q=photo', '#/favoris', '#/a-propos', '#/composeur', ...(first ? [`#/composeur?from=${first}`] : []), ...(first ? [`#/fiche/${first}`] : [])];
     const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
     const results: { route: string; scheme: string; viewport: string; violations: unknown[] }[] = [];
     for (const scheme of ['light', 'dark'] as const) {

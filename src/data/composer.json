@@ -1,0 +1,2023 @@
+{
+  "source": "Prompt Bible",
+  "blocks": [
+    {
+      "n": 1,
+      "label": "Sujet",
+      "hint": "Sujet principal avec 2 à 4 traits distinctifs."
+    },
+    {
+      "n": 2,
+      "label": "Action",
+      "hint": "Ce que fait le sujet et dans quel but."
+    },
+    {
+      "n": 3,
+      "label": "Décor",
+      "hint": "Lieu, moment de la journée et éléments clés de l’environnement."
+    },
+    {
+      "n": 4,
+      "label": "Récit",
+      "hint": "Émotion recherchée et récit implicite de la scène."
+    },
+    {
+      "n": 5,
+      "label": "Style",
+      "hint": "Esthétique, époque, médium, genre et références cohérentes."
+    },
+    {
+      "n": 6,
+      "label": "Lumière",
+      "hint": "Type et direction de la lumière, palette et étalonnage."
+    },
+    {
+      "n": 7,
+      "label": "Caméra",
+      "hint": "Focale en mm, type de plan, angle, cadrage et profondeur de champ."
+    },
+    {
+      "n": 8,
+      "label": "Textures",
+      "hint": "Matières, microdétails, traces d’usure et indices de réalisme."
+    },
+    {
+      "n": 9,
+      "label": "Qualité",
+      "hint": "Niveau de réalisme, netteté, fidélité et finition recherchés."
+    },
+    {
+      "n": 10,
+      "label": "Exclusions",
+      "hint": "Éléments indésirables et artefacts à éviter, adaptés à la scène."
+    }
+  ],
+  "styles": [
+    {
+      "id": "ENT-0JPKIB5Q",
+      "label": "Cat brooch",
+      "text": "Minimalist professional cat brooch, hiding an abstract musical note, Abstract conceptual art, 3d render, typography",
+      "group": "3D / miniature"
+    },
+    {
+      "id": "ENT-CQB70N0B",
+      "label": "Crochet miniature",
+      "text": "Everything is made out of crochet, neighbourhood suburbs, cinematic, miniature",
+      "group": "3D / miniature"
+    },
+    {
+      "id": "ENT-R80FT23B",
+      "label": "DoA Xtreme style",
+      "text": "Female game character renders in the style of DoA Xtreme",
+      "group": "3D / miniature"
+    },
+    {
+      "id": "ENT-1UJ8Q3DC",
+      "label": "GTA3 style",
+      "text": "style gta3",
+      "group": "3D / miniature"
+    },
+    {
+      "id": "ENT-LF5J4B2C",
+      "label": "PS2",
+      "text": "style PS2",
+      "group": "3D / miniature"
+    },
+    {
+      "id": "ENT-4GUNGZ93",
+      "label": "Roblox",
+      "text": "style Roblox",
+      "group": "3D / miniature"
+    },
+    {
+      "id": "ENT-MTBDS2W1",
+      "label": "Sculpture",
+      "text": "Sculpture",
+      "group": "3D / miniature"
+    },
+    {
+      "id": "ENT-22XO7WI9",
+      "label": "90s Anime classic",
+      "text": "90s / Digimon / YuYu Hakusho",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-MI8WSEPA",
+      "label": "Akira GITS",
+      "text": "80s-90s, Akira / Ghost in the Shell",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-0M7O5AOP",
+      "label": "Anime dramatique pluie",
+      "text": "Anime dramatique, éclairage fort, pluie",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-3UCTMD96",
+      "label": "Anime Evangelion",
+      "text": "Anime rétro 1990s, Neon Genesis Evangelion",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-IHIS0FHF",
+      "label": "Anime flat aquatique",
+      "text": "anime en flat design, ambiance aquatique épurée",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-I9TGVSWZ",
+      "label": "Anime generic 90s",
+      "text": "Anime (generic 90s)",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-ZSVAW7Q1",
+      "label": "Anime historique dramatique",
+      "text": "Anime dramatique historique, contraste fort",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-TVR9GKI1",
+      "label": "Anime lycéen sunset",
+      "text": "Anime lycéen, coucher de soleil, émotion douce",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-AQ5X2H77",
+      "label": "Anime musical lumineux",
+      "text": "Anime musical, effets lumineux et poses énergiques",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-H1NV2FDG",
+      "label": "Anime noir neon",
+      "text": "Anime noir, néon mouillé, trench et mystère",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-XK5FCGVP",
+      "label": "Anime printanier pastel",
+      "text": "style anime printanier, couleurs pastel",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-198ZXHDC",
+      "label": "Anime slice warm light",
+      "text": "Anime tranche de vie, lumière rasante",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-VL6LRTOV",
+      "label": "Anime vintage warm",
+      "text": "Anime vintage, couleurs chaudes, années 70-80",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-FG01MPD5",
+      "label": "Aquarelle slice of life",
+      "text": "Aquarelle, anime slice of life, lumières douces",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-E7BPTQLM",
+      "label": "Arcade culture",
+      "text": "Années 90, arcade culture, anime flashy",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-WMY8FFNO",
+      "label": "Attack on Titan / One Punch",
+      "text": "style Attack on Titan / One Punch Man",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-Q5DYVCS7",
+      "label": "Celestial anime",
+      "text": "Ambiance céleste inspirée d'anime",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-YH48GMW5",
+      "label": "City Hunter vibes",
+      "text": "Années 40/80s mix, City Hunter vibes",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-JIGSFSQR",
+      "label": "DBZ",
+      "text": "style",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-7D06Q45Z",
+      "label": "Donghua pluie brume",
+      "text": "Style donghua, pluie brumeuse, vêtements dynastiques",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-E9PROLSN",
+      "label": "Fate folklore",
+      "text": "Fate/stay night, folklore asiatique",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-8SR148X3",
+      "label": "Festival japonais automne",
+      "text": "Festival japonais / Automne",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-JDND9374",
+      "label": "Gainax 1995",
+      "text": "1995, Gainax",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-K8VRB2NO",
+      "label": "Ghibli 80-2000",
+      "text": "Ghibli, années 80-2000",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-6K5A1WV2",
+      "label": "Ghibli bucolique",
+      "text": "Studio Ghibli, ambiance bucolique, environnemental",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-8JK1HTW1",
+      "label": "Ghibli magique doux",
+      "text": "style Ghibli magique, lignes douces",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-YS7UDK9W",
+      "label": "Isekai fantasy",
+      "text": "Fantaisie japonaise, style isekai",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-6NCRGKOC",
+      "label": "Isekai Little Witch",
+      "text": "Isekai / Little Witch Academia",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-7X3C0965",
+      "label": "JoJo style",
+      "text": "JoJo style",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-LQ2MOL26",
+      "label": "JRPG anime fantasy",
+      "text": "RPG japonais, style anime fantasy",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-V69CBP8E",
+      "label": "Kiki Witch",
+      "text": "Kiki la petite sorcière",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-RO5LEQH8",
+      "label": "Kimetsu style",
+      "text": "kimetsu no yaiba style",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-X164QE06",
+      "label": "Love Live Idolmaster",
+      "text": "Love Live! / Idolmaster",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-GD2J1HKP",
+      "label": "Madoka Magica",
+      "text": "Puella Magi Madoka Magica",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-UVEZ32IT",
+      "label": "Mahō Shōjo",
+      "text": "Style Mahō Shōjo, animation exagérée",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-LQB52ZOB",
+      "label": "Manga moe",
+      "text": "Culture manga moe / SD style",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-8ETNMU5R",
+      "label": "Manga shonen",
+      "text": "Manga shonen, encrage fort et dynamisme",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-54OJ74ER",
+      "label": "Mecha Gundam",
+      "text": "Mecha anime, SF réaliste, style Gundam",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-3FAT4XBH",
+      "label": "Mecha rétro Gainax",
+      "text": "scène rétro avec héroïne de mecha, style Gainax / Evangelion",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-0QOE4EAP",
+      "label": "Moe 2000s",
+      "text": "Culture moe, années 2000+",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-U7DUGUSY",
+      "label": "Moe pastel",
+      "text": "style moe, crayon de couleur, impressionniste doux",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-QSDAUDFD",
+      "label": "Musical emotional anime",
+      "text": "Your Lie in April / Nodame Cantabile",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-L80BJSGK",
+      "label": "Naruto anime",
+      "text": "style naruto",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-UYHM1C4R",
+      "label": "Naruto anime",
+      "text": "a Naruto character --s 250 --q 2 --ar 16:9 --niji 5",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-Q5H1I82R",
+      "label": "One Piece style",
+      "text": "one-piece style",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-8RYWW5HO",
+      "label": "Sailor Moon 90",
+      "text": "Sailor Moon, années 90",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-R84TJQXB",
+      "label": "Scène Ghibli brise légère",
+      "text": "scène contemplative avec brise légère, style Ghibli",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-6OR3MA24",
+      "label": "Shojo proximité douce",
+      "text": "Shojo anime, scène de proximité douce",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-NQUDEQFH",
+      "label": "Shonen sport",
+      "text": "style shonen sport, dynamique et cadrage serré",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-GM5IW1W1",
+      "label": "Slam Dunk Haikyuu",
+      "text": "style Slam Dunk / Haikyuu!!, animation intense",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-21G4Y0MP",
+      "label": "Slice 2010",
+      "text": "Slice of life, années 2010",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-S7LKF216",
+      "label": "Slice of life japonais",
+      "text": "70s-80s, slice of life japonais",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-YHWCOIBF",
+      "label": "Sports anime wide",
+      "text": "90s-2020s anime sportif",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-7TXVXZTM",
+      "label": "Steampunk Ghibli",
+      "text": "Steampunk / Ghibli (Laputa)",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-G6JI0KQA",
+      "label": "Steampunk onirique",
+      "text": "Mécha onirique, influence Miyazaki",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-B4IRP52H",
+      "label": "Studio Ghibli",
+      "text": "Studio Ghibli",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-NID68VEL",
+      "label": "Summer Ghibli",
+      "text": "Été japonais / Studio Ghibli",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-XINJVSLG",
+      "label": "Tradition Shinto",
+      "text": "Tradition shinto, anime folklorique",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-Y21P8R1M",
+      "label": "Your Lie / Nodame",
+      "text": "Your Lie in April / Nodame Cantabile",
+      "group": "Anime / manga"
+    },
+    {
+      "id": "ENT-9TE97400",
+      "label": "Alberto Vargas",
+      "text": "Alberto Vargas",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-NJGAEM2A",
+      "label": "Années 80-90",
+      "text": "Années 80-90",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-3V26L5MP",
+      "label": "Cell shading",
+      "text": "Cell shading style (borderlands)",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-2TC3FG9X",
+      "label": "Chicken future",
+      "text": "chicken of the future -",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-CCAPLHHH",
+      "label": "Creative calm",
+      "text": "moment calme et créatif, ambiance cosy et mélancolique",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-EXLNSVV4",
+      "label": "Final Fantasy style",
+      "text": "Final Fantasy / Atelier series",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-I3BJWP8J",
+      "label": "Force et poésie",
+      "text": "mélange de force et poésie, tension contenue",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-PKCAMXOY",
+      "label": "Freediver deep",
+      "text": "view from above freediver diving very deep in the dark of the sea",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-0UB0NUGN",
+      "label": "Futurist chicken",
+      "text": "futurist chicken",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-31BQKJRB",
+      "label": "Harry Potter dog stadium",
+      "text": "a harry potter dog basquiat style in Old Trafford stadium",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-QKBTPFV4",
+      "label": "Hokusai poppies",
+      "text": "pink poppies… tsunami-wave… Hokusai style --ar 16:9 —style raw",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-7BO2QJMC",
+      "label": "Koala Hindu temple",
+      "text": "Hindu temple within its center a koala bear meditating",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-LGC40HQB",
+      "label": "Lego style",
+      "text": "lego style",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-5L9P2LAY",
+      "label": "Lego style",
+      "text": "style lego",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-UH5WBCGO",
+      "label": "Matsuri warmth",
+      "text": "ambiance de matsuri, lumière chaude, joie tranquille",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-GW47C7VK",
+      "label": "Muppet lore",
+      "text": "muppet lore",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-9FEPXTG6",
+      "label": "Nouvel An chinois",
+      "text": "Culture chinoise, esthétique Nouvel An",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-8KN09LNY",
+      "label": "Oriental elegant",
+      "text": "Illustration orientale élégante, couleurs vives et motifs",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-U69IL5RO",
+      "label": "Sea party",
+      "text": "a sea party",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-DUQ7UYU1",
+      "label": "Selfie revolution",
+      "text": "frise \"Selfie revolution française\" Affiche vintage / Photo pro / Figurine / Carte Pokémon…",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-F0158QUC",
+      "label": "Style Ukiyo-e description",
+      "text": "Les images japonaises ... Texture légèrement granuleuse comme une estampe imprimée sur papier de riz.",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-ERZODGEJ",
+      "label": "Style vitrail",
+      "text": "style vitrail",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-WZKG91KT",
+      "label": "Tapisserie médiévale",
+      "text": "style Tapisserie medievale",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-SC3NDLK2",
+      "label": "Tarot The Nerd",
+      "text": "Tarot card style, baroque, intricate details, teen hunched over laptop, text “The Nerd”, Oil Painting (Cubism, Dutch Masters, Expressionism)",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-Z7AY8EWE",
+      "label": "Warhol",
+      "text": "style warhol",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-WOJR290P",
+      "label": "Whippet sculpture",
+      "text": "a whippet sculpture",
+      "group": "Autres"
+    },
+    {
+      "id": "ENT-0IYOFG71",
+      "label": "Carte de vœux entreprise",
+      "text": "Fais le design d'une carte de vœux d'entreprise de fin d'année… Style vectoriel moderne, vent turbine, vert sur blanc, 2024, mise en scène bureau",
+      "group": "Design graphique"
+    },
+    {
+      "id": "ENT-YQ1CWSVR",
+      "label": "Facebook fashion ad",
+      "text": "Image pour une campagne sur Facebook… mode durable, Style vectoriel, design abstrait et moderne, couleurs vibrantes, fond blanc",
+      "group": "Design graphique"
+    },
+    {
+      "id": "ENT-AK287C9H",
+      "label": "Flat blue design",
+      "text": "Flat design, palette bleue, style numérique",
+      "group": "Design graphique"
+    },
+    {
+      "id": "ENT-ZEGPMH03",
+      "label": "Logo renard abstrait",
+      "text": "Logo élégant d'un renard, design abstrait et moderne, style monochrome, thème de couleur orange, fond blanc. Avec le texte \"FOXIA\"",
+      "group": "Design graphique"
+    },
+    {
+      "id": "ENT-ATC5OH44",
+      "label": "Modern frogs",
+      "text": "modern frogs",
+      "group": "Design graphique"
+    },
+    {
+      "id": "ENT-PKELFPKW",
+      "label": "Réunion flat design",
+      "text": "Une réunion de travail de 3 personnes. Illustration vectorielle flat design avec couleurs vibrantes sur fond blanc",
+      "group": "Design graphique"
+    },
+    {
+      "id": "ENT-GWX1V6II",
+      "label": "Solar system chart",
+      "text": "Show me a chart of the solar system and annotate each planet with one interesting fact",
+      "group": "Design graphique"
+    },
+    {
+      "id": "ENT-J1ID9GBN",
+      "label": "Barbie style",
+      "text": "barbie style",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-QEEFFLM7",
+      "label": "Blob burrata",
+      "text": "blob burrata with eyes",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-HA40819E",
+      "label": "Cartoon mermaid on beach",
+      "text": "a cartoon mermaid on an exotic beach with palm tree",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-ATR2H8KO",
+      "label": "Chibi kawaii",
+      "text": "Chibi kawaii, traits épais et expressifs",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-7PA3I12J",
+      "label": "Comics spatial",
+      "text": "comics thomas pesquet spatial station command with the blue earth in background",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-FRB5MFQ5",
+      "label": "Don't Starve style",
+      "text": "Don't starve (video game) style",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-MU5FRHI3",
+      "label": "Edward Gorey",
+      "text": "Edward Gorey",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-IC06WCU2",
+      "label": "Epic duel",
+      "text": "duel ancestral, ambiance sombre, style épique",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-YINMA4L6",
+      "label": "F1 bed track",
+      "text": "Illustration style F1 racetrack shaped as a bed",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-UEPOZ797",
+      "label": "Fallout style",
+      "text": "fallout style",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-6H9T9K7U",
+      "label": "Feutrine effet",
+      "text": "effet feutrine",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-8I4MVG72",
+      "label": "Firefighter panda",
+      "text": "a firefighter panda",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-GG6X5PYG",
+      "label": "Gary Larson",
+      "text": "Gary Larson",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-RJAQZE2F",
+      "label": "Gothic children story",
+      "text": "Gothic, children’s book, scary stories style… Burton, Poe, creepy, headphones monster child",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-PO5VDTP8",
+      "label": "Guitarist LOTR",
+      "text": "a guitarplayer in lord of the ring",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-OWY5JOXM",
+      "label": "Hanami printemps",
+      "text": "Hanami, printemps japonais",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-S43V464L",
+      "label": "Harry Potter dog generic",
+      "text": "a harry potter dog",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-22UVTSYI",
+      "label": "Japanese summer trad",
+      "text": "Japon traditionnel, été",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-QHSAEST2",
+      "label": "Japanese winter modern",
+      "text": "Hiver japonais moderne",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-M8BDL044",
+      "label": "Leaning tower of pizza",
+      "text": "Leaning tower of pizza",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-STU9NPCR",
+      "label": "Map Europe",
+      "text": "the map of Europe",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-IVKXNYXV",
+      "label": "Map GoT",
+      "text": "carte de <lieu> comme dans Game of Thrones",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-M0PXT4MN",
+      "label": "Medium artistique",
+      "text": "Medium Artistique (style, technique de dessin)",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-CI224JGM",
+      "label": "Medium artistique",
+      "text": "Medium Artistique (style, technique de dessin)",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-JVHLAIYG",
+      "label": "Mini workers palace",
+      "text": "create a picture/video of Mini workers building a mountain palace",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-QJABFLAH",
+      "label": "Moebius style",
+      "text": "Moebius Style",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-1KUB50G2",
+      "label": "Nouvel An lunaire",
+      "text": "inspiration Nouvel An lunaire, style dessin traditionnel chinois",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-26OQWZF2",
+      "label": "Ostrich ballet",
+      "text": "Raw style ostrich performing a ballet",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-HIYIHIZL",
+      "label": "Papyrus flying shoe",
+      "text": "a papyrus plant on board a flying shoe in the sky",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-Z1CYGMPC",
+      "label": "Pastel lineart",
+      "text": "Pastel doux, lineart simple, profondeur de champ",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-JH8AZBUC",
+      "label": "Pen and Ink",
+      "text": "Pen and Ink",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-J2CVRY7X",
+      "label": "Poterie vase grec",
+      "text": "poterie antique, sur un vase grec antique",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-J5121H0M",
+      "label": "Scène comique exagérée",
+      "text": "scène mignonne et exagérée, style comique",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-2LBOKVZ2",
+      "label": "Shin Chan style",
+      "text": "chin chan stylr",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-VM2MXYI0",
+      "label": "Simpson",
+      "text": "style Simpson",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-PAVU2MNS",
+      "label": "Slice musical chaud",
+      "text": "style slice of life musical, tons chauds",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-MCL1OR8A",
+      "label": "Train in sky",
+      "text": "a train in the sky",
+      "group": "Illustration / dessin"
+    },
+    {
+      "id": "ENT-PFPXGPWH",
+      "label": "Glowing energy",
+      "text": "Glowing Abstract Energy Particles",
+      "group": "Mixte / expérimental"
+    },
+    {
+      "id": "ENT-JZZWQROT",
+      "label": "Paperwork textures",
+      "text": "Paperwork textures and layer",
+      "group": "Mixte / expérimental"
+    },
+    {
+      "id": "ENT-DDM3W2A6",
+      "label": "Andrew Wyeth",
+      "text": "Andrew Wyeth",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-KIEIW0OU",
+      "label": "Broken instruments garden",
+      "text": "illustration wide-light, a beautiful-outdoor-garden with lot of broken-musical-instrument… --ar 16:9",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-X3A1G5Q9",
+      "label": "Broken instruments garden simple",
+      "text": "illustration, a beautiful-garden with broken-musical-instrument on the floor, --ar 16:9 —s 500",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-TM1YRX59",
+      "label": "Butterfly cat in sky",
+      "text": "butterfly cat in the sky",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-YHGFCVN6",
+      "label": "Chinois historique mystique",
+      "text": "style chinois historique avec atmosphère énigmatique",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-JSFK7FHB",
+      "label": "Cocooning hiver",
+      "text": "cocooning hivernal, scène de paix intérieure",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-JK3O7V6A",
+      "label": "Concept Pocahontas",
+      "text": "Pretty young face Sleeping Pocahontas gown… tantra relax yoni sacred massage… conceptual art, cinematic, painting, product",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-O1975BC8",
+      "label": "Conte japonais",
+      "text": "Conte japonais, illustration jeunesse",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-Y3HEFVLH",
+      "label": "Corridor TV 9:16",
+      "text": "Realistic, a corridor with TV screens and posters, bright light --ar 9:16",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-QC3ZQHHB",
+      "label": "Dessin doux enfantin",
+      "text": "style dessiné à la main, ambiance douce et enfantine",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-MUIN1S9H",
+      "label": "Dynastie Song",
+      "text": "Dynastie Song / Chine ancienne",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-XPR3D220",
+      "label": "Edward Hopper",
+      "text": "Edward Hopper",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-AIUDIVYN",
+      "label": "Eiffel Picasso",
+      "text": "Tour eiffel style picasso",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-NZAQB0IN",
+      "label": "Encre asiatique",
+      "text": "Encre noire, peinture traditionnelle asiatique",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-ZU4QIRDM",
+      "label": "Festival mystique",
+      "text": "scène mystique de festival d’automne",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-O7MV6XON",
+      "label": "Final Fantasy / Chrono",
+      "text": "style Final Fantasy / Chrono Trigger",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-MH2B6WG7",
+      "label": "Golden future apocalypse",
+      "text": "wide angle, golden hour light, futuristic vision, end-of-the-world ambience",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-9J2PGRVT",
+      "label": "Golden future apocalypse",
+      "text": "wide angle, golden hour light, futuristic vision, end-of-the-world ambience",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-9J6KWSL1",
+      "label": "Gustave Doré skull beast",
+      "text": "Gustave dore style art, skull faced beast, highly detailed, 8k, engraving style art, engraved, monochrome, epic, sunshine, mist, mysterious, dark art",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-8AYCPF4N",
+      "label": "Happy Sunday town",
+      "text": "Illustration style poster… Sunday morning town, band, Happy Sunday text, whimsical",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-LH92D08D",
+      "label": "Harry Potter house in flowers",
+      "text": "a house in a field of flowers Harry Potter style. Create an illustration of a house in a field of flowers, designed in the style of Harry Potter.",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-HQ7ZU4HL",
+      "label": "Ink duel heroine",
+      "text": "héroïne d'anime en duel, style peinture à l'encre",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-WKKR6IG4",
+      "label": "Japanese feudal romance",
+      "text": "Japon féodal romantisé",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-NKYCR7MH",
+      "label": "Kandinsky kitten",
+      "text": "kitten as kandinsky art",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-7S11O2OE",
+      "label": "Magical aerial school",
+      "text": "univers magique aérien, école suspendue",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-MC459VXK",
+      "label": "Old Japanese painting",
+      "text": "old japanese style painting",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-Y641Q7JJ",
+      "label": "Picasso",
+      "text": "Picasso",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-O8ODXA4C",
+      "label": "Romantique printemps",
+      "text": "scène romantique au printemps, tons doux et rosés",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-BF2I7LLA",
+      "label": "RPG high fantasy",
+      "text": "style RPG / Magic high fantasy",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-07AQQ3HF",
+      "label": "Salvador Dali",
+      "text": "Salvadore Dali",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-9UWI68I4",
+      "label": "Skeleton holiday sunset",
+      "text": "Create an illustration of a skeleton on holiday during a sunset.",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-BUF45RET",
+      "label": "Slice contemplatif urbain",
+      "text": "Slice of life contemplatif, ambiance urbaine douce",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-TCZW427J",
+      "label": "Solitude urbaine",
+      "text": "scène silencieuse de solitude urbaine",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-Q8S731GV",
+      "label": "Sunday park billboard",
+      "text": "Poster in landscape format… Sunday morning city park, Happy Sunday billboard",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-WG50NPG5",
+      "label": "Symbolic flight",
+      "text": "envol symbolique, lumière dorée, liberté",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-EB87I901",
+      "label": "Tokyo moderne",
+      "text": "Tokyo moderne",
+      "group": "Peinture / gravure"
+    },
+    {
+      "id": "ENT-CYZWMRTP",
+      "label": "Cinematic silhouette",
+      "text": "Cinematic landscape silhouette",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-S4QDHVY5",
+      "label": "Crumpled paper portrait",
+      "text": "Crumpled paper portrait effect",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-JPZQ23MP",
+      "label": "Elemental building",
+      "text": "A building made of earth, fire, water and air, photo, cinematic",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-MEJ4XB8Y",
+      "label": "Emotion contained",
+      "text": "émotion contenue, lumière douce, style réaliste",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-1NUI6JFS",
+      "label": "Epic dinner scene",
+      "text": "Film still at low angle… warm light, dinner, dancing mobile stones, 12 tables arranged in circle --ar 16:9 --style raw",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-Z3JUMXC0",
+      "label": "Fragmented portrait",
+      "text": "Fragmented portrait composition",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-45V7HAAM",
+      "label": "Ghosting — Homme se transformant en fumée",
+      "text": "Cinematic AI art, man turning into smoke while woman calls him on phone, emotional ghosting concept, 4k",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-IC0R8IXW",
+      "label": "Golden hour stadium",
+      "text": "a harry potter dog in Old Trafford stadium in golden hour",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-2HOUZZKP",
+      "label": "Jodorowsky music video",
+      "text": "Image of a movie production of a music video directed by Jodorowsky, psychedelic, cinematic",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-EFA1R8R9",
+      "label": "Pet hairstyle storyboard",
+      "text": "Build a photo-realistic visual image storyboard with 6 panels for an Instagram app for pet hair styles",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-8MG9AHGD",
+      "label": "Portrait pastel mignon",
+      "text": "portrait mignon aux couleurs douces, style crayon pastel",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-SMI4FDFP",
+      "label": "Samurai film style",
+      "text": "Japon féodal, films de samouraïs",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-16CB6J80",
+      "label": "Silk paper ball",
+      "text": "silk paper ball",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-BV4XWR1I",
+      "label": "Timeline decades",
+      "text": "Make a 4×4 grid… styled according to decades 1880s-2020s… clothes, style, background, film style",
+      "group": "Photographie"
+    },
+    {
+      "id": "ENT-348NIYT0",
+      "label": "8-bit style",
+      "text": "8-bit pixel art, bitmap, NES/SNES",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-8JO1ASHF",
+      "label": "Cave Story retro",
+      "text": "pixel art rétro cute indie, style Cave Story",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-T4DRSNVW",
+      "label": "Landmarks pixel",
+      "text": "8-bit/pixelated versions of ancient landmarks and cities\nThe Hanging Gardens of Babylon\nParthenon",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-T88VFZAE",
+      "label": "Minecraft",
+      "text": "style Minecraft",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-E16NJEF1",
+      "label": "Neo Geo pixel",
+      "text": "pixel art détaillé, chunky, Neo Geo style Metal Slug",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-L9O7AGXG",
+      "label": "Nostalgie pixel animé",
+      "text": "nostalgie colorée et énergique, style pixel animé",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-4SO2J03Z",
+      "label": "Owlboy poetic pixel",
+      "text": "pixel art haute résolution, ambiance fantasy poétique, style Owlboy",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-T18L1VOK",
+      "label": "Pixel 16-bit RPG fantasy",
+      "text": "pixel art, 16-bit RPG fantasy style",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-1KLR6JGM",
+      "label": "Pixel antique library",
+      "text": "pixel art architecture antique, immense bibliothèque inspirée de l’Owlboy style",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-S3LVH090",
+      "label": "Pixel brain exploding",
+      "text": "pixel art, brain exploding, knowledge --style raw",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-FGHN9VHG",
+      "label": "Pixel bridge top-down",
+      "text": "pixel art top-down fantasy bridge over river, ambiance aventure rétro",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-J242ZLWA",
+      "label": "Pixel café pluie",
+      "text": "8-bit pixel art, outside of a cozy cafe on a rainy day --ar 16:9",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-WYX06A47",
+      "label": "Pixel fantasy room",
+      "text": "pixel art mignon, salle de château avec décor fantasy, ambiance féerique",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-0XIO9F2H",
+      "label": "Pixel gothic Castlevania",
+      "text": "pixel art gothique, NES style Castlevania",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-QDKZMJSF",
+      "label": "Pixel knowledge",
+      "text": "pixel art, knowledge --style raw",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-A3YV4KNJ",
+      "label": "Pixel knowledge trends",
+      "text": "pixel art, knowledge, trends --style raw",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-IML35BKV",
+      "label": "Pixel temple grec gothique",
+      "text": "pixel art temple ancien inspiré de la Grèce antique dans une ambiance gothique",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-QX1NV8IF",
+      "label": "Pixel ville futur guerre",
+      "text": "pixel art ville détruite style guerre futuriste, ambiance sombre et détaillée",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-8X3DDI6R",
+      "label": "Portrait retro game",
+      "text": "Transform portrait into 90s video game pixel-art sprite… retro shading, neon outfit, dynamic battle pose",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-FZKEF47P",
+      "label": "Rainy pixel café",
+      "text": "pixel art 8-bit d’un jour pluvieux devant un café cosy, ambiance chaleureuse",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-7UKNTIHP",
+      "label": "RPG rétro calme",
+      "text": "scène calme de RPG rétro, architecture oubliée",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-3NEDHEPN",
+      "label": "SNES Zelda",
+      "text": "top-down 2D pixel art, style SNES Zelda",
+      "group": "Pixel art"
+    },
+    {
+      "id": "ENT-GQHIAJK3",
+      "label": "Cyberpunk japonais",
+      "text": "Cyberpunk japonais, néon, SF urbaine",
+      "group": "Techniques"
+    },
+    {
+      "id": "ENT-0E9Z08M7",
+      "label": "Ecobiology fisheye",
+      "text": "ecobiology representation fisheye style",
+      "group": "Techniques"
+    }
+  ],
+  "lighting": [
+    {
+      "id": "ENT-SWA7C16G",
+      "label": "Artificial",
+      "text": "Artificial lighting"
+    },
+    {
+      "id": "ENT-VJ2MM1K1",
+      "label": "Back lit",
+      "text": "Back lit",
+      "hint": "éclairage par l’arrière, halo ou silhouette"
+    },
+    {
+      "id": "ENT-B3BOSE7X",
+      "label": "Color wash",
+      "text": "Color wash",
+      "hint": "lumière colorée uniforme sur tout l’espace"
+    },
+    {
+      "id": "ENT-W8NMQBWJ",
+      "label": "Dawn/Dusk",
+      "text": "Dawn/Dusk lighting"
+    },
+    {
+      "id": "ENT-KT1V65CZ",
+      "label": "Diffused lighting",
+      "text": "Diffused lighting",
+      "hint": "lumière douce, sans ombres dures"
+    },
+    {
+      "id": "ENT-U72X63AJ",
+      "label": "Flash",
+      "text": "Flash lighting"
+    },
+    {
+      "id": "ENT-0QC1UM2M",
+      "label": "Hard lighting",
+      "text": "Hard lighting",
+      "hint": "lumière directe intense, ombres nettes"
+    },
+    {
+      "id": "ENT-UUMI6HOI",
+      "label": "High key",
+      "text": "High key lighting",
+      "hint": "très éclairé, peu d’ombres, joyeux"
+    },
+    {
+      "id": "ENT-17XV3GPN",
+      "label": "Lens flare",
+      "text": "Lens flare",
+      "hint": "effet lumineux stylisé sur l’objectif"
+    },
+    {
+      "id": "ENT-N5B85N9V",
+      "label": "Low key",
+      "text": "Low key lighting",
+      "hint": "sombre, ombres dominantes, dramatique"
+    },
+    {
+      "id": "ENT-BI69Y1SI",
+      "label": "Natural lighting",
+      "text": "Natural lighting",
+      "hint": "lumière uniquement naturelle"
+    },
+    {
+      "id": "ENT-COEPAGFU",
+      "label": "Practical lighting",
+      "text": "Practical lighting",
+      "hint": "sources visibles (lampes, néons) comme éclairage principal"
+    },
+    {
+      "id": "ENT-F5EG3M6V",
+      "label": "Rembrandt lighting",
+      "text": "Rembrandt lighting",
+      "hint": "triangle lumineux sous l’œil opposé à la lumière, effet cinématographique"
+    },
+    {
+      "id": "ENT-N5NXPL0U",
+      "label": "Side lit",
+      "text": "Side lit",
+      "hint": "lumière sur le côté, texture et relief"
+    },
+    {
+      "id": "ENT-7RVVBECJ",
+      "label": "Silhouette",
+      "text": "Silhouette",
+      "hint": "sujet noir sur fond lumineux, sans détails"
+    },
+    {
+      "id": "ENT-DIX5A9UR",
+      "label": "Split lighting",
+      "text": "Split lighting",
+      "hint": "moitié du visage éclairée, moitié ombre, effet dramatique"
+    },
+    {
+      "id": "ENT-39I04PSO",
+      "label": "Strobe lighting",
+      "text": "Strobe lighting",
+      "hint": "lumière clignotante ou pulsée (rave, panique)"
+    },
+    {
+      "id": "ENT-667Y5WFT",
+      "label": "Venetian lighting",
+      "text": "Venetian lighting",
+      "hint": "ombres en bandes (stores) film noir"
+    }
+  ],
+  "effects": [
+    {
+      "id": "ENT-BG3NC4DI",
+      "label": "Ascends",
+      "text": "Ascends",
+      "hint": "mouvement vers le haut, élévation"
+    },
+    {
+      "id": "ENT-MT4NI8HR",
+      "label": "Distorts",
+      "text": "Distorts",
+      "hint": "altération irrégulière"
+    },
+    {
+      "id": "ENT-DVJCSFZO",
+      "label": "Echoes",
+      "text": "Echoes",
+      "hint": "répétitions visuelles en décalé"
+    },
+    {
+      "id": "ENT-JNC0365M",
+      "label": "Emerges",
+      "text": "Emerges",
+      "hint": "apparition progressive"
+    },
+    {
+      "id": "ENT-YIHFGK3N",
+      "label": "Expands",
+      "text": "Expands",
+      "hint": "expansion soudaine ou progressive"
+    },
+    {
+      "id": "ENT-WKE1VSRC",
+      "label": "Explodes",
+      "text": "please provide the rail/subway map for Middle Earth in the third age, with accurate stops and taking into account natural barriers, alliances, and so on."
+    },
+    {
+      "id": "ENT-TV2UNT6K",
+      "label": "Flickers",
+      "text": "Flickers",
+      "hint": "apparition/disparition rapide"
+    },
+    {
+      "id": "ENT-AXPG39IB",
+      "label": "Flows",
+      "text": "Flows",
+      "hint": "mouvement fluide continu"
+    },
+    {
+      "id": "ENT-7J0TZ1FM",
+      "label": "Fractures",
+      "text": "Fractures",
+      "hint": "fissuration progressive"
+    },
+    {
+      "id": "ENT-XCGPTUNM",
+      "label": "Grows",
+      "text": "Grows",
+      "hint": "le sujet se développe progressivement"
+    },
+    {
+      "id": "ENT-IQCJ264R",
+      "label": "Implodes",
+      "text": "Implodes",
+      "hint": "contraction vers l'intérieur"
+    },
+    {
+      "id": "ENT-LD8ZLCX6",
+      "label": "Materializes",
+      "text": "Materializes",
+      "hint": "apparition soudaine/progressive"
+    },
+    {
+      "id": "ENT-OYYAN4ED",
+      "label": "Melts",
+      "text": "Melts",
+      "hint": "liquéfaction lente"
+    },
+    {
+      "id": "ENT-3OVPI6T3",
+      "label": "Ripples",
+      "text": "Ripples",
+      "hint": "propagation en cercles concentriques"
+    },
+    {
+      "id": "ENT-8STD645Q",
+      "label": "Shatters",
+      "text": "Shatters",
+      "hint": "cassure brutale de la forme"
+    },
+    {
+      "id": "ENT-0PMGBK7W",
+      "label": "Transforms",
+      "text": "Transforms",
+      "hint": "changement de forme, métamorphose"
+    },
+    {
+      "id": "ENT-6V0SDA0H",
+      "label": "Undulates",
+      "text": "Undulates",
+      "hint": "mouvement fluide ondulant"
+    },
+    {
+      "id": "ENT-AOTWA5UE",
+      "label": "Unfolds",
+      "text": "Unfolds",
+      "hint": "révélation progressive de l’image"
+    },
+    {
+      "id": "ENT-O6NYHJK1",
+      "label": "Vortex",
+      "text": "Vortex",
+      "hint": "spirale aspirante visuelle"
+    },
+    {
+      "id": "ENT-8EQFUUJS",
+      "label": "Warps",
+      "text": "Warps",
+      "hint": "déformation visuelle du sujet"
+    }
+  ],
+  "templates": [
+    {
+      "id": "ENT-SPBZXDM7",
+      "label": "Analyse de référence — Prompt 10 blocs (adaptation)",
+      "text": "Analyse l’image de référence jointe et propose un prompt permettant d’en recréer les caractéristiques visuelles selon les 10 blocs suivants : Subject Definition ; Action and Context ; Environment and Setting ; Mood and Story ; Visual Style and References ; Lighting and Color ; Camera and Composition ; Detail and Texture Control ; Quality and Realism Control ; Negative Constraints. Distingue les caractéristiques observables des hypothèses ; présente la focale et l’éclairage comme des estimations lorsqu’ils ne sont pas vérifiables. Termine par un prompt prêt à copier. Si aucune image n’est jointe, demande-la avant de commencer."
+    },
+    {
+      "id": "ENT-7FT7R3CU",
+      "label": "AR annotation template",
+      "text": "you are a location-based AR experience generator. highlight [point of interest] in this image and annotate relevant information about it."
+    },
+    {
+      "id": "ENT-Z1HKI1TU",
+      "label": "Capture ecran",
+      "text": "capture d’écran de <sujet>"
+    },
+    {
+      "id": "ENT-JQ4CSYJP",
+      "label": "Champs électromagnétiques",
+      "text": "<sujet> entouré de champs électromagnétiques"
+    },
+    {
+      "id": "ENT-PS3I6RUJ",
+      "label": "Collodion Process scene",
+      "text": "Collodion Process [Scene description], captured with a vintage Deardorff 8x10 camera, evoking a sense of nostalgia akin to early works of photography, [Weather and lighting]"
+    },
+    {
+      "id": "ENT-WQBJLE2V",
+      "label": "Emoji personnalisé",
+      "text": "emoji personnalisé de <sujet>"
+    },
+    {
+      "id": "ENT-X52KF5WY",
+      "label": "Fisheye",
+      "text": "<sujet>, pris avec un objectif fisheye"
+    },
+    {
+      "id": "ENT-7XC8FX7I",
+      "label": "Gel lighting",
+      "text": "[color] gel lighting : lumière colorée avec filtres gélatine"
+    },
+    {
+      "id": "ENT-9TD5E0OD",
+      "label": "Infographie sujet",
+      "text": "infographie annotée de <sujet>"
+    },
+    {
+      "id": "ENT-V1J2BJN2",
+      "label": "iOS UI mockup",
+      "text": "modern ios ui/ux design of a [type of app], professional ui design, award winning, figma"
+    },
+    {
+      "id": "ENT-GJY2BXH8",
+      "label": "Knolling",
+      "text": "<sujet>, en mode knolling. [facultatif : l’objet principal est <objet>. Les objets secondaires sont <objets>]"
+    },
+    {
+      "id": "ENT-WQK3UX82",
+      "label": "Météo urbaine — miniature isométrique",
+      "text": "CITY=Prague,Czechia\n\nPresent a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.\nUse a clean, minimalistic composition with a soft, solid-colored background.\n\nAt the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).\nAll text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.\nSquare 1080x1080 dimension."
+    },
+    {
+      "id": "ENT-AIKMC8FD",
+      "label": "Minecraft skin texture",
+      "text": "texture à plat d’un skin de <sujet>, compatible avec Minecraftskins.com ou Planet Minecraft"
+    },
+    {
+      "id": "ENT-4MW9S1HJ",
+      "label": "Mini humans clay",
+      "text": "Incorporate tiny human figures enjoying the store, soft clay textures, and a [palette]"
+    },
+    {
+      "id": "ENT-XEO07JG0",
+      "label": "Mini store concept",
+      "text": "Design a 3D miniature store shaped like a [brand item or logo], with a glowing neon [\"slogan\" or \"product name\"] sign above the entrance."
+    },
+    {
+      "id": "ENT-I1O5CMW1",
+      "label": "Neon logo an",
+      "text": "An [TYPE] neon logo of a [OBJECT/ANIMAL] in a green hoodie | the text [TEXT] is under the logo"
+    },
+    {
+      "id": "ENT-X5VDOJQT",
+      "label": "Octopath Traveler",
+      "text": "In-game screenshot in Octopath Traveler, party fighting a giant <subject>, setting <background>"
+    },
+    {
+      "id": "ENT-GPRI5KD3",
+      "label": "Office knolling pack",
+      "text": "4 large png images, vector illustration pack, knolling style, no border, white background, [people in office, meetings, presentations], in the style of animated illustrations, [office atmosphere], full body --style raw --stylize 50"
+    },
+    {
+      "id": "ENT-MXA4ULY5",
+      "label": "Panorama équirectangulaire 360° — template",
+      "text": "{\n      \"image_meta\": {\n        \"type\": \"360-degree Equirectangular Panorama Screenshot\",\n        \"source_aesthetic\": \"Google Street View Interface\",\n        \"platform\": \"Desktop Browser\",\n        \"projection\": \"Full spherical equirectangular\",\n        \"aspect_ratio\": \"2:1\",\n        \"resolution\": \"Ultra-high resolution panoramic capture\"\n      },\n      \"interface_overlay\": {\n        \"top_left_panel\": {\n          \"type\": \"Black info card\",\n          \"text_content\": \"Scaean Gate, Western Wall\",\n          \"sub_text\": \"Google Street View - Arrival of the Offering\",\n          \"icons\": \"Back arrow, Location pin, Kebab menu\"\n        },\n        \"search_bar\": {\n          \"position\": \"Top left floating\",\n          \"content\": \"Search Google Maps\",\n          \"icons\": \"Hamburger menu, Magnifying glass, Directions arrow\"\n        },\n        \"bottom_left\": {\n          \"element\": \"Map inset widget\",\n          \"style\": \"Ancient parchment-style minimap\",\n          \"labels\": \"City Wall Breach, Plains of Ilion\",\n          \"icons\": \"Landmark pins, yellow humanoid pegman\"\n        },\n        \"bottom_right\": {\n          \"controls\": \"Zoom (+/-) buttons, Compass widget, Street View navigation arrows\"\n        },\n        \"top_right\": \"Share button and Close (X) button pills\"\n      },\n      \"scene_composition\": {\n        \"location\": \"Directly under the massive stone arch of the Scaean Gate\",\n        \"camera_position\": \"Fixed at the center of the gate threshold\",\n        \"camera_height\": \"Google Street View vehicle-mounted height (anachronistic)\",\n        \"field_of_view\": \"360° horizontal, 180° vertical\",\n        \"projection_behavior\": \"Correct equirectangular distortion near poles\",\n        \"weather\": \"Dusty, hot midday sun, heat haze\",\n        \"depth_of_field\": \"Infinite focus (deep focus across entire panorama)\"\n      },\n      \"visual_elements\": {\n        \"foreground\": {\n          \"surface\": \"Deeply rutted stone threshold covered in sand and wooden rollers\",\n          \"markings\": \"No modern road markings\",\n          \"shadows\": \"Sharp, high-contrast shadows cast by the gate arch and the horse\"\n        },\n        \"midground_subjects\": {\n          \"central_object\": \"The towering wooden legs and chest of the Trojan Horse, tightly squeezed within the stone archway\",\n          \"pedestrians\": [\n            {\n              \"description\": \"Trojan workers and soldiers straining physically\",\n              \"attire\": \"Sweat-stained tunics, leather gloves, construction tools\",\n              \"action\": \"Heaving on thick hemp ropes, pushing the wooden legs, shouting commands\",\n              \"privacy_effect\": \"Faces blurred with modern Google Street View-style gaussian blur\"\n            }\n          ],\n          \"architecture\": {\n            \"walls\": \"Massive limestone blocks of the city gate looming on left and right\",\n            \"buildings\": \"The dismantled upper lintel of the gate (removed to fit the horse)\"\n          }\n        },\n        \"environment\": {\n          \"details\": \"Clouds of dust kicked up by workers, wooden logs used as rollers, spilled water skins\",\n          \"sky\": \"Bright blue sky visible through the top of the gate breach\",\n          \"ground\": \"Stone pavers obscured by sand and debris\",\n          \"atmosphere\": \"Laborious, chaotic, high physical exertion\"\n        }\n      },\n      \"rendering_style\": {\n        \"lighting\": \"Harsh directional sunlight cutting through the gate shadow\",\n        \"color_grading\": \"Sandy yellow and beige tones, realistic daylight balance\",\n        \"texture_quality\": {\n          \"description\": \"Digital Street View photography aesthetic\",\n          \"artifacts\": \"Slight JPEG compression, mild over-sharpening, potential stitching errors on moving ropes\",\n          \"stitching\": \"Seamless 360-degree panorama stitching\"\n        }\n      },\n      \"constraints\": {\n        \"must_keep\": [\n          \"Google Maps UI overlay\",\n          \"Street View spherical perspective\",\n          \"Privacy blur on faces\",\n          \"Sense of scale between the horse and the gate\"\n        ],\n        \"avoid\": [\n          \"Cinematic lighting\",\n          \"Fantasy aesthetics\",\n          \"Modern objects\",\n          \"Clean UI-less photography\",\n          \"Single-frame composition\"\n        ]\n      },\n      \"negative_prompt\": [\n        \"cinematic lighting\",\n        \"fantasy art\",\n        \"illustration\",\n        \"painting\",\n        \"modern city\",\n        \"cars\",\n        \"asphalt\",\n        \"hdr\",\n        \"depth blur\",\n        \"clean photograph\",\n        \"no ui\",\n        \"frame\",\n        \"border\",\n        \"cropped view\",\n        \"broken panorama seams\"\n      ]\n    }"
+    },
+    {
+      "id": "ENT-25EXQ9II",
+      "label": "Phosphorescent",
+      "text": "<sujet> phosphorescent"
+    },
+    {
+      "id": "ENT-82PWQXZG",
+      "label": "Pixel art Pokémon template",
+      "text": "[Pokémon name / subject], pixel art, icon, gameboy graphics, isolated"
+    },
+    {
+      "id": "ENT-4WWCQEHH",
+      "label": "Pixel art subject",
+      "text": "[subject], pixel art, icon, gameboy graphics, isolated"
+    },
+    {
+      "id": "ENT-S4G2MCTQ",
+      "label": "Portrait — générateur de neuf gros plans",
+      "text": "{\n\n\"project_name\": \"Auto_Cinematic_9_Closeup_Grid_Generator\",\n\n\"version\": \"4.0 (Portrait Close-Up Focus)\",\n\n\"aspect_ratio\": \"9:16 (Portrait/Vertical)\",\n\n\"grid_layout\": \"3x3 (9 panels total)\",\n\n\"instructions_for_ai\": {\n\n\"step_1_analysis\": \"Analyze the input image for: subject identity, facial structure, skin texture, micro-expressions, eye details, lighting direction (key, fill, rim), color grading, atmosphere, and emotional tone.\",\n\n\"step_2_inference\": \"If input is a close-up face, infer: hair styling, clothing/neckline, jewelry/accessories, and environmental context based on facial styling cues. Maintain absolute character consistency across all 9 panels.\",\n\n\"step_3_face_profile_variation\": \"CRITICAL: Each of the 9 grid panels must show the SAME SUBJECT but with a DIFFERENT FACIAL PROFILE/EXPRESSION. This means varying: head tilt (left/right/forward/back), gaze direction (looking at camera/away/up/down/side), facial expression (neutral/smile/serious/intense/contemplative/confident/vulnerable/playful/mysterious), and emotion. The subject's identity, styling, and lighting remain consistent—only the facial attitude and head positioning change.\",\n\n\"step_4_execution\": \"Generate a 3x3 grid in 9:16 aspect ratio. Each panel must precisely follow the camera shot and angle definitions below PLUS display a unique facial profile/expression combination. Ensure dramatic visual variety between panels while preserving lighting and color consistency.\"\n\n},\n\n\"camera_shot_angle_specifications\": {\n\n\"ECU\": {\n\n\"full_name\": \"Extreme Close-Up\",\n\n\"description\": \"Hyper-focused on a single facial feature (eyes, lips, or partial face detail). Frame fills with texture—pores, eyelashes, iris patterns. Crop extends beyond facial boundaries. Maximum intimacy and intensity.\",\n\n\"framing_notes\": \"Show only: eyes + bridge of nose, OR lips + chin, OR single eye. Emphasize micro-details and emotion.\"\n\n},\n\n\"CU\": {\n\n\"full_name\": \"Close-Up\",\n\n\"description\": \"Full face from forehead to chin, minimal headroom. Shoulders barely visible or cropped out. Standard dramatic portrait framing. Reveals complete facial expression and emotion.\",\n\n\"framing_notes\": \"Face occupies 70-85% of frame. Tight on features but complete face visible.\"\n\n},\n\n\"MCU\": {\n\n\"full_name\": \"Medium Close-Up\",\n\n\"description\": \"From mid-chest/collarbone to top of head. Shows face + upper torso. Reveals clothing neckline and jewelry. Classic interview/dialogue framing.\",\n\n\"framing_notes\": \"Face is prominent but context of upper body visible. Natural headroom above head.\"\n\n},\n\n\"HA_CU\": {\n\n\"full_name\": \"High Angle Close-Up\",\n\n\"description\": \"Camera elevated 30-45° above subject, looking down at face. Creates vulnerability, innocence, or submissiveness. Eyes often look upward toward camera.\",\n\n\"framing_notes\": \"Close-up framing from above. Top of head closer to camera, chin further away. Shows face from overhead perspective.\"\n\n},\n\n\"LA_CU\": {\n\n\"full_name\": \"Low Angle Close-Up\",\n\n\"description\": \"Camera positioned 30-45° below subject, looking up at face. Creates power, dominance, or intimidation. Emphasizes jawline and chin. Dramatic sky/ceiling background.\",\n\n\"framing_notes\": \"Close-up framing from below. Chin and jaw prominent, eyes looking down slightly. Nostrils may be partially visible.\"\n\n},\n\n\"P_CU\": {\n\n\"full_name\": \"Profile Close-Up\",\n\n\"description\": \"Pure 90° side view of face. Shows complete facial silhouette from forehead to chin. Reveals nose bridge, lips, and jaw contour. One eye visible.\",\n\n\"framing_notes\": \"Subject faces completely left or right. Only one side of face visible. Emphasize facial profile line.\"\n\n},\n\n\"ThreeQ_CU\": {\n\n\"full_name\": \"3/4 View Close-Up\",\n\n\"description\": \"Subject turned 45° from camera. Classic portrait angle. Shows facial depth and dimension. Both eyes visible but one is more prominent. Reveals cheekbone structure.\",\n\n\"framing_notes\": \"Most flattering angle. Shows facial contours naturally. Far side of face partially visible.\"\n\n},\n\n\"OTS_CU\": {\n\n\"full_name\": \"Over-The-Shoulder Close-Up\",\n\n\"description\": \"Camera behind an implied foreground shoulder/head (blurred), focusing on subject's face. Creates depth and conversational context.\",\n\n\"framing_notes\": \"Out-of-focus shoulder/hair in foreground (15-20% of frame). Subject's face sharp in background. Intimate yet contextual.\"\n\n},\n\n\"DU_CU\": {\n\n\"full_name\": \"Dutch Angle Close-Up\",\n\n\"description\": \"Camera tilted 15-30° on roll axis. Horizon line is diagonal. Creates unease, tension, psychological disorientation, or dynamic energy. Face remains close but composition feels unstable.\",\n\n\"framing_notes\": \"Close-up framing with tilted frame. Subject's face at an angle. Creates visual tension and drama.\"\n\n}\n\n},\n\n\"face_profile_variation_system\": {\n\n\"requirement\": \"Each of the 9 panels MUST show a DIFFERENT facial profile/expression while maintaining the same subject identity.\",\n\n\"variation_elements\": {\n\n\"head_position\": [\n\n\"Straight ahead\",\n\n\"Tilted left\",\n\n\"Tilted right\",\n\n\"Tilted back (chin up)\",\n\n\"Tilted forward (chin down)\",\n\n\"Turned slightly left\",\n\n\"Turned slightly right\"\n\n],\n\n\"gaze_direction\": [\n\n\"Direct eye contact with camera\",\n\n\"Looking away from camera (left/right)\",\n\n\"Looking up\",\n\n\"Looking down\",\n\n\"Looking over shoulder\",\n\n\"Eyes closed or half-closed\",\n\n\"Side-eye glance\"\n\n],\n\n\"facial_expression\": [\n\n\"Neutral/Relaxed\",\n\n\"Subtle smile\",\n\n\"Serious/Intense\",\n\n\"Confident/Powerful\",\n\n\"Contemplative/Thoughtful\",\n\n\"Mysterious/Enigmatic\",\n\n\"Playful/Slight smirk\",\n\n\"Vulnerable/Soft\",\n\n\"Fierce/Strong\"\n\n],\n\n\"emotion_energy\": [\n\n\"Calm and composed\",\n\n\"Energetic and dynamic\",\n\n\"Melancholic and introspective\",\n\n\"Bold and assertive\",\n\n\"Gentle and warm\"\n\n]\n\n},\n\n\"implementation_notes\": \"Combine different elements from each category to create 9 unique facial profiles. For example: Panel 1 might be 'head tilted right + looking at camera + confident smile', while Panel 2 is 'head straight + looking away + serious expression'. The AI should intelligently create variety across all 9 panels.\"\n\n},\n\n\"aspect_ratio\": \"9:16 (1080x1920px or equivalent)\",\n\n\"grid_dimensions\": \"3 columns × 3 rows\",\n\n\"panel_aspect_ratio\": \"Each panel maintains 9:16 portrait orientation\",\n\n\"labeling\": \"White sans-serif text abbreviations (ECU, CU, MCU, HA_CU, LA_CU, P_CU, ThreeQ_CU, OTS_CU, DU_CU) positioned in top-left corner of each panel with 5-10px padding. Use 50% opacity black background behind text for readability.\",\n\n\"consistency_requirements\": [\n\n\"Identical subject across all 9 panels (same person, ethnicity, age, gender)\",\n\n\"Same lighting setup (direction, color temperature, intensity)\",\n\n\"Matching color grading and tone\",\n\n\"Consistent hair, makeup, and wardrobe\",\n\n\"Same time of day/environment lighting\",\n\n\"DIFFERENT facial profile/expression in each panel (head position, gaze, emotion)\"\n\n]\n\n},\n\n\"grid_layout_order\": {\n\n\"description\": \"Panels arranged in 3×3 grid, reading left-to-right, top-to-bottom\",\n\n\"row_1\": [\"ECU\", \"CU\", \"MCU\"],\n\n\"row_2\": [\"HA_CU\", \"LA_CU\", \"P_CU\"],\n\n\"row_3\": [\"ThreeQ_CU\", \"OTS_CU\", \"DU_CU\"]\n\n},\n\n\"quality_requirements\": {\n\n\"photorealism\": \"Hyper-realistic rendering. Skin texture must show pores, fine lines, hair strands. Eyes must have catchlights and iris detail.\",\n\n\"lighting\": \"Professional cinematic lighting with clear key light direction. Rim light for separation. Natural falloff and shadows.\",\n\n\"focus\": \"Razor-sharp focus on eyes (in shots where eyes are visible). Shallow depth of field where appropriate (especially OTS_CU).\",\n\n\"color_grading\": \"Professional cinematic color grade. Match the input image's color palette precisely. Consistent across all panels.\",\n\n\"composition\": \"Each shot must feel intentional and cinematic. Avoid dead center framing except where appropriate. Use rule of thirds and leading lines.\"\n\n},\n\n\"common_mistakes_to_avoid\": [\n\n\"Do NOT make all shots look similar—each must be DISTINCTLY different in angle/framing AND facial profile\",\n\n\"Do NOT use the same facial expression in multiple panels—each must show different emotion/gaze/head position\",\n\n\"Do NOT change the subject's appearance, outfit, or styling between panels\",\n\n\"Do NOT use flat, even lighting—maintain dramatic cinematic lighting with depth\",\n\n\"Do NOT center the subject in every shot—vary composition within each shot type\",\n\n\"Do NOT forget the camera angle—HA_CU must look DOWN, LA_CU must look UP, etc.\",\n\n\"Do NOT make Profile (P_CU) a 3/4 view—it must be exactly 90° side view\",\n\n\"Do NOT skip the label text abbreviations in each panel corner\",\n\n\"Do NOT repeat head positions or facial expressions across panels—maximize variety\"\n\n],\n\n\"final_prompt_instruction\": \"Using the provided input image as absolute reference for character identity, style, and lighting, generate a PHOTOREALISTIC 3x3 grid collage in 9:16 PORTRAIT aspect ratio. Each panel showcases a different close-up camera shot/angle as defined in 'camera_shot_angle_specifications' AND displays a UNIQUE FACIAL PROFILE/EXPRESSION.\\n\\nKey Requirements:\\n- Aspect Ratio: 9:16 vertical/portrait orientation\\n- Grid: 3 rows × 3 columns = 9 panels total\\n- Each panel maintains 9:16 portrait format\\n- Labels: White text abbreviations (ECU, CU, MCU, etc.) in top-left corner of each panel\\n- Character Consistency: SAME person, hair, makeup, clothing, lighting across all panels\\n- Facial Profile Variation: DIFFERENT head position, gaze direction, and facial expression in EACH panel\\n- No Repeated Expressions: Each of the 9 panels must show a unique emotional state/facial attitude\\n- Camera Variety: Each shot must look SIGNIFICANTLY different due to camera angle/distance\\n- Lighting: Match input image exactly—same direction, quality, color temperature\\n- Photorealism: Professional cinematic quality with realistic skin texture, eyes, and details\\n\\nGrid Order:\\nRow 1: ECU | CU | MCU\\nRow 2: HA_CU | LA_CU | P_CU\\nRow 3: ThreeQ_CU | OTS_CU | DU_CU\\n\\nIMPORTANT: The SUBJECT stays consistent (same person, styling, lighting); the CAMERA ANGLE changes (distance/position); and the FACIAL PROFILE changes (head tilt, gaze, expression). All three elements combine to create 9 completely unique yet cohesive panels showing the full range of the subject's cinematic presence.\"}"
+    },
+    {
+      "id": "ENT-ARHH242I",
+      "label": "Prompt Ukiyo-e modèle",
+      "text": "Une illustration dans le style Ukiyo-e japonais traditionnel, représentant [ton sujet]..."
+    },
+    {
+      "id": "ENT-PBGS739X",
+      "label": "Satellite photo",
+      "text": "photo satellite de <sujet>"
+    },
+    {
+      "id": "ENT-5MLVJ54D",
+      "label": "Schéma en coupe",
+      "text": "schéma en coupe de <sujet>"
+    },
+    {
+      "id": "ENT-3F60DH4B",
+      "label": "Sticker prédécoupé",
+      "text": "sticker prédécoupé avec <sujet>"
+    },
+    {
+      "id": "ENT-BUW79QY3",
+      "label": "Style Aubusson / Tolkien",
+      "text": "[Sujet ou scène détaillée], depicted in the style of an Aubusson tapestry, inspired by Tolkien's illustrations, flat color surfaces, bold outlines, medieval-fantasy composition, detailed textures of woven wool, large ornamental background, stylized perspective, intricate storytelling elements, subdued lighting, no gradients"
+    },
+    {
+      "id": "ENT-M7IDGFO5",
+      "label": "Tatouage sujet",
+      "text": "un tatouage qui contient <sujet>. [facultatif : mis en situation <endroit du corps>]"
+    },
+    {
+      "id": "ENT-8YF2HBKQ",
+      "label": "Technical architecture diagram",
+      "text": "Create a technical architecture diagram illustrating [describe the diagram in detail]"
+    },
+    {
+      "id": "ENT-OSLEIS6Z",
+      "label": "Template animated png",
+      "text": "png white background, [subject], in the style of animated illustrations, [environment], full body, text-based --style raw --stylize 0"
+    },
+    {
+      "id": "ENT-CKJODO9R",
+      "label": "Template big tech png",
+      "text": "png white background, [subject], in the style of big tech illustrations, [environment], full body, text-based --style raw"
+    },
+    {
+      "id": "ENT-R83SVG0B",
+      "label": "Template brand item",
+      "text": "[brand item or logo]: Choose a recognizable, iconic product shape (e.g., bottle, snack, sneaker, mascot)."
+    },
+    {
+      "id": "ENT-ZR8ZBIX0",
+      "label": "Template brand name",
+      "text": "[brand name]: Repeat the brand’s name here to reinforce its personality."
+    },
+    {
+      "id": "ENT-41LP1FEH",
+      "label": "Template color palette",
+      "text": "[color scheme or palette]: Stick to brand colors or creative variants (pastels, neons, warm tones)."
+    },
+    {
+      "id": "ENT-UU9IQ6YU",
+      "label": "Template image — Framework 10 blocs",
+      "text": "Subject Definition: [main subject with 2 to 4 defining traits]\nAction and Context: [what the subject is doing + a small purpose]\nEnvironment and Setting: [location + time of day + key surroundings]\nMood and Story: [emotion + implied narrative beat]\nVisual Style and References: [style, era, medium, genre, influences]\nLighting and Color: [lighting type + direction + color palette + grading]\nCamera and Composition: [lens mm, shot type, angle, framing, depth of field]\nDetail and Texture Control: [materials, surface details, micro texture, realism cues]\nQuality and Realism Control: [realism level, sharpness, high fidelity, cinematic polish]\nNegative Constraints: [no text, no watermark, no extra limbs, no distortion, no blur, no artifacts]"
+    },
+    {
+      "id": "ENT-P4K4GJCZ",
+      "label": "Version pixellisée",
+      "text": "<sujet> en version pixellisée"
+    },
+    {
+      "id": "ENT-YYT9VYOS",
+      "label": "Ville miniature sculptée dans un ruban",
+      "text": "A silk ribbon unfurls diagonally across the canvas, twisting gently in mid-air. Within the folds of the ribbon exists a miniature sculpted city of [CITY], carved as a 3D bas-relief emerging from woven fabric textures.\n\nInside the ribbon: Landmarks, streets, and skyline rhythms of [CITY], flowing naturally with the ribbon’s curvature, layered in subtle depth.\n\nStyle: Fabric realism fused with sculptural relief. Soft highlights, tactile folds, elegant poster design.\n\nColor palette: Derived from the national flag of [COUNTRY], woven seamlessly into the fabric tones. View & background: Top-down minimalist layout, off-white museum paper texture, strong negative space.\n\nTypography: Title: “[CITY] UNFOLDED” Refined serif subtitle with poetic geographic language.\n\nComposition rules: All architectural detail remains strictly inside the ribbon shape. Ultra-detailed, HDR, gallery-grade, 8K poster aesthetic."
+    },
+    {
+      "id": "ENT-0CPEUPQA",
+      "label": "Vision thermique",
+      "text": "<sujet> en vision thermique. <élément(s)2> représenté(s) avec des gradients chauds <élément (s)3> avec des gradients froids."
+    },
+    {
+      "id": "ENT-STMS50QN",
+      "label": "Whimsical isometric brand",
+      "text": "scene whimsical and playful, viewed isometrically, high detail, capturing [brand name] essence"
+    },
+    {
+      "id": "ENT-LZLX9K2I",
+      "label": "Wow concepts",
+      "text": "Générer une liste de dix concepts \"wow\" pour créer des photos à couper le souffle de [SUJET]"
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "excl-1",
+      "label": "Texte et habillage",
+      "text": "No text, no watermark, no logo, no signature, no frame, no UI elements"
+    },
+    {
+      "id": "excl-2",
+      "label": "Anatomie",
+      "text": "No extra limbs, no extra fingers, no fused hands, no distorted anatomy"
+    },
+    {
+      "id": "excl-3",
+      "label": "Netteté et définition",
+      "text": "No blurry face, no out of focus subject, no low resolution, no compression artifacts"
+    },
+    {
+      "id": "excl-4",
+      "label": "Cohérence des objets",
+      "text": "No duplicated subjects, no warped geometry, no unnatural reflections, no melted objects"
+    },
+    {
+      "id": "excl-5",
+      "label": "Peau et visage",
+      "text": "No over-smoothed skin, no plastic texture, no uncanny eyes"
+    }
+  ],
+  "moods": [
+    {
+      "label": "Poétique",
+      "count": 32
+    },
+    {
+      "label": "Dramatique",
+      "count": 29
+    },
+    {
+      "label": "Nostalgique",
+      "count": 24
+    },
+    {
+      "label": "Chaleureux",
+      "count": 19
+    },
+    {
+      "label": "Magique",
+      "count": 17
+    },
+    {
+      "label": "Intense",
+      "count": 16
+    },
+    {
+      "label": "Mystérieux",
+      "count": 16
+    },
+    {
+      "label": "Doux",
+      "count": 13
+    },
+    {
+      "label": "Mélancolique",
+      "count": 13
+    },
+    {
+      "label": "Humoristique",
+      "count": 12
+    },
+    {
+      "label": "Sombre",
+      "count": 12
+    },
+    {
+      "label": "Aventure",
+      "count": 11
+    },
+    {
+      "label": "Épique",
+      "count": 11
+    },
+    {
+      "label": "Paisible",
+      "count": 11
+    },
+    {
+      "label": "Symbolique",
+      "count": 10
+    },
+    {
+      "label": "Vibrant",
+      "count": 10
+    },
+    {
+      "label": "Calme",
+      "count": 8
+    },
+    {
+      "label": "Élégant",
+      "count": 8
+    },
+    {
+      "label": "Ludique",
+      "count": 8
+    },
+    {
+      "label": "Artistique",
+      "count": 7
+    },
+    {
+      "label": "Historique",
+      "count": 7
+    },
+    {
+      "label": "Urbain",
+      "count": 7
+    },
+    {
+      "label": "Contemplatif",
+      "count": 6
+    },
+    {
+      "label": "Dynamique",
+      "count": 6
+    },
+    {
+      "label": "Émotionnel",
+      "count": 6
+    },
+    {
+      "label": "Festif",
+      "count": 6
+    },
+    {
+      "label": "Futuriste",
+      "count": 6
+    },
+    {
+      "label": "Héroïque",
+      "count": 6
+    },
+    {
+      "label": "Joyeux",
+      "count": 6
+    },
+    {
+      "label": "Mignon",
+      "count": 6
+    },
+    {
+      "label": "Mystique",
+      "count": 6
+    },
+    {
+      "label": "Naturel",
+      "count": 6
+    },
+    {
+      "label": "Onirique",
+      "count": 6
+    },
+    {
+      "label": "Spirituel",
+      "count": 6
+    },
+    {
+      "label": "Abstrait",
+      "count": 5
+    },
+    {
+      "label": "Fun",
+      "count": 5
+    },
+    {
+      "label": "Introspectif",
+      "count": 5
+    },
+    {
+      "label": "Moderne",
+      "count": 5
+    },
+    {
+      "label": "Pédagogique",
+      "count": 5
+    },
+    {
+      "label": "Rétro",
+      "count": 5
+    }
+  ],
+  "eras": [
+    {
+      "label": "Contemporain",
+      "count": 123
+    },
+    {
+      "label": "Années 90",
+      "count": 10
+    },
+    {
+      "label": "Années 80-90",
+      "count": 8
+    },
+    {
+      "label": "Années 2000",
+      "count": 7
+    },
+    {
+      "label": "Années 2010",
+      "count": 6
+    },
+    {
+      "label": "Japon traditionnel",
+      "count": 6
+    },
+    {
+      "label": "Années 2000+",
+      "count": 5
+    },
+    {
+      "label": "Années 80-2000",
+      "count": 5
+    },
+    {
+      "label": "Années 90-2020",
+      "count": 5
+    },
+    {
+      "label": "Futuriste",
+      "count": 5
+    },
+    {
+      "label": "Années 80",
+      "count": 4
+    },
+    {
+      "label": "Japon féodal",
+      "count": 4
+    },
+    {
+      "label": "Années 40-60",
+      "count": 3
+    },
+    {
+      "label": "Contemporain fantasy",
+      "count": 3
+    },
+    {
+      "label": "Fantasy",
+      "count": 3
+    },
+    {
+      "label": "Fantasy rétro",
+      "count": 3
+    },
+    {
+      "label": "Médiéval-fantasy",
+      "count": 3
+    }
+  ]
+}

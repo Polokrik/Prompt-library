@@ -5,11 +5,27 @@ import { makeEntry } from './fixtures.ts';
 
 describe('noms de fichiers d’images', () => {
   it('lit la référence et l’outil (ID__Outil)', () => {
-    expect(parseImageStem('ENT-ABC__Midjourney v7')).toEqual({ ref: 'ENT-ABC', tool: 'Midjourney v7' });
-    expect(parseImageStem('ENT-ABC__Midjourney_v7')).toEqual({ ref: 'ENT-ABC', tool: 'Midjourney v7' });
-    expect(parseImageStem('ENT-ABC__GPT-4o')).toEqual({ ref: 'ENT-ABC', tool: 'GPT-4o' });
-    expect(parseImageStem('ext-104')).toEqual({ ref: 'ext-104' });
-    expect(parseImageStem('ENT-ABC__')).toEqual({ ref: 'ENT-ABC' });
+    expect(parseImageStem('ENT-ABC__Midjourney v7')).toEqual({ ref: 'ENT-ABC', tool: 'Midjourney v7', rank: 0 });
+    expect(parseImageStem('ENT-ABC__Midjourney_v7')).toEqual({ ref: 'ENT-ABC', tool: 'Midjourney v7', rank: 0 });
+    expect(parseImageStem('ENT-ABC__GPT-4o')).toEqual({ ref: 'ENT-ABC', tool: 'GPT-4o', rank: 0 });
+    expect(parseImageStem('ext-104')).toEqual({ ref: 'ext-104', rank: 0 });
+    expect(parseImageStem('ENT-ABC__')).toEqual({ ref: 'ENT-ABC', rank: 0 });
+  });
+
+  it('reconnaît le nommage des images du site source (archive-40-gemini, 309-slug-1)', () => {
+    expect(parseImageStem('archive-40-gemini')).toMatchObject({ altRef: 'ext-40', tool: 'gemini' });
+    expect(parseImageStem('archive-100-gpt4o')).toMatchObject({ altRef: 'ext-100', tool: 'gpt4o' });
+    expect(parseImageStem('309-ceramique-la-glacure-bleue-1')).toMatchObject({ altRef: 'ext-309', rank: 1 });
+    expect(parseImageStem('309-ceramique-la-glacure-bleue-2').rank).toBe(2);
+    expect(parseImageStem('323-jazz-une-affiche-qui-a-du-rythme')).toMatchObject({ altRef: 'ext-323' });
+    expect(parseImageStem('archive-40-gemini').rank).toBeGreaterThan(parseImageStem('309-x-9').rank);
+    expect(parseImageStem('ENT-ABC').altRef).toBeUndefined();
+  });
+
+  it('accepte l’ordre « Outil_ID » (OpenAI_ext-104)', () => {
+    expect(parseImageStem('OpenAI_ext-104')).toMatchObject({ altRef: 'ext-104', altTool: 'OpenAI' });
+    expect(parseImageStem('GPT_4o_ENT-ABC')).toMatchObject({ altRef: 'ENT-ABC', altTool: 'GPT 4o' });
+    expect(parseImageStem('Midjourney v7_ENT-ABC')).toMatchObject({ altRef: 'ENT-ABC', altTool: 'Midjourney v7' });
   });
 
   it('résout un identifiant (casse ignorée) ou un titre unique, jamais un titre ambigu ou inconnu', () => {

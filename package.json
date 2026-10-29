@@ -44,7 +44,8 @@
     "detect:duplicates": "node scripts/detect-duplicates.mts",
     "validate": "node scripts/validate-library.mts",
     "generate": "node scripts/generate-library.mts",
-    "refresh": "node scripts/import-excel.mts --auto && node scripts/optimize-images.mts && node scripts/normalize.mts && node scripts/merge.mts && node scripts/detect-duplicates.mts && node scripts/validate-library.mts --input=generated/merged.json && node scripts/generate-library.mts && node scripts/validate-library.mts",
-    "refresh:full": "node scripts/import-excel.mts --full && node scripts/optimize-images.mts && node scripts/normalize.mts && node scripts/merge.mts && node scripts/detect-duplicates.mts && node scripts/validate-library.mts --input=generated/merged.json && node scripts/generate-library.mts && node scripts/validate-library.mts"
+    "generate:composer": "node scripts/generate-composer.mts",
+    "refresh": "node scripts/import-excel.mts --auto && node scripts/optimize-images.mts && node scripts/normalize.mts && node scripts/merge.mts && node scripts/detect-duplicates.mts && node scripts/validate-library.mts --input=generated/merged.json && node scripts/generate-library.mts && node scripts/generate-composer.mts && node scripts/validate-library.mts",
+    "refresh:full": "node scripts/import-excel.mts --full && node scripts/optimize-images.mts && node scripts/normalize.mts && node scripts/merge.mts && node scripts/detect-duplicates.mts && node scripts/validate-library.mts --input=generated/merged.json && node scripts/generate-library.mts && node scripts/generate-composer.mts && node scripts/validate-library.mts"
   }
 }

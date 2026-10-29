@@ -33,19 +33,42 @@ export function buildRefIndex(entries: readonly RefEntry[]) {
   };
 }
 
+export interface ImageStem {
+  ref: string;
+  /** Autre référence à essayer si `ref` ne correspond à aucune fiche (nommage numérique de la source externe). */
+  altRef?: string;
+  /** Outil lu avec `altRef` (nommage « Outil_ID »). */
+  altTool?: string;
+  tool?: string;
+  /** Ordre de préférence quand plusieurs images visent la même fiche (plus petit = prioritaire). */
+  rank: number;
+}
+
 /**
- * Nom de fichier d'image : `<référence>.<ext>` ou `<référence>__<outil>.<ext>`.
- * L'outil : les tirets bas deviennent des espaces (« Midjourney_v7 » -> « Midjourney v7 ») ; les tirets sont conservés (« GPT-4o »).
+ * Nom de fichier d'image :
+ * - `<référence>.<ext>` ou `<référence>__<outil>.<ext>` (référence = identifiant ou titre exact unique) ;
+ *   l'outil : les tirets bas deviennent des espaces (« Midjourney_v7 » -> « Midjourney v7 »), les tirets sont conservés (« GPT-4o »).
+ * - ordre inverse `<outil>_<référence>.<ext>` (ex. `OpenAI_ext-104.png`, `Midjourney v7_ENT-VNHZB48D.jpg`) : le texte après
+ *   le DERNIER tiret bas est essayé comme référence ;
+ * - nommage des images du site source : `archive-40-gemini` (fiche ext-40, outil « gemini »)
+ *   et `309-ceramique-la-glacure-bleue-1` (fiche ext-309, image n° 1).
  */
-export function parseImageStem(stem: string): { ref: string; tool?: string } {
+export function parseImageStem(stem: string): ImageStem {
   const i = stem.indexOf('__');
-  if (i < 0) return { ref: stem.trim() };
-  const tool = stem
-    .slice(i + 2)
-    .replace(/_+/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-  return { ref: stem.slice(0, i).trim(), ...(tool ? { tool } : {}) };
+  if (i >= 0) {
+    const tool = stem.slice(i + 2).replace(/_+/g, ' ').replace(/\s+/g, ' ').trim();
+    return { ref: stem.slice(0, i).trim(), ...(tool ? { tool } : {}), rank: 0 };
+  }
+  const archive = /^archive-(\d+)-(.+)$/i.exec(stem);
+  if (archive) return { ref: stem.trim(), altRef: `ext-${archive[1]}`, tool: archive[2]!.replace(/_+/g, ' ').trim(), rank: 1000 };
+  const numbered = /^(\d+)-(.+?)(?:-(\d+))?$/.exec(stem);
+  if (numbered) return { ref: stem.trim(), altRef: `ext-${numbered[1]}`, rank: Number(numbered[3] ?? 1) };
+  const us = stem.lastIndexOf('_');
+  if (us > 0 && us < stem.length - 1) {
+    const altTool = stem.slice(0, us).replace(/_+/g, ' ').trim();
+    return { ref: stem.trim(), altRef: stem.slice(us + 1).trim(), ...(altTool ? { altTool } : {}), rank: 0 };
+  }
+  return { ref: stem.trim(), rank: 0 };
 }
 
 /** descriptions.txt : une ligne `référence | description` ; lignes vides et `#` ignorées. */

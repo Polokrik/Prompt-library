@@ -51,6 +51,9 @@ export function Detail({ id, lookup = entriesById }: { id: string; lookup?: Map<
               <CopyButton text={entry.prompt} accessibleName={`Copier le prompt : ${entry.title}`} />
               <FavoriteButton id={entry.id} title={entry.title} withLabel />
             </div>
+            <p className="compose-line">
+              Envie de l’adapter ? <a href={href('composeur', new URLSearchParams({ from: entry.id }))}>Modifier ce prompt dans le composeur →</a>
+            </p>
           </section>
 
           {variants.length > 0 ? (

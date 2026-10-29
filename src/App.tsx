@@ -8,6 +8,8 @@ import { NotFound } from './pages/NotFound.tsx';
 import { useRoute } from './utils/router.ts';
 import { SITE } from './config/site.ts';
 
+const Composer = lazy(() => import('./pages/Composer.tsx'));
+
 // La vue de revue n'existe qu'en développement : le bloc est supprimé du build de production.
 const Review = import.meta.env.DEV ? lazy(() => import('./features/review/Review.tsx')) : null;
 
@@ -33,6 +35,7 @@ export function App() {
       bibliotheque: 'Bibliothèque',
       favoris: 'Favoris',
       'a-propos': 'À propos',
+      composeur: 'Composeur',
       fiche: 'Fiche',
       revue: 'Revue',
     };
@@ -56,6 +59,13 @@ export function App() {
       break;
     case 'a-propos':
       page = <About />;
+      break;
+    case 'composeur':
+      page = (
+        <Suspense fallback={<p>Chargement du composeur…</p>}>
+          <Composer />
+        </Suspense>
+      );
       break;
     case 'revue':
       page = Review ? (

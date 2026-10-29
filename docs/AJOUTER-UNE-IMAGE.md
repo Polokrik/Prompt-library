@@ -2,8 +2,9 @@
 
 ## Méthode directe sur GitHub (la plus simple, sans terminal)
 
-1. **Nommer l'image** : `IDENTIFIANT__Outil.jpg`, par exemple
-   `ENT-VNHZB48D__Midjourney v7.jpg` ou `ext-104__GPT-4o.png`.
+1. **Nommer l'image** : `IDENTIFIANT__Outil.jpg` **ou** `Outil_IDENTIFIANT.jpg`, par exemple
+   `ENT-VNHZB48D__Midjourney v7.jpg`, `ext-104__GPT-4o.png` ou `OpenAI_ext-104.png`.
+   Les noms du site source sont aussi compris : `archive-40-gemini` (fiche ext-40, outil gemini) et `309-ceramique-la-glacure-bleue-1` (fiche ext-309, image n° 1 ; les `archive-…` ne servent que s'il n'y a pas d'image n° 1).
    - L'identifiant est à la fin de l'adresse de la fiche (`…/#/fiche/ENT-VNHZB48D`).
    - Le titre exact de la fiche est accepté à la place de l'identifiant **s'il est unique** (sinon l'image est signalée, jamais devinée).
    - Après `__`, l'outil IA ; un tiret bas devient un espace (`Midjourney_v7` → « Midjourney v7 »). Sans `__Outil`, aucun outil n'est enregistré.

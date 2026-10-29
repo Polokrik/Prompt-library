@@ -140,7 +140,7 @@ input[type='checkbox'] { width: 1.4rem; height: 1.4rem; accent-color: var(--acce
 .count { margin: 0; font: 600 1rem var(--mono); }
 .toolbar .field--grow, .more, .toolbar__foot { grid-column: 1 / -1; }
 @media (min-width: 48rem) {
-  .toolbar { grid-template-columns: 2fr 1fr 1fr; align-items: end; }
+  .toolbar { grid-template-columns: 2fr 1fr 1fr 1fr; align-items: end; }
   .toolbar .field--grow { grid-column: auto; }
 }
 
@@ -233,3 +233,32 @@ input[type='checkbox'] { width: 1.4rem; height: 1.4rem; accent-color: var(--acce
   html { scroll-behavior: auto; }
   * { animation: none !important; transition: none !important; }
 }
+
+/* --- Composeur ------------------------------------------------------------------------ */
+.compose-line { margin: 0.75rem 0 0; }
+.composer__skip { margin: 0 0 1rem; font-size: 0.9rem; }
+.composer__layout { display: grid; gap: 2rem; grid-template-columns: 1fr; }
+@media (min-width: 60rem) {
+  .composer__layout { grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 3rem; align-items: start; }
+  .composer__result { position: sticky; top: 1rem; }
+  .composer__skip { display: none; }
+}
+.composer__form { display: grid; gap: 1.1rem; }
+.composer fieldset { border: 1px solid var(--rule); padding: 1rem; margin: 0; display: grid; gap: 0.9rem; min-width: 0; }
+.composer legend { font: 700 0.85rem var(--sans); letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); padding: 0 0.4rem; }
+.composer textarea {
+  font: 1rem/1.5 var(--sans); color: var(--ink); background: var(--paper); border: 2px solid var(--ink); border-radius: 0;
+  padding: 0.6rem 0.75rem; width: 100%; resize: vertical;
+}
+.field__hint { margin: 0; font-size: 0.85rem; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; list-style: none; margin: 0; padding: 0; }
+.chip { display: inline-flex; align-items: center; gap: 0.4rem; min-height: 2.75rem; padding: 0 0.8rem; border: 1.5px solid var(--ink); cursor: pointer; font: 500 0.9rem var(--sans); text-transform: none; letter-spacing: 0; color: var(--ink); }
+.chip:has(input:checked) { background: var(--ink); color: var(--paper); }
+.chip input { width: 1.1rem; height: 1.1rem; }
+.chip:has(input:focus-visible) { outline: 3px solid var(--focus); outline-offset: 3px; }
+.checks { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.6rem; }
+.check { display: flex; gap: 0.7rem; align-items: flex-start; text-transform: none; letter-spacing: 0; font: 500 0.95rem/1.4 var(--sans); color: var(--ink); min-height: 2.75rem; }
+.check input { margin-top: 0.2rem; flex: none; }
+.check__text { color: var(--muted); font-weight: 400; }
+.composer__result h2 { margin-top: 0; }
+.composer__empty { color: var(--muted); font-style: italic; border: 1px dashed var(--rule); padding: 1.5rem; margin: 0 0 1rem; }
