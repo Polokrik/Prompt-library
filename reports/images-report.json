@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T13:48:55.529Z",
+  "generatedAt": "2026-10-29T14:02:00.560Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -11,20 +11,41 @@
       "quality": 82
     }
   },
-  "sourcesFound": 913,
+  "sourcesFound": 946,
   "processed": [
-    "ENT-2KVTXUFV",
-    "ENT-4R4PLCHM",
-    "ENT-CALDO3XH",
-    "ext-111",
-    "ext-119",
-    "ext-121",
-    "ext-129",
-    "ext-131",
-    "ext-138",
-    "ext-139",
-    "ext-140",
-    "ext-141"
+    "ENT-7M1X64BM",
+    "ENT-JINHFHYN",
+    "ENT-MWGRGZKG",
+    "ENT-S91YWLSX",
+    "ENT-VNHZB48D",
+    "ext-101",
+    "ext-102",
+    "ext-106",
+    "ext-107",
+    "ext-108",
+    "ext-109",
+    "ext-110",
+    "ext-112",
+    "ext-113",
+    "ext-114",
+    "ext-115",
+    "ext-116",
+    "ext-117",
+    "ext-118",
+    "ext-120",
+    "ext-122",
+    "ext-123",
+    "ext-124",
+    "ext-126",
+    "ext-127",
+    "ext-128",
+    "ext-130",
+    "ext-132",
+    "ext-133",
+    "ext-134",
+    "ext-135",
+    "ext-136",
+    "ext-137"
   ],
   "skippedUnchanged": [
     "ext-305",
@@ -202,6 +223,18 @@
     "ext-97",
     "ext-98",
     "ext-99",
+    "ENT-2KVTXUFV",
+    "ENT-4R4PLCHM",
+    "ENT-CALDO3XH",
+    "ext-111",
+    "ext-119",
+    "ext-121",
+    "ext-129",
+    "ext-131",
+    "ext-138",
+    "ext-139",
+    "ext-140",
+    "ext-141",
     "ext-style-1",
     "ext-style-2",
     "ext-style-3",
@@ -930,16 +963,12 @@
     "ext-ym-9981"
   ],
   "invalid": [],
-  "absentForKnownEntries": 641,
+  "absentForKnownEntries": 608,
   "absentSample": [
-    "ENT-VNHZB48D",
     "ENT-348NIYT0",
     "ENT-22XO7WI9",
-    "ENT-S91YWLSX",
-    "ENT-7M1X64BM",
     "ENT-MI8WSEPA",
     "ENT-9TE97400",
-    "ENT-JINHFHYN",
     "ENT-DDM3W2A6",
     "ENT-0M7O5AOP",
     "ENT-3UCTMD96",
@@ -969,7 +998,6 @@
     "ENT-QEEFFLM7",
     "ENT-KIEIW0OU",
     "ENT-X3A1G5Q9",
-    "ENT-MWGRGZKG",
     "ENT-TM1YRX59",
     "ENT-Z1HKI1TU",
     "ENT-QU0XFJ4P",
@@ -981,9 +1009,30 @@
     "ENT-3V26L5MP",
     "ENT-JQ4CSYJP",
     "ENT-UH7LXUME",
-    "ENT-ATR2H8KO"
+    "ENT-ATR2H8KO",
+    "ENT-F092NSWX",
+    "ENT-2TC3FG9X",
+    "ENT-YHGFCVN6",
+    "ENT-CYZWMRTP",
+    "ENT-YH48GMW5"
   ],
-  "heavyOutputs": [],
+  "heavyOutputs": [
+    {
+      "id": "ENT-7M1X64BM",
+      "kind": "thumbnail",
+      "bytes": 182844
+    },
+    {
+      "id": "ENT-7M1X64BM",
+      "kind": "large",
+      "bytes": 696078
+    },
+    {
+      "id": "ext-128",
+      "kind": "large",
+      "bytes": 552648
+    }
+  ],
   "unresolvedSourceFiles": [
     {
       "file": "imports/images/image2.5_xt-125.webp",
