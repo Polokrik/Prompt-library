@@ -17,10 +17,12 @@ export function Library({ favoritesView = false }: { favoritesView?: boolean }) 
   const route = useRoute();
   const favorites = useFavorites();
   const base = filtersFromParams(route.params);
-  const filters: Filters = favoritesView ? { ...base, favoritesOnly: true } : base;
+  // Par défaut, la bibliothèque n'affiche que les fiches illustrées ; la personne peut tout voir (imageOnly=false).
+  const imageOnly = !favoritesView && route.params.get('imageOnly') !== 'false';
+  const filters: Filters = favoritesView ? { ...base, favoritesOnly: true, imageOnly } : { ...base, imageOnly };
   const routePath = favoritesView ? 'favoris' : 'bibliotheque';
   const [limit, setLimit] = useState(PAGE_SIZE);
-  const [moreOpen, setMoreOpen] = useState(() => countActiveFilters(filters) - Number(!!filters.category) - Number(!!filters.source) > 0);
+  const [moreOpen, setMoreOpen] = useState(() => countActiveFilters(filters) - Number(!!filters.category) > 0 || filters.sort !== 'relevance');
 
   const deferredQuery = useDeferredValue(filters.q);
   const key = JSON.stringify(filters);
@@ -35,10 +37,13 @@ export function Library({ favoritesView = false }: { favoritesView?: boolean }) 
   function update(patch: Partial<Filters>) {
     const next = { ...filters, ...patch };
     if (favoritesView) next.favoritesOnly = false; // implicite sur cette route
-    replaceHash(routePath, filtersToParams(next));
+    const params = filtersToParams(next);
+    params.delete('imageOnly');
+    if (!favoritesView && !next.imageOnly) params.set('imageOnly', 'false');
+    replaceHash(routePath, params);
   }
   const reset = () => replaceHash(routePath, new URLSearchParams());
-  const active = countActiveFilters(favoritesView ? { ...filters, favoritesOnly: false } : filters) + Number(!!filters.q);
+  const active = countActiveFilters(favoritesView ? { ...filters, favoritesOnly: false } : filters) + Number(!!filters.q) + Number(!favoritesView && !filters.imageOnly);
   const shown = results.slice(0, limit);
 
   return (
@@ -64,30 +69,36 @@ export function Library({ favoritesView = false }: { favoritesView?: boolean }) 
             ))}
           </select>
         </div>
-        {provenances.length > 1 ? (
-          <div className="field">
-            <label htmlFor="source">Provenance</label>
-            <select id="source" value={filters.source} onChange={(e) => update({ source: e.target.value })}>
-              <option value="">Toutes</option>
-              {provenances.map((s) => (
-                <option key={s.id} value={s.id}>
-                  {s.label} ({s.count})
-                </option>
-              ))}
-            </select>
+        {!favoritesView ? (
+          <div className="field field--check field--grow">
+            <input id="image-only" type="checkbox" checked={filters.imageOnly} onChange={(e) => update({ imageOnly: e.target.checked })} />
+            <label htmlFor="image-only">Fiches illustrées seulement</label>
           </div>
         ) : null}
-        <div className="field">
-          <label htmlFor="sort">Trier</label>
-          <select id="sort" value={filters.sort} onChange={(e) => update({ sort: e.target.value as Filters['sort'] })}>
-            <option value="relevance">{filters.q ? 'Pertinence' : 'Par défaut'}</option>
-            <option value="title-asc">Titre A → Z</option>
-            <option value="title-desc">Titre Z → A</option>
-          </select>
-        </div>
         <details className="more" open={moreOpen} onToggle={(e) => setMoreOpen(e.currentTarget.open)}>
           <summary>Plus de filtres</summary>
           <div className="more__fields">
+            {provenances.length > 1 ? (
+              <div className="field">
+                <label htmlFor="source">Provenance</label>
+                <select id="source" value={filters.source} onChange={(e) => update({ source: e.target.value })}>
+                  <option value="">Toutes</option>
+                  {provenances.map((s) => (
+                    <option key={s.id} value={s.id}>
+                      {s.label} ({s.count})
+                    </option>
+                  ))}
+                </select>
+              </div>
+            ) : null}
+            <div className="field">
+              <label htmlFor="sort">Trier</label>
+              <select id="sort" value={filters.sort} onChange={(e) => update({ sort: e.target.value as Filters['sort'] })}>
+                <option value="relevance">{filters.q ? 'Pertinence' : 'Par défaut'}</option>
+                <option value="title-asc">Titre A → Z</option>
+                <option value="title-desc">Titre Z → A</option>
+              </select>
+            </div>
             <div className="field">
               <label htmlFor="orientation">Orientation</label>
               <select id="orientation" value={filters.orientation} onChange={(e) => update({ orientation: e.target.value as Filters['orientation'] })}>

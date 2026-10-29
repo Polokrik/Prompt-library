@@ -34,13 +34,13 @@ Jeu de données actuellement publié : mode **full** — 1554 fiche(s) au total.
 
 ### La baie des images (`external-initial`)
 
-- Fiches dans la bibliothèque : 1130 (published : 901, to-test : 229, to-confirm : 0, hidden : 0)
+- Fiches dans la bibliothèque : 1130 (published : 939, to-test : 191, to-confirm : 0, hidden : 0)
 - URL : https://vincentflibustier.com/imageia/#bibliotheque
 - Dernier import (date réelle) : 2026-10-28T08:57:24.065Z
 
 ### Prompt Bible (`prompt-bible`)
 
-- Fiches dans la bibliothèque : 424 (published : 0, to-test : 66, to-confirm : 357, hidden : 1)
+- Fiches dans la bibliothèque : 424 (published : 8, to-test : 58, to-confirm : 357, hidden : 1)
 - Dernier import (date réelle) : 2026-10-27T15:56:39.064Z
 
 ### Journal des imports
@@ -50,7 +50,7 @@ Jeu de données actuellement publié : mode **full** — 1554 fiche(s) au total.
 - **prompt-bible** (sample) — 2026-10-27T15:35:08.100Z — réussi : 30 entrée(s) importée(s) sur 424 analysée(s)
   - Le classeur ne contient aucune image : toutes les fiches sont « sans image » tant que imports/images/<id>.* n’est pas alimenté.
   - 16 texte(s) sans Entrée_ID (fragments autonomes) non inclus dans le lot pilote ; ils ne deviennent pas des fiches.
-- **prompt-bible** (full) — 2026-10-29T14:01:54.201Z — réussi : 424 entrée(s) importée(s) sur 424 analysée(s)
+- **prompt-bible** (full) — 2026-10-29T14:34:04.146Z — réussi : 424 entrée(s) importée(s) sur 424 analysée(s)
   - Le classeur ne contient aucune image : toutes les fiches sont « sans image » tant que imports/images/<id>.* n’est pas alimenté.
   - 16 texte(s) sans Entrée_ID (fragments autonomes) conservés dans "fragments" du fichier brut ; ils ne deviennent pas des fiches.
 - **external-initial** (full) — 2026-10-28T08:57:24.315Z — réussi : 1130 entrée(s) importée(s) sur 1130 analysée(s)

@@ -7,6 +7,7 @@ import { href } from '../utils/router.ts';
 
 const GATES = 5;
 const SELECTION = 6;
+const illustrated = entries.filter((e) => e.image).length;
 
 export function Home() {
   const [q, setQ] = useState('');
@@ -39,6 +40,7 @@ export function Home() {
           {SITE.name}
         </h1>
         <p className="hero__tagline">{SITE.tagline}</p>
+        <p className="hero__how">Choisissez une image qui vous plaît, copiez son prompt, collez-le dans votre outil d’image : c’est tout. Les prompts à compléter vous guident.</p>
         <form className="hero__search" role="search" onSubmit={onSubmit}>
           <label htmlFor="home-search">Rechercher un prompt</label>
           <div className="hero__search-row">
@@ -57,7 +59,7 @@ export function Home() {
         </form>
         <p className="hero__actions">
           <a className="btn btn--outline" href={href('bibliotheque')}>
-            Toute la bibliothèque ({entries.length})
+            Toute la bibliothèque ({illustrated} illustrées)
           </a>
           <a className="btn btn--outline" href={href('composeur')}>
             Composer un prompt
