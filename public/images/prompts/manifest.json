@@ -6,5 +6,119 @@
     "thumbBytes": 63330,
     "largeBytes": 319894,
     "generator": "OpenAI"
+  },
+  "ext-13": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "37932dc53ddc40ccc349098de098dde65697dfdf",
+    "thumbBytes": 14330,
+    "largeBytes": 46260,
+    "generator": "gemini"
+  },
+  "ext-17": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "484ecc3f7fdb21d2c542b50917d5bd758c818989",
+    "thumbBytes": 13442,
+    "largeBytes": 47948,
+    "generator": "gemini"
+  },
+  "ext-21": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "eb3b4f13a62a3c74bdc3048784fc92e633c44b99",
+    "thumbBytes": 53452,
+    "largeBytes": 206706,
+    "generator": "gpt4o"
+  },
+  "ext-27": {
+    "width": 667,
+    "height": 1000,
+    "sourceHash": "49b6430e881b8b7448dc33e403e6ad307f488cce",
+    "thumbBytes": 61228,
+    "largeBytes": 187354,
+    "generator": "gpt4o"
+  },
+  "ext-3": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "811e8e182ef67ea08b03846f8d29da12f80a8021",
+    "thumbBytes": 21606,
+    "largeBytes": 84548,
+    "generator": "gemini"
+  },
+  "ext-332": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "466d878a669843e229f852c23e427e594233c127",
+    "thumbBytes": 11914,
+    "largeBytes": 19688
+  },
+  "ext-337": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "3e36fcf41e3f55f94ae5801dcb071cb6e3bd66c2",
+    "thumbBytes": 12296,
+    "largeBytes": 25032
+  },
+  "ext-349": {
+    "width": 512,
+    "height": 512,
+    "sourceHash": "bb483c462b7e6e134f267efd7061d6eb06070602",
+    "thumbBytes": 28448,
+    "largeBytes": 54330
+  },
+  "ext-362": {
+    "width": 512,
+    "height": 533,
+    "sourceHash": "ed43c53914f01b7870182d06abb7da0542a33205",
+    "thumbBytes": 41082,
+    "largeBytes": 75862
+  },
+  "ext-364": {
+    "width": 512,
+    "height": 533,
+    "sourceHash": "9f28890cd04ec5d4a53107e86700bd94b726183d",
+    "thumbBytes": 16818,
+    "largeBytes": 41782
+  },
+  "ext-377": {
+    "width": 627,
+    "height": 627,
+    "sourceHash": "c7362b9b85782689e5f5e374cd598e992e82f9f5",
+    "thumbBytes": 9008,
+    "largeBytes": 20016
+  },
+  "ext-46": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "0788156cfbabda6e314ab4177de33368c76f96cf",
+    "thumbBytes": 11340,
+    "largeBytes": 36072,
+    "generator": "gemini"
+  },
+  "ext-75": {
+    "width": 1000,
+    "height": 1000,
+    "sourceHash": "6911190d1dca2bba2e77f537958764dc81d16c6e",
+    "thumbBytes": 13370,
+    "largeBytes": 69344,
+    "generator": "gpt4o"
+  },
+  "ext-82": {
+    "width": 603,
+    "height": 905,
+    "sourceHash": "75a1e24f5d2fff56041a19d85bd721d79ead07a9",
+    "thumbBytes": 20132,
+    "largeBytes": 49846,
+    "generator": "gpt4o"
+  },
+  "ext-97": {
+    "width": 667,
+    "height": 1000,
+    "sourceHash": "2cfcf0c44e4b931106dfac0266c5981271736c65",
+    "thumbBytes": 20196,
+    "largeBytes": 64108,
+    "generator": "gpt4o"
   }
 }
