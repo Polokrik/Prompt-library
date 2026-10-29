@@ -14,7 +14,7 @@ import { parseArgs, rel, writeJson } from './lib/io.mts';
 import { PATHS } from './lib/paths.mts';
 import { IMAGE_MANIFEST, imagePaths, readManifest, type ImageManifest } from './lib/images.mts';
 import { safeFileStem, sha1 } from './lib/text.mts';
-import { loadBatches, refEntries } from './lib/sources.mts';
+import { imageLookupKey, loadBatches, refEntries, sourceImageIndex } from './lib/sources.mts';
 import { buildRefIndex, parseImageStem } from './lib/refs.mts';
 
 export const THUMB = { width: 480, quality: 72 };
@@ -41,6 +41,8 @@ async function main() {
   const entries = refEntries(batches);
   const knownIds = new Set(entries.map((e) => e.id));
   const refs = buildRefIndex(entries);
+  const sourceImages = sourceImageIndex(batches);
+  let matchedBySource = 0;
 
   const sources = new Map<string, SourceFile>();
   const warnings: string[] = [];
@@ -54,7 +56,22 @@ async function main() {
   }
   const multiple: string[] = [];
   for (const c of candidates) {
-    const parsed = parseImageStem(path.basename(c.file, path.extname(c.file)));
+    const stem = path.basename(c.file, path.extname(c.file));
+    // 1. Nom exact d'une image de la source (ym-5489-thumb -> ym-5489) : correspondance fournie par la source.
+    const known = sourceImages.get(imageLookupKey(stem));
+    if (known) {
+      matchedBySource++;
+      const prevKnown = sources.get(known.id);
+      const nextKnown: SourceFile = { id: known.id, file: c.file, origin: c.origin, rank: known.rank, ...(known.tool ? { tool: known.tool } : {}) };
+      if (prevKnown) {
+        multiple.push(known.id);
+        if (!(c.origin !== prevKnown.origin ? c.origin === 'manual' : nextKnown.rank < prevKnown.rank)) continue;
+      }
+      sources.set(known.id, nextKnown);
+      continue;
+    }
+    // 2. Sinon : identifiant ou titre dans le nom (ID__Outil, Outil_ID, archive-N-outil, N-slug-i…).
+    const parsed = parseImageStem(stem);
     let tool = parsed.tool;
     let r = knownIds.size > 0 ? refs.resolve(parsed.ref) : { id: safeFileStem(parsed.ref) };
     if ('error' in r && parsed.altRef) {
@@ -147,6 +164,7 @@ async function main() {
     heavyOutputs: heavy,
     unresolvedSourceFiles: unresolved,
     warnings,
+    matchedBySourceName: matchedBySource,
     notes: batches.notes,
   };
   writeJson(path.join(PATHS.reports, 'images-report.json'), report);

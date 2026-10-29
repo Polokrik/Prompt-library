@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-29T10:25:47.203Z",
+  "generatedAt": "2026-10-29T10:42:03.645Z",
   "input": "src/data/prompts.json",
   "stats": {
     "analysed": 1554,
-    "published": 0,
-    "toTest": 1196,
+    "published": 901,
+    "toTest": 295,
     "toConfirm": 357,
     "hidden": 1,
-    "missingImages": 1553,
+    "missingImages": 652,
     "missingAlt": 0,
     "duplicateCandidates": 148,
     "blockingErrors": 0,
-    "warnings": 76
+    "warnings": 94
   },
   "issues": [
     {
@@ -331,6 +331,13 @@
     },
     {
       "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-26318",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
       "code": "category-missing",
       "entryId": "ENT-25EXQ9II",
       "message": "Catégorie absente",
@@ -352,6 +359,27 @@
     },
     {
       "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-33476",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-23744",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-22665",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
       "code": "category-missing",
       "entryId": "ENT-3OVPI6T3",
       "message": "Catégorie absente",
@@ -359,9 +387,86 @@
     },
     {
       "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-30332",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-3281",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-21627",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-25117",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-16473",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-23144",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
       "code": "category-missing",
       "entryId": "ENT-KVN70DPM",
       "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-19769",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-11518",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-498",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-22817",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-21461",
+      "message": "Le texte alternatif commence par « image de… »",
       "fixIn": "mapping"
     },
     {
@@ -383,6 +488,20 @@
       "code": "category-missing",
       "entryId": "ENT-0A9Q68P1",
       "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-13276",
+      "message": "Le texte alternatif commence par « image de… »",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-34749",
+      "message": "Le texte alternatif commence par « image de… »",
       "fixIn": "mapping"
     },
     {
@@ -516,6 +635,13 @@
       "code": "category-missing",
       "entryId": "ENT-WOJR290P",
       "message": "Catégorie absente",
+      "fixIn": "mapping"
+    },
+    {
+      "severity": "warning",
+      "code": "alt-redundant",
+      "entryId": "ext-ym-34306",
+      "message": "Le texte alternatif commence par « image de… »",
       "fixIn": "mapping"
     },
     {

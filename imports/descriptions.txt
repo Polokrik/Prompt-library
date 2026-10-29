@@ -7,3 +7,906 @@
 #
 # Exemple :
 # ENT-VNHZB48D | Panda en uniforme de cheminot, assis dans un wagon de train des années 1970, en noir et blanc.
+
+# --- Images de la source « La baie des images » (décrites à partir des images, par lots) ---
+ext-1 | Deux personnages de dessin animé : un garçon à genoux tend une bague à une fille, sous une arche de fleurs pastel.
+ext-style-1 | Un perroquet vert à front orange perché sur une branche, devant un coucher de soleil sur la mer et des montagnes.
+ext-2 | Un petit personnage en 3D, coiffé d'un turban bleu, sort en marchant d'une photo instantanée tenue par une main.
+ext-style-2 | Un perroquet vert sur une branche, en contre-jour d'un coucher de soleil sur des montagnes.
+ext-3 | Affiche rétro rouge et orange : une femme souriante devant des rayons de soleil, avec du texte chinois en jaune.
+ext-style-3 | Un perroquet vert sur une branche feuillue, sur fond blanc uni.
+ext-4 | Deux enfants en 3D en costumes traditionnels chinois rouges et dorés, devant un décor rouge.
+ext-style-4 | Gros plan d'un perroquet vert à joues orange dans une lumière dorée, parmi des feuilles humides.
+ext-5 | Portrait illustré inspiré de La Joconde : une femme aux longs cheveux, vêtue de sombre, devant un paysage de montagnes.
+ext-style-5 | Un perroquet en noir et blanc sur une branche, traversé de rayons de lumière.
+ext-6 | Une jeune femme dessinée dans un portail bleu lumineux tient la main d'une personne au premier plan, devant un bureau avec ordinateur.
+ext-style-6 | Un perroquet vert sur une branche, dans une lumière chaude, avec un feuillage bleu-vert.
+ext-7 | Chambre en 3D isométrique aux tons orange : lit, bureau, étagère, canapé bleu et fenêtre sur la nuit.
+ext-style-7 | Un perroquet vert peint à l'aquarelle sur une branche, entouré de feuilles.
+ext-8 | Figurine de type Lego en smoking, avec une panthère noire, dans une vitrine sur socle portant la plaque « Dark Panther ».
+ext-style-8 | Un perroquet vert à joues orange sur une branche, peint dans des couleurs vives devant une plage et des montagnes.
+ext-9 | Bouteille givrée aux reflets rouges sur fond blanc, avec le logo Coca-Cola et la phrase « Taste the feeling ».
+ext-style-9 | Un perroquet vert sur une branche, peint à l'huile dans la lumière d'un coucher de soleil.
+ext-10 | Gros plan sur une casquette rouge « Make America Great Again » parmi d'autres, avec une étiquette de prix « $77.00 » (50 $ barré).
+ext-style-10 | Un perroquet gravé au trait noir sur papier crème, parmi des feuilles.
+ext-11 | Jaquette d'un jeu PlayStation 2 intitulé « Grand Theft Auto : Far Far Away », avec des personnages de dessin animé dont un ogre vert.
+ext-style-11 | Un perroquet vert peint dans des tons pastel, devant une côte et des collines.
+ext-12 | Deux figurines, un homme à lunettes et une femme, dans un écrin crème portant l'inscription « Forever together ».
+ext-style-12 | Un perroquet vert à l'encre et au lavis sur une branche, avec des éclaboussures noires.
+ext-13 | Famille de quatre personnes assises en 3D de style dessin animé, vêtues de blanc et de beige, sur fond clair.
+ext-style-13 | Un perroquet vert sur une branche devant une plage et des montagnes, en illustration colorée.
+ext-14 | Boîte de jouet jaune « One Piece » contenant un personnage en smoking avec un pistolet et une montre, à côté d'une figurine du même personnage.
+ext-style-14 | Un perroquet dessiné en noir et blanc, style manga, devant une cascade.
+ext-15 | Affiche illustrée : une pieuvre à tête de crâne au-dessus d'un groupe de livreurs en rouge, avec du texte chinois et « GPT-4o ».
+ext-style-15 | Un perroquet vert en pop art, avec aplats colorés et rayons jaunes derrière lui.
+ext-16 | Porte-clés rond en macramé brodé d'un portrait de jeune fille en turban bleu, tenu entre deux mains.
+ext-style-16 | Un perroquet vert devant un soleil jaune et des montagnes, en illustration plate aux tons chauds.
+ext-17 | Écran vert d'un ancien terminal affichant « Booting… Loading… » et la silhouette de Shanghai tracée en caractères.
+ext-style-17 | Un perroquet vert sur une branche, composé de formes géométriques colorées sur fond de blocs rouges, jaunes et bleus.
+ext-18 | Deux hommes en smoking en 3D façon film d'animation : l'un chuchote à l'oreille de l'autre, qui a l'air accablé.
+ext-style-18 | Un perroquet vert devant un grand disque orange, en illustration à la texture de sérigraphie.
+ext-19 | Boîte en carton ouverte sous l'inscription « Ancient Egypt », contenant un diorama miniature de pyramides, de sphinx et d'un fleuve.
+ext-style-19 | Un perroquet vert sur une branche devant une baie et des montagnes, aux couleurs vives.
+ext-20 | Un homme souriant, les mains levées, à une table, face à une petite figurine de dessin animé en pose d'action.
+ext-style-20 | Un perroquet vert en collage de papiers découpés, devant un soleil orange et des montagnes.
+ext-21 | Planche de neuf autocollants d'un même personnage en turban bleu, avec des expressions différentes, sur fond noir.
+ext-style-21 | Un perroquet vert modelé comme en pâte à modeler, devant des montagnes et la mer.
+ext-22 | Affiche verticale chinoise colorée avec « ChatGPT » et une liste de puces en chinois.
+ext-style-22 | Un perroquet vert très détaillé, posé devant une cascade dans une forêt, rendu photographique.
+ext-23 | Deux personnages en 3D enlacés à l'avant d'un bateau, devant un coucher de soleil sur la mer.
+ext-style-23 | Un perroquet vert en 3D stylisée, posé sur une branche feuillue dans un petit décor, sur fond vert.
+ext-24 | Boîte blanche « James Bond » et figurine à grosse tête en smoking tenant un pistolet, avec une seconde figurine posée à côté.
+ext-style-24 | Un perroquet vert en facettes low-poly, devant des montagnes et la mer.
+ext-25 | Une cuvette de toilettes crème à abattant orange, rendue comme un jouet, sur fond beige.
+ext-style-25 | Un perroquet vert en céramique émaillée, posé sur une branche feuillue, sur fond beige.
+ext-26 | Boîte de céréales « Healthy Oatmeal Mix » ornée d'un personnage de dessin animé en turban bleu qui tient un bol de fruits et légumes.
+ext-style-26 | Un perroquet vert brodé au fil sur un tissu de lin, parmi des feuilles.
+ext-27 | Planche de six autocollants d'un même personnage en turban bleu aux expressions variées, sur fond rouge-orangé.
+ext-style-27 | Un perroquet vert en pixel art, devant un coucher de soleil sur la mer et des montagnes.
+ext-28 | Autocollant d'un personnage de dessin animé en turban bleu, vu de profil, sur fond noir.
+ext-style-28 | Un perroquet vert devant une ville futuriste aux néons roses et violets, au bord de l'eau.
+ext-29 | Planche « OOTD » : une figurine féminine en turban bleu entourée de ses vêtements et accessoires (veste, sac, escarpins).
+ext-style-29 | Un perroquet vert sur une branche, devant des îles flottantes dans les nuages.
+ext-30 | Une île flottante portant un château aux tourelles rouges et dorées, dans un ciel nuageux, comme sur une vieille photographie.
+ext-style-30 | Un perroquet vert devant un paysage de cascades et de montagnes éclairé par le soleil couchant.
+ext-31 | Planche d'autocollants de personnages de manga avec le mot « Naruto », des nuages rouges, des shurikens et un renard.
+ext-32 | Livre ouvert en pop-up : un enfant armé d'un pinceau fait face à un dragon bleu, devant un soleil.
+ext-33 | Portrait de famille encadré, en 3D : un couple en tenue de mariage et deux enfants avec des bouquets, sous une arche de fleurs.
+ext-34 | Texte chinois en rouge et noir illustré d'un homme pensif et d'un groupe de personnes, sur fond crème.
+ext-35 | Une citrouille d'Halloween orange en matière duveteuse, au visage découpé.
+ext-36 | Une cuvette de toilettes crème à abattant orange, sur fond beige, avec le mot « Toilet ».
+ext-37 | Figurine en argile d'un chat gris foncé sur un socle rose, avec le logo « GitHub » et « Build software together ».
+ext-38 | Affiche chinoise en grands caractères noirs et rouges, avec un homme souriant, le poing levé.
+ext-39 | Un petit robot à écran souriant court dans une forêt féerique la nuit, avec un anneau bleu lumineux et des champignons.
+ext-40 | Deux cases de bande dessinée : une femme blonde en costume devant un drapeau américain, avec des hamburgers et un téléphone rouge, texte en chinois.
+ext-41 | Figurines de personnages de légende chinoise sur la terre : un singe armé d'un bâton, un roi, un cochon et un squelette.
+ext-42 | Une boule à neige éclairée contenant un couple en tenue de mariage qui se regarde, en 3D.
+ext-43 | Cinq poupées gigognes alignées, peintes avec un turban bleu, de la plus grande à la plus petite.
+ext-44 | Carte à jouer « Elite Coder » : un développeur souriant à lunettes avec un ordinateur portable, et ses statistiques.
+ext-45 | Illustration manga d'une étudiante en uniforme et casque blanc « NPU », tenant une fusée, avec un avion et un navire derrière elle.
+ext-46 | Affiche verticale verte et crème : une capsule remplie de grains de café avec le logo Starbucks, du texte chinois et le prix « $9 ».
+ext-47 | Une touche « ESC » de clavier transformée en dôme transparent qui abrite un petit bureau avec une personne devant un écran.
+ext-48 | Un téléviseur rétro orange à antennes, entièrement construit en voxels.
+ext-49 | Affiche « Fashion Design » : une jeune femme en robe rose, des fleurs dans les cheveux, avec des papillons posés sur sa main.
+ext-50 | Carte sombre « Expeditions » : une aventurière saute en tirant au pistolet, avec le nom « Lara Croft » en bas.
+ext-51 | Tampon rouge « Welcome to Rome – Arrival 13 Apr 2025 » avec le Colisée, sur du tissu clair.
+ext-52 | Une flamme découpée en trois couches de feutre rouge, orange et jaune, sur fond clair.
+ext-53 | Un coussin jaune carré en forme de visage triste avec une larme, sur fond clair.
+ext-54 | Selfie nocturne de deux hommes devant une baie vitrée, au bord de l'eau, dans une lumière chaude.
+ext-55 | Un petit pot en forme de champignon rouge à pois blancs, au visage souriant, qui porte une plante grasse fleurie.
+ext-56 | Un gobelet de café Starbucks géant transformé en petit café en 3D isométrique, avec deux personnages et un banc.
+ext-57 | Une chope de bière mousseuse en pixel art, sur fond blanc.
+ext-58 | Un dragon formé par des nuages, au-dessus de la Grande Muraille de Chine, sur un ciel bleu.
+ext-59 | Affiche de voyage « London – United Kingdom » aux couleurs vives : Big Ben, la grande roue et un pont.
+ext-60 | Un écusson brodé en forme de smiley jaune aux yeux en étoiles orange.
+ext-61 | Capture d'un faux message de réseau social du compte « Albert Einstein » : « Just finished the theory of relativity! #selfie », avec la photo d'un homme âgé devant un tableau couvert de formules.
+ext-62 | Pin's émaillé doré : un personnage de dessin animé aux cheveux gris en bataille et à la moustache, qui tire la langue.
+ext-63 | Une glace en forme de fraise nappée de crème, sur fond orange pâle.
+ext-64 | Un poisson mécanique en laiton aux engrenages apparents, à l'œil rouge et aux dents pointues, portant « f-is-h » sur le flanc.
+ext-65 | Une main tient une glace bleue translucide à bâtonnet vert, qui renferme une vague et un plongeur, devant une rue floue.
+ext-66 | Un flocon à six branches en matière blanche nacrée, en relief, sur fond gris clair.
+ext-67 | Une jeune femme brune en veste de cuir noire, assise par terre devant un vieux téléviseur, une manette à la main, entourée de canettes.
+ext-68 | Une carte sombre bordée de rouge et de bleu, avec le logo Tesla et les mots « Tesla Inc. ».
+ext-69 | Silhouette noire d'un dragon perché sur un château, sur fond jaune.
+ext-70 | Logo d'une créature fraise souriante à côté d'une balle de capture, avec les mots « Strawbit » et « Nature ».
+ext-71 | Ville cyberpunk en voxels vue d'en haut, la nuit, avec des enseignes néon dont « Hotel » et « Cyberpunk ».
+ext-72 | Un collier doré dont le pendentif rond représente un émoji qui envoie un baiser, tenu dans une main.
+ext-73 | Un porte-clés en caoutchouc représentant un personnage de dessin animé au turban bleu, tenu dans une main.
+ext-74 | Étagère murale noire en forme de grand « M », éclairée par en dessous, avec des livres et de petits objets.
+ext-75 | Un personnage de dessin animé au turban bleu, assis sur le cadre d'une publication de réseau social, fait un cœur avec les doigts.
+ext-76 | Affiche d'allure ancienne « The Lord of the Rings » : personnages de manga, dont un guerrier à l'épée, un vieillard barbu à chapeau et un elfe.
+ext-77 | Une boule de verre éclairée contenant un personnage de dessin animé aux vêtements fluides, entouré de nuages dorés et d'un petit animal blanc.
+ext-78 | Un téléphone portable ancien à grande antenne, en plastique transparent, sur fond blanc.
+ext-79 | Vue de Shanghai reconstituée en briques de construction : immeubles, tour, fleuve et bateaux, avec de petites figurines sur le quai.
+ext-ym-79 | Infographie dense en anglais sur « Nano Banana Pro (Gemini 3 Pro Image) » : un schéma central relié à des encadrés colorés (fonctions, usages, disponibilité).
+ext-80 | Une main tient une carte de visite sombre affichant du code « Business Card.json » avec nom, titre, e-mail et lien.
+ext-81 | Gobelet de café blanc givré portant le logo Starbucks, en suspension sur fond gris clair.
+ext-82 | Carte météo « 西安 » (Xi'an) : neige, entre -15 et -10 °C, au-dessus d'un diorama isométrique de pagodes enneigées.
+ext-83 | Un requin tracé en lignes bleues lumineuses sur fond noir, avec une nageoire rouge.
+ext-84 | Une peluche de panda couchée, aux joues roses, sur fond blanc.
+ext-85 | Dessin au crayon d'une petite fille de profil qui touche une rose rouge colorée.
+ext-86 | Portrait d'un homme barbu aux cheveux longs dont la cape devient un paysage de forêt et de montagnes avec un cavalier.
+ext-87 | Affiche noir et blanc « Awesome » : un pouce levé et des étoiles, avec la définition « adjective – extremely good; excellent ».
+ext-88 | Coloriage en traits noirs : une licorne dans une prairie fleurie sous un soleil, avec un petit modèle colorié en bas à droite.
+ext-89 | Un badge en métal en forme de pouce levé, sous blister, avec « Awesome » et « Smash that ★ if you like it! ».
+ext-90 | Quatre touches de clavier : « just » (transparente), « fork » (violette), « it » (blanche) et une noire au logo GitHub.
+ext-91 | Carte ancienne sépia de la Nouvelle-Zélande (« New Zealand »), avec des bateaux, une rose des vents et une croix.
+ext-92 | Figurine d'une femme à lunettes, en turban bleu et veste ocre, debout sur un smartphone tenu dans une main.
+ext-93 | Une manette de jeu transparente aux reflets bleus et violets, sur fond noir.
+ext-94 | Trois chats roux qui rient, en selfie devant la tour Eiffel au coucher du soleil.
+ext-95 | Figurine à grosse tête d'un homme souriant en tenue noire, sur un socle, devant une bibliothèque.
+ext-96 | Figurine d'un personnage de manga aux cheveux bleus, en combinaison blanche, debout sur un socle transparent, sur un bureau.
+ext-97 | Une poupée en crochet au turban bleu, tenue entre deux mains.
+ext-98 | Silhouette floue derrière une vitre embuée, une main plaquée contre la vitre et un sabre laser rouge.
+ext-99 | Portrait sombre et flou d'un jeune homme à lunettes rondes qui émerge de l'ombre.
+ext-100 | Affiche « Explore bold flavor » : un astronaute plante un drapeau sur un grain de café entouré d'un anneau, avec le logo Starbucks.
+ext-104 | Grand livre ouvert « Le Guerrier du Chaos » d'où surgit une scène en relief de personnages et d'une ville de pierre, à la lueur de bougies.
+ext-ym-104 | Capture d'écran de téléphone sur un fond pastel dégradé, avec le texte « Meet AI Mode ».
+ext-ym-159 | Carte mentale illustrée et colorée autour d'un personnage à lunettes, avec de nombreuses petites scènes et du texte chinois.
+ext-ym-170 | Longue frise illustrée sinueuse, comme une rivière, avec des légendes en chinois sur les dynasties de la Chine.
+ext-ym-179 | Un homme assis par terre joue à un jeu vidéo devant un téléviseur à tube, d'où un Mario pixélisé semble sortir de l'écran.
+ext-ym-192 | Schéma manuscrit sur tableau blanc consacré à « The Gemini era & Gemini 3 launch », avec des encadrés et des flèches.
+ext-ym-222 | Carte au trésor ancienne « Adventure, Chaos, Pirate Journal », avec un navire, une boussole et des affiches « Wanted ».
+ext-ym-264 | Planche de bande dessinée japonaise en quatre cases : une petite créature lumineuse rencontre un chat tricolore, la nuit dans une rue.
+ext-ym-272 | Page de manga en huit cases : une jeune femme à lunettes découvre un nouveau produit au citron et le rapporte chez elle.
+ext-ym-289 | Quatre cases de manga : un jeune homme à son ordinateur voit son nombre de vues exploser, puis lève les bras de joie.
+ext-305 | Une théière en terre cuite orange mat, aux pores visibles, sur fond beige.
+ext-306 | Une théière en chrome poli aux reflets miroir, sur fond beige.
+ext-307 | Une théière en verre ambré transparent, qui projette une lumière dorée.
+ext-ym-307 | Schéma technique sombre sur la diffusion d'images : un processus d'apprentissage et un processus de génération, avec réseaux de neurones et images de chats.
+ext-308 | Une théière en laine tricotée écrue, aux mailles en relief.
+ext-309 | Une théière en céramique émaillée bleue, sur fond beige.
+ext-ym-309 | Fiche pédagogique japonaise « Nano Banana Pro » : gestes à adopter face à un ours en randonnée, en illustrations et encadrés.
+ext-310 | Une théière en papier plié aux facettes anguleuses, de couleur crème.
+ext-311 | Une théière en bois de noyer aux veines apparentes, sur fond beige.
+ext-312 | Une théière en marbre blanc veiné de gris, sur fond beige.
+ext-313 | Une théière en velours bordeaux, sur fond beige.
+ext-314 | Une théière en silicone mat rose corail, sur fond beige.
+ext-315 | Une théière en béton gris, aux petites bulles et imperfections visibles.
+ext-316 | Une théière en verre irisé, aux reflets bleus, roses et violets.
+ext-317 | Une tasse de café, un vase avec une branche de feuillage et une chaise, sur une table ronde en bois, dans la lumière diffuse d'une fenêtre.
+ext-318 | La même scène (tasse, vase, branche) à l'heure dorée, avec de longues ombres orangées.
+ext-ym-318 | Planche de manga japonaise en cinq cases : une jeune femme blonde marche en ville puis mange avec bonheur une pile de pancakes.
+ext-319 | La même scène en plein midi, avec des ombres nettes de feuillage sur le mur.
+ext-320 | La même scène éclairée par des néons cyan et magenta, sur un fond bleu et rose.
+ext-321 | La même scène en clair-obscur : la tasse et la branche émergent d'un fond sombre éclairé de côté.
+ext-322 | La même scène très lumineuse, en « high key », sur fond blanc.
+ext-323 | Affiche « Jazz » en noir, orange et crème : la silhouette d'un saxophoniste.
+ext-324 | Affiche « Marché » de style botanique : trois tomates sur leur plant, sur fond crème.
+ext-325 | Affiche « Ailleurs » : un astronaute marche dans un désert rouge devant un soleil orange, sur fond turquoise.
+ext-326 | Affiche « Formes » : grandes formes géométriques crème sur fond bleu vif.
+ext-ym-326 | Éclaboussure en couronne dans de l'eau bleue, avec une bille de métal brillant au centre.
+ext-327 | Affiche « En selle » en papier découpé : des cyclistes sur une route de campagne près d'un village.
+ext-328 | Affiche « Dehors » en linogravure noir et crème : montagnes, forêt de sapins et lac.
+ext-329 | Illustration pédagogique du cycle de l'eau : mer, nuage, pluie, montagne et rivière, avec des flèches bleues.
+ext-330 | Schéma d'une plante en coupe, racines dans la terre, avec des traits d'étiquettes vides.
+ext-331 | Frise illustrée du grain à la tasse : cerises de café, grains, moulin et tasse fumante, reliés par des flèches.
+ext-332 | Un tabouret en vue éclatée : plateau rond, pieds et chevilles de bois séparés.
+ext-333 | Carte mentale vide : un cercle orange central relié à quatre cases vertes.
+ext-334 | Coupe d'une maison en bois avec panneaux solaires, batterie et lampe allumée, des flèches jaunes indiquant le flux d'énergie.
+ext-335 | Graphique « Comparer » : trois barres vertes et orange de hauteurs croissantes, entourées de feuillage.
+ext-336 | Graphique « Évolution » : une courbe orange ascendante à points, sur une grille.
+ext-337 | Graphique « Répartition » : un anneau vert, jaune et orange, entouré de branches.
+ext-338 | Illustration « Parcours » : une graine, une pousse puis un arbre, reliés par des flèches.
+ext-339 | Graphique « Ensemble » : une grille de carrés verts, orange et jaunes.
+ext-340 | Diagramme « Processus » : cinq cartes bleues et orange en escalier, reliées par des flèches, avec des pictogrammes.
+ext-341 | Rue pavée d'une ville ancienne avec terrasses de café, auvent rouge et grand beffroi au fond, en dessin aquarellé.
+ext-342 | Deux citrons jaunes sur leur branche feuillue, avec une fleur blanche, dessinés au crayon de couleur.
+ext-343 | Dessin au trait d'une ampoule, d'une pousse et d'une fusée orange reliées par des flèches, sur papier crème.
+ext-344 | Carte au trésor ancienne sur parchemin : une île montagneuse, un chemin pointillé rouge jusqu'à une croix et une épave.
+ext-345 | Gravure d'un scarabée à longues pinces et ailes déployées, au trait fin sur papier crème.
+ext-346 | Un café crème et un croissant sur fond rose, dessinés au pastel gras.
+ext-347 | Cabane noire à grandes baies lumineuses au milieu d'une forêt de sapins dans la brume.
+ext-348 | Patio méditerranéen aux murs blancs et arches, avec un olivier, une longue table en bois et des pots de plantes.
+ext-349 | Salon en bois clair avec grande bibliothèque murale, canapé crème, suspension en papier et baie vitrée sur la verdure.
+ext-350 | Plan en 3D isométrique d'un appartement meublé avec chambre, cuisine, salon et plantes.
+ext-351 | Grand hall en béton brut éclairé par une ouverture ronde au plafond, avec une sculpture et une personne qui regarde.
+ext-352 | Potager en bacs de bois sur un toit-terrasse, avec table et bancs, face à une ville au coucher du soleil.
+ext-353 | Façade verte d'un petit café à auvent rayé, avec un vélo rouge appuyé devant, en illustration aquarellée.
+ext-354 | La même façade de café et son vélo, dessinés en gravure noir et blanc à l'encre.
+ext-355 | La même façade de café et son vélo, en impression rose et vert façon risographie.
+ext-356 | La même façade de café et son vélo, en papier découpé en couches.
+ext-357 | La même façade de café et son vélo, en 3D aux formes simples (low-poly).
+ext-358 | La même façade de café et son vélo, en pixel art.
+ext-359 | Sachet de café en papier kraft au motif vert et crème, avec des grains éparpillés dans un bol et sur la table.
+ext-360 | Flacons bruns d'un soin (pompe, pipette, pot) sur des socles de pierre claire, devant une branche d'olivier.
+ext-361 | Une basket crème en maille à semelle parsemée de petits éclats colorés, sur fond clair.
+ext-362 | Boîte-repas vue de dessus : riz, tofu grillé, brocoli, carottes, radis, avocat et chou rouge, avec des baguettes.
+ext-363 | Une lampe de table orange à abat-jour en champignon et pied en boules empilées, sur un socle de pierre.
+ext-364 | Papeterie vert et crème : enveloppes, cartes et carnet ornés de formes géométriques.
+ext-365 | Chaîne de montagnes aux sommets rosés au lever du jour, au-dessus de vallées bleutées et de brume.
+ext-366 | Dunes de sable doré aux ombres douces, dans la lumière du soir.
+ext-367 | Vue aérienne d'une côte rocheuse bordée d'eau turquoise et d'écume.
+ext-368 | Forêt nocturne où des champignons bleus lumineux bordent un ruisseau, devant une cascade.
+ext-369 | Gros plan sur une feuille verte couverte de gouttes de rosée, dans une lumière dorée.
+ext-370 | Paysage de collines vertes en papier découpé, avec une rivière sinueuse, des sapins et un grand soleil orange.
+ext-371 | Un flacon de parfum ambré au bouchon noir, sur fond blanc.
+ext-372 | Le même flacon de parfum posé sur du sable doré, dans une lumière chaude.
+ext-373 | Le même flacon de parfum entouré d'iris et de fleurs violettes.
+ext-374 | Le même flacon de parfum sur une eau noire aux reflets dorés.
+ext-375 | Logo « Les Curieux » : deux bulles de dialogue, bleue et rouge, qui se chevauchent.
+ext-376 | Affiche « La Dernière Île » : une petite île boisée éclairée d'une lumière sur une mer sombre, la nuit.
+ext-377 | Titre « Demain » en grandes lettres noires sur un faisceau jaune.
+ext-378 | Illustration « Le Passage » : une porte en bois lumineuse au milieu d'une forêt, au crépuscule.
+ext-ym-402 | Vue de dessus d'un avion de chasse en transparence, laissant voir moteurs et structure interne, sur fond blanc.
+ext-ym-424 | Page de bande dessinée en couleurs de six cases : un adolescent et quatre tortues ninja autour d'une pizza, avec bulles de texte.
+ext-ym-438 | Planche de manga en noir et blanc de quatre cases, avec un personnage à oreilles de panda, entourée d'un fond flou.
+ext-ym-441 | Infographie japonaise sur « Gemini 3 » : schémas en bleu et blanc sur la 3D, les plans et l'animation de diagrammes.
+ext-ym-485 | Schéma d'ingénierie sur papier quadrillé : une poutre chargée, avec son diagramme d'effort tranchant et de moment.
+ext-ym-498 | Illustration d'un présentateur en costume qui désigne le titre « Google の新AI Nano Banana Pro », en lettres bleues sur fond aquarelle.
+ext-ym-522 | Infographie japonaise sur le fonctionnement des IA : métiers à tisser et étapes de génération de texte, sur fond de parchemin.
+ext-ym-523 | Tableau blanc japonais présentant « Google Nano Banana Pro » : un schéma central relié à des encadrés de fonctions et d'outils.
+ext-ym-548 | Fiche japonaise « 肩こりストレッチ » : trois étapes d'étirement du cou et des épaules, avec un personnage en rose.
+ext-ym-554 | Affiche illustrée chinoise « 做IP是长期复利» : un sablier, un stand, un arbre et des encadrés de texte.
+ext-ym-636 | Grande illustration en noir et blanc à l'encre : personnages, vagues et légendes en chinois.
+ext-ym-639 | Affiche « A day in the life! » : quatre moments de la journée (matin, après-midi, soir, nuit) joués par de petites figurines à gros yeux.
+ext-ym-646 | Quatre dessins en vue éclatée de petits appareils (console portable, manette, clavier, souris), avec cartes électroniques et légendes.
+ext-ym-717 | Scène de rue sous la pluie, la nuit : une femme à parapluie et un homme en chapeau se croisent devant un grand bâtiment éclairé.
+ext-ym-720 | Figurine en feutre d'un homme barbu en tablier rayé, tenant un plateau de brownies « Special brownies », dans une cuisine.
+ext-ym-741 | Livre ouvert posé sur une carte, d'où surgit une maquette en papier de Tokyo : tour rouge et blanche, pagode et immeubles.
+ext-ym-815 | Affiche pop et colorée « Dragon! Kick! » : un combattant torse nu, poing en avant, avec des onomatopées « Boom! » et « Critical hit ».
+ext-ym-860 | Un casque de réalité mixte blanc à côté de sa vue éclatée : composants électroniques sur fond noir.
+ext-ym-898 | Planche de neuf images bleutées façon storyboard : deux personnes se tiennent la main, se séparent, puis une femme pleure.
+ext-ym-903 | Calendrier 2026 sur fond noir : portrait d'un homme en costume au-dessus des douze mois.
+ext-ym-939 | Schéma japonais d'un apprentissage de robots en trois étapes, avec une main robotique et des flèches.
+ext-ym-1074 | Neuf plans de film sombres, bleutés et rouges, montrant des silhouettes de dos dans un couloir, avec l'enseigne « AI Base ».
+ext-ym-1078 | Diorama « Game of Thrones : Ice and Fire » : un mur de glace à gauche, un dragon crachant des flammes à droite.
+ext-ym-1080 | Affiche verticale japonaise en vagues bleues et blanches, avec le titre « 新村水産 水の韻律 ».
+ext-ym-1093 | Une femme en robe blanche marche vers un petit pont de pierre au-dessus de la mer, dans une lumière dorée.
+ext-ym-1163 | Schéma japonais « マーケティングの5ステップ » : un cycle fléché en cinq étapes, en bleu.
+ext-ym-1192 | Vue plongeante d'un grand bureau partagé dans un bâtiment en béton, avec plantes et bibliothèques.
+ext-ym-1312 | Un petit dragon vert en papier découpé jaillit d'une carte blanche en rugissant, avec le texte « GRRR! 我是恶龙，怕了吧！ ».
+ext-ym-1343 | Paysage où se suivent caravane de chameaux, camions, train à grande vitesse et ville futuriste, de l'ancien vers le moderne.
+ext-ym-1389 | Une bouteille Coca-Cola devenue petit immeuble à escaliers et plantes, avec la légende « Coca-Cola micro-world ».
+ext-ym-1428 | Un jeune homme de style manga aux cheveux bleus boit un café dans un café bondé dessiné en réaliste.
+ext-ym-1437 | Quatre affiches de scènes miniatures isométriques (camping-car, antenne, ruines, ville), avec des titres chinois.
+ext-ym-1440 | Quatre affiches de petites scènes isométriques : lancement de fusée, concert, stade de football en liesse, arbre lumineux « ChatGPT ».
+ext-ym-1442 | Un bâtiment de brique à plusieurs étages, éclairé, perdu dans des nuages sombres, avec un titre en chinois.
+ext-ym-1457 | Tableau noir de formules de maths écrites à la craie de couleur, titré « 中学数学 よく使う公式まとめ ! ».
+ext-ym-1474 | Page de publication scientifique sur « Scaled Dot-Product Attention » : schémas annotés et paragraphes de texte.
+ext-ym-1477 | Vue plongeante sur un grand carrefour très fréquenté de Tokyo, avec passages piétons et écrans lumineux.
+ext-ym-1535 | Diorama isométrique d'un hangar où une fusée « Starship » est préparée, avec de petits personnages et des écrans.
+ext-ym-1584 | Bâtiment de béton enneigé dont la porte est un écran vert lumineux, avec une personne devant, sous un ciel sombre.
+ext-ym-1600 | Deux scènes en 3D : à gauche des mosaïques colorées et un lézard (« Gaudí »), à droite un vitrail floral (« Tiffany »).
+ext-ym-1602 | Infographie en chinois sur les cafés du monde : carte des zones de production, étapes de traitement et altitudes.
+ext-ym-1608 | Schéma en chinois comparant « Claude 模型 » et « Claude Code » : frise chronologique et deux encadrés de fonctions.
+ext-ym-1613 | Une main ouverte porte une minuscule ville lumineuse aux gratte-ciel.
+ext-ym-1623 | Infographie japonaise sur un cercle vicieux en trois étapes, avec un personnage au centre et des flèches.
+ext-ym-1899 | Affiche « Beyond the Void. » : un astronaute en apesanteur devant une nébuleuse violette et orange.
+ext-ym-1930 | Capture d'écran d'un outil de génération d'images : la couverture d'un livre « Echoes of Cosmos » et sa consigne en haut.
+ext-ym-1979 | Un renard anthropomorphe en pull marron et écharpe, accoudé à un parapet enneigé, devant une ville la nuit.
+ext-ym-1987 | Un chat à longs poils brodé en fils pastel, entouré de fleurs, sur fond blanc.
+ext-ym-2078 | Un géant de roche et de mousse aux veines lumineuses, debout dans une mer déchaînée sous des éclairs.
+ext-ym-2094 | Bureau en cube vitré, isométrique : une personne chibi travaille sur un ordinateur, entourée de plantes, de livres et de serveurs.
+ext-ym-2110 | Quatre portraits d'un même homme dans quatre styles : « pop bold », « neon highlight », « electric graffiti » et « dense sketch ».
+ext-ym-2153 | Un renard roux géant couché, qui surplombe une ville au bord d'un fleuve, avec des pagodes à ses pieds.
+ext-ym-2205 | Forêt de grands arbres traversée par des rayons de soleil, avec de grands cercles de lumière au sol.
+ext-ym-2212 | Maquette isométrique d'un stade de football à pelouse verte, titrée « Santiago Bernabéu – Seating Capacity: 81.044 ».
+ext-ym-2410 | Vue de dessus : une personne en noir assise au centre d'un sol couvert de dizaines de photos de mode en noir et blanc.
+ext-ym-2428 | Quatre livres ouverts d'où surgissent des symboles mathématiques sculptés en papier (arche, sigma, pi, ruban).
+ext-ym-2434 | Plan d'architecte d'une sculpture de papier blanc facettée, représentant un personnage à piques, avec cotes et rose des vents.
+ext-ym-2589 | Planche de neuf photos de voitures de course aux carrosseries colorées, de nuit, sur un circuit.
+ext-ym-2593 | Planche de six supports d'une marque rouge et blanche : cartes de visite, boîtes, dépliant, sac et calendrier de bureau.
+ext-ym-2631 | Logo à trois bandes en forme de feuille, en violet brillant avec des coulures, sur fond clair.
+ext-ym-2639 | Cahier ouvert sur une table en bois, avec des infographies japonaises, un cerveau et des engrenages dessinés.
+ext-ym-2645 | Bande dessinée manga en deux rangées : deux personnages de bureau comparent « ChatGPT Images » et « Nano Banana ».
+ext-ym-2697 | Grande Muraille de Chine modelée en riz, parcourue de figurines minuscules, avec le mot « CHINA » écrit en épices.
+ext-ym-2703 | Livre ouvert « The Adventures of Huckleberry Finn » d'où émerge une maquette miniature de maison, sous une lampe.
+ext-ym-2704 | Vitrine en bois montrant un salon de bureau : un homme en costume debout face à une baie vitrée sur une ville, avec des trophées.
+ext-ym-2746 | Une main saisit une bouteille de soda vert « Sprite » au milieu d'éclairs bleus, sous un ciel d'orage.
+ext-ym-2803 | Une jeune femme brune en pull beige, assise devant un grand profil de visage découpé en papier crème.
+ext-ym-2830 | Un clavier et un écran composés de mots chinois en nuage, en brun sur fond crème.
+ext-ym-2831 | Quatre affiches de villes en îles flottantes sur des nuages : Los Angeles, Hangzhou, Chengdu et Tokyo.
+ext-ym-2977 | Affiche verticale « 北京 » : une marmite de raviolis fumants dont la vapeur dessine une ville enneigée aux toits traditionnels.
+ext-ym-3008 | Une page de dessin se déchire pour révéler une forêt et un chat : à gauche un salon avec un fauteuil, à droite la nature.
+ext-ym-3028 | Un symbole infini transparent, bleu et violet comme de la glace fondue, sur une surface humide.
+ext-ym-3051 | Une femme en tenue noire, debout sur une plateforme au-dessus de l'eau, sous un ciel d'orage turquoise.
+ext-ym-3052 | Portrait coloré d'une jeune femme souriante en tenue rose, avec une version en pied d'elle tenant un oiseau bleu, sur un ciel d'orage violet et orange.
+ext-ym-3058 | Une console de jeu grise ancienne dont le couvercle s'ouvre sur une petite pièce avec escalier, comme une maquette.
+ext-ym-3156 | Une île flottante en forme de carte, couverte de bâtiments traditionnels chinois, au milieu de nuages.
+ext-ym-3166 | Une pomme faite de patchwork de tissu bleu et beige cousu, sur un sol clair.
+ext-ym-3254 | Planche anatomique : un héros rouge et argent à côté de son squelette et de ses muscles, avec des légendes.
+ext-ym-3281 | Illustration de manga : une jeune fille aux cheveux gris-rose tient une sphère lumineuse, devant des cerisiers en fleur.
+ext-ym-3341 | Couverture de magazine « Girls » : une jeune femme brune en T-shirt, assise, avec des effets de glitch rose et vert.
+ext-ym-3351 | Bannière « Nano Banana Pro – Design course » : une héroïne jaune et noire en pleine action sur fond sombre.
+ext-ym-3360 | Beijing à Noël en petit diorama isométrique sur fond rouge, avec le titre « 北京 圣诞节特刊 ».
+ext-ym-3361 | Planche japonaise sur un emballage de fruit : deux boîtes en carton brun à côté d'un kiwi coupé.
+ext-ym-3424 | Un plat de dinde rôtie dont la moitié est dessinée au trait, avec « Christmas meal » écrit en blanc sur fond rouge.
+ext-ym-3544 | Quatre pages d'un livre de recettes ancien, illustrées de plats de différents pays.
+ext-ym-3549 | Planche de manga en noir et blanc : un combat contre un loup-garou ailé qui s'écrie « I am Vampwolf! ».
+ext-ym-3627 | Paris vue à l'envers : la tour Eiffel, l'Arc de triomphe et la Seine au coucher du soleil, avec la ville reflétée au-dessus.
+ext-ym-3638 | Tableau japonais « NanoBananaPro図解プロンプト15選 » : quinze encadrés de consignes en vert et bleu.
+ext-ym-3660 | Sphère de pierre gravée de runes lumineuses et couverte de mousse, sur une table en bois, avec une aurore boréale derrière.
+ext-ym-3675 | Livre de comics ouvert d'où jaillit un poing rouge, entouré de bulles « Pow! » et « Bam! », de figurines et de canettes.
+ext-ym-3699 | Un homme en haut-de-forme et manteau noir marche dans la boue d'un camp militaire du XIXe siècle, entre tentes et canons.
+ext-ym-3763 | Affiche « Nano Banana Pro – New Standard » : une héroïne de manga en blanc et or, avec des textes en japonais.
+ext-ym-3782 | Une bouteille de verre vert foncé étiquetée « Muscle Restore Complex », sur une affiche beige.
+ext-ym-3836 | Un motard barbu sur une moto de voyage, sur une route de montagne désertique.
+ext-ym-3883 | Fiche illustrée sur les jujubes rouges : fruits, graphiques et pictogrammes de santé, en chinois, sur fond crème.
+ext-ym-3892 | Affiche mauve : un personnage doré en armure, façon roi singe, porte une boîte au-dessus d'une portée de musique, avec du texte chinois.
+ext-ym-3937 | Carte ancienne en relief sur un parchemin déroulé : une ville byzantine entourée de remparts et d'un bras de mer, éclairée comme une maquette.
+ext-ym-3938 | Affiche d'une petite gare enneigée en volume, avec un train à vapeur et des voyageurs, et un titre en chinois.
+ext-ym-3962 | Un dinosaure en chair de saumon rose rayée, posé sur un fond sombre.
+ext-ym-4032 | Trois étapes en gros plan : une main gantée manipule à la pince un tout petit objet posé sur du papier quadrillé.
+ext-ym-4033 | Infographie pharmaceutique en chinois : boîte et gélules, schémas, graphiques et pictogrammes autour de « Oseltamivir ».
+ext-ym-4036 | Infographie pharmaceutique en chinois sur le sémaglutide : un stylo injecteur, des graphiques et des pictogrammes.
+ext-ym-4082 | Planche de neuf plans d'une femme aux longues tresses et d'ours bruns dans une forêt, à la lumière dorée.
+ext-ym-4085 | Ingrédients d'un taco en suspension, légendés avec leur poids : salsa, fromage, poulet, laitue et tortilla.
+ext-ym-4087 | Deux minuscules personnages de part et d'autre d'une fissure sombre qui porte le message « What's up » gravé dans la pierre.
+ext-ym-4089 | Un dragon rouge cuivré, ailes déployées, perché sur un grand livre ouvert dans un bureau d'artiste.
+ext-ym-4108 | Plan bleu de machines anciennes sur une table, avec de petites maquettes de voitures, des plus anciennes aux plus récentes.
+ext-ym-4143 | Une jeune femme en veste grise marche sur fond blanc, avec des traces lumineuses bleues sous ses pieds.
+ext-ym-4150 | Présentatrice de manga aux cheveux ondulés devant un écran « 図解革命 » qui vante Nano Banana Pro et Napkin AI.
+ext-ym-4190 | Une jeune femme dans une foule, la nuit, sous une lumière orange granuleuse, dans l'esprit d'une photo argentique.
+ext-ym-4204 | Une canette verte « Seltzer Lime » posée dans l'eau d'une piscine, avec des éclaboussures.
+ext-ym-4270 | Un homme en T-shirt noir et lunettes de soleil marche avec un sac à dos dans la brume de montagne, avec « 2026 » dans les nuages.
+ext-ym-4277 | Une canette jaune « Lemonade » flotte dans une eau bleue, entourée de rondelles de citron et de feuilles.
+ext-ym-4285 | Une part de gâteau red velvet sur une cuillère, dans un éclairage sombre, avec des miettes en suspension.
+ext-ym-4315 | Hamburger éclaté sur fond orange : pain brioché, fromage, steak, salade et tomate, chaque ingrédient légendé.
+ext-ym-4324 | Un ruban de soie vert, blanc et rouge dont le dessin évoque le Colisée, sous le titre « Rome unfolded ».
+ext-ym-4328 | Planche de neuf photos d'une femme blonde en manteau sombre qui tient des fleurs, dans un paysage de montagne enneigé.
+ext-ym-4337 | Une femme blonde à lunettes de soleil, en robe blanche, assise à une terrasse parisienne devant la tour Eiffel, un sac noir sur la table.
+ext-ym-4394 | Affiche « How to Lose a Guy in 10 Days » : une femme en robe dorée et un homme en costume, dos à dos.
+ext-ym-4396 | Bureau ancien en bois avec plans enroulés et petites machines d'inventeur étiquetées de dates anciennes, sous une lampe.
+ext-ym-4432 | Fiche de recette chinoise : ingrédients et six étapes en photos, au-dessus d'un plat de porc sauce aigre-douce.
+ext-ym-4469 | Un sac à main en toile monogrammée posé sur un disque rose, devant un mur vert.
+ext-ym-4471 | Aquarelle d'une jeune femme aux longs cheveux dont la robe est faite de pages de livre qui s'envolent.
+ext-ym-4501 | Maquette isométrique d'une petite pièce vitrée en dôme, avec bureau, ordinateur ancien et plantes, au-dessus de la forêt au coucher du soleil.
+ext-ym-4626 | Un homme en T-shirt noir et lunettes de soleil, sur fond bleu vif, tend une canette « Pepsi » vers l'objectif.
+ext-ym-4671 | Objets rangés à plat sur fond beige : autocollant « London », bus rouge, lunettes, taxi, Big Ben, cabine, et pense-bête « 12°C Cloudy ».
+ext-ym-4714 | Une voiture de sport noire à la carrosserie texturée comme un pelage, sur fond gris, avec « Unleash the predator. Porsche. ».
+ext-ym-4736 | Dessin d'enfant sur papier ligné : un gâteau d'anniversaire, des ballons, un cadeau et le texte « My b-day cake! Hapee 7! ».
+ext-ym-4738 | Un burrito ouvert d'où retombent riz, haricots, viande grillée, avocat, fromage et coriandre, sur fond noir.
+ext-ym-4740 | Hamburger éclaté sur fond noir : pain brioché, bacon, steak, fromage fondu, salade et oignons rouges.
+ext-ym-4768 | Une femme en tenue traditionnelle noire entourée de cadres sombres qui contiennent des objets de beauté, des calligraphies et une scène de thé.
+ext-ym-4772 | Un paquet de lessive « Surf Excel » d'où jaillit un nuage de poudre, de bulles et de feuilles, sur fond bleu.
+ext-ym-4779 | Panneau d'exposition sur la guitare électrique : portraits anciens, guitare dorée sur chevalet et guitariste en concert.
+ext-ym-4847 | Frise « The Evolution of Pokémon Games » : une longue chronologie rouge et bleue ornée de dizaines de jaquettes.
+ext-ym-4853 | Trois vignettes verticales d'un pilote : son regard dans le casque, le casque vu de côté, puis une roue en gros plan.
+ext-ym-4928 | Un robot humanoïde debout devant des grues miniatures, sur un bureau d'architecte avec plans et tasse « Tesla Optimus ».
+ext-ym-4937 | Croquis au crayon d'un chevalier en armure avec heaume, sur du papier froissé.
+ext-ym-4966 | Tableau en chinois des grades de fonctionnaires anciens : rangées de personnages en robes colorées, avec légendes.
+ext-ym-5013 | Quatre petits dioramas de scènes de rue ou d'intérieur, avec personnages, vélo et téléviseur.
+ext-ym-5022 | Affiche « Lumière Film Festival – Where stories find light » : un objectif de caméra éclairé, avec les dates du 12 au 21 septembre 2026.
+ext-ym-5033 | Vue plongeante d'une maquette de Paris faite de cartes électroniques : tour Eiffel, Notre-Dame et la Seine.
+ext-ym-5085 | Fiche de conception d'un personnage de manga, un lycéen en uniforme : silhouette de pied et six visages d'expressions différentes.
+ext-ym-5112 | Planche de neuf plans publicitaires sombres : vin versé, coureur, montre au poignet, burger, bière, casque audio, parfum, café et glace.
+ext-ym-5150 | Maquette en coupe d'une étagère à trois niveaux, chacun éclairé et rempli de petits objets, avec des légendes.
+ext-ym-5205 | Vue aérienne d'un sommet enneigé couvert de temples éclairés, au-dessus d'une mer de nuages, à l'heure bleue.
+ext-ym-5215 | Une guerrière cyberpunk au cache-œil présente une bouteille de saké illustrée, dans une rue éclairée de néons.
+ext-ym-5221 | Dessin au crayon de couleur de Kyoto, avec le mot « Kyoto », un temple doré, une pagode, un portique rouge et des cerisiers.
+ext-ym-5226 | Fiche japonaise de conseils contre l'électricité statique : quatre cadres illustrés avec une jeune femme.
+ext-ym-5241 | Le mot « Balance » en lettres sculptées, où le « A » est une balance à plateaux, sur fond clair.
+ext-ym-5270 | Une soixantaine de petits objets rangés en grille sur fond blanc : manettes de jeu, balles, gants et anneaux, aux couleurs pastel.
+ext-ym-5312 | Identité visuelle « Elara » : cadre portrait, T-shirt, tote bag, tasse, tablette et cartes, en tons beige et rosé.
+ext-ym-5334 | Une petite figurine en costume sous un parapluie, dans une rue de marché sous la pluie, la nuit.
+ext-ym-5354 | Schéma bleu d'une main aux os apparents, avec le poignet en rouge et des légendes sur le syndrome du canal carpien.
+ext-ym-5378 | Maquette en 3D du Colisée en chantier, posée sur un plan d'architecte, avec de petites grues et un gobelet de café.
+ext-ym-5381 | Vitrine sombre contenant un arbre dont les branches sont des livres, avec des cartes et des légendes sur des langues.
+ext-ym-5444 | Portrait au stylo rouge sur papier ligné d'un homme en veste qui se prend en photo, entouré de cœurs et de textes « Baazigar » et « I'm the boss ».
+ext-ym-5489 | Bande dessinée japonaise en quatre cases : un employé épuisé découvre qu'une activité en ligne peut lui rapporter un revenu.
+ext-ym-5506 | Quatre photos de photomaton d'une jeune femme à lunettes et chignon, en T-shirt rose, qui prend des poses différentes.
+ext-ym-5529 | Affiche d'un athlète sprinteur : son torse est un collage de scènes de course aux couleurs jaune, vert et noir de la Jamaïque.
+ext-ym-5549 | Magazine « Nano Banana Pro » sur une étagère blanche : une femme en robe verte et jaune sur la couverture.
+ext-ym-5632 | Quatre dioramas de jeu vidéo en vitrine, par époque (8 bits, 64 bits, HD, réalité virtuelle) et titrés « Resident Evil ».
+ext-ym-5673 | Éclatement d'ingrédients de wrap : sauce crémeuse, tomates, laitue, poulet épicé et galette grillée, légendés.
+ext-ym-5682 | Le mot « New York » en grandes lettres 3D remplies de scènes de la ville (Statue de la Liberté, taxis, gratte-ciel).
+ext-ym-5853 | Cinq paires de jambes côte à côte avec des collants de plus en plus opaques, du nu au noir, légendés en dessous.
+ext-ym-5856 | Quatre paires de jambes portant des collants variés : nu, noir opaque, résille et dentelle.
+ext-ym-5882 | Éclatement d'ingrédients d'une tablette de chocolat : cacao en poudre, lait, fèves, carrés de chocolat et emballage, légendés.
+ext-ym-5964 | Silhouette noire d'un homme de dos qui bande les biceps, remplie d'un paysage de forêt et de montagne au coucher du soleil.
+ext-ym-5978 | Vue aérienne d'un grand disque vert au logo Starbucks flottant sur la mer près d'une plage, entouré de nageurs.
+ext-ym-5983 | Rangée de petites lampes de verre en forme de feuille posées sur une table en bois, dans une serre luxuriante.
+ext-ym-5997 | Un homme et une femme en manteaux d'hiver construisent un bonhomme de neige dans une rue enneigée.
+ext-ym-6022 | Une gaufre dorée déchirée en deux par des mains, avec du sirop qui coule, dans la lumière du soir.
+ext-ym-6037 | Un homme aux cheveux et à la cape flottants saute au-dessus d'une horloge comtoise, dans une rue en pleine tempête d'éclairs.
+ext-ym-6052 | Une bouteille de verre bouchée contenant une maison miniature, de la mousse et un petit personnage bleu volant.
+ext-ym-6059 | Un squelette à lunettes assis à un bureau rose, avec un livre, des surligneurs et une lampe dorée.
+ext-ym-6136 | Une jeune femme brune en tenue de sport s'attache les cheveux, assise sur un banc dans une salle de musculation.
+ext-ym-6139 | Publicité pour le parfum « Chanel N°5 » : le flacon, un tourbillon doré et un ruban rose, devant des temples sur des îles flottantes parmi des roses.
+ext-ym-6143 | Maquette isométrique d'un petit embarcadère avec un bateau et un abri à toit tendu, sur fond clair.
+ext-ym-6176 | Maquette isométrique d'un étal de marché de fruits et légumes sous un auvent, avec une ardoise.
+ext-ym-6197 | Minuscules ouvriers qui réparent les engrenages du mécanisme d'une montre à gousset, en gros plan.
+ext-ym-6238 | Portrait en relief d'un vieil homme aux cheveux hirsutes et à la moustache, sculpté en papier doré sur fond sombre.
+ext-ym-6255 | Dessert roulé à la crème blanche nappé de miel, avec des pistaches, sur une assiette, et des légendes sur les ingrédients.
+ext-ym-6281 | Une femme rousse en doudoune verte s'accroupit pour caresser un renard en peluche, dans un parc décoré de fusées et de nuages.
+ext-ym-6282 | Un homme barbu en sweat noir, debout dans un ascenseur métallique éclairé de néons.
+ext-ym-6290 | Portrait en noir et blanc d'un homme, dont la moitié droite est remplacée par le texte « If you dream it, you can do it. ».
+ext-ym-6305 | Plan isométrique d'un bureau en open space vitré à deux étages, sur fond gris clair.
+ext-ym-6312 | Quatre figurines de personnages de far west (shérif, cavalier, lassoteuse, archer à cheval), légendées par leur nom et leur action.
+ext-ym-6344 | Figurine d'une femme brune en veste noire qui marche avec un petit renard en peluche, devant des fusées, sur de l'herbe.
+ext-ym-6367 | Bande dessinée japonaise en six cases : un homme au chapeau noir devant son ordinateur, d'abord désespéré puis soulagé.
+ext-ym-6380 | Un phonographe à grand pavillon, enchaîné au fond de la mer et éclairé par deux plongeurs, vu dans un hublot.
+ext-ym-6395 | Une femme en lunettes de soleil, chemisier bordeaux et pantalon beige, sur un balcon blanc devant un village côtier italien.
+ext-ym-6400 | Paysage de pizza : fromage fondu, pepperoni, petits extraterrestres verts, un cochon rose et un cow-boy en jouet.
+ext-ym-6431 | Une coupe glacée aux fraises qui éclabousse, entourée de fraises et de macarons, sur fond rouge.
+ext-ym-6468 | Maquette isométrique d'un laboratoire circulaire à cloisons claires, avec des postes de travail au centre.
+ext-ym-6480 | Maquette entièrement blanche d'un jardin d'inspiration chinoise, avec un pavillon et des arbres en volume.
+ext-ym-6504 | Éclatement d'ingrédients de pizza : basilic, fromage fondu, pepperoni, sauce tomate et pâte, légendés.
+ext-ym-6517 | Schéma humoristique d'un « Chelo Kebab » : un sandwich de riz safrané et de brochette bâti comme un édifice par de minuscules ouvriers, avec légendes.
+ext-ym-6537 | Un aspirateur recouvert de tricot beige et rouge, dans un salon cosy avec plantes, plaids et parquet.
+ext-ym-6549 | Maquette isométrique d'une serre vitrée avec des cultures en parcelles et des panneaux solaires.
+ext-ym-6577 | Une jeune femme blonde en haut noir et jupe à carreaux, assise dans une voiture.
+ext-ym-6611 | Un petit bureau avec ordinateur portable et tasse, sous de petites étagères portant des boules lavande, sur un mur rose pâle.
+ext-ym-6636 | Un fer à repasser en métal brillant posé sur une plaque.
+ext-ym-6667 | Un homme en costume de tweed brun tient une ombrelle en papier sous la pluie, dans une rue éclairée le soir.
+ext-ym-6700 | Un astronaute dont la combinaison est faite de végétation, de cascades et de roches, et dont le casque reflète un paysage.
+ext-ym-6743 | Deux femmes posent devant des rideaux verts dans un bar, l'une accoudée à une table.
+ext-ym-6750 | Maquette isométrique d'un garage arrondi en verre et résine blanche qui abrite une voiture de sport.
+ext-ym-6812 | Planche de neuf images autour d'une sonnette connectée noire : porte d'entrée, application sur téléphone et schémas.
+ext-ym-6829 | Une jeune femme à la coupe au carré, en kimono fleuri, tient devant son visage un masque blanc de renard.
+ext-ym-6833 | Trois jeunes femmes en combinaison verte discutent autour d'une table dans un atelier, en illustration de style dessin animé.
+ext-ym-6847 | Infographie sur la grenade : un fruit ouvert devant un verger, avec des encadrés (bienfaits, usages, repères).
+ext-ym-6863 | Publicité « Hearth & Grain : introducing the Ancestral Starter Kit » : un bocal de levain sur une souche de bois et un bouton de pré-commande.
+ext-ym-6930 | Schéma technique d'un ordinateur portable : écran, clavier, refroidissement, batterie et dimensions légendés.
+ext-ym-7006 | Schéma d'une berline électrique grise, avec ses composants (batterie, capteurs, roues, coffre) légendés.
+ext-ym-7010 | Une jeune femme en robe rouge sur une passerelle, dans un bois de bouleaux enneigé.
+ext-ym-7022 | Dessin ancien sur papier jauni d'un flamant rose, avec son squelette en transparence.
+ext-ym-7032 | Affiche verte : une jeune femme à casque audio lève les yeux, entourée de mots manuscrits (« dream », « imagine », « explore ») et de notes de musique.
+ext-ym-7033 | Figurine en pâte à modeler d'un enfant qui arrose une grande fleur, sur fond rosé.
+ext-ym-7051 | Une canette rose à motif rouge jaillit d'une éclaboussure de liquide rose avec des fraises et des glaçons.
+ext-ym-7089 | Plateau de bois avec des cercles concentriques de grains de café de variétés différentes, de petits bateaux et chameaux, et des étiquettes.
+ext-ym-7149 | Une héroïne de manga aux cheveux rouges, en combinaison noire, pistolet à la main, devant une grosse explosion.
+ext-ym-7177 | Planche de neuf photos de voyage d'un couple : valises, gare, hôtel, voiture et bord de mer.
+ext-ym-7256 | Une canette noire entourée de chaînes, dans une fumée bleue sombre.
+ext-ym-7279 | Portrait en noir et blanc d'une jeune femme à lunettes jaunes et casque audio, devant un disque doré.
+ext-ym-7281 | Affiche « Rock Star Luna » : une jeune femme chante dans un micro, vêtue d'un T-shirt noir à flammes vertes, sur fond turquoise.
+ext-ym-7357 | Identité de marque « Lovart » : sacs, tasses, tabliers, casquette, cartes et emballages rouges et blancs rangés à plat.
+ext-ym-7367 | Une jeune femme en robe léopard, assise par terre dans une pièce lumineuse, avance un pied nu vers l'objectif.
+ext-ym-7372 | Une petite fille de dessin animé en 3D, au chignon, lunettes sur la tête et pull « Basma », sur fond jaune.
+ext-ym-7374 | Schéma de l'œil humain en coupe, avec ses parties et ses dimensions légendées.
+ext-ym-7375 | Deux jeunes femmes en manteaux et bonnets jouent dans la neige, au milieu d'une forêt.
+ext-ym-7376 | Schéma technique d'un appareil photo reflex avec son objectif, légendé de toutes ses pièces.
+ext-ym-7383 | Une gaufre garnie de fruits rouges et de sirop, dans une assiette blanche près d'une fenêtre.
+ext-ym-7423 | Un livre ouvert dont les pages portent des brochettes, du riz safrané et de petits personnages, comme un paysage à manger.
+ext-ym-7434 | Un cheeseburger complet (pain au sésame, tomates, salade, steak, fromage fondu) sur fond clair.
+ext-ym-7539 | Figurine d'une lycéenne de manga en armure mécanique, portant une énorme épée.
+ext-ym-7553 | Scène miniature en briques de construction : une maison sur pilotis et des secouristes en bateau sur une rivière en crue.
+ext-ym-7557 | Une basket recouverte de mousse verte, posée sur un établi dans une serre envahie de plantes.
+ext-ym-7578 | Fiche japonaise de gymnastique douce pour seniors : deux colonnes de conseils illustrées de personnes en exercice.
+ext-ym-7599 | Quatre carrés aux textures différentes : verre givré, relief gaufré, noir mat et motif géométrique pâle.
+ext-ym-7682 | Illustration isométrique pastel en 3D : un petit robot sur une plateforme avec des formes colorées et un écran.
+ext-ym-7780 | Une silhouette en chapeau conique de paille, assise sur un sommet rocheux dans une brume de poussière dorée.
+ext-ym-7782 | Une main tient une bouteille « Fanta » orange dans un rayon de supermarché, avec des informations nutritionnelles en surimpression.
+ext-ym-7802 | Des mains tiennent des fraises dans un rayon de supermarché, avec des indicateurs en surimpression (calories, fraîcheur, vitamines).
+ext-ym-7807 | Une jeune femme en maillot rouge, assise au bord d'une piscine turquoise, les cheveux mouillés.
+ext-ym-7828 | Maquette d'une application « Cravino » sur tablette : tableau de bord et produit mis en avant, des biscuits romarin et sel.
+ext-ym-7843 | Une jeune femme brune en blouse rouge, vue d'en haut, brandit une canette de Coca-Cola sur fond bleu vif.
+ext-ym-7852 | Vue isométrique d'une carte en relief de New York avec la Statue de la Liberté, l'Empire State et Central Park.
+ext-ym-7915 | Planche de mode « Nano Banana prompt » : trois vestes à capuche, rouge, grise et rose, aux logos de marques mélangés.
+ext-ym-7935 | Schéma d'une montre de luxe dorée à cadran vert, avec sa vue éclatée et ses composants légendés.
+ext-ym-7974 | Schéma d'une montre en acier à cadran noir, avec ses pièces légendées (lunette, couronne, bracelet, cristal).
+ext-ym-7985 | Page de manga en noir et blanc, cinq cases : une femme blonde aux oreilles pointues et un jeune homme discutent, téléphone en main.
+ext-ym-7988 | Organigramme en japonais aux cadres rouges et noirs, sur fond blanc.
+ext-ym-8015 | Affiche typographique « form follows chaos » : des lettres qui se désagrègent sur un dégradé vert et rose.
+ext-ym-8021 | Affiche « design » dont les lettres sont étirées et floutées, dans une grille rose et jaune.
+ext-ym-8022 | Affiche typographique « LOVE » composée de lignes noires concentriques, sur fond crème.
+ext-ym-8042 | Une jeune femme blonde en haut orange et short, assise sur une moto d'arcade rose, devant des bornes de jeu lumineuses.
+ext-ym-8071 | Planche : croquis technique d'une armure et d'une cape à gauche, héros sombre à cape dans une ville nocturne à droite.
+ext-ym-8083 | Schéma technique d'un routeur Wi-Fi noir à quatre antennes, avec ses composants légendés.
+ext-ym-8131 | Grand organigramme en petits caractères sur fond blanc : de nombreux encadrés reliés par des flèches.
+ext-ym-8136 | Bande dessinée manga : une jeune fille aux cheveux roses et à lunettes consulte son téléphone, puis s'émerveille devant des pages de planches.
+ext-ym-8303 | Une jeune femme brune en tenue rose, assise sur une moto d'arcade rose, devant des bornes de jeu aux néons.
+ext-ym-8321 | Un flacon de sérum doré au centre d'oranges et de citrons coupés, dans une éclaboussure d'eau, sur fond orangé.
+ext-ym-8342 | Fiche de recette « Rosemary & cherry tomato focaccia » : une focaccia aux tomates cerises sur une planche, avec étapes et ingrédients.
+ext-ym-8359 | Une bouteille « Prime Hydration » au milieu d'agrumes éclaboussés, sur fond jaune-vert.
+ext-ym-8417 | Texte d'une consigne d'illustration en anglais, avec une variable « [MUSIC_STAR] », sur fond gris : aucune illustration n'est visible.
+ext-ym-8446 | Deux chatons dans un champ de fleurs roses et bleues, en peinture douce.
+ext-ym-8447 | Un groupe de jeunes en tenue de plage sur le sable, devant des parasols, sous un ciel clair.
+ext-ym-8503 | Page d'accueil d'un site « Trust-first infrastructure for digital finance », sur un fond de paysage bleu-gris.
+ext-ym-8529 | Affiche « Coto Makassar » : un bol de soupe de bœuf et ses ingrédients en suspension, légendés en indonésien.
+ext-ym-8540 | Une bouteille de Coca-Cola devant un champignon d'explosion, dans une ville en ruines.
+ext-ym-8580 | Affiche « Ketoprak » : une assiette et ses ingrédients (vermicelles, tofu, lontong, cacahuètes) en suspension, légendés.
+ext-ym-8619 | Une jeune femme en veste kaki et jean, assise sur un banc dans une ruelle pavée aux murs tagués.
+ext-ym-8642 | Petite tour Eiffel au bord d'un canal miniature avec des bateaux, en effet de maquette.
+ext-ym-8645 | Affiche « Laksa Betawi » : un bol de nouilles en soupe et ses ingrédients en suspension, légendés.
+ext-ym-8646 | Une grande omelette jaune roulée en spirale de rose, saupoudrée de ciboulette, dans une poêle noire.
+ext-ym-8656 | Panneau d'exposition sur la montre « Omega Speedmaster » : photos anciennes, mouvement mécanique et astronaute.
+ext-ym-8688 | Une glace bleu-blanc-rouge sur bâtonnet doré, ornée de « France » et d'un motif doré.
+ext-ym-8690 | Schéma technique d'une voiture de sport bleue, avec moteur, aérodynamique, transmission et suspension légendés.
+ext-ym-8784 | Affiche « Gulai Ayam » : un plat en sauce sombre et ses ingrédients en suspension (poulet, piments, citron vert), légendés en indonésien.
+ext-ym-8804 | Tour de macarons pastel géants empilés et retenus par de petits câbles, dans un nuage de brume.
+ext-ym-8815 | Affiche « Retweet please » : une jeune femme blonde tend la main à travers une monture de lunettes, sur fond rouge.
+ext-ym-8819 | Un pot de crème blanche posé sur un rocher gris au milieu d'une eau claire.
+ext-ym-8826 | Hamburger éclaté sur fond de bois : pain, steak, cheddar fondu, salade, oignons caramélisés, cornichons et sauce, légendés.
+ext-ym-8859 | Un tube blanc « Caia – Instant Soothing Face Mask » posé entre deux grands ballons roses.
+ext-ym-8862 | Ingrédients d'un ragoût (viande, pois chiches, pommes de terre, oignon, safran) en suspension au-dessus de pots en terre, légendés en azéri.
+ext-ym-8909 | Gros plan sur un collier à pendentif porté sur un haut rouge.
+ext-ym-8951 | Quatre échantillons de matériaux : papier artisanal crème, argile brune, terrazzo vert et dalle beige.
+ext-ym-8971 | Plan d'architecte d'une tour très haute à gauche, et photo de la même tour au-dessus d'une ville côtière à droite.
+ext-ym-8974 | Une jeune femme en bomber kaki et jupe sombre, debout dans un couloir d'hôtel aux murs beiges.
+ext-ym-8977 | Planche sur une console de jeu portable grise : vues de dessus, de face et de côté, et détail des matériaux.
+ext-ym-9029 | Ingrédients d'un curry de légumes en suspension (paneer, pommes de terre, épices, coriandre) au-dessus d'un bol, légendés.
+ext-ym-9200 | Tableau sur parchemin « RPG Fantasy Beasts & Loot » : quatre créatures de niveaux croissants, avec leurs objets à récupérer.
+ext-ym-9203 | Une fée aux ailes translucides assise sur une grande fleur blanche, dans un feuillage lumineux.
+ext-ym-9219 | Une jeune femme blonde en T-shirt blanc, jean et foulard bleu, qui rit en se tenant la tête, dehors.
+ext-ym-9234 | Carte de vœux « 2026 Happy New Year » en doré sur noir : un cheval en facettes dorées galope sur des dunes, avec des caractères chinois.
+ext-ym-9250 | Affiche « Soto Banjar » : un bol de soupe et ses ingrédients en suspension (poulet, œufs, galettes de pomme de terre, épices), légendés.
+ext-ym-9266 | Un homme porte une femme sur son dos en courant, les bras écartés, dans une salle de musée aux statues.
+ext-ym-9268 | Éclatement des éléments d'un thé : vapeur, eau chaude, feuilles, thé infusé et tasse de verre, légendés.
+ext-ym-9271 | Un flacon de parfum violet « Bella Vita » posé sur du bois en flammes, dans une lumière de brasier.
+ext-ym-9274 | Paysage de désert aux roches orangées, avec un grand soleil rouge entouré d'un anneau.
+ext-ym-9332 | Le logo Spotify (disque vert aux trois arcs) en feutrine verte, sur fond blanc.
+ext-ym-9360 | Le logo YouTube (lecteur rouge et nom en noir) sur fond blanc.
+ext-ym-9369 | Sculpture de deux pyramides opposées, recouverte d'une mosaïque colorée, sur fond gris.
+ext-ym-9408 | Planche : une chaussure à talon en cuir bordeaux démontée en pièces, avec son croquis technique en regard.
+ext-ym-9414 | Un plat mijoté dans un bol de cuivre, dont la viande, le tofu et les piments sont en suspension, légendés.
+ext-ym-9439 | Quatre objets recouverts de mots écrits : un hamburger, une cafetière, un téléphone à cadran et une basket rouge.
+ext-ym-9443 | Un flacon de parfum au cœur d'une grande fleur orange, entouré de pétales qui s'envolent.
+ext-ym-9528 | Quatre objets en verre prismatique aux reflets irisés (manette, casque audio…), sur fond vert, titrés « Industrial Prism Glassform ».
+ext-ym-9542 | Un couple s'enlace en haut d'un escalier de pierre, la femme tenant un bouquet de roses roses.
+ext-ym-9558 | Affiche « Selamat Hari Pers Nasional 2026 » : une jeune femme aux cheveux argentés et lunettes teintées devant des journaux.
+ext-ym-9620 | Planche de neuf portraits d'un même homme avec des coiffures différentes, chacune légendée.
+ext-ym-9623 | Un homme aux cheveux en bataille sourit sur un balcon, en pyjama bleu, avec « Nano Banana Pro » écrit en bas.
+ext-ym-9639 | Planche d'identité de marque « Lovart » : interface, logo, stand, T-shirts, sweats et casquettes.
+ext-ym-9641 | Un chat noir de dos au bord de l'eau, face à des gratte-ciel et à un coucher de soleil orangé.
+ext-ym-9690 | Ingrédients de feuilles de vigne farcies en suspension (feuilles, viande, riz, huile, herbes), légendés en turc, au-dessus d'une assiette.
+ext-ym-9743 | Un ragoût épicé dans un bol de terre cuite, dont la viande, le tofu et les piments sont en suspension, légendés en indonésien.
+ext-ym-9779 | Maquette d'une fête du jour des morts : une petite table de personnages sur un socle orné de fleurs orange.
+ext-ym-9794 | Trois enfants de dessin animé en 3D aux cheveux hérissés, assis les uns sur les autres sur le toit d'une petite maison.
+ext-ym-9921 | Quatre bandeaux aquarellés de portraits de sportifs devant leur ville, avec leurs noms.
+ext-ym-9931 | Planche « Aero Vision » : un drone gris, en vue d'origine, puis en grille de huit vues.
+ext-ym-9974 | Coupe d'un bâtiment à quatre étages montrant l'évolution du manga, de l'avant 1950 aux années 2020, avec des ateliers d'auteurs.
+ext-ym-9978 | Silhouette d'un homme en maillot de sport, debout sur un sommet, devant un ciel explosif de couleurs à l'aquarelle.
+ext-ym-9981 | Un homme souriant tient un appareil photo à grand téléobjectif, à côté d'un lionceau, dans la savane.
+ext-ym-10000 | Maquettes de pièces éclairées posées sur un plan d'architecte, sur un bureau de dessin, sous une lampe.
+ext-ym-10002 | Portrait de profil d'une jeune femme blonde coiffée d'une énorme fleur de tissu violette et orange, dans une loge éclairée.
+ext-ym-10029 | Un T-shirt blanc orné d'un écusson bleu à inscription arabe, d'un cœur rouge en feutrine et de papillons bleus.
+ext-ym-10092 | Une canette rose « Olipop – Peaches » entourée de pêches et de glaçons.
+ext-ym-10098 | Paysage de peinture ancienne : un lac au centre d'une vallée, avec un petit temple sur une île, à la lumière dorée.
+ext-ym-10104 | Une camionnette blanche au milieu de collines couvertes de fleurs roses, sous un ciel pastel.
+ext-ym-10144 | Une croquette dorée coupée en deux, qui laisse voir sa garniture crémeuse de poulet et de petits pois, dans un restaurant.
+ext-ym-10148 | Un petit jardin japonais avec cerisiers en fleur et maison traditionnelle, dans un bol en métal.
+ext-ym-10199 | Portrait aquarellé d'une jeune femme aux yeux verts et aux cheveux clairs.
+ext-ym-10254 | Un homme en costume sombre, assis dans un bus bondé, devant d'autres passagers.
+ext-ym-10281 | Éclatement des couches d'un gâteau au chocolat : cacao en poudre, glaçage, génoise et crème, légendés.
+ext-ym-10283 | Ruines d'une cité envahies par la forêt, éclairées de rayons de soleil.
+ext-ym-10286 | Schéma technique d'un casque audio avec ses composants légendés par couleur.
+ext-ym-10359 | Hall lumineux d'une maison avec escalier en bois, banquette, plantes et grandes portes vitrées sur le jardin.
+ext-ym-10418 | Portrait gravé d'un jeune homme aux cheveux bouclés, entouré de cercles et de figures géométriques dorés.
+ext-ym-10433 | Croquis d'ingénieur d'une silhouette de footballeur au maillot n° 10, avec cotes et annotations, sur papier ancien.
+ext-ym-10480 | Maquette d'une ville futuriste de tours serrées, sur un socle rond.
+ext-ym-10490 | Une rose rouge sombre sur fond noir, avec des pétales qui s'envolent et des gouttes de rosée.
+ext-ym-10505 | Hamburger éclaté « The Smash Burger » sur fond crème, ses ingrédients légendés.
+ext-ym-10536 | Schéma circulaire japonais de l'écosystème « Gemini 3 », en cercles concentriques colorés et légendés.
+ext-ym-10537 | Maquette en coupe d'une maison traditionnelle japonaise avec bains, posée sur un plan d'architecte.
+ext-ym-10547 | Carte « Happy Birthday! Celebrate in style! » : une femme à lunettes de soleil découpée devant quatre portraits en noir et blanc.
+ext-ym-10548 | Aquarelle d'un petit port de pêche : maisons à toit de chaume, bateaux et pêcheurs au bord de la mer.
+ext-ym-10565 | Un savon crème en suspension dans l'air, entouré de fleurs blanches et de feuilles, sur un fond doux.
+ext-ym-10566 | Aquarelle d'une forêt aux grands arbres, avec mousse, champignons et fleurs au sol.
+ext-ym-10583 | Quatre photos d'une jeune femme qui brode une fleur rose sur un tambour de broderie.
+ext-ym-10600 | Un homme en chemise blanche et pantalon bleu, debout, à côté de son portrait en noir et blanc, avec le nom « Zaib Creations ».
+ext-ym-10643 | Un panda, une vache et d'autres animaux en papier plié aux faces anguleuses, sur fond bleu nuit.
+ext-ym-10647 | Une pizza Margherita au centre de ses ingrédients (sauce, mozzarella, basilic, huile) disposés en rayons, sur fond orangé.
+ext-ym-10654 | Quatre schémas techniques en coupe : machine à café, fer à repasser, grill électrique et ventilateur de plafond.
+ext-ym-10662 | Un guerrier barbu en fourrure, avec une épée, à côté d'une femme aux cheveux en flammes, dans la neige.
+ext-ym-10689 | Schéma technique d'une souris d'ordinateur filaire, avec ses composants légendés.
+ext-ym-10754 | Schéma technique d'un smartphone vu de dos et de face, avec ses composants et ses dimensions légendés.
+ext-ym-10765 | Neuf plans sombres d'un storyboard de thriller (hommes en costume, voiture noire, cuisine), avec des légendes en anglais en dessous.
+ext-ym-10768 | Aquarelle d'un jardin de nuit : arcades de verdure, fontaine, roses blanches et lune.
+ext-ym-10790 | Quatre couvertures de magazine « Vogue » colorées portant les mots « Icon », « Solar » et « Zenith », avec des portraits de femmes.
+ext-ym-10816 | Portrait de profil d'un homme composé d'une mosaïque de photos de football, aux couleurs vertes et rouges du Portugal.
+ext-ym-10821 | Aquarelle d'un train sur un pont en ruine qui traverse un marais envahi d'arbres morts.
+ext-ym-10848 | Une bouteille « Velour Crème » projetée au milieu d'éclaboussures de lait, de grains de café et de cerises.
+ext-ym-10909 | Une jeune femme brune en manteau vert, reflétée dans une vitre, sur une avenue de Paris.
+ext-ym-10937 | Dessin aquarellé de mains qui coupent des blocs de tofu doré sur une planche, avec de l'huile et des oignons verts.
+ext-ym-10969 | Une femme blonde en pull et jean, assise sur la plage au coucher du soleil, face à la mer.
+ext-ym-10996 | Plan technique d'un plat : kofte, frites, tomates et oignons dans une assiette, avec des étiquettes de quantités, sur fond bleu.
+ext-ym-11025 | Planche de neuf portraits d'une même jeune femme aux expressions différentes (surprise, joie, dégoût…), sur fonds colorés.
+ext-ym-11032 | Un footballeur en maillot rouge et jaune qui court, à côté de la liste de son équipement : masque, maillot, short, crampons et chaussettes.
+ext-ym-11040 | Maquette entièrement blanche d'un jardin chinois avec pavillon, pont et arbres en volume, vue de dessus.
+ext-ym-11069 | Planche de manga en noir et blanc « Call me Ishmael. Chapter 1: Loomings » : un homme en manteau marche sur un quai devant des bateaux et des moulins.
+ext-ym-11102 | Un tube « Stenders » posé dans un nuage de fumée bleue et de fleurs violettes.
+ext-ym-11110 | Une jeune femme blonde en robe à carreaux rouges et bas jaunes tient en laisse deux petits chiens noirs, dans un jardin à fontaine.
+ext-ym-11134 | Un petit homme en costume debout sur un papier découpé à sa silhouette, avec un message en chinois, près d'un livre et de crayons.
+ext-ym-11165 | Schéma d'un ordinateur portable « MacBook – Hardware architecture breakdown » : vue éclatée et légendes.
+ext-ym-11172 | Un flacon de parfum « Élixir Royale » au centre d'une éclaboussure dorée, avec des éclats de verre et des pétales.
+ext-ym-11211 | Plan technique bleu d'un téléphone : vues de dessus, de face et de côté, avec cotes.
+ext-ym-11257 | Schéma d'une carte graphique à trois ventilateurs, avec ses composants légendés par couleur.
+ext-ym-11270 | Vue éclatée d'un smartphone « Nexus Titanium T1 » : coque, écran, batterie et cartes légendés.
+ext-ym-11278 | Portrait en broderie d'un homme en maillot rouge à l'écusson du Portugal.
+ext-ym-11312 | Une vitrine en bois ancienne à trois étages, abritant des scènes miniatures de personnages dans des pièces sombres.
+ext-ym-11335 | Planche d'un faux brevet : un grille-pain mixeur, ses schémas, un article « Innovate now » et une page de financement participatif.
+ext-ym-11358 | Vue éclatée d'un drone « X-1 Pro » avec ses pièces numérotées et légendées.
+ext-ym-11377 | Une jeune femme en blanc assise sur un félin noir stylisé, au-dessus d'une mer de nuages.
+ext-ym-11466 | Éclatement d'ingrédients d'un taco : sauce crémeuse, poulet grillé, chou rouge et tortilla, légendés.
+ext-ym-11470 | Un gobelet transparent de boisson « Sprite » avec citron, glaçons et éclaboussures, sur fond sombre.
+ext-ym-11471 | Une canette de boisson à la mangue qui se déchire pour laisser voir des morceaux de mangue, sur fond bleu.
+ext-ym-11477 | Portrait aquarellé d'un clown au maquillage blanc et au sourire rouge, en costume violet et vert, la main au menton.
+ext-ym-11483 | Fiche produit d'une barre chocolatée « Twix » : vue en coupe de ses couches, avec légendes.
+ext-ym-11498 | Une silhouette en chapeau, debout devant un tourbillon d'eau bleue lumineuse où nagent des requins.
+ext-ym-11500 | Un flacon de parfum vert foncé au milieu de particules et de plumes dorées en suspension, sur fond sombre.
+ext-ym-11518 | Illustration d'une chouette brune aux grands yeux, entourée de roses roses, sur fond crème.
+ext-ym-11525 | Un flacon de parfum doré posé sur une roche du désert, avec un serpent enroulé autour.
+ext-ym-11538 | Une petite créature fantastique violette à bois de cerf et pelage scintillant, sur fond sombre éclairé.
+ext-ym-11547 | Schéma en coupe d'une canette « Fanta » orange, avec des dizaines de légendes techniques.
+ext-ym-11565 | Maquette isométrique d'un pont-forteresse en pierre percé d'escaliers et de canaux éclairés, sur fond bleu nuit.
+ext-ym-11625 | Une paire de baskets blanches à bandes bleues sortant de sa boîte, avec un petit personnage dessiné qui court dessus.
+ext-ym-11674 | Une jeune femme brune en robe noire, souriante, tient une flûte de champagne dans une pièce de fête.
+ext-ym-11677 | Quatre objets en verre irisé (grenade, pistolet, fusil d'assaut, objet allongé) sur fond sombre, titrés « Y2K Chrome_Plush ».
+ext-ym-11679 | Un tube bleu « Fresho » posé sur sa boîte, entouré de marguerites, sur un fond de ciel bleu.
+ext-ym-11680 | Une main tient une petite île-maquette de ville avec montagnes enneigées, tour et lac, devant une vraie ville de montagne.
+ext-ym-11686 | Une coupe de dessert glacé aux fruits (avocat, litchi, chocolat) en pleine éclaboussure de lait, sur fond vert.
+ext-ym-11700 | Coupe isométrique d'une maison de ville à plusieurs étages abritant un café, avec ses salles et ses personnages.
+ext-ym-11706 | Un tube rouge de soin posé sur un fond rouge, avec des fraises empilées à côté.
+ext-ym-11742 | Un flacon de parfum noir posé sur une roche brune, dans une cavité.
+ext-ym-11761 | Un œil dessiné au centre d'anneaux de peinture jaune et verte, sur une écorce d'arbre écaillée.
+ext-ym-11858 | Un pot de crème rose posé sur un plateau rose, entouré de fraises et d'une boule de glace.
+ext-ym-11878 | Affiche « Brand Name – Luxury that defines you » : deux femmes en robe verte, l'une tenant un sac rouge.
+ext-ym-11932 | Une femme blonde en robe beige, assise sur un canapé dans un salon avec escalier.
+ext-ym-11936 | Une bouteille de lait en verre posée sur une caisse en bois, dans un pré fleuri avec des vaches au loin.
+ext-ym-11976 | Un flacon de parfum turquoise sur une table drapée, entouré d'une guirlande de fleurs et de fruits, sous un ciel d'orage zébré d'un éclair.
+ext-ym-11983 | Une main dessine au crayon le portrait d'un homme dont le buste sort du carnet, dans un atelier d'artiste.
+ext-ym-12092 | Aquarelle d'une rivière qui traverse une forêt claire au printemps.
+ext-ym-12114 | Une femme au regard sérieux devant un ciel brumeux où flottent un grand cercle d'encre noire et une silhouette gigantesque, avec un nourrisson et un lit d'hôpital à l'arrière-plan.
+ext-ym-12164 | Page de manga en quatre cases : un homme corpulent devant un clavier discute de sujets universitaires, avec du texte en japonais.
+ext-ym-12167 | Un super-héros en cape argentée, debout sur un smartphone géant posé sur un rocher, avec le texte « Beyond the ordinary ».
+ext-ym-12181 | Schéma sombre « Over-ear studio headphones – assembly sequence » : cinq étapes d'assemblage d'un casque audio.
+ext-ym-12188 | Une carte à jouer (dame de pique) qui se brise : une femme en veste brodée projette de l'énergie violette de sa main.
+ext-ym-12190 | Collage : une femme en tenue de sport se photographie dans un miroir ; en dessous, un bol de yaourt aux fruits avec le détail des calories.
+ext-ym-12191 | Un flacon de parfum doré dans une éclaboussure d'eau, devant des lumières de ville floues, de nuit.
+ext-ym-12222 | Cinq mannequins en manteaux et combinaisons rouges, gris et bleus, debout devant des panneaux de verre, sur fond bleu.
+ext-ym-12225 | Quatre livres de comics ouverts en pop-up, avec les onomatopées « Kaboom! », « Thwack! », « Sssnak! » et « Zap! ».
+ext-ym-12235 | Une jeune femme aux cheveux argentés, coiffée d'un grand nœud rose, fait un signe de la main sur un fond rose.
+ext-ym-12341 | Motif répété de fleurs et de formes géométriques colorées, sur fond crème.
+ext-ym-12474 | Une jeune femme brune en haut blanc et mini-jupe noire monte les marches d'un avion privé, de nuit.
+ext-ym-12477 | Aquarelle bleue d'un paysage de montagnes, de rivières et de petits arbres rouges, sur fond blanc.
+ext-ym-12526 | Une jeune femme en haut bleu brillant et short en jean marche de nuit dans une ruelle.
+ext-ym-12546 | Un flacon de parfum violet « Mystic » sur un podium, sous une arche, avec des fleurs violettes.
+ext-ym-12612 | Affiche « Kyoto » : une photo ancienne de rue à pousse-pousse se déchire pour révéler une ville futuriste aux néons.
+ext-ym-12624 | Bande dessinée japonaise en quatre cases : un homme à moustache reçoit un étrange appel au téléphone, dans une voiture avec trois amis.
+ext-ym-12629 | Bande dessinée japonaise en quatre cases : le même homme répond au téléphone, entouré d'amis, dans une pièce.
+ext-ym-12640 | Carte aquarellée du centre de l'Angleterre et du pays de Galles, avec le titre « Nano Banana prompts – Watercolor map ».
+ext-ym-12652 | Un pot de crème « Instytutum » posé sur une souche couverte de mousse et de petites fleurs.
+ext-ym-12673 | Planche de manga en noir et blanc : un homme devant son ordinateur découvre un problème puis s'effondre, avec du texte en japonais.
+ext-ym-12692 | Dessin au trait d'un jeune homme en sweat à capuche qui s'accroupit pour caresser un chat roux, dans une rue de quartier résidentiel.
+ext-ym-12710 | Quatre objets noirs à lueurs orange (crâne mécanique, personnage, écouteurs, montre), titrés « Noir Techcore ».
+ext-ym-12723 | Hologramme bleu d'une tour de verre entourée de drones, au centre d'une salle technologique.
+ext-ym-12726 | De minuscules ouvriers sur des échelles autour d'une tasse de thé qui éclabousse.
+ext-ym-12748 | Triptyque d'illustrations d'une jeune fille à casquette assise ou allongée sur des épaves de voitures, à trois moments de la journée.
+ext-ym-12755 | Un pot de yaourt « Chergui » à la cerise, avec une éclaboussure de crème et des cerises en suspension, sur fond violet.
+ext-ym-12762 | Quatre photos d'un même jeune homme en veste dans quatre décors : champ au coucher du soleil, rue de nuit, fond blanc, rue sous la pluie.
+ext-ym-12803 | Une canette sombre « Nexora » entourée de grappes de raisin noir et de cerises, sur fond noir.
+ext-ym-12812 | Une main tient une pomme dans un rayon de supermarché, avec une liste de courses et des informations nutritionnelles en surimpression.
+ext-ym-12838 | Livre ouvert « Death Note » d'où surgissent des figurines de personnages de manga et le texte « Writing the fate of the world! ».
+ext-ym-12841 | Quatre vignettes de bande dessinée pop : des auteurs de comics et de manga au travail, avec des slogans comme « The power of manga! ».
+ext-ym-12856 | Planche japonaise en quatre cases : deux hommes discutent d'une annonce de grève de 24 h, assis sur un banc, puis attendent à la tombée de la nuit.
+ext-ym-12861 | Bande dessinée japonaise en quatre cases sur « Nano Banana » : un homme à son ordinateur, un téléphone, une ville.
+ext-ym-12865 | Maquette de cartes graphiques et de serveurs reliés par des câbles lumineux, posée sur un plan d'ingénieur.
+ext-ym-12915 | Page de manga en noir et blanc : des guerriers et une femme blonde discutent en quatre cases.
+ext-ym-12935 | Page de manga en noir et blanc : un lycéen lève le poing, puis des scènes d'un couple et d'un petit chien.
+ext-ym-12947 | Capture d'écran d'un outil de génération d'images : un hamburger à l'écran, des vignettes et une zone de saisie en bas.
+ext-ym-12968 | Broderie d'un grand voilier sur une mer de vagues dorées, sous un ciel étoilé bleu nuit, sur toile de lin.
+ext-ym-12978 | Deux doigts tiennent une petite figurine de personnage aux cheveux violets, à l'air boudeur.
+ext-ym-12996 | Éclatement des ingrédients d'une canette « Pepsi » : eau gazeuse, sucre, colorant, acide, arômes et caféine, légendés.
+ext-ym-13019 | Page de carnet ancien : aquarelle d'un avion de chasse vert-de-gris à demi enterré dans le sable, avec des annotations.
+ext-ym-13057 | Le mot « CAT » dont les lettres sont dessinées par un chat noir stylisé, sur fond blanc.
+ext-ym-13076 | Page de manga colorée en cinq cases : un chevalier entre dans une salle de jeux « Gaia », où des clients l'accueillent.
+ext-ym-13081 | Bande dessinée japonaise colorée : des hommes discutent de leur travail et mangent des nouilles, devant des écrans.
+ext-ym-13121 | Un flacon de parfum « Forest Essence – Elixir » couché sur de la mousse, au cœur d'une forêt.
+ext-ym-13129 | Une carte graphique immergée dans un aquarium planté, avec un petit voilier et des plantes, sur une étagère en bois.
+ext-ym-13176 | Image partagée en deux : à gauche une femme et un chien dans un pré en été au bord d'un lac, à droite les mêmes en hiver dans la neige.
+ext-ym-13182 | Gros plan sur une main portant plusieurs bagues dorées, dont une grande bague ciselée.
+ext-ym-13276 | Illustration de manga : deux jeunes femmes aux cheveux verts qui rient, sur un fond de pages de manga roses.
+ext-ym-13280 | Un grand écran affichant une plage où une femme promène un chien roux, avec une interface de jeu vidéo.
+ext-ym-13309 | Fausse affiche de film d'horreur « Sugarphobic » : un héros musclé face à des monstres, dans le style d'une bande dessinée ancienne.
+ext-ym-13314 | Affiche typographique « AI Future » en lettres jaunes sur fond noir, avec un couloir en perspective de lignes grises.
+ext-ym-13325 | Quatre jeunes gens souriants, dont l'un lève le pouce et une autre pointe l'objectif du doigt, sur un ciel bleu.
+ext-ym-13329 | Logo « Mythic Gears – VTuber adventure branding » : un dragon mécanique bleu et or sur fond d'ardoise.
+ext-ym-13338 | Planche de neuf photos d'une même femme en tenue décontractée et casque audio, dans des poses variées, sur fond bleu-vert.
+ext-ym-13377 | Affiche « design » en grandes lettres noires avec un reflet violet, sur un dégradé bleu et violet.
+ext-ym-13416 | Une feuille de papier artisanal imprimée « Print something real – Riso Riot Print Studio », aux formes colorées, sur une table en bois.
+ext-ym-13430 | Un flacon rouge « Snow » au centre d'un anneau d'eau entouré de fraises, sur fond rose.
+ext-ym-13569 | Deux petits flacons d'huile et de crème « Verdana » posés avec des herbes sur une table en bois, devant les mots « Grown from the earth ».
+ext-ym-13577 | Bande dessinée japonaise colorée en quatre cases : un facteur de pianos et son atelier, avec des pianos et du texte en japonais.
+ext-ym-14099 | Une jeune femme brune en veste noire et pantalon kaki, debout dans un métro, qui regarde par la porte vitrée.
+ext-ym-14288 | Un homme en gilet photographie à genoux avec un grand téléobjectif, à côté d'un guépard, dans la savane.
+ext-ym-14293 | Affiche « Never give up » : une jeune femme en veste en jean devant quatre portraits souriants d'elle, sur fond bleu.
+ext-ym-14710 | Hamburger éclaté sur fond jaune : pain, laitue, tomate, oignon, fromage, steak et sauce, légendés.
+ext-ym-15471 | Infographie « Languages of the world » : cercles concentriques classant des langues selon leur niveau de menace, du vert au rouge.
+ext-ym-15830 | Couverture de magazine « Glow – The Style Issue » : une femme blonde souriante en veste et foulard, avec des titres.
+ext-ym-15831 | Une femme en manteau rouge et casquette traverse une rue, un bouquet de tulipes à la main.
+ext-ym-15834 | Affiche de film « Night's Edge » : une femme court sous la pluie dans une ruelle sombre, poursuivie par une silhouette.
+ext-ym-16195 | Vue éclatée d'une voiture de sport : carrosserie, moteur, sièges, roues et centaines de pièces en noir sur fond blanc.
+ext-ym-16196 | Maquette isométrique d'une chambre d'étudiant : lit, bibliothèque, bureau à deux écrans et une personne assise.
+ext-ym-16446 | Portrait en noir et blanc d'une jeune femme à lunettes jaunes et casque audio, devant un disque doré.
+ext-ym-16473 | Illustration d'un chien casqué qui conduit un scooter vert dans une rue commerçante (boulangerie, librairie, café).
+ext-ym-16743 | Scène de jungle avec une rivière, des éléphants, des singes et des oiseaux sous les arbres.
+ext-ym-16747 | Dessin au crayon d'une femme souriante qui serre un bébé dans ses bras, assise dans un fauteuil.
+ext-ym-16758 | Affiche « Pulse Gear » : une sportive blonde en veste colorée et baskets bondit sur un flot turquoise, avec « Power. Performance. Style. ».
+ext-ym-16770 | Une jeune femme blonde souriante tient un flacon rose de produit capillaire, entouré d'ingrédients légendés (kératine, argan, vitamine B5, avoine).
+ext-ym-16969 | Illustration à l'encre : un empereur chinois en haut, des scènes de bataille dans des nuages, et un guerrier en armure en bas.
+ext-ym-16972 | Affiche « Next-gen style » : un homme en blouson noir brillant et lunettes de soleil marche dans un décor futuriste.
+ext-ym-16973 | Deux guerriers sur fond blanc : un colosse armé d'une masse d'armes et un combattant en noir tenant une faux.
+ext-ym-16976 | Fiche mode « Elegance Defined – Vogue Vista » : une femme en robe rouge, avec des variantes de couleurs et des conseils.
+ext-ym-16986 | Une jeune femme en pull kaki et pantalon beige, debout près d'une voiture de sport bleue aux néons roses, dans un parking souterrain.
+ext-ym-16998 | Coloriage de mandala en traits noirs : une grande fleur aux pétales décorés, sur fond blanc.
+ext-ym-17222 | Dessin au fusain d'un jeune homme souriant qui joue de la guitare, assis sur un tabouret devant des étagères.
+ext-ym-17260 | Portrait d'une jeune femme aux cheveux courts roux, aux taches de rousseur, lèvres rouges et blouse jaune nouée, sur fond vert.
+ext-ym-17481 | Planche « Bold Collection: Identity Board » : une femme en costume vert d'eau, entourée de produits de beauté et de mots-clés.
+ext-ym-17755 | Couverture de magazine « Glaxy » : une femme en robe de gala rose aux manches en forme de roses, avec le titre « Grace & Power ».
+ext-ym-17763 | Couverture de magazine « Aura » : une femme en veste de velours vert et gros bijoux dorés, avec « Desert Blossom ».
+ext-ym-17773 | Planche de tasses décorées de motifs variés (fleurs, cœurs, damiers) en couleurs chaudes, sur fond crème.
+ext-ym-18252 | Fiche beauté « Cosmetic Collection » : une femme en haut rose, avec des produits de maquillage et des légendes.
+ext-ym-18288 | Dessin au crayon d'un œil qui pleure, avec une larme au bord de la paupière.
+ext-ym-18291 | Affiche d'un personnage de fantasy, « Kaelen, The Verdant Whisper » : une guerrière à lunettes de soudeur entourée d'une aura végétale.
+ext-ym-18296 | Portrait aquarellé d'une femme au regard intense, parée de bijoux dorés et de pierres turquoise, sur fond coloré.
+ext-ym-18491 | Affiche « Spicy Food – Explode your palate » : un plat de crevettes épicées dans les flammes, avec des textes publicitaires.
+ext-ym-18500 | Un tube « Aqua Lumin – Hydrating facial cleanser » qui jaillit d'une éclaboussure d'eau, sur un fond de feuillage.
+ext-ym-18508 | Quatre sculptures en bois de scènes de combat et d'une cascade, posées sur des socles.
+ext-ym-18514 | Dessin au fusain d'une jeune femme frangée qui sourit en jouant de la guitare.
+ext-ym-18746 | Fiche « Stylist Bag Collection » : une femme tenant un sac marron, avec des coloris de sacs et des conseils d'assortiment.
+ext-ym-18747 | Planche pédagogique sur le cœur humain : schémas des cavités, du cycle cardiaque et du flux sanguin, avec légendes.
+ext-ym-18983 | Une femme brune en veste de velours rouge compose un bouquet de roses rouges dans une bibliothèque ancienne.
+ext-ym-18997 | Une jeune femme à casquette, T-shirt kaki et short noir, assise sur un tabouret devant un mur de bois.
+ext-ym-19168 | Planche pédagogique sur le papillon Morpho bleu : photos, schémas et encadrés d'information.
+ext-ym-19181 | Un homme tient un téléphone devant un fond rouge, entouré d'interfaces de lecteur de musique flottantes.
+ext-ym-19196 | Planche pédagogique sur l'œil humain : coupe détaillée au centre et encadrés d'information.
+ext-ym-19197 | Planche d'information sur un grand paquebot rouge et blanc, avec plans, chiffres et encadrés.
+ext-ym-19387 | Illustration au crayon de couleur : une grand-mère à béret, une jeune femme et une fillette assises sur un banc de parc.
+ext-ym-19388 | Dessin au crayon de trois jeunes femmes souriantes en bonnet et manteau, dont une assise en bas à droite.
+ext-ym-19399 | Planche d'ingénierie amusante « The Ultimate Hot Fudge Sundae » : une coupe glacée en coupe, avec graphiques et légendes.
+ext-ym-19619 | Couverture de magazine « Rebel Soul » : une jeune femme en jupe plissée et baskets blanches, sur un fond de collages colorés.
+ext-ym-19621 | Planche de personnage en 3D : une jeune femme au carré et blazer crème, de face, de profil et de dos, avec palette et expressions.
+ext-ym-19628 | Affiche de football « Avava Hansen 10 » : deux joueuses en maillot rayé noir et blanc, dans un cadre dynamique.
+ext-ym-19769 | Illustration d'un homme aux cheveux gris en costume crème, assis, la main au menton, dans une bibliothèque.
+ext-ym-19775 | Affiche Coca-Cola : un homme en veste sombre debout près d'une grande bouteille, avec « Taste the Feeling. », sur fond rouge.
+ext-ym-19777 | Selfie dans un miroir de salle de bains : une jeune femme en veste noire, entourée de notifications, avec le mot « Creator ».
+ext-ym-19783 | Affiche verticale « Hulk » : le poing vert du personnage en gros plan, sur fond noir.
+ext-ym-19788 | Quatre figurines de héros de manga : une moto rouge, un personnage qui lance une énergie bleue, un bateau pirate et une héroïne aux couleurs vives.
+ext-ym-19987 | Aquarelle d'une rue de Turquie, titrée « Turkey – Everyday Urban Rhythm », avec maisons, bus jaune et passants.
+ext-ym-19996 | Affiche « Ema Collection » : une jeune femme en robe verte tient un sac matelassé vert, devant des roses et la tour Eiffel.
+ext-ym-19997 | Aquarelle d'un petit garçon aux cheveux noirs, assis par terre, qui lit un livre.
+ext-ym-20164 | Aquarelle « Hunza Valley » : un fort en pierre au pied de montagnes enneigées et d'une rivière.
+ext-ym-20165 | Une femme en manteau noir, souriante, dans une forêt brumeuse ornée de guirlandes de fanions colorés.
+ext-ym-20169 | Couverture de magazine : une souris de dessin animé en sweat et baskets devant un mur de graffitis, avec « JERRY » et des caractères japonais.
+ext-ym-20171 | Deux images côte à côte : le selfie d'une jeune femme qui boit une boisson verte, et sa version dessinée à l'encre en caricature.
+ext-ym-20418 | Dessin au crayon d'une jeune femme en bonnet et veste, adossée à un mur, qui regarde son téléphone.
+ext-ym-20427 | Un homme en blouson de cuir marron et T-shirt blanc, qui tient ses lunettes, devant un mur blanc.
+ext-ym-20429 | Fiche d'allure ancienne « Giant Strawberry Shortcake » : un gâteau à la fraise en coupe, avec schémas et légendes.
+ext-ym-20437 | Couverture de magazine « Ema'z » : une femme aux cheveux bouclés orange, en jupe bleue de tulle.
+ext-ym-20440 | Affiche « Angel – Creator identity » : une jeune femme en blouson noir devant des interfaces lumineuses.
+ext-ym-20456 | Planche « Yui Aragaki » : quatre scènes d'une même femme à l'aquarelle (marche, lecture, écriture, cueillette) dans une forêt.
+ext-ym-20772 | Affiche « Neo Kinetic » : une personne assise en veste grise et baskets sur une plateforme néon, devant des dés et des motifs colorés.
+ext-ym-20996 | Un dragon en mosaïque rouge et or sur une planche de bois, au milieu de cerisiers en fleur et d'un pavillon japonais.
+ext-ym-21001 | Une jeune femme en chemise blanche et lunettes de soleil marche pieds nus sur une plage au coucher du soleil, ses chaussures à la main.
+ext-ym-21016 | Couverture illustrée « Murree : A journey through hidden lanes & character » : une rue animée d'une ville de montagne.
+ext-ym-21268 | Dessin au crayon de deux jeunes hommes de profil, dont le manteau de l'un contient un paysage de lac avec un randonneur.
+ext-ym-21278 | Planche : une femme en chemise blanche et lunettes de soleil, découpée au premier plan devant quatre portraits en noir et blanc.
+ext-ym-21451 | Affiche sombre : deux portraits de femmes au-dessus d'une voiture de sport noire, sous une pleine lune.
+ext-ym-21457 | Affiche « Italy » : une carte illustrée de l'Italie avec des repères, des photos de sites et du texte.
+ext-ym-21461 | Illustration d'une jeune femme rousse en robe lilas sous des cerisiers, entourée de petits messages encourageants.
+ext-ym-21622 | Couverture de magazine « Chance » : une femme en noir au-dessus d'un flacon de parfum doré, avec le mot « Timeless ».
+ext-ym-21624 | Affiche rétro « Fizz – Cool your soul! » : une pin-up blonde en robe turquoise tient une bouteille devant une plage.
+ext-ym-21627 | Illustration d'une femme aux cheveux noirs bouclés et à la veste verte, souriante, la main près du visage.
+ext-ym-21631 | Affiche illustrée « Switzerland » : une rue de village alpin avec chalets, cyclistes et montagnes enneigées.
+ext-ym-21797 | Planche « Nursery style blueprint » : une petite fille dessinée avec ses vêtements et accessoires pastel, et une palette de couleurs.
+ext-ym-22035 | Planche de manga en quatre cases : des scènes de cour royale et de salle d'étude, avec du texte en japonais.
+ext-ym-22046 | Portrait d'une footballeuse blonde aux ailes turquoise en pleine course dans un stade, avec un grand visage en surimpression.
+ext-ym-22067 | Planche « Portrait sketch – The essence of calm » : une femme à lunettes tient une tasse, avec des détails de tricot et d'accessoires.
+ext-ym-22231 | Deux silhouettes lumineuses sous des parapluies transparents, dans une rue pluvieuse aux reflets de néon, la nuit.
+ext-ym-22257 | Diorama en papier découpé dans un cadre en bois : une famille et une grand-mère devant un temple japonais et un pont, parmi des érables.
+ext-ym-22261 | Un couple en tenue de soirée s'enlace dans un jardin éclairé, l'homme embrassant la femme sur la joue.
+ext-ym-22265 | Dessin au crayon d'un couple souriant, serré l'un contre l'autre, en pulls.
+ext-ym-22464 | Plat d'ailes de poulet laquées avec une sauce et du céleri, devant un paysage de palmiers, avec des notes manuscrites.
+ext-ym-22662 | Aquarelle d'un homme barbu en blazer bleu et pantalon vert, un sac en bandoulière, qui marche dans une rue pavée.
+ext-ym-22665 | Illustration d'une jeune femme en parka verte à capuche de fourrure, devant un village de chalets sous la neige.
+ext-ym-22787 | Couverture de magazine « Velvet & Vinyl » : une jeune femme souriante tient un appareil photo devant un mur peint.
+ext-ym-22794 | Aquarelle d'une jeune femme brune en veste rouge, accoudée à une table de café devant un mur de briques.
+ext-ym-22805 | Portrait d'une jeune femme, moitié dessin au crayon et moitié aquarelle.
+ext-ym-22815 | Un homme tatoué en maillot bleu ciel, assis dans un fauteuil de cristal bleu entouré de feuilles de glace.
+ext-ym-22817 | Illustration d'un jeune homme en pull jaune assis sur un téléviseur rouge, entouré de fleurs bleues, de planètes et d'une boussole.
+ext-ym-22821 | Une place en ruine aux dalles roses, avec un puits au centre et une enseigne rouge, dans un style de jeu vidéo sombre.
+ext-ym-23132 | Portrait d'une jeune fille blonde aux tresses, couronnée de fleurs, dans un cadre floral en aquarelle.
+ext-ym-23135 | Scène de jeu vidéo en pixel art : une héroïne rousse tient une pomme rouge dans une caverne de lave, entourée de fantômes bleus.
+ext-ym-23144 | Illustration d'un salon-atelier chaleureux : deux femmes qui peignent des plantes, un tourne-disque, un fauteuil et des chats.
+ext-ym-23267 | Dessin au crayon d'une jeune femme au chignon, en pull tricoté, qui sourit devant une falaise et la mer.
+ext-ym-23377 | Couverture de magazine « Ema'z » : une femme aux cheveux dressés saute, en haut vert et jean, avec « Green Revolution? ».
+ext-ym-23393 | Éclatement d'ingrédients d'un dessert à la mangue : crème, purée, dés de mangue, glaçons et verre, légendés.
+ext-ym-23728 | Couverture de magazine « Aura » : une femme parée d'une couronne végétale et d'une tenue brodée, avec « Organic re-awakening ».
+ext-ym-23741 | Planche : une femme en noir et lunettes de soleil au premier plan, devant quatre portraits en noir et blanc.
+ext-ym-23744 | Illustration d'une jeune fille qui lit sur un banc sous des cerisiers en fleur, un chat endormi à côté d'elle.
+ext-ym-23882 | Un homme aux cheveux longs et aux lunettes bleutées, en manteau sombre, entouré d'éclats de glace et d'une aura verte.
+ext-ym-23893 | Quatre vues aériennes de lieux de séries télévisées : un immeuble, un restaurant, un bureau et une maison, avec leurs titres.
+ext-ym-23898 | Dessin au crayon d'un couple assis sur un rocher au bord d'une rivière, en forêt.
+ext-ym-24219 | Quatre schémas techniques en coupe : un téléphone, un appareil photo, des écouteurs et un clavier, avec légendes.
+ext-ym-24372 | Une femme rousse en queue de sirène verte, assise sur un rocher dans un torrent, qui tient un petit oiseau.
+ext-ym-25114 | Affiche « I am a creator » : une jeune femme en veste de cuir noire, assise sur une chaise devant d'énormes lettres.
+ext-ym-25117 | Photo d'une jeune femme en manteau et lunettes de soleil, debout devant son propre croquis au crayon.
+ext-ym-25129 | Aquarelle violette de plusieurs visages de femmes aux cheveux flottants, mêlés à des tissus.
+ext-ym-25131 | Une jeune femme en robe fleurie orange tient un parapluie à fleurs dans un jardin de roses.
+ext-ym-25283 | Portrait stylisé d'une jeune femme à la frange, mêlant dessin et éclaboussures de peinture.
+ext-ym-25306 | Quatre couvertures de magazine de mode avec le même mannequin assis, dans des tenues différentes.
+ext-ym-25307 | Un couple en pulls d'automne s'enlace sur un sentier de forêt aux feuilles dorées.
+ext-ym-25308 | Affiche de football « Nossa país, nosso sonho » : trois scènes de joueurs en maillot rouge, avec un trophée et un stade.
+ext-ym-25606 | Affiche « Coca-Cola » : le nom en lettres rouges imbriquées dans un labyrinthe, avec des pictogrammes de bouteille, de canette et de verre.
+ext-ym-25975 | Un flacon de gel douche jaune devant des citrons coupés, dans une lumière douce avec des bulles.
+ext-ym-26083 | Planche de croquis d'un personnage « Orion (Urban Modernist) » : un homme à lunettes et barbe dessiné sous plusieurs angles, avec notes.
+ext-ym-26191 | Planche de storyboard « The Empty Swing » : six vignettes d'une fillette dans un parc au coucher du soleil, avec légendes.
+ext-ym-26305 | Portrait aquarellé d'une femme blonde en col à volants vert d'eau.
+ext-ym-26311 | Un homme en polo blanc et lunettes de soleil tient une glace, devant un bateau amarré et des façades italiennes.
+ext-ym-26315 | Un étang de lotus roses au lever du soleil, avec une pagode dans la brume au fond.
+ext-ym-26318 | Illustration d'un homme barbu et tatoué en veste technique, sur un fond de caractères japonais et de titres.
+ext-ym-26319 | Aquarelle d'une jeune femme aux cheveux roux, mêlée à des fleurs et à des traits d'architecte.
+ext-ym-26407 | Côte rocheuse boisée battue par les vagues, sous un ciel d'orage.
+ext-ym-26642 | Affiche « Happy Birthday Leo Messi – The greatest of all time » : un joueur en maillot rayé bleu et blanc tient deux trophées dans un stade.
+ext-ym-26927 | Dessin au crayon d'une jeune femme aux cheveux longs, le regard au loin.
+ext-ym-26932 | Couverture « Rule Breaker » : une jeune femme en veste violette, devant des lettres géantes et des slogans.
+ext-ym-27027 | Affiche « Raiko » : un petit guerrier de manga aux cheveux jaunes hérissés, sabre dans le dos, dans des éclairs sur fond jaune.
+ext-ym-27124 | Aquarelle bleue : deux versions d'une même jeune femme à lunettes de soleil, dans des éclaboussures de peinture.
+ext-ym-27131 | Storyboard d'une intervention de pompiers en huit vignettes, de l'alarme au sauvetage, avec légendes sous chaque image.
+ext-ym-27301 | Dessin au crayon d'une jeune femme à la frange, aux lignes de construction visibles.
+ext-ym-27529 | Schéma d'une manette de console blanche et noire démontée, avec ses composants légendés.
+ext-ym-27617 | Affiche « Iced Matcha » : une sportive en tenue bleue court en tenant un verre de matcha, avec de grosses lettres.
+ext-ym-27857 | Illustration « Living in Brazil – Rhythm of life » : une baie avec plage, le Pain de Sucre et le Christ rédempteur, ornée de feuillages.
+ext-ym-27973 | Planche de manga en quatre cases : un homme à l'air soucieux chez le médecin, avec des logos de marque de luxe.
+ext-ym-28449 | Interface de campagne d'été : schéma de déclinaisons d'un produit « Stay Cool » en canettes colorées aux agrumes.
+ext-ym-28461 | Portrait dessiné d'une jeune femme à la frange et au col roulé noir.
+ext-ym-28562 | Affiche de sport « Built different » : une basketteuse en maillot rouge, avec des portraits et le slogan « Train hard, stay hungry ».
+ext-ym-28573 | Maquette d'un cercle rituel boisé flottant : un feu au centre et des totems, dans une forêt.
+ext-ym-28672 | Page de manga en noir et blanc : des hommes en armes et des scènes d'action en dix cases, avec des onomatopées.
+ext-ym-28784 | Affiche « Think better » : une basketteuse assise, un portrait concentré et le slogan « Train hard, stay hungry », en rouge et crème.
+ext-ym-29042 | Un guerrier encapuchonné en armure sombre devant une grande lune, dans un jardin japonais violet aux cerisiers en fleur.
+ext-ym-29258 | Affiche « Think bigger » : un aigle et un oisillon devant des montagnes baignées de lumière dorée.
+ext-ym-29347 | Illustration en pixel art d'un architecte de systèmes âgé, assis dans un fauteuil devant des écrans holographiques, dans une pièce high-tech.
+ext-ym-29565 | Affiche « Goal Step » : un footballeur en pleine frappe, avec de grosses lettres qui encadrent un terrain.
+ext-ym-29965 | Portrait au crayon de couleur d'une personne aux longs cheveux clairs, foulard rouge sur la tête et lunettes sur le front.
+ext-ym-29970 | Portrait à l'encre d'une jeune femme aux longs cheveux noirs, les bras croisés sous le menton.
+ext-ym-30072 | Affiche « Focus on your dreams » : une jeune femme en robe rouge dans un métro, avec des éclaboussures noires et rouges.
+ext-ym-30218 | Planche de douze vignettes d'ambiance : bougies, mains et textures douces, en tons crème et lavande, avec légendes.
+ext-ym-30331 | Un jouet sous blister « Samurai's Path – Collector's vinyl series » : une figurine de samouraï chibi.
+ext-ym-30332 | Illustration d'un homme à lunettes de soleil, en chemise beige, allongé dans un fauteuil, sur fond ocre.
+ext-ym-30694 | Une bouteille d'eau « Evian » entourée d'un tourbillon d'eau et de glaçons, sur fond bleu givré.
+ext-ym-30808 | Une canette Coca-Cola suspendue au-dessus d'une main robotique rouge, devant une ville floue.
+ext-ym-30813 | Un hamster roux et blanc mange une feuille dans de hautes herbes.
+ext-ym-30817 | Un dodo sculpté en relief au milieu de feuillages tropicaux, aux tons bruns et verts.
+ext-ym-31062 | Ciel étoilé traversé par la Voie lactée au-dessus d'un lac et de montagnes, de nuit.
+ext-ym-31353 | Une grenouille en feutrine verte, en maillot de bain bleu, debout sur une plage avec palmiers, parasol et petit bateau rouge.
+ext-ym-31354 | Illustration à l'aquarelle « Chasing Sunsets » : une mouette, des palmiers, une chaise longue, un coquillage et une vague.
+ext-ym-31357 | Tableau noir en chinois sur l'IA et les mathématiques, avec un homme souriant et un schéma en étapes.
+ext-ym-31470 | Une jeune femme aux cheveux violets, en lunettes de soleil et combinaison bleue, tend un sac à main vert dans un hall à colonnes.
+ext-ym-31475 | Gros plan sur un cylindre métallique d'où jaillit un faisceau de lumière aux couleurs de l'arc-en-ciel, sur fond sombre.
+ext-ym-31568 | Un couple de dos marche sur un chemin au milieu de champs de fleurs jaunes et bleues, au coucher du soleil.
+ext-ym-31877 | Un homme en tenue de travail sombre, appuyé près d'une grande antenne parabolique, de nuit, en illustration réaliste.
+ext-ym-31992 | Un ourson polaire blanc assis au bord de l'eau, face à une ville aux gratte-ciel illuminés, sous un ciel étoilé.
+ext-ym-31997 | Storyboard « Premium Hot Noodles » : huit vignettes de nouilles instantanées qui cuisent, avec légendes.
+ext-ym-32099 | Éclatement d'un milkshake à la fraise : fraise, chantilly, sirop, milkshake, glace et verre, légendés.
+ext-ym-32186 | Un arbre aux feuilles violettes au sommet d'une falaise, face à une rivière turquoise lumineuse, avec une petite silhouette.
+ext-ym-32661 | Trois petits extraterrestres verts en combinaison argentée, parmi des cactus, sous une pleine lune.
+ext-ym-32744 | Livre ouvert « The War of the Worlds » d'où surgit un immense tripode qui tire un rayon sur une ville en ruine.
+ext-ym-32840 | Affiche « Nike » : un homme en blanc glisse sur une énorme basket blanche, devant de grandes lettres.
+ext-ym-32847 | Quatre affiches de petits-déjeuners du monde : Weet-Bix, mielie pap, Vegemite sur toast et maté.
+ext-ym-32911 | Affiche « Majestic – Aesthetics. Heritage. Performance. » : un homme en costume noir assis sur une voiture de sport rouge.
+ext-ym-32982 | Aquarelle d'une jeune femme blonde au chignon, assise sur un banc, le menton dans la main, dont le bras est couvert de feuillages.
+ext-ym-32986 | Planche de dix étapes de préparation de nouilles instantanées, en vignettes légendées sur fond de bois.
+ext-ym-33081 | Storyboard « Frozen Pizza » : huit vignettes d'une pizza surgelée qui cuit, avec légendes.
+ext-ym-33091 | Storyboard « Spicy Potato Chips » : huit vignettes de chips épicées sur fond noir, avec légendes.
+ext-ym-33186 | Portrait d'une jeune femme en kimono bleu, une grande tache rouge derrière la tête, en encre et éclaboussures.
+ext-ym-33285 | Diapositive en hébreu avec un graphique en courbe ascendante, des chiffres clés et des icônes.
+ext-ym-33393 | Storyboard « Spaghetti » : huit vignettes d'un plat de pâtes, de l'eau qui bout à l'assiette, avec légendes.
+ext-ym-33396 | Croquis de mode : une femme en chemisier brodé et pantalon large à pois orange.
+ext-ym-33464 | Storyboard « Crunchy Potato Sticks » : huit vignettes de bâtonnets de pommes de terre dorés sur fond noir, avec légendes.
+ext-ym-33474 | Un vieil homme à lanterne descend un escalier sombre, devant une fenêtre où éclate une tempête, parmi des photos de bateaux.
+ext-ym-33476 | Illustration d'une jeune femme aux cheveux noirs relevés, en T-shirt lilas et collier doré.
+ext-ym-33564 | Storyboard « Greek Yogurt » : huit vignettes de yaourt grec aux fruits rouges, avec légendes.
+ext-ym-33658 | Storyboard « Strawberry Cheesecake Ice Cream » : huit vignettes de glace à la fraise, avec légendes.
+ext-ym-33659 | Storyboard « Maple Syrup » : huit vignettes de sirop d'érable sur des pancakes, avec légendes.
+ext-ym-33661 | Affiche « Rolex » : un homme en costume vert appuyé contre une montre géante à cadran noir, avec « Time, perfected. ».
+ext-ym-33664 | Portrait aquarellé d'une jeune femme à la frange et au regard sévère, un pinceau tenu devant elle.
+ext-ym-33668 | Storyboard « Greek Yogurt » : huit vignettes de yaourt aux fruits rouges, avec légendes, sur fond rose.
+ext-ym-33670 | Quatre titres de films d'animation japonais en volume de papier : « Dragon Ball Z », « Sailor Moon », « Spirited Away » et « One Piece ».
+ext-ym-33925 | Affiche de zine « Live & DJ » en noir et blanc, avec des photos de musiciens, du texte japonais et la date du 15 novembre 2026.
+ext-ym-34130 | Publicité japonaise dans le style d'un manga : une enceinte portable rouge dont le son explose, avec des onomatopées.
+ext-ym-34131 | Une femme en costume gris debout dans le jardin d'un bâtiment en béton couvert de lierre.
+ext-ym-34132 | Un portefeuille en cuir brun et une montre à bracelet de cuir posés sur une surface en cuir.
+ext-ym-34133 | Couverture de magazine japonais « まちの余白 » : une ruelle ancienne avec un café, un distributeur et un chat.
+ext-ym-34302 | Portrait gravé en noir et blanc d'un homme aux longs cheveux, bandana et lunettes de soleil, sur fond rouge.
+ext-ym-34306 | Illustration de jeu : un petit guerrier casqué et un dragon violet ouvrent un coffre qui libère des étincelles, sur des îles flottantes.
+ext-ym-34449 | Portrait aquarellé d'un homme en costume sombre et cravate, au léger sourire, sur fond de touches de couleur.
+ext-ym-34454 | Deux affiches de la ville de Shenzhen côte à côte : à gauche des gratte-ciel stylisés, à droite une île-maquette de la ville.
+ext-ym-34455 | Fiche illustrée en japonais de deux plats, curry vert et tom yum, avec leurs ingrédients dessinés.
+ext-ym-34456 | Schéma japonais en trois étapes sur l'introduction du travail de nuit, avec des personnages et des flèches.
+ext-ym-34670 | Aquarelle d'un visage de femme aux yeux fermés, au sommet de bâtiments anciens, avec des poissons dorés qui nagent dessous.
+ext-ym-34749 | Illustration d'un homme en costume sombre, cheveux courts, vu de profil, dessiné à l'encre et à l'aquarelle.
+ext-ym-35224 | Une femme souriante en T-shirt « Google Flow », devant un mur de briques, avec le texte « Find your flow. ».
+ext-ym-36152 | Une grenouille en feutrine verte, sac en bandoulière, assise sur un nénuphar au milieu de fleurs de lotus et de galets colorés, au coucher du soleil.
