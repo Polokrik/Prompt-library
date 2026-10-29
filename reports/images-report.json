@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:49:44.777Z",
+  "generatedAt": "2026-10-29T09:52:29.715Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -11,37 +11,49 @@
       "quality": 82
     }
   },
-  "sourcesFound": 51,
+  "sourcesFound": 75,
   "processed": [
-    "ext-306",
-    "ext-307",
-    "ext-311",
-    "ext-315",
-    "ext-335",
-    "ext-341",
-    "ext-353",
-    "ext-21",
-    "ext-23",
-    "ext-4",
-    "ext-58",
-    "ext-59",
-    "ext-6",
-    "ext-80",
-    "ext-88",
-    "ext-89",
-    "ext-90",
-    "ext-95",
-    "ext-98",
-    "ext-99"
+    "ext-327",
+    "ext-328",
+    "ext-331",
+    "ext-336",
+    "ext-339",
+    "ext-343",
+    "ext-360",
+    "ext-26",
+    "ext-29",
+    "ext-33",
+    "ext-39",
+    "ext-43",
+    "ext-47",
+    "ext-53",
+    "ext-54",
+    "ext-55",
+    "ext-60",
+    "ext-61",
+    "ext-63",
+    "ext-66",
+    "ext-73",
+    "ext-74",
+    "ext-86",
+    "ext-96",
+    "ext-97"
   ],
   "skippedUnchanged": [
+    "ext-306",
+    "ext-307",
     "ext-309",
+    "ext-311",
+    "ext-315",
     "ext-321",
     "ext-325",
     "ext-332",
+    "ext-335",
     "ext-337",
+    "ext-341",
     "ext-342",
     "ext-349",
+    "ext-353",
     "ext-362",
     "ext-364",
     "ext-377",
@@ -53,22 +65,34 @@
     "ext-17",
     "ext-2",
     "ext-20",
+    "ext-21",
+    "ext-23",
     "ext-27",
     "ext-3",
     "ext-31",
     "ext-32",
+    "ext-4",
     "ext-42",
     "ext-45",
     "ext-46",
     "ext-57",
+    "ext-58",
+    "ext-59",
+    "ext-6",
     "ext-75",
+    "ext-80",
     "ext-81",
     "ext-82",
     "ext-84",
-    "ext-97"
+    "ext-88",
+    "ext-89",
+    "ext-90",
+    "ext-95",
+    "ext-98",
+    "ext-99"
   ],
   "invalid": [],
-  "absentForKnownEntries": 1503,
+  "absentForKnownEntries": 1479,
   "absentSample": [
     "ENT-VNHZB48D",
     "ENT-348NIYT0",
@@ -152,6 +176,10 @@
       "error": "aucune fiche pour « ym-10104-thumb »"
     },
     {
+      "file": "imports/images/ym-10254-thumb.webp",
+      "error": "aucune fiche pour « ym-10254-thumb »"
+    },
+    {
       "file": "imports/images/ym-10283-thumb.webp",
       "error": "aucune fiche pour « ym-10283-thumb »"
     },
@@ -160,8 +188,16 @@
       "error": "aucune fiche pour « ym-10286-thumb »"
     },
     {
+      "file": "imports/images/ym-104-thumb.webp",
+      "error": "aucune fiche pour « ym-104-thumb »"
+    },
+    {
       "file": "imports/images/ym-10433-thumb.webp",
       "error": "aucune fiche pour « ym-10433-thumb »"
+    },
+    {
+      "file": "imports/images/ym-10480-thumb.webp",
+      "error": "aucune fiche pour « ym-10480-thumb »"
     },
     {
       "file": "imports/images/ym-10537-thumb.webp",
@@ -178,6 +214,10 @@
     {
       "file": "imports/images/ym-10643-thumb.webp",
       "error": "aucune fiche pour « ym-10643-thumb »"
+    },
+    {
+      "file": "imports/images/ym-10662-thumb.webp",
+      "error": "aucune fiche pour « ym-10662-thumb »"
     },
     {
       "file": "imports/images/ym-1074-thumb.webp",
@@ -198,6 +238,14 @@
     {
       "file": "imports/images/ym-11211-thumb.webp",
       "error": "aucune fiche pour « ym-11211-thumb »"
+    },
+    {
+      "file": "imports/images/ym-11270-thumb.webp",
+      "error": "aucune fiche pour « ym-11270-thumb »"
+    },
+    {
+      "file": "imports/images/ym-11358-thumb.webp",
+      "error": "aucune fiche pour « ym-11358-thumb »"
     },
     {
       "file": "imports/images/ym-11477-thumb.webp",
@@ -276,6 +324,10 @@
       "error": "aucune fiche pour « ym-13338-thumb »"
     },
     {
+      "file": "imports/images/ym-13377-thumb.webp",
+      "error": "aucune fiche pour « ym-13377-thumb »"
+    },
+    {
       "file": "imports/images/ym-14099-thumb.webp",
       "error": "aucune fiche pour « ym-14099-thumb »"
     },
@@ -304,6 +356,14 @@
       "error": "aucune fiche pour « ym-1584-thumb »"
     },
     {
+      "file": "imports/images/ym-1600-thumb.webp",
+      "error": "aucune fiche pour « ym-1600-thumb »"
+    },
+    {
+      "file": "imports/images/ym-16195-thumb.webp",
+      "error": "aucune fiche pour « ym-16195-thumb »"
+    },
+    {
       "file": "imports/images/ym-16747-thumb.webp",
       "error": "aucune fiche pour « ym-16747-thumb »"
     },
@@ -326,6 +386,10 @@
     {
       "file": "imports/images/ym-17481-thumb.webp",
       "error": "aucune fiche pour « ym-17481-thumb »"
+    },
+    {
+      "file": "imports/images/ym-17763-thumb.webp",
+      "error": "aucune fiche pour « ym-17763-thumb »"
     },
     {
       "file": "imports/images/ym-18288-thumb.webp",
@@ -356,6 +420,10 @@
       "error": "aucune fiche pour « ym-19775-thumb »"
     },
     {
+      "file": "imports/images/ym-19777-thumb.webp",
+      "error": "aucune fiche pour « ym-19777-thumb »"
+    },
+    {
       "file": "imports/images/ym-19783-thumb.webp",
       "error": "aucune fiche pour « ym-19783-thumb »"
     },
@@ -384,6 +452,10 @@
       "error": "aucune fiche pour « ym-20772-thumb »"
     },
     {
+      "file": "imports/images/ym-2094-thumb.webp",
+      "error": "aucune fiche pour « ym-2094-thumb »"
+    },
+    {
       "file": "imports/images/ym-20996-thumb.webp",
       "error": "aucune fiche pour « ym-20996-thumb »"
     },
@@ -396,8 +468,20 @@
       "error": "aucune fiche pour « ym-2110-thumb »"
     },
     {
+      "file": "imports/images/ym-21268-thumb.webp",
+      "error": "aucune fiche pour « ym-21268-thumb »"
+    },
+    {
+      "file": "imports/images/ym-21457-thumb.webp",
+      "error": "aucune fiche pour « ym-21457-thumb »"
+    },
+    {
       "file": "imports/images/ym-21624-thumb.webp",
       "error": "aucune fiche pour « ym-21624-thumb »"
+    },
+    {
+      "file": "imports/images/ym-21627-thumb.webp",
+      "error": "aucune fiche pour « ym-21627-thumb »"
     },
     {
       "file": "imports/images/ym-2205-thumb.webp",
@@ -432,12 +516,28 @@
       "error": "aucune fiche pour « ym-22821-thumb »"
     },
     {
+      "file": "imports/images/ym-23144-thumb.webp",
+      "error": "aucune fiche pour « ym-23144-thumb »"
+    },
+    {
+      "file": "imports/images/ym-23377-thumb.webp",
+      "error": "aucune fiche pour « ym-23377-thumb »"
+    },
+    {
       "file": "imports/images/ym-23882-thumb.webp",
       "error": "aucune fiche pour « ym-23882-thumb »"
     },
     {
+      "file": "imports/images/ym-23898-thumb.webp",
+      "error": "aucune fiche pour « ym-23898-thumb »"
+    },
+    {
       "file": "imports/images/ym-2410-thumb.webp",
       "error": "aucune fiche pour « ym-2410-thumb »"
+    },
+    {
+      "file": "imports/images/ym-24219-thumb.webp",
+      "error": "aucune fiche pour « ym-24219-thumb »"
     },
     {
       "file": "imports/images/ym-25129-thumb.webp",
@@ -464,6 +564,14 @@
       "error": "aucune fiche pour « ym-26191-thumb »"
     },
     {
+      "file": "imports/images/ym-26305-thumb.webp",
+      "error": "aucune fiche pour « ym-26305-thumb »"
+    },
+    {
+      "file": "imports/images/ym-26315-thumb.webp",
+      "error": "aucune fiche pour « ym-26315-thumb »"
+    },
+    {
       "file": "imports/images/ym-27027-thumb.webp",
       "error": "aucune fiche pour « ym-27027-thumb »"
     },
@@ -476,8 +584,16 @@
       "error": "aucune fiche pour « ym-27124-thumb »"
     },
     {
+      "file": "imports/images/ym-27617-thumb.webp",
+      "error": "aucune fiche pour « ym-27617-thumb »"
+    },
+    {
       "file": "imports/images/ym-27973-thumb.webp",
       "error": "aucune fiche pour « ym-27973-thumb »"
+    },
+    {
+      "file": "imports/images/ym-2830-thumb.webp",
+      "error": "aucune fiche pour « ym-2830-thumb »"
     },
     {
       "file": "imports/images/ym-2831-thumb.webp",
@@ -500,6 +616,18 @@
       "error": "aucune fiche pour « ym-3008-thumb »"
     },
     {
+      "file": "imports/images/ym-30332-thumb.webp",
+      "error": "aucune fiche pour « ym-30332-thumb »"
+    },
+    {
+      "file": "imports/images/ym-307-thumb.webp",
+      "error": "aucune fiche pour « ym-307-thumb »"
+    },
+    {
+      "file": "imports/images/ym-30813-thumb.webp",
+      "error": "aucune fiche pour « ym-30813-thumb »"
+    },
+    {
       "file": "imports/images/ym-309-thumb.webp",
       "error": "aucune fiche pour « ym-309-thumb »"
     },
@@ -508,16 +636,52 @@
       "error": "aucune fiche pour « ym-31568-thumb »"
     },
     {
+      "file": "imports/images/ym-3166-thumb.webp",
+      "error": "aucune fiche pour « ym-3166-thumb »"
+    },
+    {
       "file": "imports/images/ym-32661-thumb.webp",
       "error": "aucune fiche pour « ym-32661-thumb »"
+    },
+    {
+      "file": "imports/images/ym-32982-thumb.webp",
+      "error": "aucune fiche pour « ym-32982-thumb »"
+    },
+    {
+      "file": "imports/images/ym-32986-thumb.webp",
+      "error": "aucune fiche pour « ym-32986-thumb »"
+    },
+    {
+      "file": "imports/images/ym-33186-thumb.webp",
+      "error": "aucune fiche pour « ym-33186-thumb »"
     },
     {
       "file": "imports/images/ym-33393-thumb.webp",
       "error": "aucune fiche pour « ym-33393-thumb »"
     },
     {
+      "file": "imports/images/ym-3341-thumb.webp",
+      "error": "aucune fiche pour « ym-3341-thumb »"
+    },
+    {
+      "file": "imports/images/ym-3351-thumb.webp",
+      "error": "aucune fiche pour « ym-3351-thumb »"
+    },
+    {
       "file": "imports/images/ym-33564-thumb.webp",
       "error": "aucune fiche pour « ym-33564-thumb »"
+    },
+    {
+      "file": "imports/images/ym-33664-thumb.webp",
+      "error": "aucune fiche pour « ym-33664-thumb »"
+    },
+    {
+      "file": "imports/images/ym-33925-thumb.webp",
+      "error": "aucune fiche pour « ym-33925-thumb »"
+    },
+    {
+      "file": "imports/images/ym-3424-thumb.webp",
+      "error": "aucune fiche pour « ym-3424-thumb »"
     },
     {
       "file": "imports/images/ym-34306-thumb.webp",
@@ -526,6 +690,14 @@
     {
       "file": "imports/images/ym-34670-thumb.webp",
       "error": "aucune fiche pour « ym-34670-thumb »"
+    },
+    {
+      "file": "imports/images/ym-3544-thumb.webp",
+      "error": "aucune fiche pour « ym-3544-thumb »"
+    },
+    {
+      "file": "imports/images/ym-36152-thumb.webp",
+      "error": "aucune fiche pour « ym-36152-thumb »"
     },
     {
       "file": "imports/images/ym-3660-thumb.webp",
@@ -548,8 +720,20 @@
       "error": "aucune fiche pour « ym-3938-thumb »"
     },
     {
+      "file": "imports/images/ym-402-thumb.webp",
+      "error": "aucune fiche pour « ym-402-thumb »"
+    },
+    {
       "file": "imports/images/ym-4082-thumb.webp",
       "error": "aucune fiche pour « ym-4082-thumb »"
+    },
+    {
+      "file": "imports/images/ym-4085-thumb.webp",
+      "error": "aucune fiche pour « ym-4085-thumb »"
+    },
+    {
+      "file": "imports/images/ym-4108-thumb.webp",
+      "error": "aucune fiche pour « ym-4108-thumb »"
     },
     {
       "file": "imports/images/ym-4190-thumb.webp",
@@ -560,6 +744,10 @@
       "error": "aucune fiche pour « ym-424-thumb »"
     },
     {
+      "file": "imports/images/ym-4315-thumb.webp",
+      "error": "aucune fiche pour « ym-4315-thumb »"
+    },
+    {
       "file": "imports/images/ym-4324-thumb.webp",
       "error": "aucune fiche pour « ym-4324-thumb »"
     },
@@ -568,8 +756,16 @@
       "error": "aucune fiche pour « ym-4328-thumb »"
     },
     {
+      "file": "imports/images/ym-4394-thumb.webp",
+      "error": "aucune fiche pour « ym-4394-thumb »"
+    },
+    {
       "file": "imports/images/ym-441-thumb.webp",
       "error": "aucune fiche pour « ym-441-thumb »"
+    },
+    {
+      "file": "imports/images/ym-4469-thumb.webp",
+      "error": "aucune fiche pour « ym-4469-thumb »"
     },
     {
       "file": "imports/images/ym-4626-thumb.webp",
@@ -584,8 +780,24 @@
       "error": "aucune fiche pour « ym-4736-thumb »"
     },
     {
+      "file": "imports/images/ym-4738-thumb.webp",
+      "error": "aucune fiche pour « ym-4738-thumb »"
+    },
+    {
+      "file": "imports/images/ym-4740-thumb.webp",
+      "error": "aucune fiche pour « ym-4740-thumb »"
+    },
+    {
+      "file": "imports/images/ym-4847-thumb.webp",
+      "error": "aucune fiche pour « ym-4847-thumb »"
+    },
+    {
       "file": "imports/images/ym-5033-thumb.webp",
       "error": "aucune fiche pour « ym-5033-thumb »"
+    },
+    {
+      "file": "imports/images/ym-5085-thumb.webp",
+      "error": "aucune fiche pour « ym-5085-thumb »"
     },
     {
       "file": "imports/images/ym-5334-thumb.webp",
@@ -594,6 +806,10 @@
     {
       "file": "imports/images/ym-5354-thumb.webp",
       "error": "aucune fiche pour « ym-5354-thumb »"
+    },
+    {
+      "file": "imports/images/ym-5378-thumb.webp",
+      "error": "aucune fiche pour « ym-5378-thumb »"
     },
     {
       "file": "imports/images/ym-5506-thumb.webp",
@@ -612,6 +828,10 @@
       "error": "aucune fiche pour « ym-5964-thumb »"
     },
     {
+      "file": "imports/images/ym-6037-thumb.webp",
+      "error": "aucune fiche pour « ym-6037-thumb »"
+    },
+    {
       "file": "imports/images/ym-6136-thumb.webp",
       "error": "aucune fiche pour « ym-6136-thumb »"
     },
@@ -622,6 +842,10 @@
     {
       "file": "imports/images/ym-6282-thumb.webp",
       "error": "aucune fiche pour « ym-6282-thumb »"
+    },
+    {
+      "file": "imports/images/ym-6290-thumb.webp",
+      "error": "aucune fiche pour « ym-6290-thumb »"
     },
     {
       "file": "imports/images/ym-6312-thumb.webp",
@@ -640,6 +864,10 @@
       "error": "aucune fiche pour « ym-6480-thumb »"
     },
     {
+      "file": "imports/images/ym-6517-thumb.webp",
+      "error": "aucune fiche pour « ym-6517-thumb »"
+    },
+    {
       "file": "imports/images/ym-6611-thumb.webp",
       "error": "aucune fiche pour « ym-6611-thumb »"
     },
@@ -656,8 +884,16 @@
       "error": "aucune fiche pour « ym-6833-thumb »"
     },
     {
+      "file": "imports/images/ym-7010-thumb.webp",
+      "error": "aucune fiche pour « ym-7010-thumb »"
+    },
+    {
       "file": "imports/images/ym-7033-thumb.webp",
       "error": "aucune fiche pour « ym-7033-thumb »"
+    },
+    {
+      "file": "imports/images/ym-7089-thumb.webp",
+      "error": "aucune fiche pour « ym-7089-thumb »"
     },
     {
       "file": "imports/images/ym-7149-thumb.webp",
@@ -668,8 +904,24 @@
       "error": "aucune fiche pour « ym-717-thumb »"
     },
     {
+      "file": "imports/images/ym-7256-thumb.webp",
+      "error": "aucune fiche pour « ym-7256-thumb »"
+    },
+    {
+      "file": "imports/images/ym-7367-thumb.webp",
+      "error": "aucune fiche pour « ym-7367-thumb »"
+    },
+    {
       "file": "imports/images/ym-7375-thumb.webp",
       "error": "aucune fiche pour « ym-7375-thumb »"
+    },
+    {
+      "file": "imports/images/ym-7383-thumb.webp",
+      "error": "aucune fiche pour « ym-7383-thumb »"
+    },
+    {
+      "file": "imports/images/ym-7423-thumb.webp",
+      "error": "aucune fiche pour « ym-7423-thumb »"
     },
     {
       "file": "imports/images/ym-7828-thumb.webp",
@@ -682,6 +934,10 @@
     {
       "file": "imports/images/ym-8540-thumb.webp",
       "error": "aucune fiche pour « ym-8540-thumb »"
+    },
+    {
+      "file": "imports/images/ym-860-thumb.webp",
+      "error": "aucune fiche pour « ym-860-thumb »"
     },
     {
       "file": "imports/images/ym-8619-thumb.webp",
@@ -744,16 +1000,32 @@
       "error": "aucune fiche pour « ym-939-thumb »"
     },
     {
+      "file": "imports/images/ym-9408-thumb.webp",
+      "error": "aucune fiche pour « ym-9408-thumb »"
+    },
+    {
       "file": "imports/images/ym-9443-thumb.webp",
       "error": "aucune fiche pour « ym-9443-thumb »"
     },
     {
+      "file": "imports/images/ym-9558-thumb.webp",
+      "error": "aucune fiche pour « ym-9558-thumb »"
+    },
+    {
+      "file": "imports/images/ym-9620-thumb.webp",
+      "error": "aucune fiche pour « ym-9620-thumb »"
+    },
+    {
       "file": "imports/images/ym-9623-thumb.webp",
       "error": "aucune fiche pour « ym-9623-thumb »"
+    },
+    {
+      "file": "imports/images/ym-9978-thumb.webp",
+      "error": "aucune fiche pour « ym-9978-thumb »"
     }
   ],
   "warnings": [
-    "23 fiche(s) ont plusieurs images : une seule est utilisée (image n° 1, puis les « archive »)."
+    "33 fiche(s) ont plusieurs images : une seule est utilisée (image n° 1, puis les « archive »)."
   ],
   "notes": []
 }
