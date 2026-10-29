@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:51:41.408Z",
+  "generatedAt": "2026-10-29T13:48:55.529Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -11,8 +11,21 @@
       "quality": 82
     }
   },
-  "sourcesFound": 901,
-  "processed": [],
+  "sourcesFound": 913,
+  "processed": [
+    "ENT-2KVTXUFV",
+    "ENT-4R4PLCHM",
+    "ENT-CALDO3XH",
+    "ext-111",
+    "ext-119",
+    "ext-121",
+    "ext-129",
+    "ext-131",
+    "ext-138",
+    "ext-139",
+    "ext-140",
+    "ext-141"
+  ],
   "skippedUnchanged": [
     "ext-305",
     "ext-306",
@@ -917,7 +930,7 @@
     "ext-ym-9981"
   ],
   "invalid": [],
-  "absentForKnownEntries": 653,
+  "absentForKnownEntries": 641,
   "absentSample": [
     "ENT-VNHZB48D",
     "ENT-348NIYT0",
@@ -927,7 +940,6 @@
     "ENT-MI8WSEPA",
     "ENT-9TE97400",
     "ENT-JINHFHYN",
-    "ENT-4R4PLCHM",
     "ENT-DDM3W2A6",
     "ENT-0M7O5AOP",
     "ENT-3UCTMD96",
@@ -952,7 +964,6 @@
     "ENT-J1ID9GBN",
     "ENT-DD4556UF",
     "ENT-5UZ6YSAI",
-    "ENT-CALDO3XH",
     "ENT-BDI6SZRX",
     "ENT-VSPVT8MB",
     "ENT-QEEFFLM7",
@@ -960,7 +971,6 @@
     "ENT-X3A1G5Q9",
     "ENT-MWGRGZKG",
     "ENT-TM1YRX59",
-    "ENT-2KVTXUFV",
     "ENT-Z1HKI1TU",
     "ENT-QU0XFJ4P",
     "ENT-0IYOFG71",
@@ -968,10 +978,17 @@
     "ENT-0JPKIB5Q",
     "ENT-8JO1ASHF",
     "ENT-Q5DYVCS7",
-    "ENT-3V26L5MP"
+    "ENT-3V26L5MP",
+    "ENT-JQ4CSYJP",
+    "ENT-UH7LXUME",
+    "ENT-ATR2H8KO"
   ],
   "heavyOutputs": [],
   "unresolvedSourceFiles": [
+    {
+      "file": "imports/images/image2.5_xt-125.webp",
+      "error": "aucune fiche pour « xt-125 »"
+    },
     {
       "file": "imports/images/slide_01.jpg",
       "error": "aucune fiche pour « 01 »"
