@@ -34,7 +34,12 @@ if (!refs.some((r) => r.endsWith('.js'))) fail('Aucun script JS référencé par
 const js = walk(dist).filter((f) => f.endsWith('.js')).map((f) => fs.readFileSync(f, 'utf8')).join('\n');
 const all = readJson<PromptEntry[]>(path.join(PATHS.dataDir, 'prompts.json'));
 const privateEntries = all.filter((e) => e.status === 'to-confirm' || e.status === 'hidden');
-for (const e of privateEntries) {
+// Le composeur publie volontairement des briques de l'Excel (styles, éclairages, modèles) : leurs identifiants sont publics.
+const composerIds = new Set(readJson<{ styles: { id: string }[]; lighting: { id: string }[]; effects: { id: string }[]; templates: { id: string }[]; exclusions: { id: string }[] }>(path.join(PATHS.dataDir, 'composer.json')).styles.map((o) => o.id));
+for (const k of ['lighting', 'effects', 'templates', 'exclusions'] as const) {
+  for (const o of readJson<Record<string, { id: string }[]>>(path.join(PATHS.dataDir, 'composer.json'))[k] ?? []) composerIds.add(o.id);
+}
+for (const e of privateEntries.filter((e) => !composerIds.has(e.id))) {
   if (js.includes(`"${e.id}"`) || (e.prompt.length > 20 && js.includes(JSON.stringify(e.prompt).slice(1, -1)))) fail(`Fiche non publique embarquée dans le build : ${e.id} (${e.status})`);
 }
 const publicCount = all.length - privateEntries.length;
