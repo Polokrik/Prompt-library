@@ -36,7 +36,7 @@ export function HelpLevelDialog({ requested, onClose }: Props) {
 
   return (
     <dialog ref={ref} className="help-dialog" aria-labelledby="help-title" onCancel={onCancel} onClose={() => (requested ? onClose() : undefined)}>
-      <h2 id="help-title">Comment voulez-vous être guidé ?</h2>
+      <h2 id="help-title">Nouveau ? On vous guide.</h2>
       <p>Modifiable à tout moment en bas de page. Ce choix reste dans votre navigateur.</p>
       <ul className="help-dialog__choices">
         {HELP_LEVELS.map((l) => (

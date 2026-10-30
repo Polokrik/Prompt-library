@@ -140,6 +140,11 @@ export interface ImportReport {
 /** Corrections éditoriales persistantes (mapping.json), indexées par id de fiche. */
 export interface EditorialOverride {
   title?: string;
+  /**
+   * Prompt retravaillé pour le Carnet. Le prompt d'origine est conservé tel quel dans une variante « Prompt d'origine » ;
+   * les précisions ajoutées à l'import (« DIRECTION DÉTAILLÉE ») restent attachées au nouveau texte.
+   */
+  prompt?: string;
   description?: string;
   status?: PromptStatus;
   categories?: string[];

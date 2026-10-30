@@ -1,7 +1,7 @@
 /** Nom, phrase et liens du site : un seul endroit à modifier. */
 export const SITE = {
   name: 'Carnet d’images',
-  tagline: 'Des idées à regarder. Des prompts à détourner.',
+  tagline: 'Apprenez à créer des images avec l’IA : des prompts à copier, à comprendre, à détourner.',
   alternativeTagline: 'Trouvez une intention, pas seulement un prompt.',
   searchPlaceholder: 'Un sujet, une matière, une ambiance…',
   inspiration: {

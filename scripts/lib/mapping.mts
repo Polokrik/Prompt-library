@@ -1,7 +1,9 @@
+import { splitPrompt } from '../../src/utils/guide.ts';
 import type { EditorialMapping, PromptEntry, PromptStatus } from '../../src/types/library.ts';
 
 const KNOWN_KEYS = new Set([
   'title',
+  'prompt',
   'description',
   'status',
   'categories',
@@ -47,6 +49,14 @@ export function applyMapping(entries: PromptEntry[], mapping: EditorialMapping, 
     }
     const next: PromptEntry = { ...entry };
     if (o.title !== undefined) next.title = o.title;
+    if (o.prompt !== undefined && o.prompt.trim() && o.prompt.trim() !== splitPrompt(entry.prompt).base) {
+      const { base, detail } = splitPrompt(entry.prompt);
+      next.variants = [
+        { id: `${entry.id}-origine`, label: 'Prompt d’origine (tel que publié par la source)', prompt: base, language: entry.language, role: 'variant' },
+        ...entry.variants,
+      ];
+      next.prompt = detail ? `${o.prompt.trim()}\n\n${detail}` : o.prompt.trim();
+    }
     if (o.description !== undefined) next.description = o.description;
     if (o.categories !== undefined) next.categories = [...o.categories];
     if (o.tags !== undefined) next.tags = [...o.tags];

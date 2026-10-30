@@ -11,6 +11,14 @@ describe('mapping éditorial', () => {
     expect(base.title).toBe('Brut'); // la donnée d’origine n’est pas modifiée
   });
 
+  it('un prompt retravaillé garde l’original en variante et conserve les précisions ajoutées à l’import', () => {
+    const base = makeEntry({ prompt: 'Un chat roux.\n\nDIRECTION DÉTAILLÉE — Chat\nSoigner les poils.' });
+    const { entries } = applyMapping([base], { 'test-1': { prompt: 'Un chat roux, lumière douce, plan rapproché.' } }, 'x');
+    expect(entries[0]!.prompt).toBe('Un chat roux, lumière douce, plan rapproché.\n\nDIRECTION DÉTAILLÉE — Chat\nSoigner les poils.');
+    expect(entries[0]!.variants[0]).toMatchObject({ role: 'variant', prompt: 'Un chat roux.' });
+    expect(entries[0]!.variants[0]!.label).toMatch(/origine/);
+  });
+
   it('applique l’outil de génération (generator)', () => {
     const { entries } = applyMapping([makeEntry()], { 'test-1': { generator: 'Midjourney' } }, 'x');
     expect(entries[0]!.generator).toBe('Midjourney');

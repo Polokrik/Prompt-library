@@ -40,7 +40,7 @@ export function Home() {
           {SITE.name}
         </h1>
         <p className="hero__tagline">{SITE.tagline}</p>
-        <p className="hero__how">Choisissez une image qui vous plaît, copiez son prompt, collez-le dans votre outil d’image : c’est tout. Les prompts à compléter vous guident.</p>
+        <p className="hero__how">Pour débuter : choisissez une image qui vous plaît, remplissez deux champs, copiez. Chaque fiche vous montre ce qui fait un bon prompt.</p>
         <form className="hero__search" role="search" onSubmit={onSubmit}>
           <label htmlFor="home-search">Rechercher un prompt</label>
           <div className="hero__search-row">

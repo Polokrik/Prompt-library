@@ -31,8 +31,8 @@
   {
     "id": "ENT-VNHZB48D",
     "title": "1970s panda train",
-    "prompt": "1970s-style black & white ultra-realistic photo of a panda worker in a train",
-    "description": "Scène photographique : panda cheminot dans un train des années 1970.",
+    "prompt": "1970s-style black and white photograph, ultra-realistic. A panda dressed as a factory worker sits by the window of an old passenger train carriage, looking out at an industrial landscape. Natural window light, fine film grain, slightly faded contrast, 35mm lens, shallow depth of field, authentic period details.",
+    "description": "Une photo d’époque en noir et blanc avec un animal dans un rôle humain : l’époque et le procédé photo donnent tout le style.",
     "status": "published",
     "categories": [
       "Photographie",
@@ -46,6 +46,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-VNHZB48D-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "1970s-style black & white ultra-realistic photo of a panda worker in a train",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-IMDQ1M8A",
         "prompt": "Panda portant un uniforme de cheminot vintage avec casquette à visière. Il se tient debout dans l'allée centrale d'un wagon rétro, vérifiant une montre à gousset ou poinçonnant un billet. Éclairage intérieur symétrique, profondeur de champ modérée. Vue en contre-plongée.",
@@ -378,7 +385,7 @@
   {
     "id": "ENT-S91YWLSX",
     "title": "African throne logo",
-    "prompt": "an african throne as a flat logo with dark emerald and light azure color, black panther reference",
+    "prompt": "A flat vector logo of an African throne with geometric art-deco patterns, a black panther resting on it as a nod to Black Panther. Dark emerald green and light azure palette with fine gold accents, symmetrical composition, clean shapes, no gradients, plain light background, centered with generous margins.",
     "status": "published",
     "categories": [
       "Design graphique",
@@ -392,6 +399,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-S91YWLSX-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "an african throne as a flat logo with dark emerald and light azure color, black panther reference",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-TZ2UZU6T",
         "prompt": "Flat logo African throne, emerald-azure, panther style",
@@ -417,6 +431,7 @@
       "originalId": "ENT-S91YWLSX",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Un logo à plat : deux couleurs, un animal, une forme simple. Idéal pour apprendre à demander un logo plutôt qu’une illustration.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ENT-S91YWLSX.webp",
       "large": "images/prompts/large/ENT-S91YWLSX.webp",
@@ -838,6 +853,7 @@
       "originalUrl": "https://x.com/dotey/status/1918529055340576812",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un exercice de lettrage : le sens du mot se retrouve dans la forme des lettres. Remplacez le mot par le vôtre.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-87.webp",
       "large": "images/prompts/large/ext-87.webp",
@@ -879,7 +895,7 @@
   {
     "id": "ENT-JINHFHYN",
     "title": "Alien photoreal",
-    "prompt": "Photorealistic, detailed, insect-like alien with a long neck… staring into camera",
+    "prompt": "Photorealistic close-up portrait of an insect-like alien with a long neck, staring straight into the camera. Detailed scaly skin with iridescent patterns, large expressive eyes, soft studio lighting with a faint rim light, shallow depth of field, ultra-detailed macro texture, dark neutral background.",
     "status": "published",
     "categories": [
       "Photographie"
@@ -891,6 +907,12 @@
     ],
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-JINHFHYN-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Photorealistic, detailed, insect-like alien with a long neck… staring into camera",
+        "role": "variant"
+      },
       {
         "id": "TXT-T0PERYGF",
         "prompt": "Photorealistic detailed alien staring into camera",
@@ -915,6 +937,7 @@
       "originalId": "ENT-JINHFHYN",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Un portrait de créature réaliste : on précise l’anatomie, le regard et le rendu photo pour éviter l’aspect dessin.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ENT-JINHFHYN.webp",
       "large": "images/prompts/large/ENT-JINHFHYN.webp",
@@ -1049,6 +1072,7 @@
       "originalId": "ENT-4R4PLCHM",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une affiche de film détournée : un style graphique, un titre et un slogan décalé. Pour apprendre à demander du texte dans l’image.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ENT-4R4PLCHM.webp",
       "large": "images/prompts/large/ENT-4R4PLCHM.webp",
@@ -1952,6 +1976,8 @@
       "originalUrl": "https://x.com/gnrlyxyz/status/1914303110853583302",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Transforme un sujet de votre photo en pin’s émaillé. Fournissez votre image, le prompt dit comment la traiter.",
+    "requiresReference": true,
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-62.webp",
       "large": "images/prompts/large/ext-62.webp",
@@ -2080,6 +2106,7 @@
       "originalUrl": "https://x.com/michaelrabone/status/1913865394139316291",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une affiche vectorielle avec deux niveaux de titre. Changez la ville et le pays pour obtenir la vôtre.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-59.webp",
       "large": "images/prompts/large/ext-59.webp",
@@ -2601,6 +2628,8 @@
       "originalId": "48",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Convertit une icône en icône 3D voxel d’après un exemple. Il faut fournir les deux images : l’icône et le modèle de style.",
+    "requiresReference": true,
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-48.webp",
       "large": "images/prompts/large/ext-48.webp",
@@ -2884,6 +2913,7 @@
       "originalUrl": "https://x.com/dotey/status/1911609122547449886",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une scène racontée en miniature, façon maquette. Remplacez le texte entre accolades par votre propre sujet.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-41.webp",
       "large": "images/prompts/large/ext-41.webp",
@@ -3331,6 +3361,7 @@
       "originalUrl": "https://x.com/richardchang/status/1909086122959139312",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une planche d’autocollants : demande un ensemble de petites images cohérentes plutôt qu’une seule.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-31.webp",
       "large": "images/prompts/large/ext-31.webp",
@@ -3344,13 +3375,20 @@
   {
     "id": "ext-30",
     "title": "35mm Film Style Flying Island",
-    "prompt": "35 mm photo of Moscow floating in the sky on a flying islands.\n\nDIRECTION DÉTAILLÉE — 35mm Film Style Flying Island\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nCaractère analogique : Adapter le grain, les couleurs et les petites imperfections au procédé demandé. Les défauts restent mesurés et ne doivent pas effacer le sujet ; éviter les poussières, rayures et fuites de lumière ajoutées partout sans logique.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
+    "prompt": "35 mm film photograph of Moscow floating in the sky on a flying island. The city’s skyline and landmarks rest on a rock mass with roots hanging below, clouds around, soft diffused daylight, visible film grain, slightly faded colors, wide shot.\n\nDIRECTION DÉTAILLÉE — 35mm Film Style Flying Island\nCes précisions complètent la demande ci-dessus ; ses contraintes explicites restent prioritaires.\n\nÉcriture visuelle : Construire d’abord les grandes masses et le point d’attention, puis les détails. Faire varier les contours et les transitions selon la technique demandée : les traces du médium doivent participer au dessin, sans devenir un filtre uniforme posé sur toute l’image.\n\nCaractère analogique : Adapter le grain, les couleurs et les petites imperfections au procédé demandé. Les défauts restent mesurés et ne doivent pas effacer le sujet ; éviter les poussières, rayures et fuites de lumière ajoutées partout sans logique.\n\nCouleur et rythme : Hiérarchiser la palette déjà demandée : une famille dominante, des valeurs de soutien et un accent focal. Alterner zones denses et respirations ; conserver le même langage de formes dans le sujet, les accessoires et le fond.",
     "status": "published",
     "categories": [
       "Styles artistiques"
     ],
     "tags": [],
-    "variants": [],
+    "variants": [
+      {
+        "id": "ext-30-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "35 mm photo of Moscow floating in the sky on a flying islands.",
+        "role": "variant"
+      }
+    ],
     "source": {
       "id": "external-initial",
       "label": "La baie des images",
@@ -3359,6 +3397,7 @@
       "originalUrl": "https://x.com/dotey/status/1905020833451348283",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une photo argentique d’un lieu qui flotte dans le ciel. Changez la ville pour jouer avec le principe.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-30.webp",
       "large": "images/prompts/large/ext-30.webp",
@@ -3914,6 +3953,8 @@
       "originalUrl": "https://animeai.online/#demo-gallery",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Transforme votre photo en personnage 3D de type film d’animation. Une seule phrase suffit si vous fournissez l’image.",
+    "requiresReference": true,
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-18.webp",
       "large": "images/prompts/large/ext-18.webp",
@@ -4021,6 +4062,8 @@
       "originalUrl": "https://x.com/Alittlefatwhale/status/1922512847030124905",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un badge de style anime à partir d’une photo de personne. Les contraintes (matière, forme, sujet) sont listées une par une : un bon réflexe.",
+    "requiresReference": true,
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-16.webp",
       "large": "images/prompts/large/ext-16.webp",
@@ -4049,6 +4092,7 @@
       "originalUrl": "https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une affiche satirique dont tout le texte est fourni : un exercice pour obtenir des mots lisibles dans l’image.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-15.webp",
       "large": "images/prompts/large/ext-15.webp",
@@ -4149,6 +4193,8 @@
       "originalUrl": "https://x.com/dotey/status/1908194518345678865",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Transforme les personnages d’une photo en figurines chibi 3D en gardant la scène et les vêtements.",
+    "requiresReference": true,
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-13.webp",
       "large": "images/prompts/large/ext-13.webp",
@@ -4205,6 +4251,7 @@
       "originalUrl": "https://x.com/dotey/status/1904978767090524372",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une jaquette de jeu rétro imaginaire. On donne un support (boîtier PS2) et un univers : le reste suit.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-11.webp",
       "large": "images/prompts/large/ext-11.webp",
@@ -4506,6 +4553,8 @@
       "originalUrl": "https://animeai.online/#demo-gallery",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Redessine votre photo dans le style des films d’animation japonais. Le prompt est court : tout dépend de l’image fournie.",
+    "requiresReference": true,
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-5.webp",
       "large": "images/prompts/large/ext-5.webp",
@@ -4678,7 +4727,7 @@
   {
     "id": "ENT-MWGRGZKG",
     "title": "Burning Volvo photo",
-    "prompt": "Cinematic, grainy analog photo of a burning volvo 240 in the forest, night winter",
+    "prompt": "Cinematic grainy analog photograph of a Volvo 240 burning in a snowy forest at night. Orange flames lighting the snow and trees, thick smoke rising into the dark, deep shadows, wide shot, slightly soft focus, visible film grain, muted cold tones against warm fire light.",
     "status": "published",
     "categories": [
       "Photographie"
@@ -4692,6 +4741,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-MWGRGZKG-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Cinematic, grainy analog photo of a burning volvo 240 in the forest, night winter",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-MKAMZXR2",
         "prompt": "Cinematic analog photo burning Volvo 240",
@@ -4716,6 +4772,7 @@
       "originalId": "ENT-MWGRGZKG",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une scène nocturne avec un objet en feu : grain argentique, saison et lieu donnent l’ambiance.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ENT-MWGRGZKG.webp",
       "large": "images/prompts/large/ENT-MWGRGZKG.webp",
@@ -4970,6 +5027,8 @@
       "originalId": "ENT-2KVTXUFV",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Un portrait de vous en noir et blanc, très contrasté. Fournissez votre photo ; le format 4:3 est indiqué dans le prompt.",
+    "requiresReference": true,
     "image": {
       "thumbnail": "images/prompts/thumbs/ENT-2KVTXUFV.webp",
       "large": "images/prompts/large/ENT-2KVTXUFV.webp",
@@ -6999,6 +7058,7 @@
       "originalId": "ENT-020LFBMH",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Un portrait d’époque au collodion. Le procédé photographique fait l’essentiel du style.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -7968,7 +8028,7 @@
   {
     "id": "ENT-9B7NNCI0",
     "title": "Create coffee cup design",
-    "prompt": "Create a coffee cup for a brand called “we like coffee” use a geometric design, with modern font and colors. Make it a transparent PNG",
+    "prompt": "Create a coffee cup design for a brand called “we like coffee”. Geometric pattern, modern typography, a limited modern color palette, flat design on a cup template, transparent PNG background, centered, clean edges.",
     "status": "to-test",
     "categories": [
       "Produit / publicité",
@@ -7978,6 +8038,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-9B7NNCI0-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Create a coffee cup for a brand called “we like coffee” use a geometric design, with modern font and colors. Make it a transparent PNG",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-W0IZ0CSP",
         "prompt": "Geometric coffee cup design, branding, modern font, transparent PNG",
@@ -8001,6 +8068,7 @@
       "originalId": "ENT-9B7NNCI0",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une maquette de gobelet de marque en PNG transparent. Remplacez le nom de marque par le vôtre.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -15902,7 +15970,7 @@
   {
     "id": "ENT-3OP7EE5P",
     "title": "Hacker glitch photo",
-    "prompt": "Precision-captured DSLR ultra detailed photo of a mysterious black hooded hacker… glitchy cascading binary code, neon blue background",
+    "prompt": "Ultra-detailed DSLR photograph of a mysterious hooded hacker in black, face hidden in shadow. Cascading glitchy binary code floating around the figure, deep neon blue background, cold rim light outlining the hood, shallow depth of field, cinematic composition, sharp focus on the hands.",
     "status": "to-test",
     "categories": [
       "Photographie"
@@ -15915,6 +15983,12 @@
     "orientation": "portrait",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-3OP7EE5P-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Precision-captured DSLR ultra detailed photo of a mysterious black hooded hacker… glitchy cascading binary code, neon blue background",
+        "role": "variant"
+      },
       {
         "id": "TXT-M45VTYNL",
         "prompt": "Ultra detailed cyberpunk hacker with falling code",
@@ -15939,6 +16013,7 @@
       "originalId": "ENT-3OP7EE5P",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Un portrait de personnage mystérieux avec effet glitch. Les couleurs néon et le code binaire installent l’ambiance.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -16059,6 +16134,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une affiche faite uniquement de typographie : un mot, deux couleurs, une grille. Une bonne façon d’apprendre à cadrer sans photo.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-377.webp",
       "large": "images/prompts/large/ext-377.webp",
@@ -16086,6 +16162,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une affiche de film imaginaire illustrée au crayon : on fixe le titre, le décor et le format.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-378.webp",
       "large": "images/prompts/large/ext-378.webp",
@@ -16203,6 +16280,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une pièce d’intérieur décrite par ses meubles, sa lumière et le point de vue. Changez les meubles pour tester.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -16225,6 +16303,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un intérieur chaleureux décrit par matières et lumière. Le cadrage grand angle évite les déformations.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -16423,6 +16502,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un portrait au flash direct : ombre franche, fond uni. Pour comprendre l’effet d’une source de lumière.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -16491,6 +16571,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une silhouette en contre-jour : la lumière est derrière le sujet, le ciel occupe presque toute l’image.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -16513,6 +16594,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une gravure à deux encres : le prompt nomme la technique, le papier et les couleurs.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -16603,6 +16685,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Le même sujet en quatre panneaux pour comparer des saisons : on fixe ce qui ne change pas.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -16625,6 +16708,7 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une nature morte vue du dessus : peu d’objets, beaucoup de vide, couleurs naturelles.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -16791,6 +16875,8 @@
       "author": "La baie des images · Vincent Flibustier",
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Agrandit une image au format paysage 16:9 en prolongeant le décor. Fournissez l’image à étendre.",
+    "requiresReference": true,
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -19913,6 +19999,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une étape de recette illustrée : le prompt décrit l’action, pas l’image. À adapter à votre recette.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-10937.webp",
       "large": "images/prompts/large/ext-ym-10937.webp",
@@ -20547,7 +20634,7 @@
   {
     "id": "ENT-IMA6AZ0V",
     "title": "Light rays dark room",
-    "prompt": "Rays of light are individually visible coming in from a small window into a beautiful dark room, cinematic, 3d render",
+    "prompt": "3D render, cinematic. A beautiful dark room where individual rays of light enter through a small window, each beam clearly visible with floating dust particles. Warm light against deep shadows, volumetric lighting, soft haze, wide angle, realistic materials, calm and quiet atmosphere.",
     "status": "to-test",
     "categories": [
       "3D / miniature"
@@ -20560,6 +20647,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-IMA6AZ0V-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Rays of light are individually visible coming in from a small window into a beautiful dark room, cinematic, 3d render",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-2NFFGAFI",
         "prompt": "Cinematic 3D dark room with visible light rays",
@@ -20584,6 +20678,7 @@
       "originalId": "ENT-IMA6AZ0V",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Des rayons de lumière visibles dans une pièce sombre : l’effet vient de la fenêtre étroite et de l’obscurité.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -20739,6 +20834,7 @@
       "originalId": "ENT-58WXRAUE",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Un logo décrit par une liste de styles et de références. Utile pour voir comment les mots-clés s’additionnent.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -21083,6 +21179,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une fiche de consignes illustrée, avec explications dans la langue de votre choix. Changez le thème de sécurité.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-309.webp",
       "large": "images/prompts/large/ext-ym-309.webp",
@@ -26954,6 +27051,7 @@
       "originalId": "ENT-S5RIU2VW",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une note de cours plutôt qu’un prompt : les termes de cadrage (plan moyen, gros plan) à glisser dans vos portraits.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -28025,7 +28123,7 @@
   {
     "id": "ENT-W93374YA",
     "title": "Origami animals reserve",
-    "prompt": "A nature reserve showing an elephant, zebra, and lion made of origami paper that have come to life",
+    "prompt": "A nature reserve where an elephant, a zebra and a lion made of folded origami paper have come to life. Visible paper folds and creases, soft natural daylight, savanna background slightly out of focus, macro photography feel, rich colors, enchanting and slightly surreal mood.",
     "status": "to-test",
     "categories": [
       "3D / miniature"
@@ -28038,6 +28136,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-W93374YA-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "A nature reserve showing an elephant, zebra, and lion made of origami paper that have come to life",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-CG2FIY9L",
         "prompt": "[INTENTION] create a magical, cinematic illustration of a nature reserve where the animals are made of folded origami paper and have come to life\n[VISUAL DESCRIPTION] wide view of an African-style nature reserve at golden hour, warm sunlight and long shadows, with three main animals in the foreground: a large origami elephant with visible folded paper layers, a striped origami zebra with crisp black-and-white paper, and a majestic origami lion with layered mane made of folded golden paper. Each animal looks alive, with expressive eyes and subtle facial expressions, but their bodies clearly show paper creases, edges and patterns. In the midground, hints of the reserve: a dirt path, a simple wooden fence, a small viewing platform and distant trees, soft hills and acacia silhouettes on the horizon, a few real birds flying in the sky.\n[MOVEMENT] the origami elephant slowly swings its trunk and lifts one paper foot as if walking, the zebra flicks its paper tail and turns its head, the lion’s paper mane ruffles in a gentle breeze, a few loose paper leaves tumble across the ground to emphasize motion.\n[TONE/STORY] whimsical and enchanting, as if a quiet nature reserve has suddenly filled with living paper guardians; the animals feel friendly, curious and protective of the land, suggesting a story where nature and creativity are magically connected.\n[TEXT/LAYOUT] no text on the scene, no signs with letters, clean composition with the three animals forming a loose triangle in the foreground, plenty of breathing space for the landscape around them.\n[REFINEMENT] highly detailed paper textures with visible fiber and subtle color gradients, soft realistic lighting with warm highlights and cooler shadows, balanced contrast, smooth depth-of-field to gently blur the far background, overall coherent color palette and polished, production-quality rendering.\n[OUTPUT] high-resolution illustration, 16:9 cinematic aspect ratio",
@@ -28069,6 +28174,7 @@
       "originalId": "ENT-W93374YA",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une scène imaginaire en papier plié : on cite les animaux, la matière et le lieu.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -33276,7 +33382,7 @@
   {
     "id": "ENT-DKRYCU7F",
     "title": "Red hair girl cinematic",
-    "prompt": "A beautiful girl with knee-length red hair, making the big split, full body, ultra-realistic, photo, fashion, cinematic",
+    "prompt": "Ultra-realistic fashion photograph of a young woman with knee-length red hair performing the full splits, full-body shot. Cinematic lighting, clean studio background, sharp details on hair strands, elegant outfit, balanced composition, high-end editorial look.",
     "status": "to-test",
     "categories": [
       "Photographie"
@@ -33290,6 +33396,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-DKRYCU7F-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "A beautiful girl with knee-length red hair, making the big split, full body, ultra-realistic, photo, fashion, cinematic",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-8ZF9JO6R",
         "prompt": "Cinematic fashion photo, full body split",
@@ -33314,6 +33427,7 @@
       "originalId": "ENT-DKRYCU7F",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une photo de mode en pose acrobatique : plein pied, rendu réaliste. Précisez la tenue et le décor pour plus de contrôle.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -35203,7 +35317,7 @@
   {
     "id": "ENT-XZ4LHOFQ",
     "title": "Sand grain macro",
-    "prompt": "sand grain in the desert macro picture Create a macro photograph of a sand grain in the desert.",
+    "prompt": "Macro photograph of a single grain of sand in the desert. Extreme close-up, sharp crystalline texture, warm side light from low sun, soft out-of-focus dunes in the background, shallow depth of field, natural golden tones, high detail.",
     "status": "to-test",
     "categories": [
       "Photographie"
@@ -35216,6 +35330,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-XZ4LHOFQ-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "sand grain in the desert macro picture Create a macro photograph of a sand grain in the desert.",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-FA8HABX1",
         "prompt": "Macro photo of a single sand grain in desert",
@@ -35241,6 +35362,7 @@
       "originalId": "ENT-XZ4LHOFQ",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une macrophotographie : le sujet minuscule, vu de très près. Précisez l’objectif et la lumière.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -36521,6 +36643,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un manga en quatre cases dont le texte des bulles est fourni. À adapter en gardant la structure titre + cases.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-13076.webp",
       "large": "images/prompts/large/ext-ym-13076.webp",
@@ -37362,6 +37485,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un manga en quatre cases avec scène décrite et dialogues. Pour apprendre à découper une histoire en cases.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-12624.webp",
       "large": "images/prompts/large/ext-ym-12624.webp",
@@ -37643,6 +37767,7 @@
       "originalId": "ENT-7QWSUV9U",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Un portrait de style cinématographique dans un stade, avec un personnage réel cité dans le prompt. À utiliser avec précaution.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -38085,6 +38210,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un manga en quatre cases dont chaque case est décrite. À adapter avec votre propre histoire.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-12673.webp",
       "large": "images/prompts/large/ext-ym-12673.webp",
@@ -38134,7 +38260,7 @@
   {
     "id": "ENT-UOYO9H2B",
     "title": "Skull flowers 3D",
-    "prompt": "A skull with flowers and trees, stain splashes, dark background, detailed trees and leaves, typography, conceptual art, poster, architecture, 3d render",
+    "prompt": "Conceptual art poster: a skull covered with flowers and trees, with ink stain splashes around it. Dark background, finely detailed leaves and branches, bold typography integrated into the composition, dramatic contrast, 3D render look, symmetrical centered layout.",
     "status": "to-test",
     "categories": [
       "3D / miniature",
@@ -38148,6 +38274,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-UOYO9H2B-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "A skull with flowers and trees, stain splashes, dark background, detailed trees and leaves, typography, conceptual art, poster, architecture, 3d render",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-OYIOCBV7",
         "prompt": "Skull floral conceptual 3D art",
@@ -38172,6 +38305,7 @@
       "originalId": "ENT-UOYO9H2B",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une affiche conceptuelle à partir d’une liste d’éléments (crâne, fleurs, éclaboussures, typographie).",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -39034,6 +39168,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un manga en quatre cases avec texte fourni. Le titre et les phrases sont à remplacer par les vôtres.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-12164.webp",
       "large": "images/prompts/large/ext-ym-12164.webp",
@@ -39456,6 +39591,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Un manga en quatre cases : on raconte une histoire en une phrase, le modèle la découpe.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-264.webp",
       "large": "images/prompts/large/ext-ym-264.webp",
@@ -41684,7 +41820,7 @@
   {
     "id": "ENT-ZOO7PP0J",
     "title": "Sunday beach poster",
-    "prompt": "Landscape poster… Sunday beach scene, sandcastles, Happy Sunday in sand sculpture",
+    "prompt": "Landscape-format poster of a Sunday beach scene with sandcastles. The words “Happy Sunday” are sculpted in the sand in the foreground. Warm afternoon light, calm sea, soft shadows, playful atmosphere, wide composition with space for the text.",
     "status": "to-test",
     "categories": [
       "Design graphique",
@@ -41699,6 +41835,12 @@
     "orientation": "landscape",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-ZOO7PP0J-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Landscape poster… Sunday beach scene, sandcastles, Happy Sunday in sand sculpture",
+        "role": "variant"
+      },
       {
         "id": "TXT-4RPX8C97",
         "prompt": "Sunday beach scene Happy Sunday poster",
@@ -41723,6 +41865,7 @@
       "originalId": "ENT-ZOO7PP0J",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une affiche paysage avec un texte sculpté dans le sable : un exercice de texte intégré au décor.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -42109,7 +42252,7 @@
   {
     "id": "ENT-04Y3MZTM",
     "title": "Surreal lungs poster",
-    "prompt": "Create a surreal image of a tree with two trunks shaped like lungs… dreamlike mystery, poster",
+    "prompt": "Surreal dreamlike poster image of a tree with two trunks shaped like lungs. Mysterious atmosphere, dark sky, sepia tones, fine linework, symmetrical composition, soft mist at the base, poetic and slightly unsettling mood.",
     "status": "to-test",
     "categories": [
       "Design graphique",
@@ -42123,6 +42266,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-04Y3MZTM-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Create a surreal image of a tree with two trunks shaped like lungs… dreamlike mystery, poster",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-R4EI0IVM",
         "prompt": "Surreal lungs tree with figure digging, mystery",
@@ -42147,6 +42297,7 @@
       "originalId": "ENT-04Y3MZTM",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une image surréaliste fondée sur une forme détournée : un arbre dont les troncs deviennent des poumons.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -42212,6 +42363,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une scène poétique sans consigne visuelle précise : le modèle interprète. Utile pour tester l’imagination d’un outil.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-7780.webp",
       "large": "images/prompts/large/ext-ym-7780.webp",
@@ -42262,7 +42414,7 @@
   {
     "id": "ENT-TYJOXKTY",
     "title": "Surreal lungs tree",
-    "prompt": "Create a surreal poster illustration of a tree with two trunks shaped like lungs, a person digging at the base, and a dark sky in the background. Sepia tone, dreamlike.",
+    "prompt": "Surreal poster illustration of a tree with two trunks shaped like lungs. A small figure digs at the base of the tree under a dark sky. Sepia tone, dreamlike atmosphere, fine detail, strong central composition, space at the top for a title.",
     "status": "to-test",
     "categories": [
       "Design graphique",
@@ -42276,6 +42428,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-TYJOXKTY-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Create a surreal poster illustration of a tree with two trunks shaped like lungs, a person digging at the base, and a dark sky in the background. Sepia tone, dreamlike.",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-MXKSLVNO",
         "prompt": "Tree-shaped lungs, surreal sepia illustration",
@@ -42300,6 +42459,7 @@
       "originalId": "ENT-TYJOXKTY",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une affiche surréaliste en sépia : sujet, personnage, ciel et ambiance sont tous nommés.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -45755,7 +45915,7 @@
   {
     "id": "ENT-VJK069AB",
     "title": "Video club booth",
-    "prompt": "a maquette of a video club that is a corner stand in a big exhibition, selling cinema applications",
+    "prompt": "Architectural scale model of a video club designed as a corner stand in a large exhibition hall, selling cinema applications. Retro cinema signage, shelves of film-themed boxes, warm spot lighting, small figures of visitors, clean presentation base, soft studio photography.",
     "status": "to-test",
     "categories": [
       "3D / miniature",
@@ -45769,6 +45929,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-VJK069AB-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "a maquette of a video club that is a corner stand in a big exhibition, selling cinema applications",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-N4NXCVOE",
         "prompt": "Video club exhibition booth model",
@@ -45793,6 +45960,7 @@
       "originalId": "ENT-VJK069AB",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une maquette de stand d’exposition : on décrit le lieu, le type de stand et ce qui y est vendu.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -46388,6 +46556,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une texture de marque discrète, faite d’adjectifs (matière, lumière, tons neutres). Pour apprendre à décrire une ambiance.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-7599.webp",
       "large": "images/prompts/large/ext-ym-7599.webp",
@@ -46568,6 +46737,8 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Annote un document que vous fournissez : cercles et notes manuscrites sur les passages importants.",
+    "requiresReference": true,
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-1474.webp",
       "large": "images/prompts/large/ext-ym-1474.webp",
@@ -47345,6 +47516,7 @@
       "originalId": "ENT-YA5W2N6D",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une liste de jeux de mots visuels, pas un prompt prêt à l’emploi. À piocher comme idées de titres.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
@@ -49972,6 +50144,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une grille 3×3 d’objets d’un même thème : le nombre et la grille sont imposés, le style reste libre.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-5270.webp",
       "large": "images/prompts/large/ext-ym-5270.webp",
@@ -50827,7 +51000,7 @@
   {
     "id": "ext-ym-179",
     "title": "Pixel game character climbing out of TV",
-    "prompt": "A pixelated video game character is trying to climb out of the TV screen into the living room. A real human player is frantically using a controller to push the character back into the screen.\n\nDIRECTION DÉTAILLÉE — Pixel game character climbing out of TV\nCes précisions complètent le prompt original ; ses contraintes explicites restent prioritaires.\n\nHiérarchie fonctionnelle : Séparer zone de jeu ou contenu principal, commandes et informations secondaires. Utiliser des alignements, espacements et tailles cohérents ; le regard doit reconnaître immédiatement l’action ou l’information prioritaire.\n\nGrille : Respecter une unité graphique régulière et une palette resserrée. Construire les diagonales de façon intentionnelle, sans mélanger pixels nets et contours floutés. Pour une série, garder la même échelle et les mêmes repères d’une vignette à l’autre.\n\nCohérence du monde : Accorder les matériaux, la palette et les signes graphiques à l’univers décrit. Pour une interface, répéter les mêmes règles de boutons et pictogrammes ; pour un objet de jeu, rendre compréhensibles silhouette, prise en main et assemblage.",
+    "prompt": "A pixelated video game character climbing out of a TV screen into a real living room. A real human player frantically pushes the character back into the screen with a controller. Humorous mood, mix of pixel art and photorealistic living room, warm indoor light, dynamic action, wide shot.\n\nDIRECTION DÉTAILLÉE — Pixel game character climbing out of TV\nCes précisions complètent le prompt original ; ses contraintes explicites restent prioritaires.\n\nHiérarchie fonctionnelle : Séparer zone de jeu ou contenu principal, commandes et informations secondaires. Utiliser des alignements, espacements et tailles cohérents ; le regard doit reconnaître immédiatement l’action ou l’information prioritaire.\n\nGrille : Respecter une unité graphique régulière et une palette resserrée. Construire les diagonales de façon intentionnelle, sans mélanger pixels nets et contours floutés. Pour une série, garder la même échelle et les mêmes repères d’une vignette à l’autre.\n\nCohérence du monde : Accorder les matériaux, la palette et les signes graphiques à l’univers décrit. Pour une interface, répéter les mêmes règles de boutons et pictogrammes ; pour un objet de jeu, rendre compréhensibles silhouette, prise en main et assemblage.",
     "status": "published",
     "categories": [
       "Jeux & interfaces"
@@ -50836,7 +51009,14 @@
       "Jeux & interfaces Pixel game character climbing out of TV An English/Chinese mixed prompt describing a pixelated game character trying to crawl out of a TV into a living room while a real player pushes it back with a controller",
       "great for playful surreal scenes."
     ],
-    "variants": [],
+    "variants": [
+      {
+        "id": "ext-ym-179-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "A pixelated video game character is trying to climb out of the TV screen into the living room. A real human player is frantically using a controller to push the character back into the screen.",
+        "role": "variant"
+      }
+    ],
     "source": {
       "id": "external-initial",
       "label": "La baie des images",
@@ -50850,6 +51030,7 @@
       },
       "importedAt": "2026-10-28T08:57:24.065Z"
     },
+    "description": "Une scène humoristique en deux mondes (pixels et réel). L’action est décrite, pas le style.",
     "image": {
       "thumbnail": "images/prompts/thumbs/ext-ym-179.webp",
       "large": "images/prompts/large/ext-ym-179.webp",
@@ -54530,7 +54711,7 @@
   {
     "id": "ENT-C2ZWR3NX",
     "title": "Ghosting — Disparition glitch et appel ignoré",
-    "prompt": "Digital illustration of a man disappearing like a glitch while ignoring a phone call from a sad woman",
+    "prompt": "Digital illustration of a man disappearing like a glitch while ignoring a phone call from a sad woman. Pixelated distortion at the edges of his body, RGB color separation, the phone screen glowing in his hand, muted background, melancholic mood, strong focus on the two characters.",
     "status": "to-test",
     "categories": [
       "Illustration / dessin"
@@ -54543,6 +54724,13 @@
     "language": "en",
     "kind": "prompt",
     "variants": [
+      {
+        "id": "ENT-C2ZWR3NX-origine",
+        "label": "Prompt d’origine (tel que publié par la source)",
+        "prompt": "Digital illustration of a man disappearing like a glitch while ignoring a phone call from a sad woman",
+        "language": "en",
+        "role": "variant"
+      },
       {
         "id": "TXT-QL1MQIGF",
         "prompt": "Man disappearing like a glitch, ignoring a phone call from a sad woman, digital illustration",
@@ -54564,6 +54752,7 @@
       "originalId": "ENT-C2ZWR3NX",
       "importedAt": "2026-10-27T15:56:39.064Z"
     },
+    "description": "Une illustration à effet glitch : le personnage disparaît pendant un appel ignoré.",
     "reviewNotes": [
       "Image absente : fiche affichée sans visuel"
     ]
