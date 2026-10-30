@@ -113,5 +113,134 @@
   "ENT-C2ZWR3NX": {
     "description": "Une illustration à effet glitch : le personnage disparaît pendant un appel ignoré.",
     "prompt": "Digital illustration of a man disappearing like a glitch while ignoring a phone call from a sad woman. Pixelated distortion at the edges of his body, RGB color separation, the phone screen glowing in his hand, muted background, melancholic mood, strong focus on the two characters."
+  },
+  "ENT-7M1X64BM": {
+    "description": "Un visage d'intelligence artificielle dessiné par une spirale de Fibonacci en pixels verts : une image abstraite, psychédélique et très contrastée."
+  },
+  "ENT-CALDO3XH": {
+    "description": "Une illustration d'ateliers en groupe dans le style des grandes entreprises technologiques : fond blanc, personnages en pied."
+  },
+  "ENT-BSFK2T1X": {
+    "description": "Une photo de référence d'un homme souriant à la plage, refaite comme un portrait au collodion. Fournissez la photo."
+  },
+  "ENT-UFA9K2FD": {
+    "description": "Une affiche cyberpunk d'un chat au sommet du monde : liste de styles et de références cumulés, couleurs vives et très détaillées."
+  },
+  "ENT-W72BO96R": {
+    "description": "Une illustration réaliste d'un koala sur une île avec un bateau de pêche : un animal dans un paysage précis."
+  },
+  "ENT-67LX9DUT": {
+    "description": "Un homme vu de dos qui médite dans son salon devant un miroir qui reflète un autre univers : une scène à deux niveaux."
+  },
+  "ENT-DQZ8DVTI": {
+    "description": "Un selfie vidéo spontané d'une voyageuse dans un avion, en pleine phrase : un exemple de contenu « UGC » (créé par un utilisateur)."
+  },
+  "ENT-E6239C4F": {
+    "description": "Un selfie spontané au style d'un smartphone, pris en contre-plongée d'un lecteur à une table de bibliothèque : un exemple de contenu « UGC »."
+  },
+  "ENT-JWUYMOST": {
+    "description": "Un selfie spontané d'un homme en pull gris à demi-zip et lunettes noires : un exemple de contenu « UGC »."
+  },
+  "ENT-K8I1UH5M": {
+    "description": "Un selfie spontané d'une femme de cinquante ans à l'allure d'un smartphone, avec texture de peau visible : un exemple de contenu « UGC »."
+  },
+  "ENT-VSGCJD80": {
+    "description": "Un storyboard cinématographique 3×3 d'après votre image : le personnage et la scène restent cohérents. Fournissez l'image."
+  },
+  "ENT-6ERWT2E6": {
+    "description": "Une fausse capture d'écran d'un jeu de stratégie en équipe avec un héros de fiction comme champion : un exercice de détournement de jeu."
+  },
+  "ENT-J73PJYX4": {
+    "description": "Un super-soldat en armure assistée dans une mégalopole en ruine, photoréaliste, d'inspiration française."
+  },
+  "ENT-YZZJLX82": {
+    "description": "Un portrait fantasy réaliste d'une succube à la peau écarlate : un exemple de créature décrite par sa couleur et son allure."
+  },
+  "ENT-OVNFUJ42": {
+    "description": "Un space marine d'inspiration française dans un univers sombre de science-fiction, en armure gothique photoréaliste."
+  },
+  "ENT-0ZCIONDQ": {
+    "description": "Un paysage de montagne miniature dans une bouteille en verre posée sur un bureau en bois, façon photo produit haut de gamme."
+  },
+  "ENT-SYRY1WDO": {
+    "description": "Un personnage qui sort de son image de référence de manière dramatique, comme s'il brisait le cadre. Fournissez l'image."
+  },
+  "ENT-J0UZPFZ0": {
+    "description": "Une planche de référence 3×3 d'un hérisson anthropomorphe dans un décor miniature douillet, vu sous neuf angles."
+  },
+  "ENT-OJNU1RJO": {
+    "description": "Un prompt en deux étapes : dessiner le plan de métro d'un univers imaginaire de fantasy, puis le critiquer."
+  },
+  "ENT-J8CF62QS": {
+    "description": "Votre sujet transformé en sculpture de marbre brillant ultra-détaillée. Fournissez l'image."
+  },
+  "ENT-Z8TMLHOL": {
+    "description": "Un portrait ultra-réaliste en gros plan d'une femme de 75 ans, regard à l'objectif, dans un café parisien."
+  },
+  "ENT-6PO6Q8DC": {
+    "description": "Une rue de nuit sous la pluie dans une grande ville futuriste d'inspiration tokyoïte, trottoirs bondés."
+  },
+  "ENT-UDFJ9L0Z": {
+    "description": "Un écran d'accueil d'application mobile de suivi de bien-être, en français, avec smartphone vu de face."
+  },
+  "ENT-4B8BG35C": {
+    "description": "Une affiche typographique moderne pour un festival de créativité numérique : grand titre centré en haut."
+  },
+  "ENT-Q3DM9HGS": {
+    "description": "Un portrait cinématographique ultra-réaliste d'une femme devant un mur de cuir rouge texturé, avec grain."
+  },
+  "ENT-VPV64YWT": {
+    "description": "Une carte tactique en métal photoréaliste en gros plan, posée sur la console sombre d'un vaisseau de jeu."
+  },
+  "ENT-POJ0D0RK": {
+    "description": "Une infographie 3D d'un tunnel marketing en cinq étapes verticales, d'après une image de référence."
+  },
+  "ENT-03M4Y7LA": {
+    "description": "Une fausse capture d'écran de dialogue dans un jeu d'action isométrique, avec un héros de fiction dans le rôle principal."
+  },
+  "ENT-ISO173ZX": {
+    "description": "Votre sujet transformé en monde fait uniquement de tétraèdres : formes, ombres et reflets suivent la même géométrie."
+  },
+  "ENT-CFI30KBG": {
+    "description": "Une « traduction en formes » graphique de votre photo, qui reste l'unique source visuelle. Fournissez la photo."
+  },
+  "ENT-AL3V4BRK": {
+    "description": "Une fausse capture de jeu de tir en vue subjective avec un héros de fiction dans le rôle principal."
+  },
+  "ENT-E03JPXT6": {
+    "description": "Une fausse capture de jeu de tir en vue subjective avec armure d'un héros de fiction, combat en cours."
+  },
+  "ENT-VGGENCHH": {
+    "description": "Une fausse capture d'un jeu de rôle futuriste : un héros de fiction devant un miroir de salle de bains en vue subjective."
+  },
+  "ENT-WM2W4NB8": {
+    "description": "Une fausse capture de combat tactique isométrique avec un héros de fiction comme unité jouable."
+  },
+  "ENT-K78BL1XI": {
+    "description": "Un storyboard cinématographique de neuf plans qui identifie tous les sujets d'une image que vous fournissez."
+  },
+  "ENT-0F7FQDVU": {
+    "description": "Un portrait d'entreprise éditorial avec une citation typographique en surimpression."
+  },
+  "ENT-T6P8V8F6": {
+    "description": "Une illustration de mode à l'aquarelle d'une blonde glamour style pin-up des années 1950, en pied et de face."
+  },
+  "ENT-5HFEXRAM": {
+    "description": "Une illustration de mode à l'aquarelle et à l'encre d'une blonde glamour style pin-up des années 1950, en pied."
+  },
+  "ENT-MS2N8IST": {
+    "description": "Un diorama 3D isométrique de tout un pays où chaque État est un module distinct, très détaillé."
+  },
+  "ENT-FD4YNPHB": {
+    "description": "Un collage rétrofuturiste « âge atomique » en découpes d'imprimés disparates : un prompt de style pour des outils de présentation."
+  },
+  "ENT-LJQX1Q0G": {
+    "description": "Une scène d'action intense d'une chasseuse de tempêtes en équipement tactique face à des vents d'ouragan."
+  },
+  "ENT-Y49K7PSM": {
+    "description": "Un portrait environnemental puissant d'une alpiniste couverte de givre au sommet de l'Himalaya, au lever du soleil."
+  },
+  "ENT-EYX7ONI4": {
+    "description": "Un robot barista sympathique à corps émaillé mat, yeux à LED et tablier sans texte, dans un vaisseau cosy sous la pluie."
   }
 }
