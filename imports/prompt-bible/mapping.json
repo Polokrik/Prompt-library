@@ -5,16 +5,113 @@
       "status": "to-test",
       "title": "Titre corrigé",
       "description": "Une phrase de description.",
-      "categories": ["Portrait", "Matières"],
-      "tags": ["verre", "irisé"],
+      "categories": [
+        "Portrait",
+        "Matières"
+      ],
+      "tags": [
+        "verre",
+        "irisé"
+      ],
       "orientation": "portrait",
       "language": "en",
       "requiresReference": false,
-      "image": { "alt": "Texte alternatif de l’image ajoutée dans imports/images/" },
+      "image": {
+        "alt": "Texte alternatif de l’image ajoutée dans imports/images/"
+      },
       "generator": "Midjourney",
       "hiddenReason": "Raison du masquage",
       "canonicalId": "ENT-YYYYYYYY",
-      "collectionIds": ["maitriser-la-lumiere"]
+      "collectionIds": [
+        "maitriser-la-lumiere"
+      ],
+      "prompt": "Version retravaillée du prompt (l’original est conservé en variante « Prompt d’origine »)."
     }
+  },
+  "ENT-VNHZB48D": {
+    "description": "Une photo d’époque en noir et blanc avec un animal dans un rôle humain : l’époque et le procédé photo donnent tout le style.",
+    "prompt": "1970s-style black and white photograph, ultra-realistic. A panda dressed as a factory worker sits by the window of an old passenger train carriage, looking out at an industrial landscape. Natural window light, fine film grain, slightly faded contrast, 35mm lens, shallow depth of field, authentic period details."
+  },
+  "ENT-S91YWLSX": {
+    "description": "Un logo à plat : deux couleurs, un animal, une forme simple. Idéal pour apprendre à demander un logo plutôt qu’une illustration.",
+    "prompt": "A flat vector logo of an African throne with geometric art-deco patterns, a black panther resting on it as a nod to Black Panther. Dark emerald green and light azure palette with fine gold accents, symmetrical composition, clean shapes, no gradients, plain light background, centered with generous margins."
+  },
+  "ENT-JINHFHYN": {
+    "description": "Un portrait de créature réaliste : on précise l’anatomie, le regard et le rendu photo pour éviter l’aspect dessin.",
+    "prompt": "Photorealistic close-up portrait of an insect-like alien with a long neck, staring straight into the camera. Detailed scaly skin with iridescent patterns, large expressive eyes, soft studio lighting with a faint rim light, shallow depth of field, ultra-detailed macro texture, dark neutral background."
+  },
+  "ENT-4R4PLCHM": {
+    "description": "Une affiche de film détournée : un style graphique, un titre et un slogan décalé. Pour apprendre à demander du texte dans l’image."
+  },
+  "ENT-MWGRGZKG": {
+    "description": "Une scène nocturne avec un objet en feu : grain argentique, saison et lieu donnent l’ambiance.",
+    "prompt": "Cinematic grainy analog photograph of a Volvo 240 burning in a snowy forest at night. Orange flames lighting the snow and trees, thick smoke rising into the dark, deep shadows, wide shot, slightly soft focus, visible film grain, muted cold tones against warm fire light."
+  },
+  "ENT-2KVTXUFV": {
+    "description": "Un portrait de vous en noir et blanc, très contrasté. Fournissez votre photo ; le format 4:3 est indiqué dans le prompt.",
+    "requiresReference": true
+  },
+  "ENT-020LFBMH": {
+    "description": "Un portrait d’époque au collodion. Le procédé photographique fait l’essentiel du style."
+  },
+  "ENT-9B7NNCI0": {
+    "description": "Une maquette de gobelet de marque en PNG transparent. Remplacez le nom de marque par le vôtre.",
+    "prompt": "Create a coffee cup design for a brand called “we like coffee”. Geometric pattern, modern typography, a limited modern color palette, flat design on a cup template, transparent PNG background, centered, clean edges."
+  },
+  "ENT-3OP7EE5P": {
+    "description": "Un portrait de personnage mystérieux avec effet glitch. Les couleurs néon et le code binaire installent l’ambiance.",
+    "prompt": "Ultra-detailed DSLR photograph of a mysterious hooded hacker in black, face hidden in shadow. Cascading glitchy binary code floating around the figure, deep neon blue background, cold rim light outlining the hood, shallow depth of field, cinematic composition, sharp focus on the hands."
+  },
+  "ENT-IMA6AZ0V": {
+    "description": "Des rayons de lumière visibles dans une pièce sombre : l’effet vient de la fenêtre étroite et de l’obscurité.",
+    "prompt": "3D render, cinematic. A beautiful dark room where individual rays of light enter through a small window, each beam clearly visible with floating dust particles. Warm light against deep shadows, volumetric lighting, soft haze, wide angle, realistic materials, calm and quiet atmosphere."
+  },
+  "ENT-58WXRAUE": {
+    "description": "Un logo décrit par une liste de styles et de références. Utile pour voir comment les mots-clés s’additionnent."
+  },
+  "ENT-S5RIU2VW": {
+    "description": "Une note de cours plutôt qu’un prompt : les termes de cadrage (plan moyen, gros plan) à glisser dans vos portraits."
+  },
+  "ENT-W93374YA": {
+    "description": "Une scène imaginaire en papier plié : on cite les animaux, la matière et le lieu.",
+    "prompt": "A nature reserve where an elephant, a zebra and a lion made of folded origami paper have come to life. Visible paper folds and creases, soft natural daylight, savanna background slightly out of focus, macro photography feel, rich colors, enchanting and slightly surreal mood."
+  },
+  "ENT-DKRYCU7F": {
+    "description": "Une photo de mode en pose acrobatique : plein pied, rendu réaliste. Précisez la tenue et le décor pour plus de contrôle.",
+    "prompt": "Ultra-realistic fashion photograph of a young woman with knee-length red hair performing the full splits, full-body shot. Cinematic lighting, clean studio background, sharp details on hair strands, elegant outfit, balanced composition, high-end editorial look."
+  },
+  "ENT-XZ4LHOFQ": {
+    "description": "Une macrophotographie : le sujet minuscule, vu de très près. Précisez l’objectif et la lumière.",
+    "prompt": "Macro photograph of a single grain of sand in the desert. Extreme close-up, sharp crystalline texture, warm side light from low sun, soft out-of-focus dunes in the background, shallow depth of field, natural golden tones, high detail."
+  },
+  "ENT-7QWSUV9U": {
+    "description": "Un portrait de style cinématographique dans un stade, avec un personnage réel cité dans le prompt. À utiliser avec précaution."
+  },
+  "ENT-UOYO9H2B": {
+    "description": "Une affiche conceptuelle à partir d’une liste d’éléments (crâne, fleurs, éclaboussures, typographie).",
+    "prompt": "Conceptual art poster: a skull covered with flowers and trees, with ink stain splashes around it. Dark background, finely detailed leaves and branches, bold typography integrated into the composition, dramatic contrast, 3D render look, symmetrical centered layout."
+  },
+  "ENT-ZOO7PP0J": {
+    "description": "Une affiche paysage avec un texte sculpté dans le sable : un exercice de texte intégré au décor.",
+    "prompt": "Landscape-format poster of a Sunday beach scene with sandcastles. The words “Happy Sunday” are sculpted in the sand in the foreground. Warm afternoon light, calm sea, soft shadows, playful atmosphere, wide composition with space for the text."
+  },
+  "ENT-04Y3MZTM": {
+    "description": "Une image surréaliste fondée sur une forme détournée : un arbre dont les troncs deviennent des poumons.",
+    "prompt": "Surreal dreamlike poster image of a tree with two trunks shaped like lungs. Mysterious atmosphere, dark sky, sepia tones, fine linework, symmetrical composition, soft mist at the base, poetic and slightly unsettling mood."
+  },
+  "ENT-TYJOXKTY": {
+    "description": "Une affiche surréaliste en sépia : sujet, personnage, ciel et ambiance sont tous nommés.",
+    "prompt": "Surreal poster illustration of a tree with two trunks shaped like lungs. A small figure digs at the base of the tree under a dark sky. Sepia tone, dreamlike atmosphere, fine detail, strong central composition, space at the top for a title."
+  },
+  "ENT-VJK069AB": {
+    "description": "Une maquette de stand d’exposition : on décrit le lieu, le type de stand et ce qui y est vendu.",
+    "prompt": "Architectural scale model of a video club designed as a corner stand in a large exhibition hall, selling cinema applications. Retro cinema signage, shelves of film-themed boxes, warm spot lighting, small figures of visitors, clean presentation base, soft studio photography."
+  },
+  "ENT-YA5W2N6D": {
+    "description": "Une liste de jeux de mots visuels, pas un prompt prêt à l’emploi. À piocher comme idées de titres."
+  },
+  "ENT-C2ZWR3NX": {
+    "description": "Une illustration à effet glitch : le personnage disparaît pendant un appel ignoré.",
+    "prompt": "Digital illustration of a man disappearing like a glitch while ignoring a phone call from a sad woman. Pixelated distortion at the edges of his body, RGB color separation, the phone screen glowing in his hand, muted background, melancholic mood, strong focus on the two characters."
   }
 }

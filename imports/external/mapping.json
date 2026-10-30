@@ -5,16 +5,142 @@
       "status": "to-test",
       "title": "Titre corrigé",
       "description": "Une phrase de description.",
-      "categories": ["Portrait", "Matières"],
-      "tags": ["verre", "irisé"],
+      "categories": [
+        "Portrait",
+        "Matières"
+      ],
+      "tags": [
+        "verre",
+        "irisé"
+      ],
       "orientation": "portrait",
       "language": "en",
       "requiresReference": false,
-      "image": { "alt": "Texte alternatif de l’image ajoutée dans imports/images/" },
+      "image": {
+        "alt": "Texte alternatif de l’image ajoutée dans imports/images/"
+      },
       "generator": "Midjourney",
       "hiddenReason": "Raison du masquage",
       "canonicalId": "ext-0007",
-      "collectionIds": ["maitriser-la-lumiere"]
+      "collectionIds": [
+        "maitriser-la-lumiere"
+      ],
+      "prompt": "Version retravaillée du prompt (l’original est conservé en variante « Prompt d’origine »)."
     }
+  },
+  "ext-87": {
+    "description": "Un exercice de lettrage : le sens du mot se retrouve dans la forme des lettres. Remplacez le mot par le vôtre."
+  },
+  "ext-62": {
+    "description": "Transforme un sujet de votre photo en pin’s émaillé. Fournissez votre image, le prompt dit comment la traiter.",
+    "requiresReference": true
+  },
+  "ext-59": {
+    "description": "Une affiche vectorielle avec deux niveaux de titre. Changez la ville et le pays pour obtenir la vôtre."
+  },
+  "ext-48": {
+    "description": "Convertit une icône en icône 3D voxel d’après un exemple. Il faut fournir les deux images : l’icône et le modèle de style.",
+    "requiresReference": true
+  },
+  "ext-41": {
+    "description": "Une scène racontée en miniature, façon maquette. Remplacez le texte entre accolades par votre propre sujet."
+  },
+  "ext-31": {
+    "description": "Une planche d’autocollants : demande un ensemble de petites images cohérentes plutôt qu’une seule."
+  },
+  "ext-30": {
+    "description": "Une photo argentique d’un lieu qui flotte dans le ciel. Changez la ville pour jouer avec le principe.",
+    "prompt": "35 mm film photograph of Moscow floating in the sky on a flying island. The city’s skyline and landmarks rest on a rock mass with roots hanging below, clouds around, soft diffused daylight, visible film grain, slightly faded colors, wide shot."
+  },
+  "ext-18": {
+    "description": "Transforme votre photo en personnage 3D de type film d’animation. Une seule phrase suffit si vous fournissez l’image.",
+    "requiresReference": true
+  },
+  "ext-16": {
+    "description": "Un badge de style anime à partir d’une photo de personne. Les contraintes (matière, forme, sujet) sont listées une par une : un bon réflexe.",
+    "requiresReference": true
+  },
+  "ext-15": {
+    "description": "Une affiche satirique dont tout le texte est fourni : un exercice pour obtenir des mots lisibles dans l’image."
+  },
+  "ext-13": {
+    "description": "Transforme les personnages d’une photo en figurines chibi 3D en gardant la scène et les vêtements.",
+    "requiresReference": true
+  },
+  "ext-11": {
+    "description": "Une jaquette de jeu rétro imaginaire. On donne un support (boîtier PS2) et un univers : le reste suit."
+  },
+  "ext-5": {
+    "description": "Redessine votre photo dans le style des films d’animation japonais. Le prompt est court : tout dépend de l’image fournie.",
+    "requiresReference": true
+  },
+  "ext-377": {
+    "description": "Une affiche faite uniquement de typographie : un mot, deux couleurs, une grille. Une bonne façon d’apprendre à cadrer sans photo."
+  },
+  "ext-378": {
+    "description": "Une affiche de film imaginaire illustrée au crayon : on fixe le titre, le décor et le format."
+  },
+  "ext-381": {
+    "description": "Une pièce d’intérieur décrite par ses meubles, sa lumière et le point de vue. Changez les meubles pour tester."
+  },
+  "ext-382": {
+    "description": "Un intérieur chaleureux décrit par matières et lumière. Le cadrage grand angle évite les déformations."
+  },
+  "ext-387": {
+    "description": "Un portrait au flash direct : ombre franche, fond uni. Pour comprendre l’effet d’une source de lumière."
+  },
+  "ext-388": {
+    "description": "Une silhouette en contre-jour : la lumière est derrière le sujet, le ciel occupe presque toute l’image."
+  },
+  "ext-389": {
+    "description": "Une gravure à deux encres : le prompt nomme la technique, le papier et les couleurs."
+  },
+  "ext-391": {
+    "description": "Le même sujet en quatre panneaux pour comparer des saisons : on fixe ce qui ne change pas."
+  },
+  "ext-392": {
+    "description": "Une nature morte vue du dessus : peu d’objets, beaucoup de vide, couleurs naturelles."
+  },
+  "ext-396": {
+    "description": "Agrandit une image au format paysage 16:9 en prolongeant le décor. Fournissez l’image à étendre.",
+    "requiresReference": true
+  },
+  "ext-ym-10937": {
+    "description": "Une étape de recette illustrée : le prompt décrit l’action, pas l’image. À adapter à votre recette."
+  },
+  "ext-ym-309": {
+    "description": "Une fiche de consignes illustrée, avec explications dans la langue de votre choix. Changez le thème de sécurité."
+  },
+  "ext-ym-13076": {
+    "description": "Un manga en quatre cases dont le texte des bulles est fourni. À adapter en gardant la structure titre + cases."
+  },
+  "ext-ym-12624": {
+    "description": "Un manga en quatre cases avec scène décrite et dialogues. Pour apprendre à découper une histoire en cases."
+  },
+  "ext-ym-12673": {
+    "description": "Un manga en quatre cases dont chaque case est décrite. À adapter avec votre propre histoire."
+  },
+  "ext-ym-12164": {
+    "description": "Un manga en quatre cases avec texte fourni. Le titre et les phrases sont à remplacer par les vôtres."
+  },
+  "ext-ym-264": {
+    "description": "Un manga en quatre cases : on raconte une histoire en une phrase, le modèle la découpe."
+  },
+  "ext-ym-7780": {
+    "description": "Une scène poétique sans consigne visuelle précise : le modèle interprète. Utile pour tester l’imagination d’un outil."
+  },
+  "ext-ym-7599": {
+    "description": "Une texture de marque discrète, faite d’adjectifs (matière, lumière, tons neutres). Pour apprendre à décrire une ambiance."
+  },
+  "ext-ym-1474": {
+    "description": "Annote un document que vous fournissez : cercles et notes manuscrites sur les passages importants.",
+    "requiresReference": true
+  },
+  "ext-ym-5270": {
+    "description": "Une grille 3×3 d’objets d’un même thème : le nombre et la grille sont imposés, le style reste libre."
+  },
+  "ext-ym-179": {
+    "description": "Une scène humoristique en deux mondes (pixels et réel). L’action est décrite, pas le style.",
+    "prompt": "A pixelated video game character climbing out of a TV screen into a real living room. A real human player frantically pushes the character back into the screen with a controller. Humorous mood, mix of pixel art and photorealistic living room, warm indoor light, dynamic action, wide shot."
   }
 }
