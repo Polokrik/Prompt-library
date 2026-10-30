@@ -293,3 +293,5 @@ mark { background: var(--tint-6); color: inherit; padding: 0 0.15em; outline: 1p
 .help-dialog__label { font-size: 1.05rem; }
 .help-dialog__text { font-weight: 400; font-size: 0.9rem; }
 .site-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.5rem 1.5rem; }
+
+.variants__image { width: 100%; max-width: 30rem; height: auto; margin: 0 0 0.6rem; border: 1px solid var(--rule); }

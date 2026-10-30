@@ -14,7 +14,7 @@ import { applyMapping } from './lib/mapping.mts';
 import { resolveImage, readManifest } from './lib/images.mts';
 import { finalizeEntry, type NatureCap } from './lib/status.mts';
 import { attachImage } from './lib/attach.mts';
-import { buildRefIndex, parseDescriptions } from './lib/refs.mts';
+import { buildRefIndex, LEGACY_SUFFIX, parseDescriptions } from './lib/refs.mts';
 import { refEntries } from './lib/sources.mts';
 import fs from 'node:fs';
 
@@ -41,6 +41,15 @@ function build(drafts: Draft[], mapping: EditorialMapping, label: string, verifi
     const alt = mapped.altOverrides.get(entry.id) ?? descriptions.get(entry.id) ?? draft.alt;
     const image = resolveImage(entry.id, alt, manifest);
     const attached = attachImage(entry, image, manifest[entry.id]?.generator);
+    // Image de l'ancienne version du prompt : rattachée à la variante « Prompt d'origine » (<id>-origine).
+    const legacyKey = `${entry.id}--legacy`;
+    if (manifest[legacyKey]) {
+      const legacy = resolveImage(legacyKey, descriptions.get(legacyKey), manifest);
+      const idx = attached.entry.variants.findIndex((v) => v.id === `${entry.id}-origine`);
+      if (!legacy?.alt.trim()) warnings.push(`${label} : ${entry.id} a une image « legacy » sans description (ligne « ${entry.id}-legacy | … » dans imports/descriptions.txt) : non publiée.`);
+      else if (idx < 0) warnings.push(`${label} : ${entry.id} a une image « legacy » mais aucun prompt retravaillé (clé « prompt » du mapping) : non rattachée.`);
+      else attached.entry = { ...attached.entry, variants: attached.entry.variants.map((v, k) => (k === idx ? { ...v, image: legacy } : v)) };
+    }
     const forced = mapped.forcedStatus.get(entry.id);
     // Une image fournie par l'auteur du site (qui a généré et vérifié le résultat) vaut vérification.
     const res = finalizeEntry(attached.entry, {
@@ -69,9 +78,10 @@ function main() {
   const descriptions = new Map<string, string>();
   if (exists(PATHS.descriptions)) {
     for (const d of parseDescriptions(fs.readFileSync(PATHS.descriptions, 'utf8'))) {
-      const r = refs.resolve(d.ref);
+      const isLegacy = LEGACY_SUFFIX.test(d.ref);
+      const r = refs.resolve(isLegacy ? d.ref.replace(LEGACY_SUFFIX, '') : d.ref);
       if ('error' in r) console.log(`  ⚠ descriptions.txt ligne ${d.line} : ${r.error}`);
-      else descriptions.set(r.id, d.text);
+      else descriptions.set(isLegacy ? `${r.id}--legacy` : r.id, d.text);
     }
   }
 

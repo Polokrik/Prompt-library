@@ -956,3 +956,5 @@ ext-138 | Montre connectée élégante à bracelet cuir brun, cadran sombre avec
 ext-139 | Bouteille de vin rouge au design asymétrique et à l'étiquette crème « Velours », posée sur un bloc de pierre avec une feuille de vigne rouge.
 ext-140 | Planche de présentation d'un mobilier modulaire scandinave : trois configurations (étagère, bureau, séparation), vue éclatée, détails et palette de matériaux et couleurs.
 ext-141 | Packaging de thé premium asiatique : boîte cylindrique ornée d'une peinture de paysage, sceau rouge et idéogrammes, avec théière, tasse, feuilles de thé et étui vert.
+ENT-VNHZB48D | Photo en noir et blanc d'un panda en salopette et casquette assis dans un wagon de train, regardant par la fenêtre une usine fumante ; affiche et journal en caractères chinois, thermos sur la tablette.
+ENT-VNHZB48D-legacy | Ancienne version : un panda en veste de travail et casquette, assis dans un wagon et regardant par la fenêtre des voies ferrées et des cheminées d'usine, en noir et blanc.

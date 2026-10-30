@@ -51,7 +51,14 @@
         "label": "Prompt d’origine (tel que publié par la source)",
         "prompt": "1970s-style black & white ultra-realistic photo of a panda worker in a train",
         "language": "en",
-        "role": "variant"
+        "role": "variant",
+        "image": {
+          "thumbnail": "images/prompts/thumbs/ENT-VNHZB48D--legacy.webp",
+          "large": "images/prompts/large/ENT-VNHZB48D--legacy.webp",
+          "alt": "Ancienne version : un panda en veste de travail et casquette, assis dans un wagon et regardant par la fenêtre des voies ferrées et des cheminées d'usine, en noir et blanc.",
+          "width": 1200,
+          "height": 800
+        }
       },
       {
         "id": "TXT-IMDQ1M8A",
@@ -94,11 +101,10 @@
     "image": {
       "thumbnail": "images/prompts/thumbs/ENT-VNHZB48D.webp",
       "large": "images/prompts/large/ENT-VNHZB48D.webp",
-      "alt": "Photo en noir et blanc, style années 1970, d'un panda en veste d'ouvrier et casquette, assis dans un wagon de train et regardant par la fenêtre.",
+      "alt": "Photo en noir et blanc d'un panda en salopette et casquette assis dans un wagon de train, regardant par la fenêtre une usine fumante ; affiche et journal en caractères chinois, thermos sur la tablette.",
       "width": 1200,
       "height": 800
     },
-    "generator": "image2.5",
     "orientation": "landscape"
   },
   {

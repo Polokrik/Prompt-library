@@ -6,6 +6,7 @@ import { CopyButton } from '../components/CopyButton.tsx';
 import { PromptBlock } from '../components/PromptBlock.tsx';
 import { PromptGrid } from '../components/PromptGrid.tsx';
 import { mentionsReference, splitPrompt } from '../utils/guide.ts';
+import { assetUrl } from '../utils/assets.ts';
 import { relatedEntries } from '../utils/related.ts';
 import { href } from '../utils/router.ts';
 import { KIND_LABELS, LANGUAGE_LABELS, ORIENTATION_LABELS } from '../utils/labels.ts';
@@ -55,6 +56,16 @@ export function Detail({ id, lookup = entriesById }: { id: string; lookup?: Map<
                       {v.label}
                       {v.language ? ` · ${LANGUAGE_LABELS[v.language]}` : ''}
                     </p>
+                    {v.image ? (
+                      <img
+                        className="variants__image"
+                        src={assetUrl(v.image.thumbnail)}
+                        alt={v.image.alt}
+                        loading="lazy"
+                        decoding="async"
+                        {...(v.image.width && v.image.height ? { width: 480, height: Math.round((480 * v.image.height) / v.image.width) } : {})}
+                      />
+                    ) : null}
                     <pre className="prompt-text" lang={v.language}>{v.prompt}</pre>
                     <CopyButton text={v.prompt} compact accessibleName={`Copier la variante « ${v.label} » : ${entry.title}`} />
                   </li>

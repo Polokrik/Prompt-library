@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T08:26:31.148Z",
+  "generatedAt": "2026-10-30T08:53:44.900Z",
   "mode": "full",
   "params": {
     "thumbnail": {
@@ -11,8 +11,11 @@
       "quality": 82
     }
   },
-  "sourcesFound": 947,
-  "processed": [],
+  "sourcesFound": 948,
+  "processed": [
+    "ENT-VNHZB48D",
+    "ENT-VNHZB48D--legacy"
+  ],
   "skippedUnchanged": [
     "ext-305",
     "ext-306",
@@ -196,7 +199,6 @@
     "ENT-JINHFHYN",
     "ENT-MWGRGZKG",
     "ENT-S91YWLSX",
-    "ENT-VNHZB48D",
     "ext-101",
     "ext-102",
     "ext-106",

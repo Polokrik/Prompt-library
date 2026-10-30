@@ -42,7 +42,12 @@ export interface ImageStem {
   tool?: string;
   /** Ordre de préférence quand plusieurs images visent la même fiche (plus petit = prioritaire). */
   rank: number;
+  /** Nom terminé par « -legacy » : image de l'ancienne version du prompt (affichée avec la variante « Prompt d'origine »). */
+  legacy?: boolean;
 }
+
+/** Suffixe des images « ancienne version ». */
+export const LEGACY_SUFFIX = /-legacy$/i;
 
 /**
  * Nom de fichier d'image :
@@ -51,9 +56,11 @@ export interface ImageStem {
  * - ordre inverse `<outil>_<référence>.<ext>` (ex. `OpenAI_ext-104.png`, `Midjourney v7_ENT-VNHZB48D.jpg`) : le texte après
  *   le DERNIER tiret bas est essayé comme référence ;
  * - nommage des images du site source : `archive-40-gemini` (fiche ext-40, outil « gemini »)
- *   et `309-ceramique-la-glacure-bleue-1` (fiche ext-309, image n° 1).
+ *   et `309-ceramique-la-glacure-bleue-1` (fiche ext-309, image n° 1) ;
+ * - suffixe `-legacy` (ex. `image2.5_ENT-VNHZB48D-legacy.webp`) : image de l'ancienne version du prompt.
  */
 export function parseImageStem(stem: string): ImageStem {
+  if (LEGACY_SUFFIX.test(stem)) return { ...parseImageStem(stem.replace(LEGACY_SUFFIX, '')), legacy: true };
   const i = stem.indexOf('__');
   if (i >= 0) {
     const tool = stem.slice(i + 2).replace(/_+/g, ' ').replace(/\s+/g, ' ').trim();
