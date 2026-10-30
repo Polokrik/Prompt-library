@@ -142,5 +142,3290 @@
   "ext-ym-179": {
     "description": "Une scène humoristique en deux mondes (pixels et réel). L’action est décrite, pas le style.",
     "prompt": "A pixelated video game character climbing out of a TV screen into a real living room. A real human player frantically pushes the character back into the screen with a controller. Humorous mood, mix of pixel art and photorealistic living room, warm indoor light, dynamic action, wide shot."
+  },
+  "ext-104": {
+    "description": "Un livre ouvert dont l'histoire jaillit des pages en 3D : indiquez un titre de roman, le prompt en tire le décor et le motif."
+  },
+  "ext-103": {
+    "description": "Une planche de présentation de designer produit : dessins techniques, vue éclatée et rendu 3D réunis. Remplissez les champs entre crochets."
+  },
+  "ext-102": {
+    "description": "Une vue de jeu de tir en première personne avec interface lisible : pour apprendre à demander des éléments d'écran (jauges, textes)."
+  },
+  "ext-101": {
+    "description": "Un objet de marque imaginaire photographié comme dans un magazine : donnez le nom de la marque, le prompt invente l'objet."
+  },
+  "ext-100": {
+    "description": "Une publicité minimaliste mêlant un vrai objet et un dessin à l'encre : choisissez l'objet et l'idée du dessin."
+  },
+  "ext-99": {
+    "description": "Un portrait noir et blanc de style photo d'art, sur un fond dégradé gris clair. Une base simple pour s'exercer à la lumière."
+  },
+  "ext-98": {
+    "description": "Une silhouette floue derrière un verre dépoli, avec une seule partie nette collée contre la vitre. Choisissez le sujet et la partie."
+  },
+  "ext-97": {
+    "description": "Un petit personnage au crochet tenu dans deux mains : fournissez le personnage à transformer en poupée tricotée."
+  },
+  "ext-96": {
+    "description": "Une figurine de style anime photographiée sur un bureau comme avec un téléphone, d'après le personnage de votre photo."
+  },
+  "ext-95": {
+    "description": "Votre selfie transformé en figurine à tête qui dodeline : le visage reste fidèle, le corps devient dessin animé."
+  },
+  "ext-94": {
+    "description": "Un selfie de trois animaux devant un monument célèbre, à l'heure dorée : choisissez l'animal et le lieu."
+  },
+  "ext-93": {
+    "description": "Redonne à votre image l'aspect du verre transparent et irisé, décrit par une fiche de style en JSON. Fournissez l'image."
+  },
+  "ext-92": {
+    "description": "Un effet de personnage qui sort d'un écran de téléphone, en vue de dessus et très réaliste. Remplacez la personne indiquée par votre modèle."
+  },
+  "ext-91": {
+    "description": "Transforme une capture de carte en carte au trésor sur parchemin, avec bateaux, port et croix. Fournissez la carte."
+  },
+  "ext-90": {
+    "description": "Quatre touches de clavier mécanique en grille 2×2 : modifiez le mot imprimé et les couleurs entre accolades."
+  },
+  "ext-89": {
+    "description": "Une épingle chromée en forme d'emoji sur une carte produit : changez l'emoji et les textes entre accolades."
+  },
+  "ext-88": {
+    "description": "Un coloriage en traits noirs prêt à imprimer au format lettre : un exemple clair de prompt pour un rendu simple et net."
+  },
+  "ext-86": {
+    "description": "Une double exposition entre un portrait et un paysage dans le style d'une illustratrice : le sujet est à remplacer par le vôtre."
+  },
+  "ext-85": {
+    "description": "Un croquis au crayon d'un sujet qui interagit avec un objet réaliste en couleur : le contraste entre deux styles fait l'effet."
+  },
+  "ext-84": {
+    "description": "Un repose-poignet en silicone en forme d'animal, d'après un emoji : changez l'emoji pour créer votre propre objet."
+  },
+  "ext-83": {
+    "description": "Un schéma d'anatomie en lignes bleues lumineuses sur fond sombre, avec une zone mise en avant. Choisissez le sujet."
+  },
+  "ext-82": {
+    "description": "Une ville miniature en vue isométrique avec un effet météo qui se mêle aux bâtiments. Changez la ville et la météo."
+  },
+  "ext-81": {
+    "description": "Votre image devient un objet en verre dépoli translucide qui flotte sur fond gris clair. Fournissez l'image."
+  },
+  "ext-80": {
+    "description": "Une carte de visite qui imite un fichier de code ouvert dans un éditeur : un détournement idéal pour un profil technique."
+  },
+  "ext-79": {
+    "description": "Une ville entière reconstruite en briques LEGO, avec ses bâtiments emblématiques au premier plan. Changez de ville."
+  },
+  "ext-78": {
+    "description": "Redonne à votre image l'aspect du verre sur fond blanc, décrit par une fiche de style en JSON. Fournissez l'image."
+  },
+  "ext-77": {
+    "description": "Une scène racontée dans une boule de cristal posée près d'une fenêtre, avec une lumière chaude qui la traverse."
+  },
+  "ext-76": {
+    "description": "Une affiche de film d'animation imaginaire, pliée et usée comme un vieux papier : la fiche explique l'usure à demander."
+  },
+  "ext-75": {
+    "description": "Un personnage 3D chibi d'après votre photo, qui fait un cœur avec les doigts : fournissez la photo."
+  },
+  "ext-74": {
+    "description": "Une bibliothèque moderne inspirée de la forme d'un logo : indiquez le logo, le prompt décrit matériaux et courbes."
+  },
+  "ext-73": {
+    "description": "Un porte-clés en caoutchouc au style chibi, tenu dans une main : fournissez l'image à transformer."
+  },
+  "ext-72": {
+    "description": "Un pendentif en or gravé en bas-relief, porté par une main : indiquez l'image ou l'emoji à graver."
+  },
+  "ext-71": {
+    "description": "Un paysage miniature vu de dessus avec effet tilt-shift, à thème cyberpunk par défaut. Changez le thème entre crochets."
+  },
+  "ext-70": {
+    "description": "Une créature originale inspirée d'un objet de votre photo, dans l'esprit des jeux de monstres japonais des années 90."
+  },
+  "ext-69": {
+    "description": "Une silhouette noire sur fond jaune vif : un prompt très court pour apprendre à dessiner un sujet par son seul contour."
+  },
+  "ext-68": {
+    "description": "Une carte à collectionner futuriste en verre holographique, avec un néon sombre : pour un logo ou un personnage."
+  },
+  "ext-67": {
+    "description": "Une scène de chambre des années 2000 qui reproduit un personnage de jeu vidéo. Le prompt insiste sur l'époque et le décor."
+  },
+  "ext-66": {
+    "description": "Un objet en soie qui flotte, avec plis surréalistes et reflets doux : changez l'emoji à transformer."
+  },
+  "ext-65": {
+    "description": "Une glace dont l'intérieur cache une scène sous-marine avec plongeur et vagues, vue de dessus par une main."
+  },
+  "ext-64": {
+    "description": "Un poisson mécanique steampunk en laiton, avec engrenages visibles : un bon exemple de détails de matière."
+  },
+  "ext-63": {
+    "description": "Un emoji transformé en barre de glace crémeuse qui flotte à 45°. Changez l'emoji pour votre idée."
+  },
+  "ext-61": {
+    "description": "Une capture de faux tweet d'un personnage historique, avec selfie et tableau noir. À utiliser comme parodie claire, jamais comme vrai document."
+  },
+  "ext-60": {
+    "description": "Un tapis tufté en forme d'emoji, vu du dessus à la lumière du jour. Changez l'emoji pour créer le vôtre."
+  },
+  "ext-58": {
+    "description": "Une photo où des nuages dessinent un sujet au-dessus d'un lieu : indiquez le sujet et le lieu."
+  },
+  "ext-57": {
+    "description": "Un logo 8 bits minimaliste d'un emoji sur fond blanc, avec palette rétro limitée."
+  },
+  "ext-56": {
+    "description": "Un bâtiment miniature 3D en forme de gobelet de café géant, avec ses deux étages visibles par les vitres."
+  },
+  "ext-55": {
+    "description": "Un pot de plantes en céramique en forme d'objet ou d'animal, rempli de succulentes : choisissez la forme."
+  },
+  "ext-54": {
+    "description": "Un faux selfie volontairement banal, flou et mal éclairé : l'inverse d'une photo travaillée, pour apprendre l'effet « naturel »."
+  },
+  "ext-53": {
+    "description": "Un emoji rendu comme un objet gonflable mat et rebondi, avec de légers plis de tissu. Changez l'emoji."
+  },
+  "ext-52": {
+    "description": "Un emoji en papier découpé, aux couches et plis visibles, sur fond blanc avec une ombre douce."
+  },
+  "ext-51": {
+    "description": "Un tampon d'entrée de passeport pour une ville de votre choix : remplacez la ville et le pays entre accolades."
+  },
+  "ext-50": {
+    "description": "Une héroïne d'aventure qui sort d'une carte à collectionner en pleine action : un effet de cadre qui se brise."
+  },
+  "ext-49": {
+    "description": "Une couverture de magazine de mode avec tenue et accessoires floraux, décrits point par point. Un bon modèle de détails."
+  },
+  "ext-47": {
+    "description": "Un petit bureau d'informatique dans une touche de clavier transparente, en vue isométrique : une scène dans l'objet."
+  },
+  "ext-46": {
+    "description": "Une gélule de marque remplie de grains de café avec un titre et un texte : un exercice d'objet détourné avec du texte."
+  },
+  "ext-45": {
+    "description": "Une mascotte chibi 3D qui incarne une université et ses spécialités : remplacez l'école et ses points forts entre accolades."
+  },
+  "ext-44": {
+    "description": "Une carte de personnage de jeu de rôle pour un métier : changez le métier, les outils et les compétences entre accolades."
+  },
+  "ext-43": {
+    "description": "Une personne de votre photo en poupées russes chibi, cinq tailles alignées sur une table en bois. Fournissez la photo."
+  },
+  "ext-42": {
+    "description": "Votre photo transformée en boule à neige 3D près d'une fenêtre, avec une lumière dorée qui la traverse."
+  },
+  "ext-40": {
+    "description": "Une planche de manga en deux cases verticales mettant en scène votre portrait en héroïne : fournissez la photo."
+  },
+  "ext-39": {
+    "description": "Un personnage à tête d'écran qui saute dans un portail lumineux, en pleine forêt fantastique."
+  },
+  "ext-38": {
+    "description": "Une carte infographique dessinée à la main, format 9:16, sur papier beige : un modèle de mise en page à thème."
+  },
+  "ext-37": {
+    "description": "Une sculpture 3D en argile pastel d'un produit de marque, dans une scène isométrique minimaliste."
+  },
+  "ext-36": {
+    "description": "Une illustration 3D minimaliste décrite par un guide de style (formes, couleurs, lumière) : le sujet « toilettes » est à changer."
+  },
+  "ext-35": {
+    "description": "Un emoji transformé en objet 3D entièrement couvert de fourrure, sur fond gris clair."
+  },
+  "ext-34": {
+    "description": "Une variante de la carte infographique dessinée à la main, format 9:16, au style chaleureux et artisanal."
+  },
+  "ext-33": {
+    "description": "Une famille de votre photo en personnages 3D chibi lors d'un mariage, avec tenues décrites. Fournissez la photo."
+  },
+  "ext-32": {
+    "description": "Un livre pop-up en papier à plusieurs couches posé sur un bureau, au format vertical 2:3."
+  },
+  "ext-29": {
+    "description": "Un personnage 3D de style C4D d'après votre photo, habillé selon un métier : changez le métier. Fournissez la photo."
+  },
+  "ext-28": {
+    "description": "Votre photo en autocollant chibi à plat, avec une épaisse bordure blanche. Fournissez la photo."
+  },
+  "ext-27": {
+    "description": "Une planche de six autocollants chibi qui ont chacun une pose différente, avec vous en personnage principal."
+  },
+  "ext-26": {
+    "description": "Une publicité de céréales personnalisées d'après votre portrait : les ingrédients reflètent la personnalité. Fournissez la photo."
+  },
+  "ext-25": {
+    "description": "Le même guide de style 3D minimaliste, écrit cette fois en JSON : comparez les deux formes pour voir celle qui vous convient."
+  },
+  "ext-24": {
+    "description": "Votre photo en figurine de collection dans sa boîte, vue en isométrique : changez le titre de la boîte."
+  },
+  "ext-23": {
+    "description": "Un couple de votre photo en personnages chibi à la proue d'un paquebot, dans une pose célèbre de film. Fournissez la photo."
+  },
+  "ext-22": {
+    "description": "Une couverture de publication pour un réseau social chinois : titres hiérarchisés pour attirer le clic. À adapter à votre sujet."
+  },
+  "ext-21": {
+    "description": "Une planche de neuf autocollants chibi en grille 3×3, avec fond transparent. Fournissez le personnage de référence."
+  },
+  "ext-20": {
+    "description": "Une figurine et la vraie personne dans le même cadre, façon photo de téléphone : remplacez la personne entre crochets."
+  },
+  "ext-19": {
+    "description": "Un diorama de pays dans une boîte en carton ouverte par deux mains, vu de dessus : choisissez le pays."
+  },
+  "ext-17": {
+    "description": "Un écran de démarrage d'ordinateur ancien qui devient un dessin en caractères ASCII : indiquez la forme ou le logo."
+  },
+  "ext-14": {
+    "description": "Votre photo en figurine d'un univers de pirates animé, dans sa boîte collector en isométrique. Fournissez la photo."
+  },
+  "ext-12": {
+    "description": "Un couple de votre photo en figurine de collection 3D dans une boîte romantique pastel. Fournissez la photo."
+  },
+  "ext-10": {
+    "description": "Un dessin satirique dans le style des vieilles bandes dessinées américaines : tout un rayon de casquettes identiques avec un slogan."
+  },
+  "ext-9": {
+    "description": "Une affiche futuriste minimaliste dont l'objet central est une forme fluide en 3D : le format, la couleur et la résolution sont fixés."
+  },
+  "ext-8": {
+    "description": "Votre photo en minifigurine de briques, avec un animal assorti à vos couleurs. Fournissez la photo."
+  },
+  "ext-7": {
+    "description": "Une chambre 3D isométrique douillette, avec meubles et ordinateur listés un à un. Changez les meubles pour la vôtre."
+  },
+  "ext-6": {
+    "description": "Un personnage 3D chibi tiré de votre photo qui traverse un portail et tend la main au spectateur."
+  },
+  "ext-4": {
+    "description": "Deux personnes de votre photo en personnages chibi 3D lors d'un mariage chinois rouge et or. Fournissez la photo."
+  },
+  "ext-3": {
+    "description": "Une affiche rétro au texte chinois en gros caractères, avec un fond rouge et jaune en rayons et un portrait d'illustration."
+  },
+  "ext-2": {
+    "description": "Un personnage 3D chibi qui sort d'une photo Polaroïd tenue à la main : un effet de cadre franchi."
+  },
+  "ext-1": {
+    "description": "Un couple de votre photo en personnages chibi 3D dans une demande en mariage, sous une arche de fleurs pastel."
+  },
+  "ext-105": {
+    "description": "Un portrait noir et blanc de film noir : lumière unique, visage à moitié éclairé, ombres de stores sur le fond."
+  },
+  "ext-106": {
+    "description": "Une photo type Polaroïd des années 70, légèrement surexposée et chaude, avec cadre blanc visible."
+  },
+  "ext-107": {
+    "description": "Un portrait en double exposition qui fond un visage dans une forêt, en teintes pastel du vert au doré."
+  },
+  "ext-108": {
+    "description": "Un portrait cyberpunk à effet glitch : couleurs décalées, lignes de balayage, néons rose et cyan."
+  },
+  "ext-109": {
+    "description": "Un portrait à l'aquarelle encore humide, avec pigments qui coulent et visage qui émerge des taches."
+  },
+  "ext-110": {
+    "description": "Un portrait vu dans un miroir brisé : chaque éclat montre un angle ou une expression différente."
+  },
+  "ext-111": {
+    "description": "Un portrait en photographie infrarouge : feuillage presque blanc et rosé, ciel rouge sombre, peau lisse."
+  },
+  "ext-112": {
+    "description": "Un portrait de mode des années 90 au flash direct, avec ombres dures et expression neutre."
+  },
+  "ext-113": {
+    "description": "Un portrait aux reflets holographiques irisés sur la peau et les vêtements, sur fond blanc."
+  },
+  "ext-114": {
+    "description": "Un portrait dans le style des peintures à l'huile de la Renaissance, avec clair-obscur à la manière des maîtres."
+  },
+  "ext-115": {
+    "description": "Une figurine chibi kawaii en résine brillante, aux couleurs pastel et aux grands yeux étoilés."
+  },
+  "ext-116": {
+    "description": "Un personnage 3D dans le style des films d'animation américains, aux proportions expressives et tissus détaillés."
+  },
+  "ext-117": {
+    "description": "Une créature fantastique en argile polymère, avec traces de doigts et détails peints à la main."
+  },
+  "ext-118": {
+    "description": "Un robot compagnon rétro-futuriste des années 50, crème et chrome, aux écrans à tubes et au style art déco."
+  },
+  "ext-119": {
+    "description": "Un personnage low-poly à facettes plates, aux couleurs franches et à la silhouette reconnaissable."
+  },
+  "ext-120": {
+    "description": "Une mascotte 3D d'entreprise rondes et rassurantes, avec les couleurs de la marque intégrées au personnage."
+  },
+  "ext-121": {
+    "description": "Une créature fantastique bioluminescente aux motifs lumineux sous une peau translucide, inspirée des abysses."
+  },
+  "ext-122": {
+    "description": "Une figurine de collection de style anime en pleine action, avec cheveux et vêtements sculptés en mouvement et accessoires détaillés."
+  },
+  "ext-123": {
+    "description": "Un personnage en voxels vu en isométrique, plus détaillé qu'un jeu de cubes classique, dont le costume indique le métier."
+  },
+  "ext-124": {
+    "description": "Une statue de jardin d'une créature mythique, patinée et couverte de mousse, avec une fontaine intégrée."
+  },
+  "ext-125": {
+    "description": "Une affiche Art nouveau : silhouette féminine mêlée aux motifs floraux, tons sauge, rose poudré et or, bordure ornée symétrique."
+  },
+  "ext-126": {
+    "description": "Un paysage impressionniste d'étang aux nénuphars et saules, peint par touches visibles dans la lumière de fin d'après-midi."
+  },
+  "ext-127": {
+    "description": "Une affiche constructiviste rouge, noir et crème, aux formes géométriques et à la composition en diagonale."
+  },
+  "ext-128": {
+    "description": "Une illustration de conte de fées à l'encre et à l'aquarelle : arbres au visage, créatures cachées, enfant au centre."
+  },
+  "ext-129": {
+    "description": "Une nature morte baroque de type vanité : crâne, fleurs fanées, bougie éteinte et sablier sur velours, en clair-obscur."
+  },
+  "ext-130": {
+    "description": "Une planche botanique scientifique : plante complète (racines à graines), coupes internes et noms latins manuscrits."
+  },
+  "ext-131": {
+    "description": "Une peinture expressionniste abstraite aux gestes larges, coulures et matière épaisse en bleus, oranges et blancs."
+  },
+  "ext-132": {
+    "description": "Une estampe japonaise ukiyo-e d'un paysage de nature avec le mont Fuji, au grain de bois visible et aux couleurs limitées."
+  },
+  "ext-133": {
+    "description": "Un collage dadaïste de vieilles images découpées aux échelles absurdes, avec formes géométriques et fragments de texte."
+  },
+  "ext-134": {
+    "description": "Un paysage romantique où une silhouette minuscule fait face à de grandes montagnes et à un ciel d'orage, ruines au loin."
+  },
+  "ext-135": {
+    "description": "Un emballage cosmétique de luxe : flacon en verre dépoli au dégradé rose, bouchon doré mat, typographie très fine."
+  },
+  "ext-136": {
+    "description": "Un concept de basket futuriste : tricot dégradé, semelle transparente avec coussin d'air, LED et fermeture magnétique."
+  },
+  "ext-137": {
+    "description": "Un emballage alimentaire écologique en papier kraft avec fenêtre découpée, illustrations botaniques et tons terre."
+  },
+  "ext-138": {
+    "description": "Une montre connectée élégante au cadran circulaire, boîtier titane et lunette céramique, aux bracelets interchangeables."
+  },
+  "ext-139": {
+    "description": "Une bouteille de vin contemporaine asymétrique, au verre bordeaux texturé et à l'étiquette gaufrée avec dorure."
+  },
+  "ext-140": {
+    "description": "Un mobilier modulaire scandinave qui devient étagère, bureau ou séparation : chêne naturel et acier laqué, bords arrondis."
+  },
+  "ext-141": {
+    "description": "Un emballage de thé haut de gamme : boîte cylindrique, papier texturé, paysage à l'aquarelle et dorure en caractères chinois."
+  },
+  "ext-142": {
+    "description": "Un casque audio conçu comme une œuvre d'art : formes organiques, aluminium brossé, cuir d'agneau et arceau qui semble flotter."
+  },
+  "ext-143": {
+    "description": "Un flacon de parfum inspiré du brutalisme : cristal épais à facettes, bouchon en tour de béton, ombres marquées."
+  },
+  "ext-144": {
+    "description": "Un emballage de chocolat artisanal : papier texturé imprimé en typographie, illustration de plantation et codes couleur par pourcentage."
+  },
+  "ext-145": {
+    "description": "Une interface de jeu de rôle médiéval : jauges en enluminures, inventaire peint à la main, carte en parchemin."
+  },
+  "ext-146": {
+    "description": "Un écran de chargement cyberpunk : grille néon vers l'horizon, logos en corruption numérique, barre de progression de piratage."
+  },
+  "ext-147": {
+    "description": "Un concept de véhicule science-fiction pour jeu vidéo : moto volante aux détails mécaniques et conduits d'énergie lumineux."
+  },
+  "ext-148": {
+    "description": "Une scène de combat en pixel art 16 bits : quatre héros face à un boss, avec effets d'attaque et menu de jeu."
+  },
+  "ext-149": {
+    "description": "Un tableau de bord d'application de sport en mode sombre : anneaux d'activité, courbe cardiaque, badges de réussite."
+  },
+  "ext-150": {
+    "description": "Une carte de jeu de stratégie en isométrique : forêts, montagnes enneigées, désert, côtes, villages, routes et brouillard."
+  },
+  "ext-151": {
+    "description": "Une interface holographique flottante en panneaux bleus translucides, avec flux de données et indicateurs de gestes."
+  },
+  "ext-152": {
+    "description": "Une planche de sprites 2D pour un jeu de plateforme : repos, course, saut, attaque et dégâts, 8 images chacune, en 32×32."
+  },
+  "ext-153": {
+    "description": "Un écran-titre de jeu indépendant peint à la main, avec logo intégré et éléments animés discrets (particules, herbes)."
+  },
+  "ext-154": {
+    "description": "Un concept d'arme de science-fiction détaillé : fusil à énergie modulaire, noyau visible et annotations techniques."
+  },
+  "ext-155": {
+    "description": "Une carte au trésor ancienne sur parchemin : côtes dessinées, rose des vents, monstres marins, chemin pointillé vers la croix."
+  },
+  "ext-156": {
+    "description": "Une infographie sur le climat : courbe des températures, diagramme des émissions par secteur, carte du monde par impact."
+  },
+  "ext-157": {
+    "description": "Un plan d'architecte minimaliste d'inspiration japonaise : pièces, circulation, mobilier, jardin, échelle et ombres légères."
+  },
+  "ext-158": {
+    "description": "Un diagramme d'anatomie à l'ancienne : muscles ou squelette précis, légendes à lignes, papier vieilli et lithographie colorée."
+  },
+  "ext-159": {
+    "description": "Un plan de métro d'une ville imaginaire : lignes géométriques en couleurs, correspondances et repères marqués."
+  },
+  "ext-160": {
+    "description": "Un organigramme créatif : membres de l'équipe en personnages illustrés reliés par des tracés au lieu de cases."
+  },
+  "ext-161": {
+    "description": "Un planisphère ancien de style Renaissance : bordure allégorique, monstres marins, vents aux angles et teintes sépia."
+  },
+  "ext-162": {
+    "description": "Un schéma de la démarche de design thinking en cinq étapes, avec boucles d'itération et personnes au centre."
+  },
+  "ext-163": {
+    "description": "Une carte de monde fantasy : biomes variés, montagnes, royaumes aux blasons, villes et ruines nommées."
+  },
+  "ext-164": {
+    "description": "Une frise chronologique illustrée : événements en petites vignettes, couleurs par thème et échelle adaptée à la densité."
+  },
+  "ext-165": {
+    "description": "Un modèle de story Instagram au dégradé corail-violet, avec zones de texte et éléments interactifs (sondage, question)."
+  },
+  "ext-166": {
+    "description": "Une miniature de vidéo de jeu à fort impact : visage expressif, capture saturée, texte épais et effets d'énergie."
+  },
+  "ext-167": {
+    "description": "Un carrousel LinkedIn sobre : dégradés discrets, progression d'une diapositive à l'autre, données et citations."
+  },
+  "ext-168": {
+    "description": "Un post de citation inspirante pour Instagram : fond doux, texte en serif élégant, format carré."
+  },
+  "ext-169": {
+    "description": "Une bannière de profil pour créateur : collage de travaux, couleurs de marque, recadrage pensé pour mobile et ordinateur."
+  },
+  "ext-170": {
+    "description": "Une couverture de Reel pour un tutoriel : étapes numérotées, comparaison avant/après, lisible sans le son."
+  },
+  "ext-171": {
+    "description": "Un visuel de promotion d'événement Facebook : date, heure et lieu bien en vue, image du thème et bouton d'action."
+  },
+  "ext-172": {
+    "description": "Une épingle Pinterest de recette au format 2:3 : photo en haut, titre appétissant et infos clés (temps, portions)."
+  },
+  "ext-173": {
+    "description": "Une story Instagram interactive avec sondage : deux options visuelles, question claire et zones de toucher bien dimensionnées."
+  },
+  "ext-174": {
+    "description": "Un jeu d'icônes de couvertures de stories à la une : pictogrammes simples sur fonds unis (À propos, Travaux, Conseils…)."
+  },
+  "ext-175": {
+    "description": "Une nature morte de fruits à la Renaissance : raisins, pêches, grenades sur marbre, en clair-obscur et gouttes de rosée."
+  },
+  "ext-176": {
+    "description": "Une photo culinaire minimaliste : un seul plat sur assiette blanche et lin, lumière de fenêtre, grand espace vide."
+  },
+  "ext-177": {
+    "description": "Un « flat lay » d'objets anciens : montre à gousset, lettres, fleurs séchées, boussole sur bois, tons chauds."
+  },
+  "ext-178": {
+    "description": "Un dessert dressé de grand restaurant : éléments de chocolat géométriques, glaçage miroir, fleurs comestibles sur ardoise."
+  },
+  "ext-179": {
+    "description": "Un latte art créatif vu du dessus : cygne, rosetta ou tulipe, mousse parfaite, table en bois et lumière du matin."
+  },
+  "ext-180": {
+    "description": "Une composition d'ikebana minimaliste : une branche, peu de fleurs, équilibre asymétrique et vase de céramique simple."
+  },
+  "ext-181": {
+    "description": "Une photo de cocktail dans un bar chic : glaçons limpides, condensation, garniture soignée et contre-jour qui fait briller."
+  },
+  "ext-182": {
+    "description": "Un petit-déjeuner scandinave : tartines sur pain de seigle, œufs, saumon fumé, vaisselle blanche et lumière du matin."
+  },
+  "ext-183": {
+    "description": "Une macro de pierres précieuses sur velours noir : facettes qui diffractent la lumière, taillés variés, couleurs profondes."
+  },
+  "ext-184": {
+    "description": "Une pâtisserie française dans sa vitrine : éclair ou mille-feuille glacé, feuille d'or, tons pistache, framboise et vanille."
+  },
+  "ext-185": {
+    "description": "Un logo minimaliste de startup technologique : marque géométrique lisible à toute taille, deux couleurs au maximum."
+  },
+  "ext-186": {
+    "description": "Une identité visuelle de café artisanal : logo dessiné, kraft et tons terre, motifs de café, déclinée sur gobelet, sac et menu."
+  },
+  "ext-187": {
+    "description": "Un coffret collector en édition limitée : revêtement doux, dorure, gaufrage, numérotation, fermeture magnétique."
+  },
+  "ext-188": {
+    "description": "Une planche d'identité de marque : logos, palette avec codes couleur, typographies, photos, motifs et textures."
+  },
+  "ext-189": {
+    "description": "Un système de signalétique pour campus ou musée : pictogrammes, flèches, matériaux homogènes, accessible de jour comme de nuit."
+  },
+  "ext-190": {
+    "description": "Une papeterie d'entreprise sobre : papier à en-tête, enveloppe et carte de visite avec gaufrage et accent métallique."
+  },
+  "ext-191": {
+    "description": "Un concept d'animation de logo : images clés, trajectoire du mouvement, durées et courbes d'accélération."
+  },
+  "ext-192": {
+    "description": "Une collection de produits dérivés de marque : t-shirt, tote bag, gourde, carnet, photographiés dans un cadre de vie."
+  },
+  "ext-193": {
+    "description": "Un pack d'identité de restaurant : logo, menu, signalétique, uniformes, vaisselle et modèles pour les réseaux."
+  },
+  "ext-194": {
+    "description": "Une icône d'application en plusieurs variantes pour test A/B : symbole simple, versions plate et dégradée, modes clair et sombre."
+  },
+  "ext-195": {
+    "description": "Un effet tilt-shift qui fait paraître une vraie ville comme une maquette : mise au point sélective, couleurs saturées."
+  },
+  "ext-196": {
+    "description": "Un portrait surréaliste à la manière de Magritte : visage remplacé par un objet inattendu, ciel gris, feutre melon."
+  },
+  "ext-197": {
+    "description": "Une architecture impossible inspirée d'Escher : escaliers infinis, eau qui remonte, trait technique à hachures."
+  },
+  "ext-198": {
+    "description": "Une fusion de nature et de technologie : circuits imprimés en racines, fleurs sortant de composants, fibres lumineuses."
+  },
+  "ext-199": {
+    "description": "Un paysage onirique à la manière de Dalí : horloges molles, éléphants sur pattes grêles, désert à l'horizon impossible."
+  },
+  "ext-200": {
+    "description": "Un monde miniature complet dans un objet du quotidien (ampoule, boule à neige, tasse), photographié en macro."
+  },
+  "ext-201": {
+    "description": "Un portrait composé de fleurs, feuilles, fruits et branches, dans l'esprit d'Arcimboldo mais en version contemporaine."
+  },
+  "ext-202": {
+    "description": "Une scène surréaliste de lévitation : objets et personnage flottant dans une pièce, sujet calme au milieu du chaos."
+  },
+  "ext-203": {
+    "description": "Un paysage abstrait en formes pures : montagnes en triangles, soleil en cercle, arbres en cylindres, aplats sans dégradé."
+  },
+  "ext-204": {
+    "description": "Un reflet qui montre un monde parallèle : rue banale au-dessus, royaume fantastique dans la flaque ou le miroir."
+  },
+  "ext-205": {
+    "description": "Un portrait aux néons rose et bleu : lumières colorées contrastées, ombres dramatiques, reflets d'objectif, ambiance cyberpunk."
+  },
+  "ext-206": {
+    "description": "Un effet cassette VHS : lignes de suivi, couleurs qui bavent, bords déformés et date des années 80 dans le coin."
+  },
+  "ext-207": {
+    "description": "Un portrait en clair-obscur à la manière du Caravage : une seule lumière latérale, demi-visage dans l'ombre, fond noir."
+  },
+  "ext-208": {
+    "description": "Un effet lomographie : vignettage prononcé, couleurs saturées par traitement croisé, fuites de lumière, flou doux."
+  },
+  "ext-209": {
+    "description": "Un portrait en bichromie moderne : base noir et blanc contrastée recouverte de deux couleurs vives, esprit affiche."
+  },
+  "ext-210": {
+    "description": "Une photo avec le grain d'une pellicule de cinéma : noirs relevés, hautes lumières douces, grain organique."
+  },
+  "ext-211": {
+    "description": "Un portrait en dispersion : une partie du sujet se dissout en particules, comme de la cendre ou des pixels."
+  },
+  "ext-212": {
+    "description": "Un portrait traversé par un arc-en-ciel de prisme : traînées colorées qui interagissent avec les traits du visage."
+  },
+  "ext-213": {
+    "description": "Un portrait en longue exposition avec peinture de lumière : sujet immobile net, traînées lumineuses autour de lui."
+  },
+  "ext-214": {
+    "description": "Un portrait pop art à la manière de Warhol : couleurs plates, panneaux répétés en variantes, effet de sérigraphie."
+  },
+  "ext-215": {
+    "description": "Une mascotte animale 3D toute mignonne : grands yeux brillants, corps minuscule, fourrure pastel dégradée, aspect peluche."
+  },
+  "ext-216": {
+    "description": "Un robot steampunk en laiton et cuivre : mécanismes visibles sous verre, vapeur, manomètres, patine d'usage."
+  },
+  "ext-217": {
+    "description": "Un personnage en pâte à modeler animée : empreintes de doigts, formes imparfaites, armature discrète, esprit stop motion."
+  },
+  "ext-218": {
+    "description": "Une créature de cristal vivant : corps translucide à lumière interne, facettes qui diffractent, éclats en orbite."
+  },
+  "ext-219": {
+    "description": "Un avatar de jeu personnalisable : personnage de base avec tenues, coiffures et accessoires interchangeables."
+  },
+  "ext-220": {
+    "description": "Une figurine « designer toy » en édition limitée : figurine vierge personnalisée, finitions mates et brillantes, socle de marque."
+  },
+  "ext-221": {
+    "description": "Un monstre mignon et inquiétant à la fois : dents pointues dans un sourire, griffes tenant des fleurs, pastels sur forme sombre."
+  },
+  "ext-222": {
+    "description": "Un personnage en papier plié 3D, aux plis visibles et aux aplats facettés, comme un origami en volume."
+  },
+  "ext-223": {
+    "description": "Un extraterrestre bienveillant : formes fluides non humanoïdes, motifs bioluminescents pour communiquer, peau irisée."
+  },
+  "ext-224": {
+    "description": "Un golem de nature en terre, pierre et plantes : mousse et fleurs dans les fissures, yeux lumineux, petites créatures sur lui."
+  },
+  "ext-225": {
+    "description": "Une illustration en ligne claire à la manière d'Hergé : trait uniforme, aplats de couleur, composition lisible."
+  },
+  "ext-226": {
+    "description": "Une peinture pointilliste : points de couleur pure qui se mélangent à distance, effet lumineux et vibrant."
+  },
+  "ext-227": {
+    "description": "Une affiche Art déco : motifs géométriques, rayons, chevrons, accents or et argent, typographie élégante."
+  },
+  "ext-228": {
+    "description": "Une affiche psychédélique des années 60 : formes organiques tourbillonnantes, couleurs vibrantes, lettrage dessiné à la main."
+  },
+  "ext-229": {
+    "description": "Une gravure sur bois traditionnelle : traits noirs épais, couleurs limitées, grain du bois visible, esprit art populaire."
+  },
+  "ext-230": {
+    "description": "Une aquarelle libre et impressionniste en mouillé sur mouillé : couleurs qui fleurissent, blanc du papier laissé en lumière."
+  },
+  "ext-231": {
+    "description": "Une illustration d'art brut au trait naïf : formes simples, images directes, expression brute sans règles académiques."
+  },
+  "ext-232": {
+    "description": "Un motif décoratif à la William Morris : flore et faune entremêlées, répétées en aplats denses sur toute la surface."
+  },
+  "ext-233": {
+    "description": "Une illustration technique de précision : coupes qui montrent l'intérieur, trait net, ombres légères et légendes."
+  },
+  "ext-234": {
+    "description": "Une peinture fauviste aux couleurs sauvages : arbres violets, ciel orange, visages verts, touches larges et formes simplifiées."
+  },
+  "ext-235": {
+    "description": "Un concept de vélo électrique urbain : batterie dans le cadre, câbles cachés, écran intelligent et pneus anti-crevaison."
+  },
+  "ext-236": {
+    "description": "Un système d'emballage zéro déchet à recharger : contenant durable et recharges concentrées en dosettes."
+  },
+  "ext-237": {
+    "description": "Une lampe modulaire aux pièces interchangeables : abat-jour, bras et bases au choix, montage sans outil."
+  },
+  "ext-238": {
+    "description": "Une valise connectée : suivi GPS, balance intégrée, ports de charge USB et verrou biométrique."
+  },
+  "ext-239": {
+    "description": "Une gourde durable qui remplace le plastique jetable : double paroi isotherme, large goulot, filtre intégré."
+  },
+  "ext-240": {
+    "description": "Une enceinte portable conçue comme un objet sculptural : son à 360°, aluminium, cuir et tissu."
+  },
+  "ext-241": {
+    "description": "Un kit repas pour avion haut de gamme : matériaux durables, couverts pensés pour l'espace réduit, emballage qui se déplie."
+  },
+  "ext-242": {
+    "description": "Un chargeur sans fil presque invisible sur le bureau : profil ultra-fin, LED discrète, compatible Qi."
+  },
+  "ext-243": {
+    "description": "Un pot de plante auto-arrosant : réserve intégrée, niveau d'eau visible, forme géométrique en céramique mate."
+  },
+  "ext-244": {
+    "description": "Un étui à lunettes magnétique et fin, en cuir et microfibre, qui se ferme d'un clic et glisse dans une poche de veste."
+  },
+  "ext-245": {
+    "description": "Un menu de pause de jeu qui préserve l'immersion : le monde reste visible, assombri, avec options intégrées au décor."
+  },
+  "ext-246": {
+    "description": "Un tileset 2D en pixel art pour jeu de plateforme : sols, plateformes, décors et pièges qui s'assemblent sans raccord visible."
+  },
+  "ext-247": {
+    "description": "Une interface d'inventaire de jeu de rôle : grille d'objets, infobulles de statistiques et emplacements d'équipement."
+  },
+  "ext-248": {
+    "description": "Un écran de fin de partie artistique qui adoucit l'échec : belle illustration liée à l'histoire et bouton « Réessayer » encourageant."
+  },
+  "ext-249": {
+    "description": "Un tableau de bord d'analyse moderne en mode sombre : indicateurs clés, graphiques animés et données en temps réel."
+  },
+  "ext-250": {
+    "description": "Un concept de manette de jeu nouvelle génération : forme ergonomique, retour haptique et composants modulaires."
+  },
+  "ext-251": {
+    "description": "Une interface de montre de sport : fréquence cardiaque, calories et distance hiérarchisées, anneaux de progression."
+  },
+  "ext-252": {
+    "description": "Un habillage d'arme pour jeu de tir compétitif : thème élémentaire, cyberpunk ou fantasy, reconnaissable de loin."
+  },
+  "ext-253": {
+    "description": "Une carte de monde d'aventure qui se dévoile par l'exploration : brouillard, quêtes, villes et points d'intérêt lisibles."
+  },
+  "ext-254": {
+    "description": "Une interface de chat en jeu : texte lisible sans gêner l'action, messages rapides, onglets d'équipe et général."
+  },
+  "ext-255": {
+    "description": "Un schéma du cycle de vie d'un produit en économie circulaire : de la matière première au recyclage, avec flèches de flux."
+  },
+  "ext-256": {
+    "description": "Une carte de chaleur du comportement d'utilisateurs : dégradé du froid au chaud posé sur une capture de site ou d'application."
+  },
+  "ext-257": {
+    "description": "Un arbre généalogique créatif en forme d'arbre : membres de la famille en feuilles ou en fruits, photos intégrées."
+  },
+  "ext-258": {
+    "description": "Un schéma de parcours utilisateur : étapes, choix, chemins alternatifs, vignettes d'écran et annotations d'objectifs."
+  },
+  "ext-259": {
+    "description": "Une visualisation de réseau social : nœuds pour les personnes, liens pour les relations, groupes qui forment des communautés."
+  },
+  "ext-260": {
+    "description": "Une infographie de comparaison de produits : fonctionnalités cochées, tarifs, et gagnant mis en avant selon l'usage."
+  },
+  "ext-261": {
+    "description": "Un plan d'évacuation de bâtiment conforme : sorties, points de rassemblement, extincteurs, trousses de secours, « vous êtes ici »."
+  },
+  "ext-262": {
+    "description": "Un schéma d'architecture logicielle : composants en boîtes, flux de données, services cloud et sur site distingués."
+  },
+  "ext-263": {
+    "description": "Une carte de sentier de randonnée illustrée : relief en perspective, points de vue, eau, abris et niveaux de difficulté."
+  },
+  "ext-264": {
+    "description": "Un diagramme de Venn créatif : trois cercles ou plus avec des intersections signifiantes, le centre mis en valeur."
+  },
+  "ext-265": {
+    "description": "Un modèle de publication avant/après : écran partagé ou curseur, mêmes angle et lumière, étiquettes claires."
+  },
+  "ext-266": {
+    "description": "Une pochette de podcast lisible même en petite vignette : format carré, titre net, cohérence d'un épisode à l'autre."
+  },
+  "ext-267": {
+    "description": "Un modèle de témoignage client : citation en vedette, photo et nom (avec accord), étoiles et couleurs de marque."
+  },
+  "ext-268": {
+    "description": "Une annonce de lancement de produit : image héro à la lumière dramatique, date en évidence, points clés et appel à l'action."
+  },
+  "ext-269": {
+    "description": "Une infographie rapide à partager : un chiffre fort en vedette, contexte en petit, source citée."
+  },
+  "ext-270": {
+    "description": "Un modèle de story questions/réponses : question en évidence, zone de réponse aux couleurs de la marque, série cohérente."
+  },
+  "ext-271": {
+    "description": "Un post de célébration d'étape (abonnés, ventes, anniversaire) : gros chiffre, remerciements à la communauté."
+  },
+  "ext-272": {
+    "description": "Un teaser qui fait patienter : contenu flouté ou caché, mention « bientôt » ou date, série aux couleurs de marque."
+  },
+  "ext-273": {
+    "description": "Un modèle de tutoriel en étapes numérotées : progression de 1 à la fin, icône par étape, indication de balayage."
+  },
+  "ext-274": {
+    "description": "Un post « en coulisses » authentique : esthétique moins lisse, équipe ou atelier visibles, histoire d'une création."
+  },
+  "ext-275": {
+    "description": "Une composition d'épices vue de dessus sur fond sombre : poudres colorées, épices entières, mortier et pilon."
+  },
+  "ext-276": {
+    "description": "Une nature morte de livres anciens : volumes à dos de cuir usé, lunettes, loupe et bougie pour une ambiance de lecture."
+  },
+  "ext-277": {
+    "description": "Un petit-déjeuner au lit : plateau avec croissant, confiture, fruits et café, draps en lin froissés, lumière douce du matin."
+  },
+  "ext-278": {
+    "description": "Une collection de montres de luxe en vitrine : écrin de velours, éclairage dramatique, reflets sur les verres."
+  },
+  "ext-279": {
+    "description": "Des ingrédients de pâtisserie en « mise en place » : farine, sucre, beurre, œufs en bols assortis sur du marbre fariné."
+  },
+  "ext-280": {
+    "description": "Un bouquet bohème de fleurs séchées dans un vase en céramique : pampa, eucalyptus, roses, palette crème, rosé et sauge."
+  },
+  "ext-281": {
+    "description": "Une collection de vinyles nostalgique : pochettes en éventail, platine en lecture, lumière chaude et étagères en bois."
+  },
+  "ext-282": {
+    "description": "Un thé à l'anglaise complet : étagère à trois niveaux, sandwichs, scones, pâtisseries, porcelaine et argenterie."
+  },
+  "ext-283": {
+    "description": "Les outils d'un artisan du cuir sur l'établi : alênes, aiguilles, fil, chutes de cuir, manches de bois patinés."
+  },
+  "ext-284": {
+    "description": "Une composition de fruits tropicaux éclatants : papaye, mangue, fruit de la passion, pitaya ouvert, gouttes d'eau."
+  },
+  "ext-285": {
+    "description": "Un système de logo responsive : version complète, marque simplifiée, favicon et avatar de réseau social."
+  },
+  "ext-286": {
+    "description": "Une palette de couleurs de marque expliquée : couleurs primaire, secondaire et d'accent, codes Hex/RVB/CMJN/Pantone, rôle émotionnel."
+  },
+  "ext-287": {
+    "description": "Un système typographique de marque : styles d'affichage, titre, texte et légende, associations de polices, échelle de tailles."
+  },
+  "ext-288": {
+    "description": "Un jeu d'icônes cohérent pour une marque : même épaisseur de trait et même arrondi, grille de construction visible."
+  },
+  "ext-289": {
+    "description": "Une déclinaison de marque sur une flotte de véhicules : placement du logo, couleurs repérables de loin, camionnette, voiture, camion."
+  },
+  "ext-290": {
+    "description": "Une tenue de personnel aux couleurs de la marque : emplacements de broderie du logo et coupe adaptée au métier."
+  },
+  "ext-291": {
+    "description": "Un emballage de gamme de produits : structure commune, variantes différenciées par couleur ou numéro, famille évidente."
+  },
+  "ext-292": {
+    "description": "Un kit de modèles pour réseaux sociaux : publications, stories et couvertures modifiables, polices et couleurs verrouillées."
+  },
+  "ext-293": {
+    "description": "Une image de marque pour un espace de vente : signalétique, présentoirs, matériaux et parcours du client."
+  },
+  "ext-294": {
+    "description": "Une signature d'e-mail professionnelle : hiérarchie nom, titre, contact, logo et liens, lisible sur mobile."
+  },
+  "ext-295": {
+    "description": "Une porte qui s'ouvre sur une autre dimension : cadre ordinaire, vue extraordinaire, lumière qui s'échappe de la pièce banale."
+  },
+  "ext-296": {
+    "description": "Une ville flottante parmi les nuages : îles aériennes, ponts et dirigeables, cascades qui tombent dans le vide, lumière dorée."
+  },
+  "ext-297": {
+    "description": "Une forêt bioluminescente de nuit : arbres, champignons et créatures lumineux en bleus, verts et violets, particules flottantes."
+  },
+  "ext-298": {
+    "description": "Une bibliothèque infinie fantastique : étagères dans toutes les directions, livres flottants, escaliers en spirale, lueur de lampes."
+  },
+  "ext-299": {
+    "description": "Un jardin qui pousse dans une silhouette de tête : pensées en fleurs, souvenirs en arbres, papillons en idées fugaces."
+  },
+  "ext-300": {
+    "description": "Une horloge qui fond dans un décor surréaliste, le temps qui goutte et s'accumule, dans l'esprit de Dalí."
+  },
+  "ext-301": {
+    "description": "Un océan entier dans une bouteille de verre qui flotte dans l'espace, avec étoiles et galaxies en toile de fond."
+  },
+  "ext-302": {
+    "description": "Un escalier de Penrose dans un décor réaliste : des gens y marchent en boucle sans le savoir."
+  },
+  "ext-303": {
+    "description": "Un seul arbre qui montre les quatre saisons à la fois, en quarts ou en dégradé : le temps réuni dans une image."
+  },
+  "ext-304": {
+    "description": "Une ville qui sort des pages d'un livre ouvert : bâtiments en pop-up, rues qui suivent les lignes de texte."
+  },
+  "ext-305": {
+    "description": "Une théière en terre cuite photographiée en studio : le prompt sert à comparer le grain et les pores d'une matière. Même théière, autre matière à chaque fiche."
+  },
+  "ext-306": {
+    "description": "La même théière en chrome : le prompt travaille les reflets miroir. Une fiche de la série « une matière, un résultat »."
+  },
+  "ext-307": {
+    "description": "La même théière en verre ambré : le prompt joue sur la transparence et ce qu'on voit à travers."
+  },
+  "ext-308": {
+    "description": "La même théière en laine : le prompt demande des mailles en relief. Une comparaison de matières textiles."
+  },
+  "ext-309": {
+    "description": "La même théière en céramique à glaçure bleue : le prompt travaille la brillance et la couleur de l'émail."
+  },
+  "ext-310": {
+    "description": "La même théière en papier : le prompt demande des plis et des facettes comme un origami."
+  },
+  "ext-311": {
+    "description": "La même théière en bois : le prompt suit les veines du matériau."
+  },
+  "ext-312": {
+    "description": "La même théière en marbre : le prompt donne une surface minérale veinée."
+  },
+  "ext-313": {
+    "description": "La même théière en velours : le prompt travaille la lumière dans les fibres."
+  },
+  "ext-314": {
+    "description": "La même théière en silicone : le prompt demande un mat uniforme et lisse."
+  },
+  "ext-315": {
+    "description": "La même théière en béton : le prompt met en valeur les imperfections de la matière."
+  },
+  "ext-316": {
+    "description": "La même théière irisée : le prompt demande des couleurs qui changent selon l'angle."
+  },
+  "ext-317": {
+    "description": "Une tasse blanche, un vase et un mur en enduit éclairés par la lumière d'une fenêtre : la série pour comparer les éclairages (ici, diffus)."
+  },
+  "ext-318": {
+    "description": "La même scène de tasse à l'heure dorée : ombres longues et lumière chaude. Une fiche pour comparer les éclairages."
+  },
+  "ext-319": {
+    "description": "La même scène de tasse à midi : ombres nettes et lumière dure. À comparer avec les autres éclairages de la série."
+  },
+  "ext-320": {
+    "description": "La même scène de tasse sous des néons cyan contre magenta : une lumière artificielle forte."
+  },
+  "ext-321": {
+    "description": "La même scène de tasse en clair-obscur : le sujet émerge de l'ombre."
+  },
+  "ext-322": {
+    "description": "La même scène de tasse en « high key » : une image très lumineuse aux ombres quasi absentes."
+  },
+  "ext-323": {
+    "description": "Une affiche de festival de jazz en noir et ivoire avec accent orange : un seul mot imposé, « JAZZ ». Pour apprendre à demander un texte unique."
+  },
+  "ext-324": {
+    "description": "Une affiche de marché peinte à la main sur papier crème : tomates et feuilles, titre lisible « MARCHÉ »."
+  },
+  "ext-325": {
+    "description": "Une affiche de film de science-fiction rétro au titre exact « AILLEURS », imprimée à plat au format carré."
+  },
+  "ext-326": {
+    "description": "Une affiche d'exposition de design de style suisse : modules géométriques crème sur bleu cobalt, grille rigoureuse."
+  },
+  "ext-327": {
+    "description": "Une affiche de fête du vélo en papier découpé : vert, jaune et corail, titre unique « EN SELLE »."
+  },
+  "ext-328": {
+    "description": "Une affiche de randonnée en linogravure noire sur ivoire : montagnes, sapins, encrage visible, titre « DEHORS »."
+  },
+  "ext-329": {
+    "description": "Une illustration pédagogique du cycle de l'eau, aérée et lisible : peu de symboles, éléments bien séparés."
+  },
+  "ext-330": {
+    "description": "Une planche botanique pédagogique d'une plante vue dessus et dessous, claire et aérée."
+  },
+  "ext-331": {
+    "description": "Une frise pédagogique en quatre étapes, du grain de café à la tasse, avec peu de symboles."
+  },
+  "ext-332": {
+    "description": "Une vue éclatée pédagogique d'un tabouret en bois, pièce par pièce, sur fond clair."
+  },
+  "ext-333": {
+    "description": "Une carte mentale pédagogique avec un cercle central orange et des branches lisibles : à compléter avec votre sujet."
+  },
+  "ext-334": {
+    "description": "Une maison en coupe isométrique qui explique l'énergie solaire : panneaux, circulation, usages, avec peu de symboles."
+  },
+  "ext-335": {
+    "description": "Une maquette de graphique à barres éditorial sur papier crème, avec données fictives et priorité à la lisibilité."
+  },
+  "ext-336": {
+    "description": "Une maquette de courbe d'évolution tracée à la main, sur papier crème, avec données fictives."
+  },
+  "ext-337": {
+    "description": "Une maquette de diagramme en anneau sobre pour une répartition, avec données fictives et style éditorial."
+  },
+  "ext-338": {
+    "description": "Une frise illustrée de parcours qui raconte une étape après l'autre, avec données fictives et style éditorial."
+  },
+  "ext-339": {
+    "description": "Une grille de pictogrammes pour représenter un ensemble, avec données fictives et style éditorial."
+  },
+  "ext-340": {
+    "description": "Une maquette de parcours en cinq étapes, avec données fictives sur papier crème et priorité à la lisibilité."
+  },
+  "ext-341": {
+    "description": "Un croquis de voyage d'une rue pavée et d'une façade de café à Bruxelles : stylo-plume noir et touches d'aquarelle légères."
+  },
+  "ext-342": {
+    "description": "Une branche de citrons aux crayons de couleur : hachures superposées, grain du papier visible, jaune vif et verts naturels."
+  },
+  "ext-343": {
+    "description": "Une illustration de prise de notes visuelle : de l'ampoule à la fusée reliées par des flèches, feutre noir et accents orange."
+  },
+  "ext-344": {
+    "description": "Une carte d'île imaginaire sur parchemin : chemin pointillé, rose des vents et palmiers dessinés à l'encre, sans noms."
+  },
+  "ext-345": {
+    "description": "Une planche de coléoptère aux ailes déployées, en encre noire pointillée sur papier ivoire, symétrique et délicate."
+  },
+  "ext-346": {
+    "description": "Une nature morte d'un café et d'un croissant au pastel gras sur papier rose texturé : traces cireuses et tons chauds."
+  },
+  "ext-347": {
+    "description": "Une photo d'architecture d'une petite cabane en bois noir dans une forêt de pins brumeuse, intérieur chaleureux visible."
+  },
+  "ext-348": {
+    "description": "Une cour intérieure méditerranéenne : arches blanchies à la chaux, sol en terre cuite et olivier sous un soleil chaud."
+  },
+  "ext-349": {
+    "description": "Un salon minimaliste chaleureux : étagères en chêne, canapé en lin, suspension en papier, lumière latérale naturelle."
+  },
+  "ext-350": {
+    "description": "Un appartement en coupe isométrique comme une maison de poupée : pièces séparées, matières mates et fond crème."
+  },
+  "ext-351": {
+    "description": "L'intérieur d'un musée en béton brut, avec une ouverture ronde sur le ciel et une petite silhouette pour l'échelle."
+  },
+  "ext-352": {
+    "description": "Un potager sur un toit urbain en briques au coucher du soleil : bacs, bancs en bois et horizon de ville."
+  },
+  "ext-353": {
+    "description": "Le même petit café de quartier en aquarelle : une série pour comparer le style graphique à façade et objets identiques."
+  },
+  "ext-354": {
+    "description": "Le même petit café à l'encre : même façade et mêmes objets, seul le style change."
+  },
+  "ext-355": {
+    "description": "Le même petit café en risographie : même scène, rendu imprimé à deux ou trois encres."
+  },
+  "ext-356": {
+    "description": "Le même petit café en papier découpé : même scène, rendu en couches de papier."
+  },
+  "ext-357": {
+    "description": "Le même petit café en low poly : même scène, rendu en facettes 3D simplifiées."
+  },
+  "ext-358": {
+    "description": "Le même petit café en pixel art : même scène, rendu en pixels visibles."
+  },
+  "ext-359": {
+    "description": "Un sachet de café artisanal en kraft avec une grande étiquette verte abstraite, sans texte, sous une lumière rasante."
+  },
+  "ext-360": {
+    "description": "Trois flacons cosmétiques ambrés sur un socle de travertin avec une branche d'olivier, étiquettes minimalistes sans marque."
+  },
+  "ext-361": {
+    "description": "Un concept de basket en maille écrue et semelle mouchetée qui évoque des matériaux recyclés, vue de profil."
+  },
+  "ext-362": {
+    "description": "Une boîte bento vue du dessus : riz, légumes et petites garnitures colorées rangées de façon géométrique."
+  },
+  "ext-363": {
+    "description": "Une lampe sculpturale orange en céramique sur un piédestal crème, aux formes arrondies et à la lumière douce."
+  },
+  "ext-364": {
+    "description": "Une maquette de papeterie : carte, enveloppe et carnet sur papier crème texturé avec motif vert et embossage discret."
+  },
+  "ext-365": {
+    "description": "Un paysage de montagnes au lever du jour : plans bleutés successifs, brume dans les vallées, sommets roses."
+  },
+  "ext-366": {
+    "description": "Des dunes en lumière rasante : ombres franches, crêtes dorées, une composition abstraite sans personne."
+  },
+  "ext-367": {
+    "description": "Une côte rocheuse vue du ciel : eau turquoise transparente, vagues blanches, formes organiques, sans bâtiment."
+  },
+  "ext-368": {
+    "description": "Une forêt imaginaire de nuit avec champignons lumineux cyan, un chemin qui guide le regard, atmosphère féerique."
+  },
+  "ext-369": {
+    "description": "Une macro d'une feuille verte aux gouttes de rosée : nervures précises, faible profondeur de champ."
+  },
+  "ext-370": {
+    "description": "Un paysage de collines, rivière et soleil en papier découpé : terracotta, vert sauge et crème, ombres entre les couches."
+  },
+  "ext-371": {
+    "description": "Un flacon de produit sur fond blanc : la base d'une série où l'on change seulement le décor, avec le même flacon et le même angle."
+  },
+  "ext-372": {
+    "description": "Le même flacon de produit posé dans le sable : seul le décor change par rapport à la série."
+  },
+  "ext-373": {
+    "description": "Le même flacon de produit entouré de fleurs : seul le décor change par rapport à la série."
+  },
+  "ext-374": {
+    "description": "Le même flacon de produit dans l'eau : seul le décor change par rapport à la série."
+  },
+  "ext-375": {
+    "description": "Une couverture de podcast carrée « LES CURIEUX » : deux formes abstraites évoquent la conversation, bleu nuit et corail."
+  },
+  "ext-376": {
+    "description": "Une couverture de roman fictif « LA DERNIÈRE ÎLE » : une île minuscule dans une mer sombre, une lumière au loin."
+  },
+  "ext-379": {
+    "description": "Une fiche de révision visuelle à compléter : sujet, trois idées clés, un pictogramme par idée et des flèches."
+  },
+  "ext-380": {
+    "description": "Une infographie à deux colonnes équilibrées « avant / après » sur un processus que vous précisez."
+  },
+  "ext-383": {
+    "description": "Une boutique en maquette isométrique : entrée, comptoir et présentoirs, circulations dégagées. Précisez le produit vendu."
+  },
+  "ext-384": {
+    "description": "Transforme un croquis d'architecte en rendu réaliste en gardant volumes, ouvertures et point de vue. Fournissez le croquis."
+  },
+  "ext-385": {
+    "description": "Un portrait en lumière Rembrandt : éclairage latéral avec un petit triangle de lumière sur la joue, fond brun neutre."
+  },
+  "ext-386": {
+    "description": "Un portrait spontané en rue, rendu argentique 35 mm au grain fin, lumière naturelle de fin de journée."
+  },
+  "ext-390": {
+    "description": "Une planche botanique à l'aquarelle fine : vue générale, feuille et fleur séparées, légendes laissées vides. Choisissez la plante."
+  },
+  "ext-393": {
+    "description": "Change uniquement l'arrière-plan d'une image que vous fournissez, en gardant le sujet identique. Indiquez le nouveau décor."
+  },
+  "ext-394": {
+    "description": "Change précisément la couleur d'un élément de votre image sans toucher à la texture, aux reflets ni à la forme."
+  },
+  "ext-395": {
+    "description": "Décline une mascotte de référence dans une nouvelle pose en gardant proportions, palette et accessoires. Fournissez la mascotte."
+  },
+  "ext-397": {
+    "description": "Un storyboard en quatre cases, au crayon gris et touches orange : même personnage, mêmes vêtements, cadrages variés."
+  },
+  "ext-398": {
+    "description": "Un carnet de recette en quatre petits dessins à l'encre et à l'aquarelle, vue de dessus. Précisez la recette et ses étapes."
+  },
+  "ext-399": {
+    "description": "Une série de trois emballages pour une marque fictive : même structure, seul l'accent de couleur change."
+  },
+  "ext-400": {
+    "description": "La première illustration d'un carrousel pédagogique : une idée visuelle forte, un espace pour le titre. Précisez sujet et public."
+  },
+  "ext-style-1": {
+    "description": "Un perroquet photographié en argentique 35 mm : grain fin, couleurs légèrement désaturées. Une fiche de la série « un sujet, trente styles »."
+  },
+  "ext-style-2": {
+    "description": "Un perroquet comme un photogramme de cinéma : lumière latérale dramatique, ombres profondes. Série « un sujet, trente styles »."
+  },
+  "ext-style-3": {
+    "description": "Un perroquet en studio minimaliste : fond ivoire uni, éclairage doux de grande boîte à lumière."
+  },
+  "ext-style-4": {
+    "description": "Un perroquet en macro spectaculaire : texture et détails minuscules, mise au point très précise."
+  },
+  "ext-style-5": {
+    "description": "Un perroquet en noir et blanc de photo d'art : gamme de gris riche, contraste affirmé."
+  },
+  "ext-style-6": {
+    "description": "Un perroquet en photo éditoriale de magazine : cadrage audacieux, pose expressive, flash."
+  },
+  "ext-style-7": {
+    "description": "Un perroquet à l'aquarelle délicate : papier de coton, lavis translucides, couleurs qui se fondent."
+  },
+  "ext-style-8": {
+    "description": "Un perroquet à la gouache : aplats opaques, couleurs vibrantes, coups de pinceau visibles."
+  },
+  "ext-style-9": {
+    "description": "Un perroquet en peinture à l'huile sur toile : matière généreuse, touches visibles, lumière profonde."
+  },
+  "ext-style-10": {
+    "description": "Un perroquet en gravure ancienne à l'encre noire sur papier ivoire patiné."
+  },
+  "ext-style-11": {
+    "description": "Un perroquet aux crayons de couleur : traits superposés sur papier à grain."
+  },
+  "ext-style-12": {
+    "description": "Un perroquet à l'encre et au lavis : gestes fluides, traits d'épaisseurs variées, larges lavis."
+  },
+  "ext-style-13": {
+    "description": "Un perroquet en bande dessinée : encrage net, contours expressifs, couleurs en aplats."
+  },
+  "ext-style-14": {
+    "description": "Un perroquet en manga noir et blanc : traits d'encre fins, noirs pleins et trames."
+  },
+  "ext-style-15": {
+    "description": "Un perroquet en pop art : palette limitée de couleurs vives, contours noirs épais, ombres en aplats."
+  },
+  "ext-style-16": {
+    "description": "Un perroquet en affiche de voyage rétro : formes simplifiées et palette de quatre couleurs chaudes."
+  },
+  "ext-style-17": {
+    "description": "Un perroquet en composition Bauhaus : cercles, rectangles, diagonales et formes essentielles."
+  },
+  "ext-style-18": {
+    "description": "Un perroquet en risographie : deux ou trois encres contrastées, trames granuleuses."
+  },
+  "ext-style-19": {
+    "description": "Un perroquet en papiers découpés superposés : bords nets, plans successifs."
+  },
+  "ext-style-20": {
+    "description": "Un perroquet en collage surréaliste : photos découpées, fragments de papier et éléments graphiques."
+  },
+  "ext-style-21": {
+    "description": "Un perroquet en pâte à modeler : scène miniature aux volumes arrondis et petites empreintes."
+  },
+  "ext-style-22": {
+    "description": "Un perroquet dans un diorama miniature photographié à sa hauteur, détails fabriqués à la main."
+  },
+  "ext-style-23": {
+    "description": "Un perroquet en 3D isométrique : volumes géométriques nets, matières mates, palette harmonieuse."
+  },
+  "ext-style-24": {
+    "description": "Un perroquet en low poly : facettes polygonales visibles, silhouettes simplifiées."
+  },
+  "ext-style-25": {
+    "description": "Un perroquet en sculpture de céramique artisanale : formes arrondies, glaçure légère."
+  },
+  "ext-style-26": {
+    "description": "Un perroquet en broderie sur tissu naturel : fils colorés distincts et points de couture visibles."
+  },
+  "ext-style-27": {
+    "description": "Un perroquet en pixel art : grille visible, contours nets, palette limitée."
+  },
+  "ext-style-28": {
+    "description": "Un perroquet cyberpunk de nuit : néons cyan et magenta, surfaces humides, brume."
+  },
+  "ext-style-29": {
+    "description": "Un perroquet dans une vision surréaliste et onirique : associations impossibles rendues avec des matières crédibles."
+  },
+  "ext-style-30": {
+    "description": "Un perroquet en illustration de conte : formes douces, décors chaleureux, détails merveilleux."
+  },
+  "ext-ym-10433": {
+    "description": "Un personnage construit comme un plan technique en papier plié, à partir de formes géométriques précises : changez le nom du sujet entre accolades."
+  },
+  "ext-ym-307": {
+    "description": "Un schéma qui explique comment un modèle de diffusion génère une image, avec une image de chat et du bruit."
+  },
+  "ext-ym-11466": {
+    "description": "Une photo produit d'un taco dont les couches se séparent une à une en rotation lente : un prompt de mouvement et de vue éclatée."
+  },
+  "ext-ym-34456": {
+    "description": "Une diapositive manuscrite en trois étapes : donnez le titre général et les titres de chaque étape entre accolades."
+  },
+  "ext-ym-8342": {
+    "description": "Une infographie de recette très épurée, ici pour une focaccia : changez le nom du plat entre accolades."
+  },
+  "ext-ym-7434": {
+    "description": "Une photo publicitaire d'un burger végétarien dont les ingrédients se séparent en vue éclatée avec un léger mouvement rotatif."
+  },
+  "ext-ym-6504": {
+    "description": "Une pizza en vue éclatée et en rotation, entre photo publicitaire et infographie : les ingrédients se séparent proprement."
+  },
+  "ext-ym-12723": {
+    "description": "Un plan d'architecte holographique d'un gratte-ciel en train de se construire en l'air, très futuriste."
+  },
+  "ext-ym-5882": {
+    "description": "Une tablette de chocolat en vue éclatée avec rotation lente : un prompt publicitaire de mouvement."
+  },
+  "ext-ym-11165": {
+    "description": "Une infographie technique en coupe d'un objet de votre choix, semi-réaliste et claire. Remplacez le nom entre accolades."
+  },
+  "ext-ym-939": {
+    "description": "Un prompt pour faire dessiner des schémas qui accompagnent un article scientifique, placés au bon endroit du texte."
+  },
+  "ext-ym-11434": {
+    "description": "Une affiche chronologique style plan bleu ancien pour un produit : traits d'encre nets, frise des étapes."
+  },
+  "ext-ym-8131": {
+    "description": "Un guide de style pour obtenir des organigrammes et schémas minimalistes : palette, formes et règles à reprendre."
+  },
+  "ext-ym-5150": {
+    "description": "Un « monde dans une boîte » : le sujet que vous donnez devient une maquette en coupe façon décor de cinéma."
+  },
+  "ext-ym-8656": {
+    "description": "Une planche de documentation d'horloger en vue éclatée : indiquez la montre et le fabricant entre accolades."
+  },
+  "ext-ym-4432": {
+    "description": "Une infographie de recette en étapes, ici un plat sucré-salé : changez le plat et le style entre accolades."
+  },
+  "ext-ym-402": {
+    "description": "Un schéma pédagogique 3D en coupe d'un avion de chasse furtif de 5e génération, précis et scientifique."
+  },
+  "ext-ym-5673": {
+    "description": "Deux images demandées : une photo produit d'un shawarma, puis une infographie en vue éclatée de ses ingrédients."
+  },
+  "ext-ym-9268": {
+    "description": "Une photo de thé infusé dans une tasse en verre, puis sa version en vue éclatée : still life et infographie."
+  },
+  "ext-ym-19399": {
+    "description": "Un schéma scientifique ancien d'un dessert géant : remplacez le sujet et le style entre accolades."
+  },
+  "ext-ym-1457": {
+    "description": "Un tableau noir où sont écrites à la craie les formules de mathématiques du brevet : un prompt de synthèse pédagogique."
+  },
+  "ext-ym-18747": {
+    "description": "Une infographie d'anatomie comparative de deux organes : remplacez les sujets entre accolades."
+  },
+  "ext-ym-10505": {
+    "description": "Un plat en vue éclatée verticale : chaque couche d'ingrédient flotte dans l'air. Changez le plat (lasagnes par défaut)."
+  },
+  "ext-ym-9408": {
+    "description": "Un produit réaliste en vue éclatée où les composants internes flottent vers le haut. Indiquez le produit entre accolades."
+  },
+  "ext-ym-14710": {
+    "description": "Une infographie verticale éclatée d'un aliment : tous les ingrédients en lévitation. Changez l'aliment entre accolades."
+  },
+  "ext-ym-1608": {
+    "description": "Un guide de style pour des diapositives minimalistes : interface plate, vectorielle, cartes aux coins arrondis."
+  },
+  "ext-ym-7022": {
+    "description": "Une planche d'étude anatomique de la Renaissance : changez l'animal et sa posture entre accolades."
+  },
+  "ext-ym-10537": {
+    "description": "Un plan d'architecte d'auberge japonaise traditionnelle posé sur une table à dessin, d'où surgit une scène en miniature."
+  },
+  "ext-ym-4085": {
+    "description": "Une infographie commerciale de taco en vue éclatée : exactement cinq ingrédients, dans le même ordre que la photo de départ."
+  },
+  "ext-ym-27529": {
+    "description": "Un schéma technique en coupe d'un appareil mécanique, avec composants intérieurs, sur fond blanc. Changez l'objet entre accolades."
+  },
+  "ext-ym-10536": {
+    "description": "Un schéma de l'écosystème d'IA d'un grand acteur du web, organisé en quatre niveaux : un prompt pour cartographier un sujet complexe."
+  },
+  "ext-ym-10996": {
+    "description": "Un plan d'architecte sur papier bleu marine pour un plat de viande et de pommes de terre : photo réaliste et annotations techniques."
+  },
+  "ext-ym-3544": {
+    "description": "Une planche de recettes en dioramas pop-up 3D : donnez deux ingrédients entre accolades et le prompt imagine les plats."
+  },
+  "ext-ym-34455": {
+    "description": "Une double page de carnet de recettes manuscrit : changez le nom du plat entre accolades (curry vert par défaut)."
+  },
+  "ext-ym-4315": {
+    "description": "Un burger en vue éclatée avec exactement cinq couches qui flottent à la verticale et des annotations."
+  },
+  "ext-ym-3638": {
+    "description": "Une série de 15 consignes de schémas à copier : aperçu d'ensemble, flux, comparaison… une boîte à outils pour les diagrammes."
+  },
+  "ext-ym-11270": {
+    "description": "Un objet de design en vue éclatée sur fond blanc, très détaillé : changez l'objet entre accolades."
+  },
+  "ext-ym-1623": {
+    "description": "Un schéma sur « les trois raisons pour lesquelles les designers échouent » : un exemple de contenu à fournir pour une infographie."
+  },
+  "ext-ym-485": {
+    "description": "Un diagramme d'effort tranchant et de moment fléchissant d'une poutre chargée : changez la charge et la portée entre accolades."
+  },
+  "ext-ym-3254": {
+    "description": "Un prompt universel de « dissection » 3D : l'anatomie détaillée de n'importe quelle créature, en planche pédagogique."
+  },
+  "ext-ym-5378": {
+    "description": "Un plan d'architecte géant épinglé sur une table à dessin, d'où un bâtiment surgit en 3D. Choisissez le type de bâtiment."
+  },
+  "ext-ym-1163": {
+    "description": "Un schéma circulaire en cinq étapes sur le parcours marketing, lu dans le sens des aiguilles d'une montre."
+  },
+  "ext-ym-646": {
+    "description": "Un schéma technique en vue éclatée d'un appareil : indiquez le sujet et les dimensions entre accolades."
+  },
+  "ext-ym-6517": {
+    "description": "Une vue éclatée d'un plat en couches (lasagnes, baklava, mille-feuille) entre photo technique et schéma."
+  },
+  "ext-ym-12865": {
+    "description": "Un plan technique d'un grappe de processeurs graphiques d'IA sur une table de dessin en laiton, avec miniature réaliste."
+  },
+  "ext-ym-7988": {
+    "description": "Un schéma en arbre logique pour illustrer un article : collez le texte entre accolades et le prompt en tire la structure."
+  },
+  "ext-ym-6255": {
+    "description": "Une infographie culinaire hyperréaliste en vue éclatée, décrite en JSON (résolution, cadrage, caméra) : un bon exemple de structure."
+  },
+  "ext-ym-12947": {
+    "description": "Un plan d'architecte d'un burger classique sur papier bleu marine : photo réaliste centrée et annotations techniques."
+  },
+  "ext-ym-5226": {
+    "description": "Un schéma qui explique l'électricité statique, au style de planche pédagogique : un prompt de vulgarisation."
+  },
+  "ext-ym-4779": {
+    "description": "Une planche de luthier sur la généalogie et la vue éclatée d'un instrument : indiquez l'instrument et le facteur entre accolades."
+  },
+  "ext-ym-523": {
+    "description": "Un texte transformé en schéma simple type tableau blanc : concept au centre, flèches pour le flux. Fournissez le texte."
+  },
+  "ext-ym-20429": {
+    "description": "Un dessert géant en plan scientifique des années 1920 : changez le sujet entre accolades (millefeuille aux fraises par défaut)."
+  },
+  "ext-ym-4108": {
+    "description": "Une grande planche 16:9 qui retrace l'évolution d'une invention, du premier modèle au dernier. Indiquez l'invention."
+  },
+  "ext-ym-7089": {
+    "description": "Un diorama pédagogique sur l'histoire d'une matière première (épices, thé, soie, café) : choisissez la matière entre accolades."
+  },
+  "ext-ym-16195": {
+    "description": "Un objet de design en vue éclatée sur fond blanc : ici une voiture de sport, à remplacer entre accolades."
+  },
+  "ext-ym-21797": {
+    "description": "Deux affiches d'infographie de style pour chambre d'enfant : un duo assorti. Changez le titre entre accolades."
+  },
+  "ext-ym-5354": {
+    "description": "Une illustration d'anatomie d'un animal en action : changez le sujet et son état entre accolades (requin blanc par défaut)."
+  },
+  "ext-ym-11211": {
+    "description": "Un plan technique en trois vues (face, côté, dessus) au trait blanc fin : changez l'objet entre crochets."
+  },
+  "ext-ym-7578": {
+    "description": "Une page de magazine de mode au contenu structuré : un exemple de mise en page éditoriale à adapter."
+  },
+  "ext-ym-9250": {
+    "description": "Un plat indonésien traditionnel en infographie à ingrédients flottants, photo cinématographique ultra-réaliste."
+  },
+  "ext-ym-16976": {
+    "description": "Une infographie marketing de mode haut de gamme : titre et marque à remplacer entre accolades."
+  },
+  "ext-ym-7006": {
+    "description": "Une photo réaliste d'un objet annotée en superposition de traits noirs façon dessin d'ingénieur. Choisissez l'objet."
+  },
+  "ext-ym-548": {
+    "description": "Une illustration pédagogique d'une routine d'étirements des épaules, à faire chez soi : changez le sujet entre accolades."
+  },
+  "ext-ym-11483": {
+    "description": "Une fiche technique de marque pour un produit : changez le nom du produit entre accolades."
+  },
+  "ext-ym-21457": {
+    "description": "Une carte de voyage 3D d'un pays avec monuments miniatures, villes et bandeau de chiffres : changez le pays et le titre."
+  },
+  "ext-ym-8784": {
+    "description": "Une infographie culinaire ultra-réaliste décrite en JSON : changez le type de cuisine entre accolades."
+  },
+  "ext-ym-8083": {
+    "description": "Un objet photographié ou rendu en 3D avec des annotations techniques en surimpression : indiquez l'objet entre accolades."
+  },
+  "ext-ym-2639": {
+    "description": "Une infographie de magazine consacrée à un profil de réseau social : le prompt recherche la personne via l'URL indiquée."
+  },
+  "ext-ym-6930": {
+    "description": "Un ordinateur portable photographié avec des annotations techniques en surimpression : changez l'objet entre accolades."
+  },
+  "ext-ym-441": {
+    "description": "Des contraintes de style pour des infographies japonaises claires : peu de texte, police unique, lettres sans erreurs."
+  },
+  "ext-ym-8580": {
+    "description": "Une affiche verticale de plats indonésiens avec ingrédients qui flottent et titre en gras."
+  },
+  "ext-ym-18252": {
+    "description": "Une infographie de marque cosmétique douce : palette (rose poudré, crème…) à adapter entre accolades."
+  },
+  "ext-ym-6847": {
+    "description": "Une infographie produit en grille « bento » de huit modules en verre liquide premium : indiquez le produit et la langue."
+  },
+  "ext-ym-4033": {
+    "description": "Une affiche d'information médicale en grille « bento » 9:16 : changez le médicament entre accolades."
+  },
+  "ext-ym-9743": {
+    "description": "Une infographie culinaire hyperréaliste décrite en JSON, avec thème de cuisine modifiable entre accolades."
+  },
+  "ext-ym-24219": {
+    "description": "Une infographie d'ingénierie très détaillée sur fond blanc, avec couleur de fond modifiable entre accolades."
+  },
+  "ext-ym-5381": {
+    "description": "Un arbre de l'évolution d'une langue ou d'une écriture : indiquez la langue ou la notion entre accolades."
+  },
+  "ext-ym-19197": {
+    "description": "Une affiche éditoriale de paquebot de luxe imaginaire : format et nom du navire à remplacer entre accolades."
+  },
+  "ext-ym-19621": {
+    "description": "Une planche de conception d'un personnage 3D féminin élégant, décrite en JSON avec style cinématographique."
+  },
+  "ext-ym-10286": {
+    "description": "Une infographie technique d'un objet en isométrique à 45° : changez l'objet entre accolades."
+  },
+  "ext-ym-19168": {
+    "description": "Une planche encyclopédique de style guide de terrain ancien : changez l'animal entre accolades (mante orchidée par défaut)."
+  },
+  "ext-ym-31357": {
+    "description": "Une infographie minimaliste qui fait ressortir les thèmes clés d'un contenu : indiquez le sujet entre accolades."
+  },
+  "ext-ym-5856": {
+    "description": "Un générateur d'infographies comparatives avec réglages à remplir au début : un exemple de prompt « paramétré »."
+  },
+  "ext-ym-15471": {
+    "description": "Une infographie circulaire façon planétarium qui range des milliers de langues : changez le nombre entre accolades."
+  },
+  "ext-ym-3883": {
+    "description": "Une infographie sur un aliment en grille modulaire « bento » 9:16 : changez l'ingrédient entre accolades (baie de goji par défaut)."
+  },
+  "ext-ym-1602": {
+    "description": "Une infographie de connaissance professionnelle à partir d'un thème : changez le thème entre accolades."
+  },
+  "ext-ym-27131": {
+    "description": "Une planche de storyboard 16:9 sur un métier, en noir et blanc : changez le sujet entre accolades."
+  },
+  "ext-ym-5853": {
+    "description": "Un générateur d'infographies comparatives avec réglages à remplir au début : version complète d'un modèle de comparaison."
+  },
+  "ext-ym-11257": {
+    "description": "Une infographie sur un produit technologique haut de gamme : changez l'objet entre accolades."
+  },
+  "ext-ym-4150": {
+    "description": "Un prompt qui lit un article ou un rapport et génère automatiquement une infographie : collez votre texte."
+  },
+  "ext-ym-10754": {
+    "description": "Une infographie technique d'un objet en isométrique à 45° : indiquez le nom de l'objet entre accolades."
+  },
+  "ext-ym-8645": {
+    "description": "Une affiche d'infographie de plat indonésien traditionnel décrite en JSON : cadrage et mise en page détaillés."
+  },
+  "ext-ym-10647": {
+    "description": "Tous les ingrédients d'un plat posés en cercle vu du dessus, chacun dans son espace : changez le plat entre accolades."
+  },
+  "ext-ym-7374": {
+    "description": "Une infographie d'une partie du corps, avec photo réaliste et annotations : changez la partie du corps entre crochets."
+  },
+  "ext-ym-18746": {
+    "description": "Une infographie promotionnelle de sac de luxe : changez le produit entre accolades."
+  },
+  "ext-ym-12996": {
+    "description": "Deux images demandées : une photo produit d'une boisson fraîche, puis une infographie. Changez la marque entre accolades."
+  },
+  "ext-ym-7376": {
+    "description": "Un objet photographié ou rendu en 3D avec annotations techniques : indiquez l'objet entre crochets."
+  },
+  "ext-ym-4396": {
+    "description": "Un diorama steampunk sur un bureau : une frise d'inventions ratées dans quatre domaines, à nommer entre accolades."
+  },
+  "ext-ym-7935": {
+    "description": "Un objet photoréaliste avec annotations techniques en surimpression : changez l'objet entre accolades."
+  },
+  "ext-ym-9029": {
+    "description": "Une infographie éditoriale d'un curry végétarien indien, hyperréaliste et décrite en JSON."
+  },
+  "ext-ym-11032": {
+    "description": "Une planche 3:4 qui décompose l'équipement d'un sportif : un exemple de mise en page à adapter avec un autre sportif."
+  },
+  "ext-ym-19196": {
+    "description": "Des infographies détaillées sur les systèmes sensoriels de l'œil et de l'oreille : changez le sujet entre accolades."
+  },
+  "ext-ym-12181": {
+    "description": "Une frise de fabrication en cinq étapes, figée en pleine assemblage sur fond noir mat, avec projecteurs industriels."
+  },
+  "ext-ym-8862": {
+    "description": "Une infographie culinaire d'un poulet rôti farci, en lumière de cinéma : le plat est décrit en JSON."
+  },
+  "ext-ym-9414": {
+    "description": "Une infographie hyperréaliste d'un banquet traditionnel du Cachemire, en 8K, décrite en JSON."
+  },
+  "ext-ym-554": {
+    "description": "Une carte infographique dessinée à la main, format 9:16, sur la construction d'une présence en ligne sur la durée."
+  },
+  "ext-ym-639": {
+    "description": "Une infographie en pâte à modeler sur les moments de la journée, pour un enfant de l'âge indiqué entre accolades."
+  },
+  "ext-ym-8690": {
+    "description": "Une infographie d'une voiture de sport photographiée avec annotations techniques en surimpression."
+  },
+  "ext-ym-522": {
+    "description": "Une infographie à partir d'informations que vous fournissez, avec une police japonaise classique : indiquez les infos de référence."
+  },
+  "ext-ym-9690": {
+    "description": "Un plat traditionnel sur une table rustique avec des ingrédients qui flottent autour : photo cinématographique ultra-réaliste."
+  },
+  "ext-ym-16770": {
+    "description": "Une photo de produit capillaire décrite par ses réglages d'appareil (objectif, lumière, profondeur de champ) en JSON."
+  },
+  "ext-ym-8529": {
+    "description": "Une infographie alimentaire hyperréaliste d'un plat indonésien traditionnel, avec ingrédients en suspension."
+  },
+  "ext-ym-10689": {
+    "description": "Un objet photographié avec annotations techniques en surimpression : changez l'objet entre accolades."
+  },
+  "ext-ym-33285": {
+    "description": "Une infographie sobre qui résume un rapport financier : changez le sujet et le type de graphique entre accolades."
+  },
+  "ext-ym-23393": {
+    "description": "Une photo produit d'un smoothie dans un grand verre transparent, puis son infographie : changez le fruit entre accolades."
+  },
+  "ext-ym-2212": {
+    "description": "Une infographie 3D isométrique d'un stade en miniature, avec toit ouvert, pelouse et gradins rouges."
+  },
+  "ext-ym-4036": {
+    "description": "Une affiche d'information médicale en grille « bento » 9:16 : changez le médicament entre accolades."
+  },
+  "ext-ym-10654": {
+    "description": "Une infographie technique d'un objet en isométrique à 45° : changez l'objet entre accolades."
+  },
+  "ext-ym-32099": {
+    "description": "Une photo produit d'un milkshake dans un grand verre transparent, puis son infographie : changez le parfum entre accolades."
+  },
+  "ext-ym-4966": {
+    "description": "Une infographie historique 16:9 sur les rangs et les costumes des fonctionnaires de la Chine ancienne."
+  },
+  "ext-ym-8826": {
+    "description": "Une infographie hyperréaliste d'un burger gourmet, décrite en JSON."
+  },
+  "ext-ym-7974": {
+    "description": "Une infographie produit pour boutique en ligne : photo réaliste et annotations. Changez l'objet entre accolades."
+  },
+  "ext-ym-11547": {
+    "description": "Une fiche technique de marque pour un produit ou une boisson : indiquez le nom du produit entre accolades."
+  },
+  "ext-ym-4847": {
+    "description": "Une grande affiche 3D encyclopédique 16:9 sur l'évolution d'un produit : changez le nom entre accolades."
+  },
+  "ext-ym-8977": {
+    "description": "Une vitrine d'une console portable de jeux avec un écran de jeu de blocs intégré à l'appareil, décrite en JSON."
+  },
+  "ext-ym-170": {
+    "description": "Une très longue frise horizontale sur les dynasties chinoises, en texte chinois traditionnel."
+  },
+  "ext-ym-104": {
+    "description": "Une infographie pédagogique sur les niveaux trophiques et les flux d'énergie dans un écosystème : précisez le public entre accolades."
+  },
+  "ext-ym-79": {
+    "description": "Une infographie sur un sujet, puis refaite en version dessin animé inspirée du pop art : changez le sujet entre accolades."
+  },
+  "ext-ym-27027": {
+    "description": "Une grande illustration d'affiche de style chibi : changez le style et le personnage entre accolades."
+  },
+  "ext-ym-9978": {
+    "description": "Une affiche verticale de 1800×2300 px pour un athlète ou un artiste : indiquez son nom entre accolades."
+  },
+  "ext-ym-1440": {
+    "description": "Une affiche 3D isométrique de musée sur un événement historique, en miniature : indiquez l'événement."
+  },
+  "ext-ym-28562": {
+    "description": "Une affiche éditoriale de sport au collage premium : changez le genre et la tenue de l'athlète entre accolades."
+  },
+  "ext-ym-33661": {
+    "description": "Une affiche de mode surréaliste pour une marque de luxe : changez la marque et la couleur de fond entre accolades."
+  },
+  "ext-ym-33925": {
+    "description": "Une affiche et un zine culturels : titre, thème et informations de l'événement sont à remplir entre accolades."
+  },
+  "ext-ym-3052": {
+    "description": "Une affiche de cinéma colorée avec deux images de la même personne : une en pied au premier plan, l'autre en arrière-plan."
+  },
+  "ext-ym-21451": {
+    "description": "Une affiche de film dramatique aux plans superposés autour d'une pilote de course de rue en blouson noir."
+  },
+  "ext-ym-3156": {
+    "description": "Une affiche d'art numérique cinématographique d'un château flottant qui plane sur une île miniature."
+  },
+  "ext-ym-6290": {
+    "description": "Une affiche verticale en deux moitiés typographiques autour d'une personnalité, décrite en JSON. À réserver à un sujet dont vous avez le droit d'utiliser l'image."
+  },
+  "ext-ym-19987": {
+    "description": "Une affiche de croquis de ville minimaliste sur papier de carnet : changez la ville entre accolades (New York par défaut)."
+  },
+  "ext-ym-8540": {
+    "description": "Une affiche d'action cinématographique avec une explosion qui jaillit vers le spectateur autour d'un produit."
+  },
+  "ext-ym-13057": {
+    "description": "Une illustration monochrome où un mot unique devient une silhouette typographique : changez le mot entre accolades."
+  },
+  "ext-ym-15830": {
+    "description": "Une couverture de magazine de mode haut de gamme au titre en serif blanc : changez le titre entre accolades."
+  },
+  "ext-ym-19619": {
+    "description": "Une affiche de mode très stylisée de style coréen, avec un modèle au centre : changez le modèle entre accolades."
+  },
+  "ext-ym-5549": {
+    "description": "Une photo de couverture de magazine brillante avec un titre en grosses lettres serif : un exemple de texte imposé."
+  },
+  "ext-ym-21278": {
+    "description": "Une affiche en collage éditorial de mode : quatre panneaux arrondis qui se chevauchent. Changez le style entre accolades."
+  },
+  "ext-ym-22046": {
+    "description": "Un portrait en double exposition d'un joueur ou d'une joueuse de football : changez le genre et la tenue entre accolades."
+  },
+  "ext-ym-8021": {
+    "description": "Une affiche typographique brutaliste avec un mot en minuscules flouté dans une direction : changez le mot entre accolades."
+  },
+  "ext-ym-34133": {
+    "description": "Une couverture de magazine rétro sur une petite ville : nom du magazine et thème du dossier à remplir entre accolades."
+  },
+  "ext-ym-8974": {
+    "description": "Un photogramme d'affiche de drame urbain des années 90, décrit en JSON, inspiré d'un film culte."
+  },
+  "ext-ym-19181": {
+    "description": "Une affiche verticale 3:4 en réalité augmentée : un jeune homme tient son téléphone devant une interface musicale futuriste."
+  },
+  "ext-ym-12114": {
+    "description": "Une affiche de film de science-fiction sur le temps non linéaire : une femme mélancolique au premier plan, vie d'une fille en filigrane."
+  },
+  "ext-ym-17260": {
+    "description": "Un gros plan de mode pour couverture de magazine : regard direct vers l'objectif. Changez le sujet entre accolades."
+  },
+  "ext-ym-25606": {
+    "description": "Une affiche de marque néo-constructiviste : composition typographique audacieuse, nom de marque à remplacer entre accolades."
+  },
+  "ext-ym-3361": {
+    "description": "Une affiche produit japonaise premium 16:9 pour un emballage de jus de kiwi : composition éditoriale soignée."
+  },
+  "ext-ym-7149": {
+    "description": "Une affiche de film d'action : l'espion le plus fort, mission accomplie, sans se retourner sur l'explosion. Changez le style."
+  },
+  "ext-ym-23728": {
+    "description": "Une couverture de magazine de mode de science-fiction organique : changez le titre entre accolades (« AURA » par défaut)."
+  },
+  "ext-ym-903": {
+    "description": "Une affiche de calendrier cinématographique 9:16 pour le passage à la nouvelle année, d'une élégance masculine."
+  },
+  "ext-ym-3341": {
+    "description": "Une couverture de magazine cyberpunk sous la pluie néon, mêlée à des effets glitch, décrite en JSON."
+  },
+  "ext-ym-25306": {
+    "description": "Une publicité de mode en 3D qui sort de la page (effet pop-out) : changez le style entre accolades."
+  },
+  "ext-ym-29258": {
+    "description": "Une affiche cinématographique de motivation avec un petit personnage de dessin animé en plein vol : changez le personnage."
+  },
+  "ext-ym-16758": {
+    "description": "Une affiche de sport dynamique : une athlète en pleine foulée dans un décor de montagne vectoriel, avec textes de marque."
+  },
+  "ext-ym-9620": {
+    "description": "Une affiche de référence de coiffure d'inspiration pop coréenne, avec contrôle strict de l'expression : à réserver à un usage avec accord de la personne représentée."
+  },
+  "ext-ym-27617": {
+    "description": "Une affiche d'action éditoriale pour un produit : changez le format et le produit entre accolades."
+  },
+  "ext-ym-34302": {
+    "description": "Une affiche de zine en stylo à bille monochrome : hachures denses, détails fins, rendu encre noire."
+  },
+  "ext-ym-1442": {
+    "description": "Une affiche 3D en diorama pour un film ou un roman : indiquez le titre entre accolades."
+  },
+  "ext-ym-28784": {
+    "description": "Une affiche de sport premium en collage : changez l'athlète et la tenue entre accolades."
+  },
+  "ext-ym-32840": {
+    "description": "Une affiche surréaliste pour une marque de sport : changez la marque et la tenue entre accolades."
+  },
+  "ext-ym-5241": {
+    "description": "Une illustration minimaliste en grosses lettres majuscules dont la forme traduit le sens : changez le titre entre accolades."
+  },
+  "ext-ym-34454": {
+    "description": "Une scène de voyage miniature en artisanat, centrée sur un monument de la ville : changez la ville entre accolades."
+  },
+  "ext-ym-23377": {
+    "description": "Une couverture de magazine de mode verticale en vert émeraude, décrite en un paragraphe prêt à copier."
+  },
+  "ext-ym-28449": {
+    "description": "Une affiche d'été pour un lancement d'outil : changez le type de produit, la palette et la forme entre accolades."
+  },
+  "ext-ym-7032": {
+    "description": "Une affiche créative avec un portrait découpé et des gribouillis à la craie : composition décrite en JSON."
+  },
+  "ext-ym-1080": {
+    "description": "Une affiche graphique japonaise moderne de remous d'eau stylisés, en aplats et formes organiques."
+  },
+  "ext-ym-9558": {
+    "description": "Une affiche éditoriale officielle pour un événement national de la presse : un portrait formel au ton digne."
+  },
+  "ext-ym-19777": {
+    "description": "Un collage de selfies de miroir d'une créatrice de contenu dans une salle de bains moderne, ultra-réaliste."
+  },
+  "ext-ym-2830": {
+    "description": "Une affiche typographique dont la silhouette d'ordinateur est entièrement faite de petits mots chinois."
+  },
+  "ext-ym-31470": {
+    "description": "Une photo de mode éditoriale : jeune femme au carré violet et lunettes de soleil. Changez la coiffure entre accolades."
+  },
+  "ext-ym-8022": {
+    "description": "Une œuvre typographique noir et blanc en lettres massives disposées en op art : changez le mot entre accolades (« LOVE »)."
+  },
+  "ext-ym-15834": {
+    "description": "Une affiche de thriller psychologique néo-noir : changez le titre du projet entre accolades."
+  },
+  "ext-ym-19996": {
+    "description": "Une publicité de mode dans un décor vert perroquet : changez le sujet entre accolades."
+  },
+  "ext-ym-7915": {
+    "description": "Une affiche de campagne de vêtements techniques, collaboration entre votre marque et une autre : à renseigner entre accolades."
+  },
+  "ext-ym-26932": {
+    "description": "Une affiche de mode streetwear éditoriale avec une jeune femme sûre d'elle : changez le portrait entre accolades."
+  },
+  "ext-ym-25114": {
+    "description": "Une affiche premium de mode streetwear de luxe, composition portrait 4:5, avec une jeune femme assise."
+  },
+  "ext-ym-5022": {
+    "description": "Une affiche de festival de cinéma : changez le nom, le slogan et les dates entre accolades."
+  },
+  "ext-ym-13416": {
+    "description": "Une photo à plat d'une affiche de risographie très texturée : changez le sujet de l'affiche entre accolades."
+  },
+  "ext-ym-10547": {
+    "description": "Une affiche d'anniversaire verticale en collage de quatre bandes de photos monochromes cinématographiques."
+  },
+  "ext-ym-3424": {
+    "description": "Une affiche culinaire carrée à moitié photo, à moitié illustration : changez le plat et le fond entre accolades."
+  },
+  "ext-ym-16969": {
+    "description": "Une affiche verticale en montage cinématographique mêlant peinture à l'encre traditionnelle et réalisme numérique."
+  },
+  "ext-ym-2010": {
+    "description": "Une affiche de film en jouet 3D mignon « Q-version » : changez le titre entre accolades."
+  },
+  "ext-ym-7279": {
+    "description": "Une affiche sombre très contrastée d'ambiance club underground, avec un portrait monochrome et des lentilles ambrées."
+  },
+  "ext-ym-4626": {
+    "description": "Une affiche produit grand angle sur fond bleu roi vif, avec un jeune homme et une canette."
+  },
+  "ext-ym-12190": {
+    "description": "Une affiche partagée en deux : selfie de salle de sport et repas sain, composition moderne décrite en JSON."
+  },
+  "ext-ym-17755": {
+    "description": "Une couverture de magazine de haute couture : changez le nom du magazine entre accolades."
+  },
+  "ext-ym-1899": {
+    "description": "Une couverture de livre de science-fiction avec titre entre l'astronaute et la nébuleuse : changez le titre entre accolades."
+  },
+  "ext-ym-16446": {
+    "description": "Une affiche sombre et contrastée d'ambiance club : changez le style entre accolades."
+  },
+  "ext-ym-30072": {
+    "description": "Une scène urbaine d'art de rue dans le métro : une femme immobile pendant qu'un train passe derrière elle."
+  },
+  "ext-ym-21622": {
+    "description": "Une couverture de magazine de parfum de luxe, robe noire élégante : changez le titre entre accolades."
+  },
+  "ext-ym-9931": {
+    "description": "Une affiche produit de studio d'un drone futuriste de marque, au sujet centré et très détaillé."
+  },
+  "ext-ym-1930": {
+    "description": "Une couverture de livre pour auto-édition : mise en page nette, gros titre et image centrale. Précisez la taille entre accolades."
+  },
+  "ext-ym-6139": {
+    "description": "Un modèle d'affiche publicitaire 3D haut de gamme : remplacez le produit et la description entre crochets."
+  },
+  "ext-ym-21631": {
+    "description": "Deux affiches de voyage anciennes à l'aquarelle dessinées à la main : changez le style entre accolades."
+  },
+  "ext-ym-9234": {
+    "description": "Une affiche promotionnelle somptueuse en or pour l'année du cheval, au format 957×1278 px."
+  },
+  "ext-ym-33186": {
+    "description": "Un portrait en affiche d'art mixte d'une jeune guerrière samouraï au regard perçant : changez le sujet entre accolades."
+  },
+  "ext-ym-32911": {
+    "description": "Une affiche surréaliste pour une marque automobile de luxe : changez la couleur et le véhicule entre accolades."
+  },
+  "ext-ym-18491": {
+    "description": "Une affiche de restaurant épicé : une poêle en fonte qui déborde. Changez le thème du restaurant entre accolades."
+  },
+  "ext-ym-3351": {
+    "description": "Une couverture de magazine en deux moitiés dynamiques pour illustrer un cours de design, décrite en métadonnées."
+  },
+  "ext-ym-17763": {
+    "description": "Une couverture de magazine éditorial : changez le titre et le profil du modèle entre accolades."
+  },
+  "ext-ym-20437": {
+    "description": "Une couverture de mode maximaliste : changez le titre et la couleur de cheveux entre accolades."
+  },
+  "ext-ym-4394": {
+    "description": "Une affiche de comédie romantique du début des années 2000 : deux adultes dos à dos, décrite en JSON."
+  },
+  "ext-ym-7281": {
+    "description": "Une affiche de concert verticale en noir et blanc granuleux avec accents néon : une chanteuse sur scène en plein mouvement."
+  },
+  "ext-ym-21016": {
+    "description": "Une affiche de voyage à l'aquarelle en croquis détaillé : une rue historique animée, signée par un illustrateur fictif."
+  },
+  "ext-ym-26318": {
+    "description": "Une illustration néo-futuriste très détaillée mêlée à une esthétique de gravure d'époque : changez l'esthétique entre accolades."
+  },
+  "ext-ym-18291": {
+    "description": "Une affiche de collage « nature-punk » héroïque décrite en JSON : changez le nom du personnage entre accolades."
+  },
+  "ext-ym-4324": {
+    "description": "Un ruban de soie qui se déroule en diagonale et contient une ville miniature sculptée : changez la ville entre accolades."
+  },
+  "ext-ym-19775": {
+    "description": "Une affiche publicitaire verticale 9:16 pour une boisson, avec un personnage décrit très précisément : changez l'identité entre accolades."
+  },
+  "ext-ym-3892": {
+    "description": "Une pochette d'album brodée à la main sur soie, d'esthétique minimaliste : changez le titre de la chanson entre accolades."
+  },
+  "ext-ym-26642": {
+    "description": "Une affiche d'hommage d'anniversaire pour un sportif : changez le nom entre accolades. À réserver à un usage avec les droits sur l'image."
+  },
+  "ext-ym-35224": {
+    "description": "Une affiche publicitaire pour un outil de création vidéo : jeune femme souriante, comparaison entre deux IA."
+  },
+  "ext-ym-20772": {
+    "description": "Une affiche Y2K cyberpunk et cyber-pop : changez le style et le sujet entre accolades."
+  },
+  "ext-ym-3763": {
+    "description": "Une couverture de magazine japonais moderne pour le nouvel an 2026, décrite en métadonnées."
+  },
+  "ext-ym-2831": {
+    "description": "Une affiche d'art numérique d'une île miniature qui flotte au-dessus d'une ville : changez la ville entre crochets."
+  },
+  "ext-ym-2977": {
+    "description": "Une affiche d'art numérique d'une ville et de sa cuisine pour le solstice d'hiver : changez la ville entre accolades."
+  },
+  "ext-ym-815": {
+    "description": "Une affiche pop art de style jeu de rôle japonais pour un personnage « chuunibyou » (adolescent rêveur) : à personnaliser."
+  },
+  "ext-ym-13309": {
+    "description": "Une affiche de film ancienne faite à partir d'une histoire que vous écrivez : décrivez le film en une phrase."
+  },
+  "ext-ym-19783": {
+    "description": "Une affiche de justicier masqué en combinaison tactique en fibre de carbone, au premier plan, cinématographique."
+  },
+  "ext-ym-8015": {
+    "description": "Une affiche typographique minimaliste et déconstruite d'avant-garde, avec une phrase fragmentée."
+  },
+  "ext-ym-9921": {
+    "description": "Un modèle d'affiche ou de bannière pour une personnalité debout sur une colline, par mots-clés : changez la personnalité entre accolades."
+  },
+  "ext-ym-20164": {
+    "description": "Une affiche de voyage à l'aquarelle qui marie le caractère rude d'une vallée de montagne et le charme alpin : changez la région."
+  },
+  "ext-ym-14293": {
+    "description": "Un collage d'affiche verticale en quatre bandes arrondies empilées : changez les couleurs entre accolades."
+  },
+  "ext-ym-13377": {
+    "description": "Une affiche typographique expérimentale avec un mot en minuscules, géométrique et très gras : changez le mot entre accolades."
+  },
+  "ext-ym-10816": {
+    "description": "Une affiche d'hommage de galerie dont la silhouette est remplie d'une mosaïque de photos texturées."
+  },
+  "ext-ym-8815": {
+    "description": "Un portrait en affiche fait de deux couches superposées avec effet de verre dépoli, décrit en JSON : à réserver à un usage avec les droits sur l'image."
+  },
+  "ext-ym-16972": {
+    "description": "Une affiche de mode « techwear » futuriste : un jeune homme marche vers le spectateur sur une plateforme réfléchissante."
+  },
+  "ext-ym-3938": {
+    "description": "Une affiche de roman en diorama 3D isométrique, dans le style d'un grand studio d'animation américain."
+  },
+  "ext-ym-1600": {
+    "description": "Un modèle d'affiche en pâte à modeler mignonne pour n'importe quel thème : film, style, écrivain ou objet."
+  },
+  "ext-ym-4738": {
+    "description": "Une affiche carrée 1:1 de plat en pleine explosion de couleurs : changez le plat entre accolades."
+  },
+  "ext-ym-10662": {
+    "description": "Une affiche épique de deux guerriers dos à dos dans une tempête de glace et de feu."
+  },
+  "ext-ym-5529": {
+    "description": "Un modèle d'affiche d'hommage sportif en « double exposition en grille de photos » : indiquez le nom de la personne."
+  },
+  "ext-ym-19628": {
+    "description": "Une affiche de sport avec une joueuse de football en trois dimensions, ainsi qu'une version dessinée au crayon gras."
+  },
+  "ext-ym-23741": {
+    "description": "Une affiche en collage éditorial de mode : quatre panneaux arrondis empilés. Changez le design entre accolades."
+  },
+  "ext-ym-21624": {
+    "description": "Deux affiches publicitaires de soda des années 1950 avec une femme souriante à lunettes qui tient un verre."
+  },
+  "ext-ym-32847": {
+    "description": "Une grille 2×2 de quatre petits-déjeuners méconnus de l'hémisphère Sud : un modèle d'atlas culturel à adapter par catégorie."
+  },
+  "ext-ym-30808": {
+    "description": "Des affiches promotionnelles de boisson où un super-héros tient la canette : décrites en JSON, avec marque modifiable."
+  },
+  "ext-ym-12612": {
+    "description": "Une affiche 2:3 déchirée en diagonale qui montre deux époques de Kyoto en contraste."
+  },
+  "ext-ym-25308": {
+    "description": "Une affiche en trois panneaux pour une grande compétition de football féminin : changez les maillots entre accolades."
+  },
+  "ext-ym-5682": {
+    "description": "Un rendu 3D architectural où la typographie devient un micro-monde : changez la ville entre accolades (New York par défaut)."
+  },
+  "ext-ym-12222": {
+    "description": "Une affiche cinématographique de cinq modèles alignés, séparés par des panneaux verticaux translucides déformants."
+  },
+  "ext-ym-8417": {
+    "description": "Un portrait éditorial de mode en lumière basse d'une vedette de la musique, prêt pour une affiche : indiquez la personne entre accolades (avec droit à l'image)."
+  },
+  "ext-ym-3051": {
+    "description": "Une affiche de cinéma indien hyperréaliste sous la mousson de minuit, tons bleus et émeraude, lumières de ville en reflets."
+  },
+  "ext-ym-6431": {
+    "description": "Une affiche publicitaire de dessert glacé haut de gamme : changez le parfum entre accolades (fraise par défaut)."
+  },
+  "ext-ym-12188": {
+    "description": "Une affiche de film hyperréaliste : une jeune sorcière puissante qui jaillit d'une carte à jouer fissurée."
+  },
+  "ext-ym-13314": {
+    "description": "Une composition typographique en perspective dramatique : changez la phrase entre accolades."
+  },
+  "ext-ym-11878": {
+    "description": "Une affiche de mode de luxe sur fond vert profond avec dégradé circulaire : deux modèles féminins élégants."
+  },
+  "ext-ym-1437": {
+    "description": "Une affiche 3D en diorama pour un film ou un roman : indiquez le titre entre accolades."
+  },
+  "ext-ym-13325": {
+    "description": "Une affiche de série coréenne colorée : quatre jeunes comédiens en pose joyeuse sur fond blanc lumineux."
+  },
+  "ext-ym-29565": {
+    "description": "Une affiche éditoriale 9:16 « fragments humains » sur le sport : changez le thème entre accolades."
+  },
+  "ext-ym-10790": {
+    "description": "Un modèle d'affiche typographique de mode, découpée en deux parties à rapport 1:2."
+  },
+  "ext-ym-4740": {
+    "description": "Une affiche carrée de plat en pleine explosion de couleurs : un doublon d'une autre fiche, changez le plat entre accolades."
+  },
+  "ext-ym-19997": {
+    "description": "Une série d'illustrations à l'aquarelle d'enfants dans les bois : changez le style entre accolades."
+  },
+  "ext-ym-23267": {
+    "description": "Un portrait au crayon graphite noir et blanc, format 4:5, d'une femme près de l'océan."
+  },
+  "ext-ym-27124": {
+    "description": "Un portrait en double exposition à l'aquarelle d'une jeune femme : changez la couleur des cheveux entre accolades."
+  },
+  "ext-ym-4089": {
+    "description": "Un carnet de croquis ancien posé sur un bureau d'artiste d'où un sujet prend vie : changez le sujet entre crochets."
+  },
+  "ext-ym-18514": {
+    "description": "Un portrait au fusain d'une guitariste souriante en robe à sequins : changez la coiffure entre accolades."
+  },
+  "ext-ym-11983": {
+    "description": "Une scène 3D surréaliste où deux footballeurs célèbres sortent d'un carnet de croquis : à n'utiliser qu'avec les droits sur leur image."
+  },
+  "ext-ym-10548": {
+    "description": "Un village de port à l'aquarelle en fin d'après-midi : barques en bois amarrées, filets et lumière dorée."
+  },
+  "ext-ym-29965": {
+    "description": "Un portrait réaliste aux crayons de couleur avec traits de construction visibles, très détaillé."
+  },
+  "ext-ym-25129": {
+    "description": "Une illustration à l'aquarelle très détaillée et colorée : changez la palette entre accolades."
+  },
+  "ext-ym-11477": {
+    "description": "Une œuvre abstraite à l'aquarelle mêlant croquis et couleurs, d'un personnage au sourire étrange : changez-le entre accolades."
+  },
+  "ext-ym-20171": {
+    "description": "Transforme votre photo en croquis chaotique au crayon de cire dans un style personnel constant : fournissez la photo."
+  },
+  "ext-ym-20456": {
+    "description": "Une collection de portraits de mode à l'aquarelle fantaisistes inspirés d'une égérie japonaise : changez-la entre accolades."
+  },
+  "ext-ym-10199": {
+    "description": "Un portrait minimaliste d'un visage de jeune femme au crayon doux sur papier ivoire chaud."
+  },
+  "ext-ym-33664": {
+    "description": "Un portrait à l'aquarelle expressif en 9:16, couches translucides et traits libres, très détaillé."
+  },
+  "ext-ym-33476": {
+    "description": "Une illustration numérique au style de croquis d'une jeune femme : changez le teint et les détails entre accolades."
+  },
+  "ext-ym-8446": {
+    "description": "Une aquarelle douce de deux chatons moelleux qui se promènent côte à côte dans un jardin fleuri."
+  },
+  "ext-ym-23898": {
+    "description": "Un croquis au crayon graphite d'un couple dans la nature : changez la scène entre accolades."
+  },
+  "ext-ym-23744": {
+    "description": "Une illustration d'anime à l'aquarelle d'une jeune femme qui lit sous des cerisiers en fleurs : changez le sujet entre accolades."
+  },
+  "ext-ym-10566": {
+    "description": "Une aquarelle d'une clairière enchantée à l'aube, avec un chemin sinueux entre des pierres moussues et des lueurs."
+  },
+  "ext-ym-4937": {
+    "description": "Un fusain brut et texturé, aux ombres expressives et aux traits francs : changez le sujet entre accolades."
+  },
+  "ext-ym-10821": {
+    "description": "Une aquarelle fantastique d'un train rapide sur un pont ferroviaire surélevé au-dessus d'une immense forêt inondée."
+  },
+  "ext-ym-22265": {
+    "description": "Une série de portraits en noir et blanc au fusain et au crayon, de couples intimes : changez le style entre accolades."
+  },
+  "ext-ym-19388": {
+    "description": "Une page de carnet d'artiste en couches : changez le médium et le papier entre accolades."
+  },
+  "ext-ym-29970": {
+    "description": "Une consigne de technique de portrait dessiné à la main, sans sujet précis : à compléter avec votre sujet."
+  },
+  "ext-ym-26927": {
+    "description": "Un portrait monochrome au graphite, très détaillé, entre dessin d'art contemporain et rendu hyperréaliste."
+  },
+  "ext-ym-22464": {
+    "description": "Une page de carnet de voyage culinaire à l'aquarelle et à l'encre autour de la cuisine grecque."
+  },
+  "ext-ym-22665": {
+    "description": "Une aquarelle verticale d'une station de montagne enneigée et douillette, dans une vallée paisible."
+  },
+  "ext-ym-11625": {
+    "description": "Une photo produit minimaliste d'une paire de baskets dans sa boîte, avec une illustration croquée, sur mur beige texturé."
+  },
+  "ext-ym-26319": {
+    "description": "Un portrait en techniques mixtes : changez le style de peinture entre accolades (huile en empâtement par défaut)."
+  },
+  "ext-ym-3449": {
+    "description": "Un gorille 3D qui sort d'un croquis au fusain posé sur un bureau poussiéreux, décrit en JSON (caméra, environnement)."
+  },
+  "ext-ym-17773": {
+    "description": "Des tasses dessinées à la main éparpillées sur un fond texturé : changez l'objet et le fond entre accolades."
+  },
+  "ext-ym-31568": {
+    "description": "Une illustration aux crayons de couleur d'un jeune couple qui marche main dans la main sur un chemin sinueux."
+  },
+  "ext-ym-8971": {
+    "description": "Une comparaison côte à côte d'un croquis technique et d'une photo d'un gratte-ciel célèbre."
+  },
+  "ext-ym-30332": {
+    "description": "Un portrait en techniques mixtes sur papier brun-rouge ressemblant à du kraft sépia, traits rapides."
+  },
+  "ext-ym-3281": {
+    "description": "Une illustration d'anime à l'aquarelle d'un café de voyance au printemps japonais, atmosphère surréaliste."
+  },
+  "ext-ym-21627": {
+    "description": "Une caricature à l'aquarelle d'une personne joyeuse aux cheveux frisés : changez la coiffure entre accolades."
+  },
+  "ext-ym-33396": {
+    "description": "Une illustration de mode à l'aquarelle aux coups de pinceau expressifs : changez le sujet entre accolades."
+  },
+  "ext-ym-22662": {
+    "description": "Une illustration à l'aquarelle et à l'encre façon bande dessinée d'un explorateur d'autrefois : changez le sujet entre accolades."
+  },
+  "ext-ym-18296": {
+    "description": "Un très gros plan qui mêle lavis d'encre et aquarelle traditionnelle : changez le style entre accolades."
+  },
+  "ext-ym-4471": {
+    "description": "Une illustration en techniques mixtes dessinées à la main, décrite en JSON : un bon exemple de structure."
+  },
+  "ext-ym-12692": {
+    "description": "Une rue résidentielle réaliste à la lumière douce, avec un personnage dessiné à la main qui s'y ajoute."
+  },
+  "ext-ym-25117": {
+    "description": "Une jeune femme réelle qui sourit dans un atelier d'art : changez sa tenue entre accolades."
+  },
+  "ext-ym-10418": {
+    "description": "Un portrait technique dessiné à la main d'un jeune homme qui lève les yeux avec espoir."
+  },
+  "ext-ym-16473": {
+    "description": "Un chien à trottinette dans un salon, en croquis : changez la race du chien et la couleur de la trottinette."
+  },
+  "ext-ym-23144": {
+    "description": "Une illustration à l'aquarelle en deux volets sur la vie quotidienne et paisible, en trois teintes."
+  },
+  "ext-ym-22794": {
+    "description": "Une aquarelle et encre d'une rue urbaine avec une femme élégante : changez le sujet entre accolades."
+  },
+  "ext-ym-26083": {
+    "description": "Une planche de personnage façon carnet de croquis collé, stylisée et réaliste : changez le nom du personnage entre accolades."
+  },
+  "ext-ym-5444": {
+    "description": "Une illustration pop art dessinée à la main d'un acteur célèbre dans un film précis : à n'utiliser qu'avec les droits sur son image."
+  },
+  "ext-ym-17222": {
+    "description": "Un portrait vertical au fusain et au graphite d'un guitariste : changez le sujet et la coiffure entre accolades."
+  },
+  "ext-ym-19769": {
+    "description": "Une illustration à l'encre et à l'aquarelle d'un jeune homme dans une bibliothèque : changez la couleur des cheveux."
+  },
+  "ext-ym-26305": {
+    "description": "Un portrait à l'aquarelle éditorial très détaillé : changez le sujet et le style entre accolades."
+  },
+  "ext-ym-34449": {
+    "description": "Un portrait éditorial dessiné à la main, semi-réaliste, à l'encre fine et hachures : changez le style entre accolades."
+  },
+  "ext-ym-20418": {
+    "description": "Un portrait urbain au crayon d'une jeune femme appuyée contre un mur de briques : changez le sujet et le fond."
+  },
+  "ext-ym-22067": {
+    "description": "Une planche minimaliste de croquis de personnage dans un style épuré : changez le style entre accolades."
+  },
+  "ext-ym-5221": {
+    "description": "Un dessin d'enfant d'une ville aux crayons de cire : changez la ville entre accolades."
+  },
+  "ext-ym-11518": {
+    "description": "Une aquarelle d'une chouette mignonne aux grands yeux jaunes, entourée de roses roses."
+  },
+  "ext-ym-159": {
+    "description": "Une carte mentale dessinée à la main pour expliquer des expressions chinoises à des enfants de huit ans."
+  },
+  "ext-ym-18288": {
+    "description": "Un croquis très soigné d'un seul œil expressif et plein de tristesse : changez le style et le sujet entre accolades."
+  },
+  "ext-ym-13019": {
+    "description": "Une aquarelle libre sur papier vieilli d'un avion de chasse à moitié enfoui dans les dunes du désert."
+  },
+  "ext-ym-32982": {
+    "description": "Un portrait en double exposition à l'aquarelle : changez le sujet entre accolades."
+  },
+  "ext-ym-22805": {
+    "description": "Un portrait vertical mi-croquis, mi-aquarelle : changez le sujet entre accolades."
+  },
+  "ext-ym-12640": {
+    "description": "Une carte à l'aquarelle d'un pays sur papier légèrement texturé : changez le pays entre accolades."
+  },
+  "ext-ym-34670": {
+    "description": "Une aquarelle architecturale expressive : pinceau fluide, fines lignes d'encre, grandes surfaces de papier blanc."
+  },
+  "ext-ym-4736": {
+    "description": "Un dessin comme réalisé par un enfant de six ans au crayon de cire : changez le sujet entre accolades."
+  },
+  "ext-ym-498": {
+    "description": "Une image d'en-tête dessinée à la main à partir de la photo d'une personne : fournissez la photo."
+  },
+  "ext-ym-19387": {
+    "description": "Une illustration de famille aux crayons de cire et de couleur : changez le décor entre accolades (prairie par défaut)."
+  },
+  "ext-ym-25283": {
+    "description": "Un portrait illustré cinématographique mêlant esthétique tactique et croquis d'art, très stylisé."
+  },
+  "ext-ym-12748": {
+    "description": "Une composition en trois panneaux d'aquarelle d'anime, vive et cinématographique."
+  },
+  "ext-ym-27301": {
+    "description": "Un portrait monochrome très contrasté au graphite, avec une touche réaliste : changez le médium entre accolades."
+  },
+  "ext-ym-28461": {
+    "description": "Un portrait de mode fait main au graphite : changez l'esthétique (anime semi-réaliste par défaut) entre accolades."
+  },
+  "ext-ym-12092": {
+    "description": "Une aquarelle d'une clairière avec un ruisseau : formes très détaillées et lavis translucides."
+  },
+  "ext-ym-22817": {
+    "description": "Un collage numérique d'un jeune homme assis sur un appareil rétro dans un décor cosmique : changez l'appareil entre accolades."
+  },
+  "ext-ym-21268": {
+    "description": "Un croquis au crayon qui fusionne deux profils d'un même visage par double exposition : changez l'effet entre accolades."
+  },
+  "ext-ym-2110": {
+    "description": "Un portrait de jeune homme en croquis de cahier d'écolier chaotique, décrit en JSON."
+  },
+  "ext-ym-16747": {
+    "description": "Un dessin au fusain vertical d'une scène tendre : changez le médium et le sujet entre accolades."
+  },
+  "ext-ym-11278": {
+    "description": "Un portrait très détaillé d'un footballeur sûr de lui, regard levé : à utiliser avec un sujet fictif ou avec accord."
+  },
+  "ext-ym-222": {
+    "description": "Un journal de bord de capitaine usé, avec un croquis d'un personnage de manga qui étire son bras vers un coffre au trésor."
+  },
+  "ext-ym-31354": {
+    "description": "Une aquarelle d'un goéland en plein vol, ailes déployées au centre : changez l'oiseau entre accolades."
+  },
+  "ext-ym-21461": {
+    "description": "Une aquarelle d'une jeune femme souriante qui porte un message positif : changez la coiffure entre accolades."
+  },
+  "ext-ym-23132": {
+    "description": "Un portrait aquarelle de fillette orné de fleurs : changez le style et le sujet entre accolades."
+  },
+  "ext-ym-12225": {
+    "description": "Un diorama 3D de quatre couvertures de bandes dessinées d'un univers célèbre, en grille 2×2."
+  },
+  "ext-ym-4853": {
+    "description": "Une case de storyboard d'une scène : changez la description entre accolades (une femme seule dans un café tamisé)."
+  },
+  "ext-ym-12861": {
+    "description": "Un manga en quatre cases dont le titre et le texte sont fournis : un exemple de mise en page narrative à adapter."
+  },
+  "ext-ym-2645": {
+    "description": "Un manga horizontal en trois cases au style anime pop, avec texte japonais : pour comparer la lisibilité des textes dans l'image."
+  },
+  "ext-ym-12841": {
+    "description": "Une grille 2×2 de quatre grands dessinateurs de comics en diorama pop-art : changez les noms entre accolades."
+  },
+  "ext-ym-7177": {
+    "description": "Un storyboard publicitaire 3×3 de neuf images pour une valise de luxe, avec un couple."
+  },
+  "ext-ym-26191": {
+    "description": "Une planche de storyboard de film d'animation : un parc de quartier au coucher du soleil après la pluie, avec des enfants qui rient."
+  },
+  "ext-ym-12629": {
+    "description": "Un manga en quatre cases avec dialogues fournis : un exemple de texte à placer dans les bulles."
+  },
+  "ext-ym-9974": {
+    "description": "L'évolution du manga en coupe d'un bloc de musée à quatre étages, chaque niveau représentant une époque."
+  },
+  "ext-ym-12838": {
+    "description": "Un prompt pondéré qui mélange un diorama 3D pop-up et des figurines de héros : un exemple avancé de mélange de ressources."
+  },
+  "ext-ym-27973": {
+    "description": "Un manga en quatre cases sur un test de vue par symboles : changez le thème et la marque entre accolades."
+  },
+  "ext-ym-424": {
+    "description": "Une planche de bande dessinée complète où un héros d'animation rencontre l'univers d'un autre : changez les deux entre accolades."
+  },
+  "ext-ym-33659": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour un sirop d'érable : un exemple de format de publicité."
+  },
+  "ext-ym-33081": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour une pizza surgelée : changez le produit entre accolades."
+  },
+  "ext-ym-33668": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour un yaourt grec."
+  },
+  "ext-ym-13081": {
+    "description": "Un manga en quatre cases sur « la formule du buzz », avec titre et texte fournis : à adapter à votre sujet."
+  },
+  "ext-ym-28672": {
+    "description": "Un manga en huit cases : changez le titre et les répliques entre accolades."
+  },
+  "ext-ym-1074": {
+    "description": "Un storyboard de science-fiction en grille 3×3 : deux silhouettes à capuche qui approchent d'un site industriel dans la brume."
+  },
+  "ext-ym-7985": {
+    "description": "Un manga en quatre cases de comédie romantique de fantasy moderne entre un elfe et un humain."
+  },
+  "ext-ym-22035": {
+    "description": "Un manga en quatre cases sur une citation d'histoire attribuée aux vainqueurs : changez le titre et la phrase entre accolades."
+  },
+  "ext-ym-5085": {
+    "description": "Une page de manga complète en six cases de tailles et de formes variées, pas toutes rectangulaires : un modèle de mise en page dynamique."
+  },
+  "ext-ym-31997": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour des nouilles instantanées : un exemple de format publicitaire."
+  },
+  "ext-ym-12915": {
+    "description": "Un manga en quatre cases en niveaux de gris, de style seinen, dans une ruelle de bidonville fantasy."
+  },
+  "ext-ym-636": {
+    "description": "Un générateur de storyboard en manga chinois : le prompt vous place dans le rôle d'un mangaka au trait personnel."
+  },
+  "ext-ym-33091": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour des chips épicées : un exemple de format publicitaire."
+  },
+  "ext-ym-289": {
+    "description": "Un manga en cinq cases sur le travail d'un créateur de miniatures de vidéo, de la retouche à la livraison."
+  },
+  "ext-ym-33393": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour des spaghettis italiens : un exemple de format publicitaire."
+  },
+  "ext-ym-33564": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour un yaourt grec : un exemple de format publicitaire."
+  },
+  "ext-ym-13577": {
+    "description": "Un manga sur un prodige du piano : changez le format, le nom et le sujet entre accolades."
+  },
+  "ext-ym-13276": {
+    "description": "Une page de manga avec deux personnes de vos photos, noir et blanc sur fond blanc : changez le thème entre accolades."
+  },
+  "ext-ym-318": {
+    "description": "Un manga en quatre cases avec une femme affamée et des pancakes : changez la nationalité entre accolades."
+  },
+  "ext-ym-6367": {
+    "description": "Une liste d'éléments interdits à glisser dans un prompt de manga (sens de lecture, langue des dialogues…) : un exemple de prompt négatif."
+  },
+  "ext-ym-33474": {
+    "description": "Un storyboard narratif d'un phare sur une falaise découpée : changez le titre de l'histoire entre accolades."
+  },
+  "ext-ym-438": {
+    "description": "Un manga en quatre cases de style anime avec une fille panda, sur un rectangle vertical."
+  },
+  "ext-ym-3549": {
+    "description": "Une page de manga où deux personnages fusionnent façon technique de fusion d'un manga célèbre : indiquez vos personnages entre accolades."
+  },
+  "ext-ym-23882": {
+    "description": "Une illustration de roman graphique d'anime en vue plongeante, très détaillée, ombrage cel-shading : changez le sujet entre accolades."
+  },
+  "ext-ym-8136": {
+    "description": "Un manga couleur en quatre cases sur une application : changez le type de personnage entre accolades."
+  },
+  "ext-ym-30218": {
+    "description": "Une planche de storyboard de parfum haut de gamme, en grille 4:3 : changez la grille entre accolades (3×4 par défaut)."
+  },
+  "ext-ym-3675": {
+    "description": "Une scène de roman graphique où un super-héros est le sujet d'un diorama pop art : changez le nom du héros entre accolades."
+  },
+  "ext-ym-22821": {
+    "description": "Un prompt qui transforme une planche de storyboard en vidéo cinématographique de 15 secondes avec un outil de vidéo."
+  },
+  "ext-ym-12856": {
+    "description": "Un manga en quatre cases sur une grève de bus, avec titre et dialogues fournis."
+  },
+  "ext-ym-34749": {
+    "description": "Un style de bande dessinée moderne semi-réaliste : encrage audacieux, bords nets, ombrage cel-shading dynamique."
+  },
+  "ext-ym-5489": {
+    "description": "Une démarche en deux temps : écrire une histoire avec une IA de texte, puis la transformer en manga avec un outil d'image."
+  },
+  "ext-ym-18508": {
+    "description": "Une grille 2×2 de scènes de manga en dioramas en bois : changez les scènes entre accolades."
+  },
+  "ext-ym-13338": {
+    "description": "Une grille de storyboard 3×3 avec le même sujet, la même tenue et un fond sarcelle constant, à lumière douce."
+  },
+  "ext-ym-4328": {
+    "description": "Une planche contact de storyboard cinématographique 3×3 en neuf plans distincts, avec une séquence qui avance."
+  },
+  "ext-ym-33658": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour une crème glacée au cheesecake et à la fraise."
+  },
+  "ext-ym-12935": {
+    "description": "Un manga en quatre cases verticales en niveaux de gris : comédie romantique moderne autour d'un arrêt du temps."
+  },
+  "ext-ym-898": {
+    "description": "Un storyboard cinématographique de neuf plans, ambiance pluvieuse et mélancolique, autour d'une jeune femme en robe trempée."
+  },
+  "ext-ym-32986": {
+    "description": "Un storyboard de cuisine vertical en dix cases : changez la grille et le support entre accolades."
+  },
+  "ext-ym-11069": {
+    "description": "L'ouverture d'un roman racontée en page de manga : indiquez le livre et l'auteur entre accolades."
+  },
+  "ext-ym-33464": {
+    "description": "Un storyboard publicitaire premium sur une page 3:4 pour une collation : changez le produit entre accolades."
+  },
+  "ext-ym-4082": {
+    "description": "Un storyboard de neuf plans d'une jeune femme assise à côté d'un grand ours calme dans une forêt de montagne."
+  },
+  "ext-ym-272": {
+    "description": "Quatre pages de strips en quatre cases, avec chacune sa chute : un prompt pour une série de gags."
+  },
+  "ext-ym-10765": {
+    "description": "Un storyboard de comédie d'espionnage au ton ultra-sérieux : un SUV noir devant une maison de banlieue au petit matin."
+  },
+  "ext-ym-2704": {
+    "description": "Un monde miniature personnel d'une célébrité en diorama stylisé : changez la personnalité entre crochets (avec les droits sur l'image)."
+  },
+  "ext-ym-717": {
+    "description": "Une scène de rue pluvieuse en plan de film flou de mouvement, décrite en JSON : un bon exemple d'intention."
+  },
+  "ext-ym-10283": {
+    "description": "Un concept art cinématographique d'une ancienne cité abandonnée dans la jungle au matin, prêt à copier."
+  },
+  "ext-ym-2703": {
+    "description": "Un diorama miniature construit dans ou autour d'un objet réduit : changez l'objet entre crochets."
+  },
+  "ext-ym-11498": {
+    "description": "Une photo d'urban fantasy : une personne en streetwear invoque des requins liquides au milieu d'une pièce."
+  },
+  "ext-ym-6833": {
+    "description": "Une illustration d'esprit « city pop » des années 80 avec les personnages d'un drame japonais : à adapter à votre propre série."
+  },
+  "ext-ym-11312": {
+    "description": "Un diorama dans une armoire ornée, thème d'aventures d'un détective célèbre : changez le thème entre accolades."
+  },
+  "ext-ym-2094": {
+    "description": "Une lampe diorama chibi mignonne : indiquez le sujet, l'action et le lieu entre accolades."
+  },
+  "ext-ym-1979": {
+    "description": "Un renard anthropomorphe adossé à la rambarde d'un pont enneigé dans une ville d'hiver, en doudoune et écharpe."
+  },
+  "ext-ym-16196": {
+    "description": "Un diorama miniature de votre sujet en action : changez le sujet et l'action entre accolades."
+  },
+  "ext-ym-15831": {
+    "description": "Une photo de rue de mode haut de gamme : une femme qui traverse un passage piéton, tenue à changer entre accolades."
+  },
+  "ext-ym-10359": {
+    "description": "Une photographie d'architecture d'une entrée moderne en plein soleil, avec un sol à demi-niveaux, décrite en JSON."
+  },
+  "ext-ym-5632": {
+    "description": "Une frise de l'histoire du jeu vidéo qui émerge de consoles en architecture : changez la licence entre accolades."
+  },
+  "ext-ym-1613": {
+    "description": "Une ville tenue dans la paume de la main : la lumière passe entre les doigts translucides."
+  },
+  "ext-ym-6305": {
+    "description": "Un diorama 3D isométrique minimaliste en coupe d'un bâtiment : changez le type de bâtiment entre crochets."
+  },
+  "ext-ym-8642": {
+    "description": "Une maquette tilt-shift de Tokyo au coucher du soleil, au format 4:5 : changez les monuments entre accolades."
+  },
+  "ext-ym-6400": {
+    "description": "Un micro-diorama culinaire où des personnages d'animation vivent dans un monde de pizza."
+  },
+  "ext-ym-10254": {
+    "description": "Une photo documentaire ultra-réaliste d'une personnalité dans un bus de ville : à n'utiliser qu'avec les droits sur son image."
+  },
+  "ext-ym-6549": {
+    "description": "Un diorama 3D isométrique minimaliste d'une exposition : changez le type d'exposition entre accolades."
+  },
+  "ext-ym-11565": {
+    "description": "Un diorama miniature flottant d'une ville marchande autour d'un grand pont de pierre au-dessus d'une gorge."
+  },
+  "ext-ym-8619": {
+    "description": "Une scène de rue cinématographique réaliste avec une jeune femme au carré ondulé : un exemple de détail de silhouette."
+  },
+  "ext-ym-16986": {
+    "description": "Une photographie verticale 4:5 d'un rassemblement de voitures souterrain : changez le lieu entre accolades."
+  },
+  "ext-ym-3008": {
+    "description": "Une pièce douillette où le mur est un grand dessin à l'encre et à l'aquarelle dont un coin devient réel en 3D."
+  },
+  "ext-ym-13129": {
+    "description": "Un diorama miniature hyperréaliste d'un bassin de tortues, vu de face : changez l'accessoire entre accolades."
+  },
+  "ext-ym-10000": {
+    "description": "Un plan d'architecte étalé sur une table à dessin dont les espaces s'élèvent en monde miniature habitable."
+  },
+  "ext-ym-14099": {
+    "description": "Un plan de film ultra-réaliste d'une jeune femme élégante près d'une porte de métro ouverte : changez la tenue entre accolades."
+  },
+  "ext-ym-5013": {
+    "description": "Une vue 3D isométrique hyperréaliste d'un lieu sur une base circulaire, avec des figurines vivantes : changez le lieu entre accolades."
+  },
+  "ext-ym-23893": {
+    "description": "Un diorama miniature hyperréaliste d'un lieu de série télévisée, le bâtiment remplissant 70 % du cadre."
+  },
+  "ext-ym-10480": {
+    "description": "Un diorama de collection d'un quartier cyberpunk : bâtiments bas historiques en bas, gratte-ciel néon au-dessus."
+  },
+  "ext-ym-9542": {
+    "description": "Une photo spontanée et réaliste d'un couple dans des escaliers de ville, vue de dessus, décrite en JSON."
+  },
+  "ext-ym-7423": {
+    "description": "Un diorama « encyclopédie des saveurs » : changez la cuisine ou le plat entre accolades (kebab persan, sushi, pizza…)."
+  },
+  "ext-ym-6577": {
+    "description": "Une pose dans un intérieur de voiture de luxe, regardant par-dessus l'épaule, décrite en JSON."
+  },
+  "ext-ym-20169": {
+    "description": "Une composition d'art de rue à l'échelle humaine d'un personnage de dessin animé : changez le personnage entre accolades."
+  },
+  "ext-ym-10148": {
+    "description": "Un diorama d'un sanctuaire de source printanière dans un bol ouvert en coupe, aux détails ornés."
+  },
+  "ext-ym-4671": {
+    "description": "Une photo à plat de monuments d'une ville en magnets disposés façon « knolling » : changez la ville entre crochets."
+  },
+  "ext-ym-3627": {
+    "description": "Un diorama de ville qui se replie comme dans un film de rêves imbriqués : effet de pliage à 180°."
+  },
+  "ext-ym-32744": {
+    "description": "Un diorama photoréaliste qui sort physiquement d'un livre de science-fiction : le prompt déduit le héros et le monde."
+  },
+  "ext-ym-11674": {
+    "description": "Une photo spontanée chaleureuse d'une jeune femme qui entre dans une soirée d'appartement : changez l'objet qu'elle tient."
+  },
+  "ext-ym-31353": {
+    "description": "Une grenouille en feutrine sur une plage : changez la tenue et le décor entre accolades."
+  },
+  "ext-ym-11680": {
+    "description": "Un diorama 3D miniature tenu dans une main, sur une île flottante : un lieu à indiquer entre accolades."
+  },
+  "ext-ym-9641": {
+    "description": "Un paysage fantastique au coucher du soleil avec la silhouette d'un animal et le reflet d'une ville : changez l'animal."
+  },
+  "ext-ym-22261": {
+    "description": "Une photo de couple spontanée à une soirée de nuit, ultra-réaliste, au flash direct."
+  },
+  "ext-ym-26315": {
+    "description": "Un paysage photographique de lotus couverts de rosée au lever du soleil : changez le sujet et le fond entre accolades."
+  },
+  "ext-ym-16743": {
+    "description": "Une forêt tropicale luxuriante pleine d'animaux, photoréaliste et cinématographique : changez l'environnement entre accolades."
+  },
+  "ext-ym-6700": {
+    "description": "Une combinaison d'astronaute géante creuse envahie par la nature, debout dans l'eau, couverte de mousse et de lianes."
+  },
+  "ext-ym-31062": {
+    "description": "Un paysage photographique de montagne à minuit, vue au ras du sol sous un ciel étoilé : changez le ciel entre accolades."
+  },
+  "ext-ym-24372": {
+    "description": "Une scène en plein midi où une créature (une sirène par défaut) soigne un oiseau blessé sur un rocher dans une rivière."
+  },
+  "ext-ym-30817": {
+    "description": "Une illustration réaliste d'un oiseau (un dodo par défaut) : changez l'espèce et les couleurs entre accolades."
+  },
+  "ext-ym-2205": {
+    "description": "Une forêt au crépuscule où la lumière du soleil se comporte comme de la matière solide : des faisceaux épais tombent à la verticale."
+  },
+  "ext-ym-13176": {
+    "description": "Un paysage photographique coupé en deux : été à gauche, hiver à droite, avec une frontière nette au milieu."
+  },
+  "ext-ym-25131": {
+    "description": "Une série de portraits dans un jardin botanique au style « cottagecore » : changez le sujet entre accolades."
+  },
+  "ext-ym-10104": {
+    "description": "Un petit van blanc minimaliste garé dans des champs de fleurs roses à perte de vue, en plan de cinéma ultra-réaliste."
+  },
+  "ext-ym-5205": {
+    "description": "Une vue aérienne spectaculaire d'un ensemble de temples taoïstes enneigés au sommet d'une montagne en hiver."
+  },
+  "ext-ym-10768": {
+    "description": "Une aquarelle d'un jardin magique à minuit : sentiers de pierre, rosiers grimpants et fontaine en marbre."
+  },
+  "ext-ym-1093": {
+    "description": "Un paysage fantastique : une jeune fille en robe blanche près d'un ancien pont de pierre couvert de lierre, océan turquoise."
+  },
+  "ext-ym-30813": {
+    "description": "Une photo de nature en gros plan d'un animal dans un champ d'herbe sèche : changez l'animal entre accolades (hamster par défaut)."
+  },
+  "ext-ym-32661": {
+    "description": "Des extraterrestres verts en pâte à modeler dans un désert la nuit : changez leur nombre entre accolades."
+  },
+  "ext-ym-7553": {
+    "description": "Une scène de sauvetage en briques dans un village de montagne inondé : barques, cordes et pluie battante."
+  },
+  "ext-ym-32186": {
+    "description": "Un paysage numérique paisible au coucher du soleil avec une silhouette surréaliste : changez la lumière entre accolades."
+  },
+  "ext-ym-2410": {
+    "description": "Une vue d'oiseau d'un sol couvert d'innombrables panneaux publicitaires noirs, avec une actrice : photo au grain d'appareil lomographique."
+  },
+  "ext-ym-1584": {
+    "description": "Un paysage d'hiver futuriste : une chambre forte en béton dans une colline enneigée, avec un cristal vert émeraude lumineux."
+  },
+  "ext-ym-6380": {
+    "description": "Un produit en artefact englouti au fond de l'océan, exploré par de minuscules plongeurs et des créatures bioluminescentes."
+  },
+  "ext-ym-10098": {
+    "description": "Une scène de nature surréaliste dans le style d'une peinture à l'huile de la Renaissance, en modules à compléter."
+  },
+  "ext-ym-9981": {
+    "description": "Un gros plan de photographie animalière ultra-réaliste centré sur un visage humain : le visage doit rester fidèle."
+  },
+  "ext-ym-25307": {
+    "description": "Une séance photo professionnelle d'un jeune couple heureux sur un sentier de forêt en automne."
+  },
+  "ext-ym-11040": {
+    "description": "Un coin de cour de jardin chinois traditionnel en vue plongeante, rendu comme en argile."
+  },
+  "ext-ym-28573": {
+    "description": "Un rituel dans une clairière miniature, avec un cercle de totems, en mélange artistique : changez le sujet entre accolades."
+  },
+  "ext-ym-26407": {
+    "description": "Un paysage photographique panoramique de falaises battues par des vagues turquoise : changez le sujet entre accolades."
+  },
+  "ext-ym-9203": {
+    "description": "Une macro d'une minuscule fée assise au cœur d'une fleur : ailes translucides, lumière naturelle douce."
+  },
+  "ext-ym-14288": {
+    "description": "Une scène de safari cinématographique à l'heure dorée : un photographe agenouillé près d'un jeune guépard. Changez le sujet."
+  },
+  "ext-ym-12477": {
+    "description": "Un paysage lointain peint avec une palette de couleurs que vous fixez : changez la couleur de fond entre accolades."
+  },
+  "ext-ym-11500": {
+    "description": "Un flacon de parfum de luxe en verre vert flottant dans une forêt mystique, de nuit, avec une étiquette de marque."
+  },
+  "ext-ym-10002": {
+    "description": "Un gros plan cinématographique hyperréaliste d'un personnage dans un portrait d'avant-garde, décrit en JSON."
+  },
+  "ext-ym-9271": {
+    "description": "Une photo produit photoréaliste en forêt, carrée 1:1 en 8K, décrite en JSON."
+  },
+  "ext-ym-4714": {
+    "description": "Une photo de studio d'une marque entièrement recouverte d'une texture animale ultra-réaliste : changez la marque et la texture entre accolades."
+  },
+  "ext-ym-12341": {
+    "description": "Une illustration plate colorée en motif répété de fleurs stylisées et de formes géométriques sur fond crème."
+  },
+  "ext-ym-1343": {
+    "description": "Un paysage panoramique hyperréaliste qui raconte l'évolution des transports : une frise continue de l'ancien au futur."
+  },
+  "ext-ym-2078": {
+    "description": "Une scène cinématographique d'un titan de pierre colossal qui surgit d'un océan en tempête, le corps parcouru de fissures lumineuses."
+  },
+  "ext-ym-20165": {
+    "description": "Une affiche de mode de luxe aux lettres surdimensionnées en couches et à l'esthétique monochrome, sur fond de forêt brumeuse et de drapeaux de prière."
+  },
+  "ext-ym-16998": {
+    "description": "Un coloriage en traits noirs d'une fleur stylisée : changez le type de fleur et le style du motif entre accolades."
+  },
+  "ext-ym-5964": {
+    "description": "Une silhouette monumentale très graphique d'un culturiste célèbre remplie d'une montagne et d'une forêt en volume : à réserver aux droits sur l'image."
+  },
+  "ext-ym-11538": {
+    "description": "Une macro d'un esprit de forêt mignon en faon de myrtille, style kawaii avec détails réalistes."
+  },
+  "ext-ym-31992": {
+    "description": "Un ours blanc mignon assis seul au bord de l'eau, de nuit, face à une ville moderne illuminée."
+  },
+  "ext-ym-29042": {
+    "description": "Un ninja encapuchonné et mystérieux sous des cerisiers en fleurs : changez le personnage et le décor entre accolades."
+  },
+  "ext-ym-2153": {
+    "description": "Un animal géant dans une ville : changez le lieu entre crochets (un renard près d'un lac célèbre par défaut)."
+  },
+  "ext-ym-11110": {
+    "description": "Un portrait éditorial « coquette » avec des lapins, décrit en JSON : cheveux blonds volumineux et jardin."
+  },
+  "ext-ym-7010": {
+    "description": "Une femme de dos dans une robe rouge vif sans dos au milieu d'une forêt de bouleaux enneigée."
+  },
+  "ext-ym-4270": {
+    "description": "Une photo d'une personne élégante en pantalon cargo devant un paysage éthéré : changez l'accessoire entre accolades."
+  },
+  "ext-ym-10643": {
+    "description": "Une collection d'animaux en origami low poly en carton plié : facettes géométriques et papier brun chaud."
+  },
+  "ext-ym-11134": {
+    "description": "Une œuvre en papier découpé d'un personnage de dessin animé sur un bureau en bois : changez le personnage entre crochets."
+  },
+  "ext-ym-6480": {
+    "description": "Un coin de cour de jardin chinois traditionnel en vue plongeante, rendu comme en argile (variante d'un autre modèle)."
+  },
+  "ext-ym-31877": {
+    "description": "Un « prompt système » qui réécrit votre texte ou votre image en un prompt optimisé pour un outil d'image : à utiliser avec une IA de texte."
+  },
+  "ext-ym-22231": {
+    "description": "Un couple en verre dans une rue européenne sous une neige douce, de nuit : changez le lieu entre accolades."
+  },
+  "ext-ym-9369": {
+    "description": "Une œuvre conceptuelle : une pyramide renversée en céramique émaillée très colorée, décrite par objet, matière et consigne."
+  },
+  "ext-ym-12526": {
+    "description": "Une photo spontanée de nuit au flash dur de smartphone, au format 9:16 : un exemple de prompt qui décrit l'appareil et l'objectif."
+  },
+  "ext-ym-3166": {
+    "description": "Un logo 3D en tissu cousu et brodé, avec fils visibles : changez le nom de marque entre accolades."
+  },
+  "ext-ym-10583": {
+    "description": "Une vidéo de broderie en douce lumière à contre-jour et couleurs pastel, des gros plans extrêmes jusqu'à la scène complète."
+  },
+  "ext-ym-22787": {
+    "description": "Une couverture de magazine urbain avec un sujet souriant : changez le titre du magazine entre accolades."
+  },
+  "ext-ym-36152": {
+    "description": "Une grenouille en feutrine mignonne assise sur un grand nénuphar dans un étang : une scène 3D tactile."
+  },
+  "ext-ym-1987": {
+    "description": "Un écusson brodé en laine d'un animal, aux couleurs douces : changez le sujet entre crochets (un akita par défaut)."
+  },
+  "ext-ym-7033": {
+    "description": "Un modèle d'illustration 3D en argile, formes arrondies et douces, matière mate : changez le sujet entre accolades."
+  },
+  "ext-ym-2428": {
+    "description": "Une grille 2×2 de grands symboles mathématiques en papier découpé pop-up sur un livre ouvert."
+  },
+  "ext-ym-6667": {
+    "description": "Une nature morte cinématographique en soirée sous la pluie : une figurine en papier nette au centre d'une rue animée."
+  },
+  "ext-ym-8951": {
+    "description": "Une étude de matière en gros plan : changez le matériau entre accolades (pierre, céramique…)."
+  },
+  "ext-ym-11761": {
+    "description": "Une image abstraite et texturée d'un œil stylisé avec un croissant de lune dans la pupille, sur fond usé."
+  },
+  "ext-ym-2434": {
+    "description": "Un personnage construit comme un plan technique en papier plié très détaillé : changez le personnage entre crochets."
+  },
+  "ext-ym-22257": {
+    "description": "Un diorama de papier découpé japonais en plusieurs couches, présenté dans un cadre en bois foncé."
+  },
+  "ext-ym-6281": {
+    "description": "Un hybride photoréaliste entre un humain en marche et un renard en feutrine : le corps est réel, l'aspect de l'animal textile."
+  },
+  "ext-ym-6537": {
+    "description": "Un objet rendu comme tricoté à la main en grosse laine, mais crédible : changez l'objet entre accolades."
+  },
+  "ext-ym-1312": {
+    "description": "Une œuvre en papier découpé d'un personnage de dessin animé sur un bureau : changez le personnage entre accolades."
+  },
+  "ext-ym-12474": {
+    "description": "Une photo de nuit de luxe en 8K, décrite en JSON : un exemple de prompt qui détaille texture de peau et appareil."
+  },
+  "ext-ym-5334": {
+    "description": "Une nature morte cinématographique d'une figurine en papier d'une personnalité sous la pluie : à réserver aux droits sur l'image."
+  },
+  "ext-ym-18983": {
+    "description": "Une fleuriste bouclée en robe de velours qui compose un bouquet dans un atelier : changez la matière de la robe entre accolades."
+  },
+  "ext-ym-12235": {
+    "description": "Deux consignes en japonais pour améliorer la texture de peau d'une image existante, une version forte et une plus douce."
+  },
+  "ext-ym-6743": {
+    "description": "Une photo spontanée de soirée en intérieur avec un verre de cocktail, au format 3:4, décrite en JSON."
+  },
+  "ext-ym-720": {
+    "description": "Un personnage en feutrine pour jouet en pied : changez le sujet et les accessoires entre accolades."
+  },
+  "ext-ym-326": {
+    "description": "Une boule de métal qui tombe dans l'eau avec éclaboussure au ralenti et physique réaliste : changez l'objet."
+  },
+  "ext-ym-10909": {
+    "description": "Un portrait en réflexion dans une vitre, composition en couches avec une femme partiellement masquée, au rendu de moyen format."
+  },
+  "ext-ym-11471": {
+    "description": "Une canette de raisin à l'étiquette minimaliste en papier déchiré : un exemple de maquette de produit."
+  },
+  "ext-ym-10969": {
+    "description": "Une scène de bord de mer au coucher du soleil, ciel chargé de nuages, avec des exigences précises de texture."
+  },
+  "ext-ym-10490": {
+    "description": "Un rendu commercial macro d'une rose rouge de velours en pleine floraison, décrit en JSON."
+  },
+  "ext-ym-6059": {
+    "description": "Un squelette de verre translucide avec lunettes noires assis à un bureau en bois : un rendu 3D stylisé."
+  },
+  "ext-ym-9794": {
+    "description": "Une sculpture 3D cartoon de trois enfants empilés sur un petit support rustique, en argile."
+  },
+  "ext-ym-31475": {
+    "description": "Un moteur de turbine futuriste en verre dépoli, boîtier en aluminium anodisé et prismes de verre en couches."
+  },
+  "ext-ym-9779": {
+    "description": "Un petit monde en argile qui montre une scène de la vie quotidienne : changez la scène et la culture entre accolades."
+  },
+  "ext-ym-192": {
+    "description": "Transforme un article scientifique en tableau blanc de professeur : schémas, flèches et légendes. Fournissez l'article."
+  },
+  "ext-ym-6022": {
+    "description": "Une série de photos d'action culinaire sur le fromage fondu et les textures coulantes, au format 3:4."
+  },
+  "ext-ym-6052": {
+    "description": "Un petit personnage prisonnier d'un vieux flacon de pharmacie en verre, en vue isométrique : changez le personnage entre crochets."
+  },
+  "ext-ym-5033": {
+    "description": "Un paysage de ville qui prend la forme d'une matière : indiquez le lieu et la matière entre crochets."
+  },
+  "ext-ym-33670": {
+    "description": "Une grille 2×2 de quatre animes célèbres en relief de papier superposé : changez le thème entre accolades."
+  },
+  "ext-ym-7372": {
+    "description": "Une fille 3D en pied dans un style de grand studio d'animation, avec un prénom tricoté : changez la couleur de fond."
+  },
+  "ext-ym-6344": {
+    "description": "Une petite scène en feutrine avec une poupée en laine aux traits simplifiés et aux boutons ronds, dans un monde technologique."
+  },
+  "ext-ym-12968": {
+    "description": "Un fragment de tapisserie brodée d'un voilier solitaire naviguant dans une mer de nébuleuses tourbillonnantes."
+  },
+  "ext-ym-18997": {
+    "description": "Une jeune femme en jean usé devant un fond de bois : changez le sujet entre accolades."
+  },
+  "ext-ym-6238": {
+    "description": "Une sculpture de papier surréaliste d'un objet qui évoque un célèbre physicien, décrite en JSON : changez l'identité de l'objet."
+  },
+  "ext-ym-20996": {
+    "description": "Une mosaïque de petites formes de bois colorées, anguleuses, qui forment un dragon chinois traditionnel."
+  },
+  "ext-ym-19788": {
+    "description": "Une traduction de scène en origami et manga en papier : indiquez la scène entre accolades."
+  },
+  "ext-ym-13569": {
+    "description": "Une publicité de produit de soin naturel à l'ambiance organique : changez le nom de la marque entre accolades."
+  },
+  "ext-ym-34132": {
+    "description": "Une campagne de nature morte de luxe avec texte d'accroche et de marque : changez les textes entre accolades."
+  },
+  "ext-ym-7843": {
+    "description": "Une photo de produit hyperréaliste en plongée avec effet « fish-eye » : une jeune femme qui lève les yeux vers l'objectif."
+  },
+  "ext-ym-12191": {
+    "description": "Une campagne de parfum ultra-luxueuse : flacon élégant sur marbre noir poli aux reflets dorés."
+  },
+  "ext-ym-34130": {
+    "description": "Une publicité de produit au style pop art avec onomatopées : changez le texte principal entre accolades."
+  },
+  "ext-ym-11679": {
+    "description": "Une photo commerciale ultra-réaliste d'un soin pour la peau d'un bleu cobalt vif : changez la couleur du produit."
+  },
+  "ext-ym-11470": {
+    "description": "Une photo de produit à grande vitesse : un gobelet de soda au citron pétillant avec éclaboussures."
+  },
+  "ext-ym-6863": {
+    "description": "Un visuel de lancement de produit numérique haut de gamme : fond sombre, un seul objet, éclairage directionnel dramatique."
+  },
+  "ext-ym-10565": {
+    "description": "Une photo cinématographique de luxe d'un savon artisanal, décrite en JSON avec nom de marque fictif."
+  },
+  "ext-ym-7557": {
+    "description": "Un produit rendu comme s'il avait poussé en mousse vivante, avec ses formes parfaitement conservées : changez le produit."
+  },
+  "ext-ym-4285": {
+    "description": "Une photo ultra-réaliste de boisson : une canette froide qui flotte à la verticale au centre du cadre."
+  },
+  "ext-ym-8359": {
+    "description": "Une photo de produit hyperréaliste où des oranges et des citrons verts néon se percutent en l'air, avec éclaboussures lumineuses."
+  },
+  "ext-ym-5112": {
+    "description": "Une grille de photos de produits très contrastées (huile d'olive, chaussures, vin…) : changez la liste entre accolades."
+  },
+  "ext-ym-6812": {
+    "description": "Un collage de visualisation d'une sonnette intelligente : changez les fonctions entre accolades."
+  },
+  "ext-ym-8321": {
+    "description": "Une photo de soin pour la peau ultra-haut de gamme : un flacon compte-gouttes en verre cylindrique rempli de liquide."
+  },
+  "ext-ym-11677": {
+    "description": "Un rendu de produit en peluche chromée au style Y2K : changez le nom du produit entre accolades."
+  },
+  "ext-ym-25975": {
+    "description": "Un flacon de soin jaune à pompe en cristal entouré de citrons tranchés : changez la couleur du flacon."
+  },
+  "ext-ym-11706": {
+    "description": "Une publicité de cosmétique premium pour un tube de dentifrice rouge brillant à la fraise, décrit en JSON."
+  },
+  "ext-ym-9443": {
+    "description": "Un visuel de parfum stylisé par l'IA, avec des pétales à l'intérieur du flacon, en 8K et décrit en JSON."
+  },
+  "ext-ym-4772": {
+    "description": "Une photo commerciale ultra-réaliste de produit de grande consommation : changez la marque et le produit entre accolades."
+  },
+  "ext-ym-9439": {
+    "description": "Une sculpture typographique 3D hyperréaliste : changez le sujet entre accolades."
+  },
+  "ext-ym-7256": {
+    "description": "Une vidéo produit dramatique d'une canette de boisson énergisante centrée sur une surface noire réfléchissante."
+  },
+  "ext-ym-12710": {
+    "description": "Une photo produit « noir techcore » décrite en JSON : changez le nom du produit entre accolades."
+  },
+  "ext-ym-11686": {
+    "description": "Une photo de dessert tropical : un bol de glace pilée au lait de coco avec éclaboussure de lait."
+  },
+  "ext-ym-7782": {
+    "description": "Une vue subjective dans un rayon de supermarché : des mains qui prennent une bouteille de soda, avec interface de réalité mixte."
+  },
+  "ext-ym-10092": {
+    "description": "Une photo commerciale ultra-réaliste d'une canette de soda pastel : changez la couleur entre accolades (pêche par défaut)."
+  },
+  "ext-ym-13121": {
+    "description": "Une photo de parfum haut de gamme ultra-réaliste d'un flacon « Forest Essence Elixir »."
+  },
+  "ext-ym-8859": {
+    "description": "Une photo de beauté commerciale en 8K d'un tube de masque pour le visage serré entre deux grands ballons."
+  },
+  "ext-ym-3782": {
+    "description": "Une photo de produit cosmique premium d'un sérum énergétique futuriste : changez le nom du produit entre accolades."
+  },
+  "ext-ym-13430": {
+    "description": "Une photo de cosmétique de luxe où un flacon de sérum rouge jaillit d'une éclaboussure d'eau : changez le produit."
+  },
+  "ext-ym-11102": {
+    "description": "Une photo de cosmétique de luxe en composition monochrome bleu-violet, avec un flacon satiné couleur pervenche."
+  },
+  "ext-ym-10848": {
+    "description": "Une photo commerciale à grande vitesse d'une bouteille de latte, décrite en JSON."
+  },
+  "ext-ym-11335": {
+    "description": "Un prompt en plusieurs étapes qui combine trois objets en une invention absurde « brevetable », puis en génère le document et le rendu."
+  },
+  "ext-ym-11358": {
+    "description": "Un objet ou un véhicule en vue éclatée de design produit : changez le sujet entre accolades."
+  },
+  "ext-ym-11172": {
+    "description": "Une photo de parfum de luxe à grande vitesse : un flacon de cristal à facettes, décrit en JSON."
+  },
+  "ext-ym-4277": {
+    "description": "Une photo ultra-réaliste de boisson : une canette froide qui flotte à la verticale (variante d'un autre modèle)."
+  },
+  "ext-ym-30694": {
+    "description": "Une photo commerciale de luxe d'une bouteille d'eau transparente : changez le produit entre accolades."
+  },
+  "ext-ym-4204": {
+    "description": "Une macro d'une canette de seltzer citron vert glacée, posée au bord d'une piscine, perlée de gouttes d'eau."
+  },
+  "ext-ym-7051": {
+    "description": "Une publicité hyperréaliste d'une canette de soda blanche : changez le nom du soda entre accolades."
+  },
+  "ext-ym-8688": {
+    "description": "Une photo produit minimaliste d'une barre glacée premium d'inspiration culturelle : changez le pays entre accolades."
+  },
+  "ext-ym-11525": {
+    "description": "Une publicité de parfum de luxe au crépuscule dans un désert mystique : flacon de cristal rempli d'une lueur."
+  },
+  "ext-ym-5983": {
+    "description": "Une présentation solarpunk de produits durables en grille, avec bioluminescence et végétation intégrée."
+  },
+  "ext-ym-9528": {
+    "description": "Un visuel de produit en verre prismatique industriel : changez le produit et la couleur de fond entre accolades."
+  },
+  "ext-ym-12726": {
+    "description": "Une macro produit ultra-réaliste en 8K d'une grande tasse de thé en verre avec des ouvriers de chantier miniatures sur fond blanc."
+  },
+  "ext-ym-4928": {
+    "description": "Une équipe de chantier miniature qui assemble un produit comme un gratte-ciel, avec grues et échafaudages : changez le produit entre crochets."
+  },
+  "ext-ym-13280": {
+    "description": "Un test de fausses images de gameplay d'un jeu très attendu, filmées sur un écran 4K : l'effet recherché est un faux « écran photographié »."
+  },
+  "ext-ym-7802": {
+    "description": "Une vue subjective de mains qui tiennent des fraises, avec une interface de réalité augmentée pour faire ses courses."
+  },
+  "ext-ym-8503": {
+    "description": "Un paysage de science-fiction cinématographique en 4K avec une immense lune pâle, et une consigne de design d'interface de fintech."
+  },
+  "ext-ym-6312": {
+    "description": "Des modèles miniatures 3D isométriques de personnages de séries occidentales, très détaillés et stylisés."
+  },
+  "ext-ym-1477": {
+    "description": "Une photo parfaitement isométrique, pas une miniature : un vrai cliché qui se trouve être isométrique."
+  },
+  "ext-ym-6468": {
+    "description": "Un diorama 3D isométrique minimaliste d'un module d'exposition : changez le type d'exposition entre accolades."
+  },
+  "ext-ym-1535": {
+    "description": "Une pièce miniature en cube isométrique, l'atelier d'un inventeur de film, avec tout contenu dans le cube."
+  },
+  "ext-ym-9274": {
+    "description": "Un vaste environnement de jeu en monde ouvert, fantasy et cinématographique : indiquez le thème entre accolades."
+  },
+  "ext-ym-4501": {
+    "description": "Un diorama 3D isométrique d'une chambre douillette solarpunk très détaillée, décrit en JSON."
+  },
+  "ext-ym-6611": {
+    "description": "Un bureau à domicile 3D isométrique pastel où les objets semblent légèrement soulevés."
+  },
+  "ext-ym-23135": {
+    "description": "Une héroïne mythologique aux Enfers en pixel art 8 bits : changez le style et le sujet entre accolades."
+  },
+  "ext-ym-9200": {
+    "description": "Une planche d'assets de jeu de rôle avec des monstres de niveaux différents et leurs butins, en grille."
+  },
+  "ext-ym-6750": {
+    "description": "Une maquette 3D isométrique minimaliste d'un showroom automobile : changez le lieu entre accolades."
+  },
+  "ext-ym-7682": {
+    "description": "Un sujet en perspective isométrique minimale : formes 3D simples, couleurs pastel douces. Changez le sujet entre accolades."
+  },
+  "ext-ym-3937": {
+    "description": "Une carte ancienne géante qui jaillit d'un rouleau en 3D isométrique : changez le sujet entre accolades."
+  },
+  "ext-ym-6176": {
+    "description": "Un diorama 3D isométrique minimaliste d'un kiosque de commerce urbain : changez le type de commerce entre crochets."
+  },
+  "ext-ym-11700": {
+    "description": "Une coupe architecturale isométrique 2,5D d'une communauté d'animaux très animée : changez les animaux entre accolades."
+  },
+  "ext-ym-3058": {
+    "description": "Un générateur de dioramas à fort concept pour jeux ou livres : le prompt vous place dans le rôle d'un artiste visuel."
+  },
+  "ext-ym-6636": {
+    "description": "Un objet du quotidien transformé en architecture dans un diorama 3D isométrique : changez l'objet entre accolades."
+  },
+  "ext-ym-6143": {
+    "description": "Un diorama 3D isométrique d'un arrêt de transport urbain : changez le type de transport entre accolades."
+  },
+  "ext-ym-4143": {
+    "description": "Un plan moyen d'un personnage 3D qui tend la main vers une interface flottante : changez le nom du personnage entre accolades."
+  },
+  "ext-ym-34306": {
+    "description": "Un visuel de campagne de jeu de rôle chibi : indiquez le titre du jeu et ses points forts entre accolades."
+  },
+  "ext-ym-29347": {
+    "description": "Une scène de pixel art sur ce que feraient des ingénieurs logiciels dans le futur : changez le métier et l'année entre accolades."
+  },
+  "ext-ym-16973": {
+    "description": "Un rendu 3D très détaillé de deux personnages de jeu vidéo face à face : changez les personnages entre accolades."
+  },
+  "ext-ym-7828": {
+    "description": "Un visuel d'interface de plateforme logicielle : hiérarchie nette, contrastes équilibrés, ombres douces."
+  },
+  "ext-ym-7852": {
+    "description": "Une carte isométrique photoréaliste en diorama d'une ville : changez la ville entre accolades."
+  },
+  "ext-ym-1192": {
+    "description": "Une photo parfaitement isométrique, pas une miniature (variante d'un autre modèle)."
+  },
+  "ext-ym-1389": {
+    "description": "Une illustration plate d'un produit géant transformé en architecture isométrique : changez le produit entre accolades."
+  },
+  "ext-ym-3360": {
+    "description": "Une scène miniature isométrique cartoon à 45° sur le thème des fêtes, avec l'architecture classique d'un lieu."
+  },
+  "ext-ym-2746": {
+    "description": "Une affiche publicitaire où un dieu du tonnerre tient une bouteille de soda dans une main lumineuse, décrite en JSON."
+  },
+  "ext-ym-8303": {
+    "description": "Un portrait de jeu d'arcade lumineux : une jeune femme blonde souriante sur une moto de course colorée, décrit en JSON."
+  },
+  "ext-ym-1078": {
+    "description": "Un diorama 3D isométrique à 45° sur le thème de la glace et du feu : changez le concept entre accolades."
+  },
+  "ext-ym-8042": {
+    "description": "Un portrait de mode de vie photoréaliste d'une jeune femme souriante sur une moto d'arcade rose, décrit en JSON."
+  },
+  "ext-ym-9639": {
+    "description": "Une identité de marque en plusieurs étapes : un logo à dégradé, à compléter avec vos couleurs entre accolades."
+  },
+  "ext-ym-5506": {
+    "description": "Un collage de portraits en quatre cases avec identité verrouillée : le visage reste le même d'une case à l'autre."
+  },
+  "ext-ym-2631": {
+    "description": "Un logo fait d'un liquide brillant et épais : changez le nom de marque entre accolades."
+  },
+  "ext-ym-6037": {
+    "description": "Un portrait éditorial pour une image de marque personnelle : un visuel ultra-photoréaliste décrit en JSON."
+  },
+  "ext-ym-10600": {
+    "description": "Une composition d'écran vertical partagé pour une marque : à gauche un homme en pied, à droite l'image associée."
+  },
+  "ext-ym-12762": {
+    "description": "Une grille cinématographique 2×2 d'un jeune homme dans quatre lieux et ambiances avec la même identité."
+  },
+  "ext-ym-7807": {
+    "description": "Un portrait de mode éditorial hyperréaliste avec verrouillage d'identité : le visage doit rester fidèle à la référence."
+  },
+  "ext-ym-12167": {
+    "description": "Une publicité de marque 3D ultra-premium et cinématographique pour un outil d'image : composition grandiose."
+  },
+  "ext-ym-20440": {
+    "description": "Une affiche de campagne de marque futuriste hyperréaliste avec une jeune créatrice numérique au centre."
+  },
+  "ext-ym-5215": {
+    "description": "Une marque de saké japonais fictive : le prompt invite à faire de votre personnage préféré une étiquette originale."
+  },
+  "ext-ym-27857": {
+    "description": "Un logo d'identité nationale avec slogan et décor : changez le pays et le slogan entre accolades."
+  },
+  "ext-ym-13329": {
+    "description": "Un logo fantasy à la craie sur tableau sombre, avec texte stylisé et motifs de dragons mécaniques."
+  },
+  "ext-ym-3028": {
+    "description": "Un logo qui combine glace gelée et liquide qui coule : changez le nom de marque entre accolades."
+  },
+  "ext-ym-5978": {
+    "description": "Un logo gonflable géant qui flotte sur l'océan près d'une sirène : changez le logo entre accolades."
+  },
+  "ext-ym-2589": {
+    "description": "Une composition de courses automobiles sur trois voitures avec le style d'une marque de film argentique, en plan moyen."
+  },
+  "ext-ym-5312": {
+    "description": "Une maquette d'identité personnelle moderne et épurée pour une créatrice ou une entrepreneuse."
+  },
+  "ext-ym-34131": {
+    "description": "Un portrait éditorial de lookbook de mode : changez le concept et le lieu de prise de vue entre accolades."
+  },
+  "ext-ym-11025": {
+    "description": "Une grille de portraits en neuf humeurs avec identité verrouillée : le visage reste identique sur toutes les cases."
+  },
+  "ext-ym-4768": {
+    "description": "Un collage d'identité de marque de luxe noir et or d'inspiration coréenne, avec panneaux en orbite autour d'un héros central."
+  },
+  "ext-ym-7357": {
+    "description": "Une maquette d'identité de marque de niveau « phare » couvrant plusieurs catégories de supports."
+  },
+  "ext-ym-9360": {
+    "description": "Un logo officiel de marque en 3D ultra-réaliste recouvert de fourrure : changez la marque entre accolades."
+  },
+  "ext-ym-7539": {
+    "description": "Un emballage de figurine à l'échelle 1/7 d'une héroïne en armure mécanique : matériaux, prix et date de sortie fictifs."
+  },
+  "ext-ym-2803": {
+    "description": "Un portrait de studio minimaliste d'une jeune femme assise sur un tabouret en bois, en pull beige, à double identité conceptuelle."
+  },
+  "ext-ym-6136": {
+    "description": "Un portrait cinématographique de salle de sport en 8K avec contrainte d'identité : le visage doit rester le même."
+  },
+  "ext-ym-2593": {
+    "description": "Une photo d'une planche 2×3 qui montre toute l'identité de marque d'un concept : changez le concept entre accolades."
+  },
+  "ext-ym-6829": {
+    "description": "Une déesse renarde blanche de style japonais pour une marque : kimono et fond violets, ton adapté au siège au Japon."
+  },
+  "ext-ym-11377": {
+    "description": "Une publicité de mode surréaliste : une femme souriante assise sur un énorme logo de marque de sport flottant."
+  },
+  "ext-ym-17481": {
+    "description": "Une planche d'identité esthétique « clean girl » : portrait en pied central entouré d'éléments de style."
+  },
+  "ext-ym-9332": {
+    "description": "Un logo officiel de marque en 3D ultra-réaliste en peluche : changez la marque entre accolades."
+  },
+  "ext-ym-30331": {
+    "description": "Un personnage transformé en jouet de collection stylisé : textures de plastique brillantes et proportions exagérées."
+  },
+  "ext-ym-7375": {
+    "description": "Une scène d'hiver dynamique : un jeune couple se lance de la neige dans une forêt enneigée."
+  },
+  "ext-ym-12812": {
+    "description": "Une vue subjective d'un rayon de supermarché avec interface d'achat en réalité augmentée sur un dessert."
+  },
+  "ext-ym-4032": {
+    "description": "Une photo de produit de touches de clavier mécaniques, décrite par intention, logique de génération et exploration de matière."
+  },
+  "ext-ym-10281": {
+    "description": "Une photo ultra-réaliste d'un gâteau au chocolat dont les ingrédients se séparent en rotation lente : un prompt de mouvement."
+  },
+  "ext-ym-3699": {
+    "description": "Un titre en reflet sur une vitre : choisissez le style de photographie entre accolades (noir et blanc granuleux, rue spontanée…)."
+  },
+  "ext-ym-11976": {
+    "description": "Une publicité de parfum de nature morte baroque surréaliste : un flacon turquoise à l'étiquette botanique ornée."
+  },
+  "ext-ym-3962": {
+    "description": "Une macro d'« horreur alimentaire » : un jouet de piscine gonflable en forme de dinosaure dans une scène macro."
+  },
+  "ext-ym-11858": {
+    "description": "Une photo de soin pour la peau ultra-réaliste : un pot cosmétique en verre étiqueté (doublon d'une autre fiche)."
+  },
+  "ext-ym-4087": {
+    "description": "Une macro hyperréaliste vue de dessus d'une bulle de message gris foncé qui fait office de pont."
+  },
+  "ext-ym-6851": {
+    "description": "Une photo culinaire surréaliste en lévitation d'une soupe de betterave traditionnelle dans un bol en céramique."
+  },
+  "ext-ym-8071": {
+    "description": "Une composition cinématographique coupée en deux verticalement : plan technique à gauche, personnage réel à droite."
+  },
+  "ext-ym-3660": {
+    "description": "Une photo de jouet d'artisan haut de gamme : une lanterne sphérique de 15 cm. Changez le nom du jouet entre accolades."
+  },
+  "ext-ym-11932": {
+    "description": "Une photo de mode de vie douillette d'une jeune femme blonde au chignon et aux lunettes rondes, décrite en JSON."
+  },
+  "ext-ym-8804": {
+    "description": "Une vidéo surréaliste d'une mégastructure de macarons colossale en construction, ultra-réaliste et cinématographique."
+  },
+  "ext-ym-12803": {
+    "description": "Une photo ultra-réaliste de boisson en studio haut de gamme, sur fond dégradé continu."
+  },
+  "ext-ym-26311": {
+    "description": "Une photo de mode de vie d'été pour hommes : un sujet confiant en pied au centre. Changez le sujet et la tenue entre accolades."
+  },
+  "ext-ym-4469": {
+    "description": "Un produit suspendu devant une forme découpée (cercle, triangle…) : un effet « pop » à personnaliser."
+  },
+  "ext-ym-8909": {
+    "description": "Une photo de bijou : un collier en or à plusieurs rangs porté sur le cou, plan serré décrit en JSON."
+  },
+  "ext-ym-3836": {
+    "description": "Un homme à la barbe soignée assis sur une moto d'expédition dans l'Himalaya : changez le modèle entre accolades."
+  },
+  "ext-ym-13182": {
+    "description": "Une macro de produit de joaillerie portée par un modèle, qui met en valeur la profondeur tactile du bijou."
+  },
+  "ext-ym-741": {
+    "description": "Un atlas ouvert dont une ville surgit en miniature pop-up : changez la ville entre accolades (Tokyo par défaut)."
+  },
+  "ext-ym-10144": {
+    "description": "Une photo culinaire ultra-réaliste à grande vitesse d'un en-cas frit et croustillant qui éclate en l'air."
+  },
+  "ext-ym-11936": {
+    "description": "Trois photos de produit en un prompt, dont une bouteille de lait dans une scène de petit-déjeuner."
+  },
+  "ext-ym-12546": {
+    "description": "Une photo commerciale ultra-réaliste de parfum : changez le nom du parfum entre accolades."
+  },
+  "ext-ym-12755": {
+    "description": "Une photo commerciale haut de gamme d'un pot de yaourt : changez le produit entre accolades."
+  },
+  "ext-ym-8819": {
+    "description": "Une photo produit de soin minimaliste : un pot cosmétique blanc ouvert, en macro dans l'eau."
+  },
+  "ext-ym-20427": {
+    "description": "Une photo éditoriale de mode masculine haut de gamme : un modèle de face au visage sérieux, barbe de cinq jours."
+  },
+  "ext-ym-8447": {
+    "description": "Une photo spontanée de six jeunes personnes sur une plage ensoleillée, sans faire référence à des célébrités : à adapter avec un groupe fictif."
+  },
+  "ext-ym-9266": {
+    "description": "Un portrait éditorial de couple en mouvement flou, ludique et cinématographique, décrit en JSON."
+  },
+  "ext-ym-4337": {
+    "description": "Une photo de mode de vie parisienne ultra-photoréaliste d'une jeune femme, décrite en JSON."
+  },
+  "ext-ym-11742": {
+    "description": "Une photo cinématographique 8K d'un flacon de parfum ovale noir brillant à bouchon doré."
+  },
+  "ext-ym-18500": {
+    "description": "Une photo de face d'un tube cosmétique blanc légèrement incliné : changez le produit et le décor entre accolades."
+  },
+  "ext-ym-860": {
+    "description": "Une photo de comparaison « déconstruite » d'un casque de réalité mixte, avec mise en page en deux parties."
+  },
+  "ext-ym-21001": {
+    "description": "Une image éditoriale ultra-réaliste en 8K d'une jeune femme qui marche pieds nus au bord de l'eau, format 4:5."
+  },
+  "ext-ym-12652": {
+    "description": "Une photo commerciale de soin éco-luxe : un pot de crème-gel hydratante sur des matériaux naturels."
+  },
+  "ext-ym-5997": {
+    "description": "Une scène de romance dans la neige d'Istanbul, photoréaliste, cinématographique et décrite en JSON."
+  },
+  "ext-ym-8646": {
+    "description": "Un gros plan cinématographique vu de dessus d'un omelette japonaise en forme de rose dans une poêle en fonte noire."
+  },
+  "ext-ym-10029": {
+    "description": "Une photo d'art textile avec de la calligraphie arabe, retouchée par l'IA et très nette, décrite en JSON."
+  },
+  "ext-ym-7383": {
+    "description": "Une photo culinaire à hauteur d'yeux de deux gaufres belges dorées avec framboises et myrtilles sur une assiette blanche."
+  },
+  "ext-ym-6197": {
+    "description": "Une macro ultra-réaliste de minuscules ouvriers qui réparent ensemble une montre de poche ancienne."
+  },
+  "ext-ym-4190": {
+    "description": "Une photo de rue cinématographique et sombre : une jeune femme seule au milieu d'une foule dense, plan moyen, décrite en JSON."
+  },
+  "ext-ym-22815": {
+    "description": "Une photo éditoriale sportive d'un footballeur professionnel assis sur un fauteuil en diamant : indiquez sa description entre accolades."
+  },
+  "ext-ym-2697": {
+    "description": "Une scène d'art culinaire où un grand monument est construit en aliments : changez la matière du mur entre accolades."
+  },
+  "ext-ym-9219": {
+    "description": "Une photo spontanée style paparazzi d'une jeune fille blonde qui rit aux éclats, ultra-réaliste."
+  },
+  "ext-ym-6282": {
+    "description": "Une scène de réalisme urbain cinématographique dans un ascenseur : ambiance tendue, froide et silencieuse, décrite en JSON."
+  },
+  "ext-ym-6395": {
+    "description": "Une photo de voyage « luxe discret » sur la côte amalfitaine : une jeune femme élégante aux cheveux ondulés, décrite en JSON."
+  },
+  "ext-ym-12978": {
+    "description": "Une macro d'une figurine chibi de la taille de la paume, posée dans une main ouverte."
+  },
+  "ext-ym-1428": {
+    "description": "Une photo éditoriale ultra-réaliste d'un café animé au petit déjeuner, soleil qui entre à flots, en techniques mixtes."
+  },
+  "ext-ym-9623": {
+    "description": "Une affiche éditoriale de mode cinématographique et promotionnelle d'une personnalité qui rit : changez le sujet entre accolades."
+  },
+  "ext-ym-7367": {
+    "description": "Une photo en raccourci extrême d'un pied de jeune femme à la peau hâlée et aux taches de rousseur, décrite en JSON."
   }
 }
