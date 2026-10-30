@@ -45,6 +45,8 @@ export interface PromptVariant {
   language?: PromptLanguage;
   /** « variant » : autre formulation ; « brick » : brique recomposable. */
   role: 'variant' | 'brick';
+  /** Image associée à cette variante (ex. résultat de l'ancienne version du prompt). */
+  image?: PromptImage;
 }
 
 export interface PromptEntry {

@@ -15,7 +15,7 @@ import { PATHS } from './lib/paths.mts';
 import { IMAGE_MANIFEST, imagePaths, readManifest, type ImageManifest } from './lib/images.mts';
 import { safeFileStem, sha1 } from './lib/text.mts';
 import { imageLookupKey, loadBatches, refEntries, sourceImageIndex } from './lib/sources.mts';
-import { buildRefIndex, parseImageStem } from './lib/refs.mts';
+import { buildRefIndex, LEGACY_SUFFIX, parseImageStem } from './lib/refs.mts';
 
 export const THUMB = { width: 480, quality: 72 };
 export const LARGE = { width: 1200, quality: 82 };
@@ -58,7 +58,8 @@ async function main() {
   for (const c of candidates) {
     const stem = path.basename(c.file, path.extname(c.file));
     // 1. Nom exact d'une image de la source (ym-5489-thumb -> ym-5489) : correspondance fournie par la source.
-    const known = sourceImages.get(imageLookupKey(stem));
+    const isLegacy = LEGACY_SUFFIX.test(stem);
+    const known = isLegacy ? undefined : sourceImages.get(imageLookupKey(stem));
     if (known) {
       matchedBySource++;
       const prevKnown = sources.get(known.id);
@@ -83,7 +84,9 @@ async function main() {
       unresolved.push({ file: rel(c.file, PATHS.root), error: r.error });
       continue;
     }
-    const prev = sources.get(r.id);
+    // Image « ancienne version » : fichiers optimisés à part (<id>--legacy), jamais en concurrence avec l'image principale.
+    const key = parsed.legacy ? `${r.id}--legacy` : r.id;
+    const prev = sources.get(key);
     const next: SourceFile = { id: r.id, file: c.file, origin: c.origin, rank: parsed.rank, ...(tool ? { tool } : {}) };
     if (prev) {
       multiple.push(r.id);
@@ -91,7 +94,7 @@ async function main() {
       const better = c.origin !== prev.origin ? c.origin === 'manual' : next.rank < prev.rank;
       if (!better) continue;
     }
-    sources.set(r.id, next);
+    sources.set(key, next);
   }
   if (multiple.length) warnings.push(`${new Set(multiple).size} fiche(s) ont plusieurs images : une seule est utilisée (image n° 1, puis les « archive »).`);
 

@@ -58,6 +58,13 @@
   "ENT-VNHZB48D": {
     "width": 1200,
     "height": 800,
+    "sourceHash": "8697c10f6e8f5f4a3320f2e66bf7982f6e047f50",
+    "thumbBytes": 14024,
+    "largeBytes": 81418
+  },
+  "ENT-VNHZB48D--legacy": {
+    "width": 1200,
+    "height": 800,
     "sourceHash": "81d250d2ae3a8cfe9253076d26f3cda7832f89ec",
     "thumbBytes": 13866,
     "largeBytes": 65784,

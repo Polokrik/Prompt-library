@@ -74,3 +74,12 @@ describe('rattachement de l’image', () => {
     expect(attachImage(e, undefined)).toEqual({ entry: e, pending: false });
   });
 });
+
+describe('images « ancienne version »', () => {
+  it('reconnaît le suffixe -legacy et lit le reste du nom normalement', async () => {
+    const { parseImageStem } = await import('../scripts/lib/refs.mts');
+    expect(parseImageStem('image2.5_ENT-VNHZB48D-legacy')).toMatchObject({ legacy: true, altRef: 'ENT-VNHZB48D', altTool: 'image2.5' });
+    expect(parseImageStem('ENT-VNHZB48D__Midjourney-legacy')).toMatchObject({ legacy: true, ref: 'ENT-VNHZB48D', tool: 'Midjourney' });
+    expect(parseImageStem('ENT-VNHZB48D').legacy).toBeUndefined();
+  });
+});
